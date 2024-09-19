@@ -1,0 +1,208 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply bg-secondary-100;
+		@apply container;
+		@apply flex flex-col-reverse md:flex-row lg:flex-row;
+		@apply mx-auto p-4 font-body;
+	}
+	h1 {
+		@apply text-5xl font-bold text-primary-800 font-display mt-4;
+	}
+
+	h2 {
+		@apply text-3xl font-bold text-primary-700 font-display mt-2;
+	}
+
+	h3 {
+		@apply text-2xl font-bold text-primary-800 font-display mt-2;
+	}
+
+	h4 {
+		@apply text-lg font-bold text-primary-800 font-display;
+	}
+
+	h5 {
+		@apply text-base font-bold text-primary-800 font-display;
+	}
+
+	h6 {
+		@apply text-sm font-bold text-primary-800 font-display;
+	}
+
+	p {
+		@apply text-base text-secondary-900 font-body;
+	}
+
+	a {
+		@apply text-primary-700;
+	}
+
+	a:hover {
+		@apply text-primary-800 underline;
+	}
+
+	hr {
+		@apply border-t border-secondary-700;
+	}
+
+	table {
+		@apply w-full border-collapse rounded-xl;
+	}
+
+	th {
+		@apply text-left border border-secondary-700 border-opacity-50 p-2;
+	}
+
+	td {
+		@apply border border-secondary-700 border-opacity-50 p-2;
+	}
+	ul {
+		@apply list-disc pl-4;
+	}
+}
+
+/** HEADERS **/
+@layer components {
+	#header-section {
+		@apply rounded-lg bg-secondary-100 pt-8 sticky top-4 h-full mr-4;
+		@apply flex-auto lg:basis-1/6;
+	}
+
+	#header-section h2 {
+		@apply mb-2 ml-4;
+	}
+
+	#header-section button {
+		@apply text-primary-900 font-bold 
+		w-full py-1 px-4 rounded-lg 
+		flex justify-between items-center text-left text-wrap capitalize;
+	}
+
+	#header-section button:hover {
+		@apply hover:bg-secondary-900 hover:bg-opacity-15;
+	}
+
+	#header-section ul {
+		@apply hidden bg-secondary-100 rounded-lg px-4 list-none capitalize;
+	}
+
+	#header-section ul.show {
+		@apply block;
+	}
+
+	.crop-category {
+		@apply mb-2;
+	}
+}
+
+/** MAIN **/
+@layer components {
+	#main-section {
+		@apply md:basis-2/3 py-4 px-6 rounded-lg;
+	}
+	#main-section hr {
+		@apply mb-4 mt-2 opacity-50;
+	}
+
+	#main-section p {
+		@apply text-pretty;
+	}
+}
+
+/** GENERAL INFORMATION **/
+@layer components {
+	#general-information-section {
+		@apply md:basis-1/3 lg:basis-2/6 lg:col-end-13 bg-secondary-100 rounded-lg pb-4;
+	}
+
+	#general-information-section img {
+		@apply rounded-lg w-full aspect-video object-cover rounded-b-none;
+	}
+
+	#general-information-section h2 {
+		@apply text-xl font-bold;
+	}
+
+	.info-container {
+		@apply px-6 py-4 grid grid-cols-1 gap-6;
+	}
+	#general-info {
+		@apply grid grid-cols-1 gap-1;
+	}
+
+	/** DIFFICULTY RATING **/
+	.difficulty-container {
+		@apply grid grid-cols-1 gap-2 mt-4;
+	}
+
+	.difficulty-item-container {
+		@apply bg-secondary-200 bg-opacity-50 rounded-xl p-2;
+	}
+
+	.difficulty-item-container .overview {
+		@apply collapsible p-4;
+	}
+
+	.difficulty-tag {
+		@apply text-xs text-secondary-800 inline-block;
+	}
+
+	.difficulty-item-container .stars {
+		@apply inline-block;
+	}
+
+	/** COMPANION PLANTS **/
+	.companion-info {
+		@apply mt-2;
+	}
+
+	.companion-definition {
+		@apply hidden absolute mt-8 px-4 py-2 bg-secondary-900 text-white rounded-lg bg-opacity-80 sm:w-full right-0 z-10;
+	}
+
+	#companion-plants {
+		@apply grid grid-cols-1 gap-1 bg-primary-200 bg-opacity-30 p-4 rounded-lg;
+	}
+
+	#companion-plants h2:before {
+		content: "🌱";
+		@apply mr-2;
+	}
+
+	#companion-plants h2 {
+		@apply text-primary-700;
+	}
+
+	#companion-plants > p {
+	}
+
+	#companion-plants ul {
+		@apply text-primary-700;
+	}
+
+	/** NON-COMPANION PLANTS **/
+	#non-companion-plants {
+		@apply grid grid-cols-1 gap-1 bg-warning-500 bg-opacity-20 p-4 rounded-lg;
+	}
+	#non-companion-plants h2 {
+		@apply text-secondary-800;
+	}
+	#non-companion-plants h2:before {
+		content: "🚫";
+		@apply mr-2;
+	}
+	#non-companion-plants ul {
+		@apply text-secondary-800;
+	}
+
+	.collapsible {
+		@apply cursor-pointer;
+	}
+	.content {
+		@apply hidden bg-secondary-100 rounded-lg p-4 transition-none duration-200 ease-in-out;
+	}
+}
