@@ -302,7 +302,7 @@ class WikiConverter {
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Document</title>
-		<link href="/public/styles/output.css" rel="stylesheet" />
+		<link href="../../styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
 		<link
@@ -438,7 +438,7 @@ class WikiConverter {
 				</div>
 			</div>
 		</article>
-		<script src="/public/scripts/index.js"></script>
+		<script src="../../scripts/index.js"></script>
 	</body>
 </html>
         `;

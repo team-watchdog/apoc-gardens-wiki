@@ -841,6 +841,10 @@ ul {
      object-fit: cover;
 }
 
+#general-information-section h1 {
+  overflow-wrap: break-word;
+}
+
 #general-information-section h2 {
   font-size: 1.25rem;
   line-height: 1.75rem;

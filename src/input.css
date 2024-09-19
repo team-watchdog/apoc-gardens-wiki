@@ -123,6 +123,10 @@
 		@apply rounded-lg w-full aspect-video object-cover rounded-b-none;
 	}
 
+	#general-information-section h1 {
+		@apply break-words;
+	}
+
 	#general-information-section h2 {
 		@apply text-xl font-bold;
 	}
