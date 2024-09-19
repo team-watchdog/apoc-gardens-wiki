@@ -44,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'  # Adjust this if your HTML files are in a specific directory
+          path: './public'  # Adjust this if your HTML files are in a specific directory
       
       - name: Deploy to GitHub Pages
         id: deployment
