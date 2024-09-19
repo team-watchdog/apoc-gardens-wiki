@@ -769,7 +769,6 @@ ul {
 }
 
 #header-section ul {
-  display: none;
   list-style-type: none;
   border-radius: 0.5rem;
   --tw-bg-opacity: 1;
@@ -779,8 +778,8 @@ ul {
   text-transform: capitalize;
 }
 
-#header-section ul.show {
-  display: block;
+#header-section ul li {
+  overflow-wrap: break-word;
 }
 
 .crop-category {
@@ -910,7 +909,7 @@ ul {
   position: absolute;
   right: 0px;
   z-index: 10;
-  margin-top: 0.5rem;
+  margin-top: 2rem;
   display: none;
   border-radius: 0.5rem;
   background-color: rgb(46 29 18 / var(--tw-bg-opacity));
@@ -1069,6 +1068,14 @@ ul {
 }
 
 /** HEADERS **/
+
+#header-section ul {
+  display: none;
+}
+
+#header-section ul.show {
+  display: block;
+}
 
 /** MAIN **/
 

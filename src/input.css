@@ -87,16 +87,24 @@
 	}
 
 	#header-section ul {
-		@apply hidden bg-secondary-100 rounded-lg px-4 list-none capitalize;
+		@apply bg-secondary-100 rounded-lg px-4 list-none capitalize;
 	}
 
-	#header-section ul.show {
-		@apply block;
+	#header-section ul li {
+		@apply break-words;
 	}
 
 	.crop-category {
 		@apply mb-2;
 	}
+}
+
+#header-section ul {
+	display: none;
+}
+
+#header-section ul.show {
+	display: block;
 }
 
 /** MAIN **/
@@ -165,7 +173,7 @@
 	}
 
 	.companion-definition {
-		@apply hidden absolute mt-2 px-4 py-2 bg-secondary-900 text-white rounded-lg bg-opacity-80 sm:w-full right-0 z-10;
+		@apply hidden absolute mt-8 px-4 py-2 bg-secondary-900 text-white rounded-lg bg-opacity-80 sm:w-full right-0 z-10;
 	}
 
 	#companion-plants {

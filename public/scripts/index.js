@@ -43,6 +43,8 @@ for (var i = 0; i < info.length; i++) {
 document.querySelectorAll("#header-section button").forEach((button) => {
 	button.addEventListener("click", () => {
 		const list = button.nextElementSibling;
+
+		console.log("List: ", list);
 		list.classList.toggle("show");
 		button.classList.toggle("active");
 
