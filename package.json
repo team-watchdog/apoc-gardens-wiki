@@ -5,9 +5,8 @@
 	"license": "MIT",
 	"scripts": {
 		"start": "node src/index.js",
-		"testing": "node src/testing.js",
 		"build": "npx tailwindcss -c ./tailwind.config.js -i src/input.css -o public/styles/output.css && tsc",
-		"dev": "tsc -w"
+		"dev": "tsc -w & npx tailwindcss -c ./tailwind.config.js -i src/input.css -o public/styles/output.css -w"
 	},
 	"dependencies": {
 		"showdown": "^2.1.0"

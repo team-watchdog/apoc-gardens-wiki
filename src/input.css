@@ -161,7 +161,7 @@
 	}
 
 	.companion-definition {
-		@apply hidden absolute mt-8 px-4 py-2 bg-secondary-900 text-white rounded-lg bg-opacity-80 sm:w-full right-0 z-10;
+		@apply hidden absolute mt-2 px-4 py-2 bg-secondary-900 text-white rounded-lg bg-opacity-80 sm:w-full right-0 z-10;
 	}
 
 	#companion-plants {

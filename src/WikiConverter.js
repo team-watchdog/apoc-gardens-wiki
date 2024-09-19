@@ -4,7 +4,46 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const showdown_1 = __importDefault(require("showdown"));
+const path_1 = __importDefault(require("path"));
+const markdownToHtmlNav_1 = __importDefault(require("./markdownToHtmlNav"));
+/**
+ * This class will convert the markdown wiki content to a html template
+ * @class WikiConverter
+ *
+ * ----- Dependencies -----
+ *     - showdown
+ *     - path
+ *     - MarkdownToHtmlNav
+ *
+ * ----- Usage -----
+ * First create an instance of the WikiConverter class with the markdown content, title, and directory.
+ * Then call the process() method to convert the markdown content to a html template. This method will return the converted html content.
+ * All the converted html content will be stored in the wikiContent property of the class.
+ * Additionally, the navHtml property will contain the generated navigation html.
+
+ * @example
+ * const wikiConverter = new WikiConverter(markdownContent, title, directory);
+ * const htmlContent = wikiConverter.process();
+
+ * ----- Note -----
+ * If you want to change the markdown directory or html directory, you can use the setMarkdownDir() and setHtmlDir() methods.
+ * These methods will allow you to change the directories before calling the process() method.
+ * On default the markdown directory is set to "public/markdown" and the html directory is set to "public/pages".
+ *
+ * @example
+ * wikiConverter.setMarkdownDir("new/markdown/dir");
+ * wikiConverter.setHtmlDir("new/html/dir");
+ *
+ * This class only works for a specific markdown format. It extracts different sections from the markdown content and converts them to html.
+ */
 class WikiConverter {
+    /** ========= PUBLIC METHODS  ========= */
+    /**
+     * Creates an instance of WikiConverter.
+     * @param unformattedWikiContent
+     * @param title
+     * @param directory
+     */
     constructor(unformattedWikiContent, title, directory) {
         this.wikiContent = {
             title: "",
@@ -28,13 +67,27 @@ class WikiConverter {
                 protectingYourPlants: "",
             },
         };
+        this.MARKDOWN_DIR = path_1.default.join(__dirname, "../public/markdown");
+        this.HTML_DIR = path_1.default.join(__dirname, "../public/pages");
         this.unformattedWikiContent = "";
+        this.navHtml = "";
         this.unformattedWikiContent = unformattedWikiContent;
         this.wikiContent.title = this.capitalizeFirstLetter(title);
         this.wikiContent.directory = directory;
     }
-    capitalizeFirstLetter(string) {
-        return string.charAt(0).toUpperCase() + string.slice(1);
+    /**
+     * This method will set the markdown directory
+     * @param markdownDir
+     */
+    setMarkdownDir(markdownDir) {
+        this.MARKDOWN_DIR = markdownDir;
+    }
+    /**
+     * This method will set the html directory
+     * @param htmlDir
+     */
+    setHtmlDir(htmlDir) {
+        this.HTML_DIR = htmlDir;
     }
     /**
      * This method will convert the json wiki content to a html template
@@ -80,8 +133,19 @@ class WikiConverter {
         this.extractAndSaveDifficultyRating(this.unformattedWikiContent);
         // Extract general information
         this.extractAndSaveGeneralInformation(this.unformattedWikiContent);
+        // Create the nav html
+        const markdownToHtmlNav = new markdownToHtmlNav_1.default(this.MARKDOWN_DIR, this.HTML_DIR, "public/pages");
+        this.navHtml = markdownToHtmlNav.generateNav();
         return this.fitToHtmlTemplate(wikiContent);
     }
+    /** ========= PRIVATE METHODS  ========= */
+    /**
+     *  This method will extract a section from the markdown content. This is used to extract the default case of sections
+     * @param markdown
+     * @param sectionName
+     * @param sectionType
+     * @returns
+     */
     extractSection(markdown, sectionName, sectionType) {
         var _a;
         const sectionStart = markdown.indexOf(`${sectionType} ${sectionName}`);
@@ -101,6 +165,11 @@ class WikiConverter {
         const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
         return sectionContent;
     }
+    /**
+     * This method will extract the general information, companion plants and non-companion plants from the markdown content and save it to the wikiContent object
+     * @param markdown
+     * @returns
+     */
     extractAndSaveGeneralInformation(markdown) {
         var _a;
         const sectionStart = markdown.indexOf("## General Information");
@@ -148,6 +217,11 @@ class WikiConverter {
         this.wikiContent.content.nonCompanionPlants =
             this.htmlToMarkdownConverter(nonCompanionPlants);
     }
+    /**
+     * This method will extract the difficulty rating from the markdown content and save it to the wikiContent object
+     * @param markdown
+     * @returns
+     */
     extractAndSaveDifficultyRating(markdown) {
         var _a;
         const sectionStart = markdown.indexOf("## Difficulty Rating");
@@ -167,6 +241,11 @@ class WikiConverter {
         this.wikiContent.content.difficultyRating = difficultyRating;
         return sectionContent;
     }
+    /**
+     * This method will convert the markdown difficulty rating to a json object
+     * @param markdown
+     * @returns
+     */
     convertMarkdownToDifficultyRating(markdown) {
         const sections = markdown.split(/(?=###)/);
         return sections.map((section) => {
@@ -184,6 +263,11 @@ class WikiConverter {
             };
         });
     }
+    /**
+     * This method will convert the markdown content to html. Uses showdown library for the conversion
+     * @param markdown
+     * @returns html
+     */
     htmlToMarkdownConverter(markdown) {
         const converter = new showdown_1.default.Converter();
         converter.setFlavor("github");
@@ -192,6 +276,11 @@ class WikiConverter {
         const html = converter.makeHtml(markdown);
         return html;
     }
+    /**
+     * This method will create a star rating based on the difficulty value
+     * @param difficulty
+     * @returns
+     */
     createStarRating(difficulty) {
         let difficultyRating = "☆☆☆☆☆";
         let difficultyValue = Math.round(difficulty / 2);
@@ -213,36 +302,23 @@ class WikiConverter {
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Document</title>
-		<link href="../output.css" rel="stylesheet" />
+		<link href="/public/styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
-		<link href="../assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
-		<link href="../assets/fontawesome/css/brands.css" rel="stylesheet" />
-		<link href="../assets/fontawesome/css/solid.css" rel="stylesheet" />
-
-		<link rel="preconnect" href="https://fonts.googleapis.com" />
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+			rel="stylesheet" />
 
 		<!-- Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
 			href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
 			rel="stylesheet" />
 	</head>
 	<body>
 		<!-- HEADER SECTION -->
-		<nav id="header-section">
-			<h2>Content</h2>
-			<div>
-				<ul>
-					<li><a href="#">Flowers</a></li>
-					<li><a href="#">Fruit</a></li>
-					<li><a href="#">Herbs & Spices</a></li>
-					<li><a href="#">Leafy Greens</a></li>
-					<li><a href="#">Roots</a></li>
-					<li><a href="#">Vegetables</a></li>
-				</ul>
-			</div>
-		</nav>
+		${this.navHtml}
 
 		<!-- MAIN SECTION -->
 		<article id="main-section">
@@ -362,10 +438,19 @@ class WikiConverter {
 				</div>
 			</div>
 		</article>
-		<script src="../output.js"></script>
+		<script src="/public/scripts/index.js"></script>
 	</body>
 </html>
         `;
+    }
+    /** ========= UTILITY METHODS  ========= */
+    /**
+     * Capitalizes first letter of a string
+     * @param string
+     * @returns
+     */
+    capitalizeFirstLetter(string) {
+        return string.charAt(0).toUpperCase() + string.slice(1);
     }
 }
 exports.default = WikiConverter;
