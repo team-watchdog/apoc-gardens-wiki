@@ -995,6 +995,10 @@ ul {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.absolute {
+  position: absolute;
+}
+
 .relative {
   position: relative;
 }
@@ -1017,6 +1021,10 @@ ul {
 
 .table {
   display: table;
+}
+
+.contents {
+  display: contents;
 }
 
 .grow {
