@@ -17,29 +17,33 @@ concurrency:
 jobs:
   # Producing the static files
   build:
-    environment:
-      name: production
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "20" # Adjust this to your project's Node.js version
+          node-version: "20"
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Build
+      - name: Build project
         run: npm run build
+
+      - name: Rename files with invalid characters
+        run: |
+          find ./public -name "*:*" | while read file; do
+            mv "$file" "$(echo $file | tr ':' '_')"
+          done
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v3
         with:
           name: build-files
-          path: ./public # Assuming your built files are in ./public directory
+          path: ./public
 
   deploy:
     environment:
