@@ -6,9 +6,11 @@
 	"scripts": {
 		"start": "node src/index.js",
 		"build": "npx tailwindcss -c ./tailwind.config.js -i src/input.css -o public/styles/output.css && tsc",
-		"dev": "tsc -w & npx tailwindcss -c ./tailwind.config.js -i src/input.css -o public/styles/output.css -w"
+		"dev": "tsc -w & npx tailwindcss -c ./tailwind.config.js -i src/input.css -o public/styles/output.css -w",
+		"serve": "npx http-server public"
 	},
 	"dependencies": {
+		"http-server": "^14.1.1",
 		"showdown": "^2.1.0"
 	},
 	"devDependencies": {
