@@ -63,7 +63,7 @@ jobs:
       - name: Upload artifact to GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: . # Path should match where your built files are extracted
+          path: .public/pages # Path should match where your built files are extracted
 
       - name: Deploy to GitHub Pages
         id: deployment
