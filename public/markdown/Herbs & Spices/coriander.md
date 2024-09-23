@@ -30,10 +30,8 @@ Cilantro and coriander come from one and the same plant, and is an aromatic herb
 | **Propagation** | Crush the seeds gently to aid germination. Sow them about 1 cm (1/4 inch) deep and cover the seeds and keep them moist. You can plant cilantro in rows for easy harvesting or you can spread the seed over a wider area and rake it in. |
 |----|----|
 | Planting method | <update>Direct sowing is preferred in Sri Lanka due to the herb's sensitivity to transplanting</update> |
-| Soil | Requires a well-drained soil with a soil pH of 6.2 to 6.8
-<update>Add compost or well-rotted cow manure to improve soil fertility</update> |
-| Water | Keep the soil well watered but make sure it is well drained
-Water deeply once or twice a week, depending on weather conditions |
+| Soil | Requires a well-drained soil with a soil pH of 6.2 to 6.8 <update>Add compost or well-rotted cow manure to improve soil fertility</update> |
+| Water | Keep the soil well watered but make sure it is well drained Water deeply once or twice a week, depending on weather conditions |
 | Light | It is heat sensitive. Needs a warm weather but not too harsh sunlight. <update>In Sri Lanka, partial shade is recommended, especially during the hottest parts of the day</update> |
 
 ### Growing conditions:
