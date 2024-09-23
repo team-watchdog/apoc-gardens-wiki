@@ -1,8 +1,8 @@
 # Amberalla
-<IMAGE />
+![Ambaralla](../../assets/images/Ambaralla.jpeg "Image - Anagoria, Wikimedia Commons")
 ## General Information
 **Generic name:** Golden Apple, June plum
-**Sri Lankan name:** Amberella
+**Sri Lankan name:** Amberel
 **Scientific name:** Spondias dulcis
 **Plant family:** Anacardiaceae
 **Edible parts:** Fruit and the young leaves

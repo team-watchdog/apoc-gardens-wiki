@@ -1,5 +1,5 @@
 # Green Beans
-<IMAGE>
+![Green-Beans.jpg](../../assets/images/Green-Beans.jpg "GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=495006")
 
 ## General Information
 **Generic name:** Green Bean, common bean, green bean, french bean, snap bean, string bean

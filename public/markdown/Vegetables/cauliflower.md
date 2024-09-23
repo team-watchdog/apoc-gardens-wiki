@@ -1,8 +1,5 @@
 # Cauliflower
-
-![Cauliflower](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cauliflower_%28Botrytis%29.jpg/1200px-Cauliflower_%28Botrytis%29.jpg)
-
-*Image: Delwar Hossain, Wikimedia Commons*
+![Cauliflower.jpeg](../../assets/images/Cauliflower.jpeg "Image: Delwar Hossain, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Cauliflower

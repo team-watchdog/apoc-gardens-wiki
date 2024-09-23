@@ -1,5 +1,5 @@
 # Dragon Fruit/Pitaya
-<IMAGE>
+![Dragon Fruit_Pitaya.jpg](../../assets/images/Dragon Fruit_Pitaya.jpg "By SMasters - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11849341")
     
 ## General Information
 **Generic name:** Dragon fruit, Pitaya, Pitahaya

@@ -1,6 +1,5 @@
 # Cainito/Star Apple
-
-![Star Apple Tree](https://upload.wikimedia.org/wikipedia/commons/a/a7/Chrysophyllum_cainito.jpg)
+![Cainito_Star-Apple.jpg](../../assets/images/Cainito_Star-Apple.jpg "By No machine-readable author provided. Hans B.~commonswiki assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=720959")
 
 ## General Information
 **Generic name:** Star Apple, Caimito (Incorrect), Purple star apple, Golden leaf tree, Milk fruit

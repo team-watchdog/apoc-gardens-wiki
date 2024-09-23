@@ -8,6 +8,7 @@ type IWikiContent = {
 	title: string;
 	directory: string;
 	content: {
+		image: string;
 		generalInformation: string;
 		difficultyRating: {
 			zone: string;
@@ -61,6 +62,7 @@ class WikiConverter {
 		title: "",
 		directory: "",
 		content: {
+			image: "",
 			generalInformation: "",
 			difficultyRating: [
 				{

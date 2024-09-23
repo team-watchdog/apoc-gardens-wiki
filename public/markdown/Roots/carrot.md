@@ -1,5 +1,5 @@
 # Carrot
-<IMAGE>
+![Carrot.jpg](../../assets/images/Carrot.jpg "By Evan-Amos - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=80678492")
 
 ## General Information
 **Generic name:** Daucus carota

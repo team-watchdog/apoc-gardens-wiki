@@ -1,5 +1,6 @@
 # Durian
-<IMAGE> 
+![Durian.jpg](../../assets/images/Durian.jpg "By Kalai - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17464403")
+
 
 ## General Information
 **Generic name:** Durio zibethinus

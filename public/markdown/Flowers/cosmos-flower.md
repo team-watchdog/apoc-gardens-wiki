@@ -1,4 +1,5 @@
 # Cosmos Flower
+![Cosmos Flower](../../assets/images/Cosmos-Flower.jpg "By Prenn - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15788590")
 
 ## General Information
 **Generic name:** Cosmos bipinnatus

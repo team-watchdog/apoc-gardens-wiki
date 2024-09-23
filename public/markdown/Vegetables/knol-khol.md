@@ -1,5 +1,5 @@
 # Knol Khol
-<IMAGE>
+![Knol-Khol.jpeg](../../assets/images/Knol-Khol.jpeg "Image - Wikimedia Commons")
 
 ## General Information
 **Generic name:** Kohlrabi, German Turnip

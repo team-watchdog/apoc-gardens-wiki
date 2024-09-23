@@ -1,8 +1,5 @@
 # Egg Plant
 
-![Eggplant](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eggplant_%28Solanum_melongena%29.jpg/600px-Eggplant_%28Solanum_melongena%29.jpg)
-
-*Image - J.M. Golding, Wikimedia Commons*
 
 ## General Information
 **Generic name:** Egg-plant, Aubergine, Brinjal

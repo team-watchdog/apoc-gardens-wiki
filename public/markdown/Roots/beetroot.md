@@ -1,5 +1,6 @@
 # Beetroot
-<IMAGE>
+![Beetroot.jpeg](../../assets/images/Beetroot.jpeg "Image - Evan Amos, Wikimedia Commons")
+
     
 ## General Information
 **Generic name:** Beetroot

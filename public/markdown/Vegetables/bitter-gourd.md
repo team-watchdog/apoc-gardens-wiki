@@ -1,5 +1,5 @@
 # Bitter Gourd
-<IMAGE>
+![Bitter-Gourd.jpg](../../assets/images/Bitter-Gourd.jpg "By Salil Kumar Mukherjee - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106528629")
 
 ## General Information
 **Generic name:** Bitter Gourd, Balsam pear

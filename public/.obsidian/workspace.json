@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "7d7d55e570925946",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b5bcbf105afe02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24983a744d47d8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown/Flowers/cosmos-flower.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a601227d97f1724c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72f669cb708452f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "021d4bd835e66d1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "581e7e758666db76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52a0707a179909ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aac3017cd32d3f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4130be45147090e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b02f91028be9d729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "markdown/Flowers/cosmos-flower.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ac3864fe331e366",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "markdown/Flowers/cosmos-flower.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2431df84d5ee5e3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83cf4abcd791882a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "markdown/Flowers/cosmos-flower.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24983a744d47d8e4",
+  "lastOpenFiles": [
+    "assets/images/Green-Beans.jpg",
+    "assets/images/Green-Bean.jpg",
+    "assets/images/Heaps_of_beans.jpg",
+    "assets/images/Eggplant.jpeg",
+    "assets/images/Solanum_melongena_24_08_2012_(1).jpeg",
+    "assets/images/Durian.jpg",
+    "assets/images/Cucumber.jpg",
+    "assets/images/ARS_cucumber.jpg",
+    "assets/images/Coriander.jpeg",
+    "assets/images/A_scene_of_Coriander_leaves.jpeg",
+    "assets/images/Carrot.jpg",
+    "markdown/Flowers/cosmos-flower.md",
+    "markdown/Flowers/cranberry-hibiscus.md",
+    "markdown/Fruit/bananas.md",
+    "markdown/Fruit/avocado.md"
+  ]
+}

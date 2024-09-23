@@ -1,5 +1,5 @@
 # Cabbage
-
+![Cabbage.jpeg](../../assets/images/Cabbage.jpeg "Image - Wikimedia Commons")
 ## General Information
 **Generic name:** Cabbage
 **Sri Lankan name:** Gova

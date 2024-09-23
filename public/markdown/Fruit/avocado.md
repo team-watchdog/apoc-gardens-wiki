@@ -1,5 +1,5 @@
 # Avocado
-<IMAGE>
+![Avocado.jpeg](../../assets/images/Avocado.jpeg "Image - Ivar Leidus, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Avocado, Alligator Pear, Butter Fruit

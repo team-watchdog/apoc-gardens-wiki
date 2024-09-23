@@ -1,9 +1,9 @@
 # Kohila
-
+![Kohila.jpg](../../assets/images/Kohila.jpg "By Eric in SF - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8351041")
 ## General Information
-**Generic name:** *Lasia spinosa*
+**Generic name:** _Lasia spinosa_
 **Sri Lankan name:** Kohila
-**Scientific name:** Lasia Spinosa
+**Scientific name:** _Lasia Spinosa_
 **Plant family:** Araceae
 **Edible parts:** Leaves, Rhizomes (rootstalk)
 **Nutrition value:** <update>High in dietary fiber and antioxidants</update>

@@ -1,4 +1,5 @@
 # Cucumber
+![Cucumber.jpg](../../assets/images/Cucumber.jpg "By Stephen Ausmus, USDA ARS - This image was released by the Agricultural Research Service, the research agency of the United States Department of Agriculture, with the ID D730-30 (next)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2140104")
 
 ## General Information
 **Generic name:** Cucumis sativus

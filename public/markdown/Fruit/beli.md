@@ -1,5 +1,5 @@
 # Beli
-<IMAGE>
+![Beli.jpg](../../assets/images/Beli.jpg "By Vijayanrajapuram - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106503450")
 
 ## General Informationd
 **Generic name:** Bael, Bili, Bhel, Bengal quince, golden apple, Japanese bitter orange,

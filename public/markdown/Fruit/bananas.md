@@ -1,5 +1,5 @@
 # Bananas
-<IMAGE>
+![Bananas.jpeg](../../assets/images/Bananas.jpeg "Image - Timothy Pilgrim, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Banana

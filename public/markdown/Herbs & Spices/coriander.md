@@ -1,4 +1,5 @@
 # Coriander
+![Coriander.jpeg](../../assets/images/Coriander.jpeg "By Thamizhpparithi Maari - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17870796")
 
 ## General Information
 **Generic name:** Coriander, Cilantro, Chinese parsley
