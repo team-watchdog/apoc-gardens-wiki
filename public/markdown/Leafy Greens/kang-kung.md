@@ -1,5 +1,5 @@
 # Kang Kung
-<IMAGE>
+![Kang-Kung.jpeg](../../assets/images/Kang-Kung.jpeg "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=253457")
     
 ## General Information
 **Generic name:** Kangkong

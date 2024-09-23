@@ -1,4 +1,5 @@
 # Mangosteen
+![Mangosteen.jpg](../../assets/images/Mangosteen.jpg "By Ivar Leidus - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115303438")
 
 ## General Information
 **Generic name:** Mangosteen, Gamboge

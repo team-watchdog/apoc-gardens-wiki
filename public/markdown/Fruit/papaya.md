@@ -1,4 +1,5 @@
 # Papaya
+![Papaya.jpeg](../../assets/images/Papaya.jpeg "By H. Zell - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9438074")
 
 ## General Information
 **Generic name:** Papaya, papaw, paw paw

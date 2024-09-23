@@ -1,4 +1,5 @@
 # Passion Fruit
+![Passion-fruit.jpeg](../../assets/images/Passion-fruit.jpeg "By Rodrigo.Argenton - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35521159")
 
 ## General Information
 **Generic name:** Passion Fruit

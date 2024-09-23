@@ -1,5 +1,5 @@
 # Malabar Spinach
-
+![Spinach.jpg](../../assets/images/Spinach.jpg "Rasbak, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons")
 ## General Information
 **Generic name:** Malabar Spinach, Ceylon Spinach, Sri Lankan Spinach, Vine Spinach, Creeping Spinach
 **Sri Lankan name:** Nivithi

@@ -1,5 +1,5 @@
 # Jasmine
-<IMAGE>
+![Jasmine.jpg](../../assets/images/Jasmine.jpg "By Jim Evans - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48516945")
     
 ## General Information
 **Generic name:** Jasmine

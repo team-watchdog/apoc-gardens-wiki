@@ -1,8 +1,5 @@
 # Luffa/Chinese Okra
-
-![](/api/attachments.redirect?id=83bea016-11aa-40aa-a622-0737e1155dac)
-
-*Image - Anna Frodesiak, Wikimedia Commons*
+![Luffa_Chinese-okra.jpeg](../../assets/images/Luffa_Chinese-okra.jpeg "Image - Anna Frodesiak, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Chinese Okra, Sponge Gourd, Angled luffa

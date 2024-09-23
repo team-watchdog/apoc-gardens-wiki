@@ -1,4 +1,5 @@
 # Mango
+![Mango.jpg](../../assets/images/Mango.jpg "By Judgefloro - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=61500223")
 
 ## General Information
 **Generic name:** Mango

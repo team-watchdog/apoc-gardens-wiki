@@ -1,4 +1,5 @@
 # Okra
+![Okra.jpeg](../../assets/images/Okra.jpeg "By Earth100 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20903977")
 
 ## General Information
 **Generic name:** Okra, Ladies Fingers, Ochro, Bamia

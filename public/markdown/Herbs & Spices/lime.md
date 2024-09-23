@@ -1,4 +1,5 @@
 # Lime
+![Lime.jpg](../../assets/images/Lime.jpg "By David Monniaux - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=296259")
 
 ## General Information
 **Generic name:** Lime

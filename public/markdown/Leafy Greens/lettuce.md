@@ -1,4 +1,5 @@
 # Lettuce
+![Lettuce.jpg](../../assets/images/Lettuce.jpg "By en:User:Geographer - enwiki, CC BY 1.0, https://commons.wikimedia.org/w/index.php?curid=2344199")
 
 ## General Information
 **Generic name:** Lettuce

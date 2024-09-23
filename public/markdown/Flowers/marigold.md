@@ -1,4 +1,5 @@
 # Marigold
+![Marigold.jpg](../../assets/images/Marigold.jpg "By Ezhuttukari - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18415653")
 
 ## General Information
 **Generic name:** Marigold
@@ -7,8 +8,6 @@
 **Plant family:** <update>Asteraceae</update>
 **Edible parts:** N/A
 **Companion plants:**
->Companion plants aid growth by attracting beneficial insects, repelling pests, and providing support. They are part of a natural pest control system, maximising space and increasing crop productivity.
-
 - Potatoes
 - Tomatoes
 - Cucumbers

@@ -1,4 +1,5 @@
 # Lavender
+![Lavender.jpg](../../assets/images/Lavender.jpg "By User:Fir0002, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=322384")
 
 ## General Information
 **Generic name:** Lavandula angustifolia

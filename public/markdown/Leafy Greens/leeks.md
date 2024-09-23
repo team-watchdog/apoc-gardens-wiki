@@ -1,4 +1,5 @@
 # Leeks
+![Leeks.jpg](../../assets/images/Leeks.jpg "By Raysonho @ Open Grid Scheduler / Grid Engine - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=41497868")
 
 ## General Information
 **Generic name:** Leeks, Leek
