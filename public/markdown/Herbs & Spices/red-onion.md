@@ -1,26 +1,33 @@
 # Red Onion
 
 ## General Information
-**Generic name:** Allium cepa var. aggregatum
+**Generic name:** Red Onion
 **Sri Lankan name:** Rata lunu, Bombai lunu
-**Scientific name:** Allium cepa var. aggregatum
-**Plant family:** Amaryllidaceae
+**Scientific name:** <update>Allium cepa var. aggregatum</update>
+**Plant family:** <update>Amaryllidaceae</update>
 **Edible parts:** The bulb
-**Nutrition value:** High in vitamins C and B6, potassium, and manganese
+**Nutrition value:** <update>High in vitamins C and B6, potassium, and manganese</update>
 **Companion plants:**
 - <update>Chili peppers</update>
 - <update>Tomatoes</update>
-- Carrots
 - <update>Okra</update>
 - <update>Brinjal</update>
-- Lettuce
 - <update>Radish</update>
+- Lemon Balm
+- Borage
+- Carrots
+- Beets
+- Silverbeet
+- Lettuce
+- Amaranth
 **Non-companion plants:**
+<update>
 - Peas
 - Beans
-
+</update>
 ## Description:
-Onions are an essential ingredient in Sri Lankan cuisine and have been grown for centuries. <update>They can be cultivated year-round in many parts of Sri Lanka, though the ideal growing season varies depending on the region. Red onions are particularly well-suited to Sri Lankan conditions and are widely grown across the country.</update>
+Onions are an essential ingredient in Sri Lankan cuisine and have been grown for centuries. It can be grown the year around in many different climatic conditions, though the right timing and the method depends largely on where we live. However, they prefer cool weather during the leaf developing stage while much hotter weather during the bulb producing stage. There are different varieties of onions.
+<update>They can be cultivated year-round in many parts of Sri Lanka, though the ideal growing season varies depending on the region. Red onions are particularly well-suited to Sri Lankan conditions and are widely grown across the country.</update>
 
 ## Planting requirements
 **Planting season:** <update>Maha season (October to January), Yala season (April to August)</update>
@@ -43,6 +50,8 @@ Onions are an essential ingredient in Sri Lankan cuisine and have been grown for
 | Weed control | <update>Regular weeding is crucial, especially in the initial stages of growth. Mulching with rice straw or coconut husk can help suppress weeds and retain soil moisture.</update> |
 
 ## Harvesting:
+Can be harvested within 25-34 weeks. When the tips of the leaves start turning yellow, bend over and break the necks of the onions. This starts the ripening process. Also,  loosen the onions with a fork to start them drying without damaging the skin. Ease the onions out of the ground and leave them a week or two in the sun to dry. It is important to dry the onions well.
+
 <update>In Sri Lankan conditions, onions can typically be harvested within 90-120 days after planting, depending on the variety and growing conditions. When the tops start to yellow and fall over, stop watering and allow the soil to dry out for a few days before harvesting.</update>
 
 ## Curing:
@@ -53,11 +62,13 @@ Onions are an essential ingredient in Sri Lankan cuisine and have been grown for
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Onion fly, Thrips, <update>Leaf miners</update>
+**Pest type:** Onion fly, Downy mildew, Eelworm, Neck rot, Onion smut <update>Leaf miners</update>
 
 **Symptoms:** <update>Onion fly: Wilting and yellowing of leaves, maggots in bulbs; Thrips: Silvery patches on leaves; Leaf miners: Tunnels within leaves</update>
 
 **Control method:** <update>Use neem oil sprays, install yellow sticky traps, practice crop rotation. In severe cases, use locally approved insecticides following proper guidelines.</update>
+
+Crop rotation, well drained soil with good exposure to the sun, using mulch/organic matter, apply organic measures such as sprinkling some chili powder, ginger, or pepper directly on the soil, planting companion plants that are insect repellents
 
 ### Disease Control
 **Disease type:** <update>Purple blotch, Fusarium basal rot</update>

@@ -1,18 +1,20 @@
 # Mango
 
 ## General Information
-**Generic name:** Mangifera indica
+**Generic name:** Mango
 **Sri Lankan name:** Amba (Sinhala), Māṅkāy (Tamil)
 **Scientific name:** Mangifera indica
-**Plant family:** Anacardiaceae
+**Plant family:** <update>Anacardiaceae</update>
 **Edible parts:** Fruit, young leaves
 **Nutrition value:**
+<update>
 - Energy: 150 kcal
 - Protein: 0.8 g
 - Fat: 0.4 g
 - Carbohydrate: 37.9 g
 - Dietary fiber: 2.6 g
 - Vitamin C: 47 mg (78% DV)
+</update>
 **Companion plants:**
 - Peas
 - Ginger
@@ -43,13 +45,9 @@ Mangoes are erect, branched evergreen trees that grow up to 40 m high and can be
 | Soil | Deep, rich, well drained soils provide the best production. Fill the planting hole with organic manure and top soil before 2 weeks of planting |
 | Water | Mango trees grow best when watered using a wet/dry cycle. This means irrigating until the soil is fully saturated, then waiting until the soil is relatively dry before watering again. Mangos do not tolerate constantly wet conditions, so allowing the soil to dry down will keep the mango tree healthy. Soaker hoses, micro-sprinklers, or drip irrigation is preferred to prevent excessive water runoff. |
 | Fertiliser / Mulch | <update>
-- Apply a balanced fertilizer (10-10-10) in early spring and again after harvest.
-- Use organic mulch like paddy straw or coconut husk around the base of the tree to retain moisture and suppress weeds.
-- Incorporate locally available organic matter such as cow dung or compost into the soil.
-</update> |
 
 ## Harvesting:
-Seedling trees produce after 4–6 years and increase in production up to 20 years. <update>In Sri Lanka, harvesting typically occurs from May to July. Use a fruit picker or carefully climb the tree to harvest ripe fruits.</update>
+Seedling trees produce after 4–6 years and increase in production up to 20 years.  Harvesting should be done between 10.00 am to 3.00 pm, using a fruit picker. <update>In Sri Lanka, harvesting typically occurs from May to July. Use a fruit picker or carefully climb the tree to harvest ripe fruits.</update>
 
 ## Curing:
 <update>

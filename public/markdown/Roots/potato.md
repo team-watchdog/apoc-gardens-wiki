@@ -3,15 +3,16 @@
 ## General Information
 **Generic name:** Sweet Potato
 **Sri Lankan name:** Ala, Urulai Kilangu
-**Scientific name:** *Ipomoea batatas*
-**Plant family:** Convolvulaceae
+**Scientific name:** *Solanum tuberosum*
+**Plant family:** *Solanaceae*
 **Edible parts:** Only the tubers
 **Nutritional value:**
+<update>
 - Vitamins and minerals - Vitamin A, Vitamin C, Vitamin B6, potassium, manganese
-- Rich in fibre <update>Fibre content: 3g per 100g</update>
+- Rich in fibre Fibre content: 3g per 100g</update>
 **Companion plants:**
 >Companion plants aid growth by attracting beneficial insects, repelling pests, and providing support. They are part of a natural pest control system, maximising space and increasing crop productivity.
-
+<update>
 - Horseradish
 - Beans
 - Dead nettle
@@ -21,7 +22,9 @@
 - Garlic
 - Thyme
 - Clover
+</update>
 **Non-companion plants:**
+  <update>
 - Atriplex
 - Carrot
 - Cucumber
@@ -30,16 +33,18 @@
 - Squash
 - Sunflower
 - Tomato
-
+<//update>
 ## Description:
 Potatoes are generous plants and they easily grow and produce abundant harvests. They come in a variety of types, colors and shapes.
-
+Though there are literally thousands of varieties of potatoes, only a few dozen are commercially available.
 :::warning
 Like the tomato, the potato is a nightshade in the genus Solanum, and the vegetative and fruiting parts of the potato contain the toxin solanine which is dangerous for human consumption. Normal potato tubers that have been grown and stored properly produce glycoalkaloids in amounts small enough to be negligible for human health, but, if green sections of the plant (namely sprouts and skins) are exposed to light, the tuber can accumulate a high enough concentration of glycoalkaloids to affect human health.
 :::
 
 ## Planting requirements
-**Planting season:** <update>In Sri Lanka, potatoes are typically planted from October to November in the upcountry regions, and from May to June in the mid-country regions</update>
+**Planting season:** 
+In cooler regions, in early to mid-April and in warmer regions the times range from September to February.
+<update>In Sri Lanka, potatoes are typically planted from October to November in the upcountry regions, and from May to June in the mid-country regions</update>
 
 ### Planting conditions:
 | **Propagation** | Plant seed potatoes from which eyes (buds) protrude. Only small, golf ball-sized potatoes should be planted whole. Cut large tubers into pieces and leave them for few days to be "cured" in a warm space and then plant them. Potatoes grow best in rows about 3 feet apart. With shovel, dig a trench row about 6 inches wide and 8 inches deep. Taper the bottom to about 3 inches wide. Spread and mix in aged manure, compost, and/or leaves. In each trench, place a seed potato piece cut side down every 12 to 14 inches and cover with 3 to 4 inches of soil. |
@@ -57,10 +62,11 @@ Like the tomato, the potato is a nightshade in the genus Solanum, and the vegeta
 | Pruning | Propagation: Potatoes can be started either from tubers or true botanical seeds. However, the most popular method is using tubers. Plant either the seed potatoes or the transplants grown from true seed at 18" intervals in all directions.<update>Hilling up also helps to prevent sunburn on tubers</update> |
 
 ## Harvesting:
-Harvest your early potatoes at any time after the plants have flowered. Late potatoes can be left in until the plants have died down.<update>Potatoes are ready to harvest when the skin is tough and the tuber size is desired</update>
+Harvest your early potatoes at any time after the plants have flowered. Late potatoes can be left in until the plants have died down.
+Dig potatoes out carefully with a fork, making sure you don’t spear any. <update>Potatoes are ready to harvest when the skin is tough and the tuber size is desired</update>
 
 ## Curing:
-Store potatoes in a cool, dark place with good ventilation to prevent sprouting and maintain quality.<update>Cure potatoes at 50-60°F (10-15°C) for about two weeks after harvest</update>
+<update>Store potatoes in a cool, dark place with good ventilation to prevent sprouting and maintain quality.Cure potatoes at 50-60°F (10-15°C) for about two weeks after harvest</update>
 
 ## Storage
 Potatoes should be stored in a cool, dry place with temperatures between 35-40°F (1.7-4.4°C) and humidity levels around 90%. They can be stored for up to 6 months under these conditions.<update>Ideal storage temperature range: 38 - 42°F (3.3 - 5.6°C)</update>
@@ -77,10 +83,13 @@ Potatoes should be stored in a cool, dry place with temperatures between 35-40°
 - Aphids: Distorted leaves, sticky honeydew on leaves.<update>Aphids can also transmit viruses</update>
 
 **Control method:**
+Insects may be controlled by spraying or dusting a recommended insecticide as required. Regular applications of a suitable fungicide help control early and late blight of potatoes. Potato dusts and sprays for controlling pests are available from most home and garden centres. 
+<update>
 - Colorado potato beetles: Handpick and destroy adult beetles and larvae. Use insecticides as a last resort.<update>Neem oil and spinosad are effective against beetle larvae</update>
 - Potato Leafhoppers: Use reflective mulches to deter leafhoppers. Apply insecticides if infestation is severe.<update>Insecticides containing imidacloprid can be used for control</update>
 - Leafhoppers: Use reflective mulches to deter leafhoppers. Apply insecticides if infestation is severe.
 - Aphids: Spray plants with a strong jet of water to dislodge aphids. Use insecticidal soap or neem oil as a last resort.<update>Soap sprays can also be used for control</update>
+</update>
 
 ### Disease Control
 **Disease type:** Early Blight, Late Blight
@@ -89,9 +98,13 @@ Potatoes should be stored in a cool, dry place with temperatures between 35-40°
 - Early Blight: Brown spots on leaves, leaf drop, cankers on stems.<update>Early blight is caused by the fungus Alternaria solani</update>
 - Late Blight: Dark green to black spots on leaves, white mold on infected tissue, defoliation.<update>Late blight is caused by the oomycete Phytophthora infestans</update>
 
+<update>
 **Management:**
 - Early Blight: Remove infected plants and debris. Apply fungicides if necessary.<update>Copper-based fungicides can be used for control</update>
-- Late Blight: Remove infected plants and debris. Apply fungicides regularly during wet periods.<update>Fungicides containing chlorothalonil or mancozeb are commonly used</update> Use resistant varieties if available.<update>Varieties like 'Kennebec' and 'Yukon Gold' have some resistance to late blight</update>
+- Late Blight: Remove infected plants and debris. Apply fungicides regularly during wet periods.<update>Fungicides containing chlorothalonil or mancozeb are commonly used</update> Use resistant varieties if available.<update>Varieties like 'Kennebec' and 'Yukon Gold' have some resistance to late blight
+  </update>
+
+**Control method:** Insects may be controlled by spraying or dusting a recommended insecticide as required. Regular applications of a suitable fungicide help control early and late blight of potatoes. Potato dusts and sprays for controlling pests are available from most home and garden centres. 
 
 ## Difficulty Rating
 

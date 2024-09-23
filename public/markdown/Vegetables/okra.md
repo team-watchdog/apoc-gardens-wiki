@@ -3,7 +3,7 @@
 ## General Information
 **Generic name:** Okra, Ladies Fingers, Ochro, Bamia
 **Sri Lankan name:** Bandakka (Sinhala)
-**Scientific name:** Abelmoschus esculentus
+**Scientific name:** Okro Abelmoschus esculentus
 **Plant family:** Malvaceae
 **Edible parts:** Tender unripe fruit/pod is eaten as a vegetable. The leaves, flowers and seeds are also edible.
 **Nutrition value:** Okra is nutritious with folate, vitamins, minerals especially calcium and iodine present in immature pods.<update>Okra is high in vitamin C, vitamin K, and folate. It's also a good source of magnesium, potassium, and manganese.</update>
@@ -52,8 +52,10 @@ Not specified<update>Store okra in the refrigerator for up to a week. For longer
 **Pest type:** Powdery Mildew, Okra mosaic virus
 
 **Symptoms:**
+<update>
 - Powdery Mildew: White patches on leaves that eventually turn yellow and die.
 - Okra mosaic virus: Mosaic patterns on leaves, leaf distortion, and reduced plant growth.
+</update>
 
 **Control method:**
 - Field sanitation (remove and destroy infected plants)

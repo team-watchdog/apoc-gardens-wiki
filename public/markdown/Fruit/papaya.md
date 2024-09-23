@@ -4,9 +4,9 @@
 **Generic name:** Papaya, papaw, paw paw
 **Sri Lankan name:** Papol (Sinhala), Pappāḷi (Tamil)
 **Scientific name:** Carica papaya
-**Plant family:** Caricaceae
+**Plant family:** <update>Caricaceae</update>
 **Edible parts:** Fruit
-**Nutrition value:** High in vitamins A and C, folate, pantothenic acid, and magnesium. It also contains fiber, potassium, and small amounts of other vitamins and minerals.
+**Nutrition value:** <update>High in vitamins A and C, folate, pantothenic acid, and magnesium. It also contains fiber, potassium, and small amounts of other vitamins and minerals.</update>
 **Companion plants:**
 - <update>Coconut</update>
 - Banana
@@ -16,8 +16,10 @@
 - Flowers
 - <update>Marigolds (for pest control)</update>
 - Other nitrogen-fixing plants
-**Non-companion plants:** Cabbage family (Brassicaceae)
-
+**Non-companion plants:**
+<update>
+  Cabbage family (Brassicaceae)
+</update>
 ## Description:
 Papaya is a fruit known for its sweet and juicy taste, easy to grow both indoors and outdoors. <update>In Sri Lanka, it is widely cultivated in home gardens and commercial plantations, particularly in the low country wet and dry zones.</update>
 
@@ -47,7 +49,9 @@ Papaya is a fruit known for its sweet and juicy taste, easy to grow both indoors
 Ripe papaya turns either yellow or an amber to orange hue depending on the type. Pick them when they are ripe. <update>In Sri Lanka, papayas can be harvested year-round, with peak seasons typically occurring 6-9 months after planting.</update>
 
 ## Curing:
+<update>
 Papayas do not require curing after harvesting.
+</update>
 
 ## Storage
 Store ripe papayas at room temperature for up to 5 days, or in the refrigerator for up to a week. Unripe papayas can be stored at room temperature until ripe. <update>In Sri Lanka's warm climate, refrigeration is recommended for extending shelf life.</update>
@@ -56,7 +60,7 @@ Store ripe papayas at room temperature for up to 5 days, or in the refrigerator 
 ### Pest control
 **Pest type:** <update>Fruit flies, mealybugs, spider mites, and whiteflies</update>
 
-**Symptoms:** Leaf discoloration, wilting, and spots on fruits.
+**Symptoms:** <update>Leaf discoloration, wilting, and spots on fruits.</update>
 
 **Control method:** <update>Use neem oil or pyrethrum-based organic insecticides. Implement fruit bagging techniques to protect against fruit flies. Maintain good air circulation to prevent pest buildup.</update>
 

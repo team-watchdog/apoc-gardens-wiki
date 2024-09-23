@@ -3,8 +3,8 @@
 ## General Information
 **Generic name:** Mustard
 **Sri Lankan name:** Aba
-**Scientific name:** Brassica nigra
-**Plant family:** Brassicaceae
+**Scientific name:** <update>Brassica nigra</update>
+**Plant family:** <update>Brassicaceae</update>
 **Edible parts:** Seeds and leaves
 **Nutrition value:** Rich in minerals, vitamins, and antioxidants.<update>Mustard is high in calcium, iron, magnesium, phosphorus, potassium, zinc, vitamin C, riboflavin, niacin, folate, thiamine, and pantothenic acid.</update>
 **Companion plants:**
@@ -50,9 +50,11 @@ Mustard seeds, either whole or grounded, are used in culinary preparations. Youn
 ## Harvesting:
 Pull the plants out of the ground before the pods are fully ripened, when they are a yellow-brown color.<update>Harvest leaves when they are young and tender, about 6-8 weeks after planting. Harvest seeds once they turn yellow and the pods begin to dry.</update>
 
-## Curing:<update>After harvesting, spread the plants in a well-ventilated area to dry for about two weeks. This helps to reduce moisture content and prevents mold growth.</update>
+## Curing:
+<update>After harvesting, spread the plants in a well-ventilated area to dry for about two weeks. This helps to reduce moisture content and prevents mold growth.</update>
 
-## Storage:<update>Store dried mustard seeds in an airtight container in a cool, dark place. They can last up to 5 years if stored properly. For leaves, store them in the refrigerator for up to one week.</update>
+## Storage:
+<update>Store dried mustard seeds in an airtight container in a cool, dark place. They can last up to 5 years if stored properly. For leaves, store them in the refrigerator for up to one week.</update>
 
 ## Protecting your plants
 ### Pest control
@@ -62,7 +64,8 @@ Pull the plants out of the ground before the pods are fully ripened, when they a
 
 **Control method:** Remove weeds and maintain a clean field<update>, as weeds can harbor pests. Use insecticidal soap or neem oil to control pests if infestation is severe.</update>
 
-### Disease Control:<update>Mustard plants are susceptible to Alternaria blight, which causes dark spots on leaves that eventually turn brown. To prevent this, avoid overhead watering and maintain good air circulation around plants. If infected, remove affected leaves promptly.</update>
+### Disease Control:
+<update>Mustard plants are susceptible to Alternaria blight, which causes dark spots on leaves that eventually turn brown. To prevent this, avoid overhead watering and maintain good air circulation around plants. If infected, remove affected leaves promptly.</update>
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)

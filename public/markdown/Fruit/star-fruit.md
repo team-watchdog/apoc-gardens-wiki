@@ -4,7 +4,7 @@
 **Generic name:** Star fruit, Carambola
 **Sri Lankan name:** Kamaranga
 **Scientific name:** Averrhoa carambola
-**Plant family:** Oxalidaceae
+**Plant family:** <update>Oxalidaceae</update>
 **Edible parts:** Skin and flesh
 **Nutrition value:** Rich source of vitamin C (<update>60.7 mg per 100 grams</update>), B9, B6, B2, dietary fiber (<update>3 g per 100 grams</update>), potassium (<update>153 mg per 100 grams</update>), zinc (<update>0.4 mg per 100 grams</update>), phosphorus (<update>37 mg per 100 grams</update>), iron (<update>0.2 mg per 100 grams</update>). Low calorie fruit (<update>31 calories per 100 grams</update>).
 **Companion plants:**
@@ -16,7 +16,7 @@
 **Non-companion plants:** <update>Tomatoes</update>
 
 ## Description:
-The star fruit is a tropical plant with a unique star-shaped cross-section when cut horizontally. It is a rich source of vitamins and minerals, making it a healthy addition to one's diet. <update>In Sri Lanka, it is commonly found in home gardens and is well-suited to the country's tropical climate.</update>
+ <update>The star fruit is a tropical plant with a unique star-shaped cross-section when cut horizontally. It is a rich source of vitamins and minerals, making it a healthy addition to one's diet.In Sri Lanka, it is commonly found in home gardens and is well-suited to the country's tropical climate.</update>
 
 ## Planting requirements
 **Planting season:** <update>Year-round, but best during the dry season (May to September) in Sri Lanka</update>
@@ -41,9 +41,11 @@ The star fruit is a tropical plant with a unique star-shaped cross-section when 
 ## Harvesting:
 Harvest when the grooves in the sides of the fruit are completely yellow, and only the very upper tips of the raised sections are still green. <update>In Sri Lanka, star fruit typically ripens between July and September.</update>
 
-## Curing: <update>Fruits can be cured at room temperature for a few days to ripen further.</update>
+## Curing: 
+<update>Fruits can be cured at room temperature for a few days to ripen further.</update>
 
-## Storage: <update>Store ripe fruits in the refrigerator for up to 2 weeks. Unripe fruits can be stored at room temperature until ripe.</update>
+## Storage: 
+<update>Store ripe fruits in the refrigerator for up to 2 weeks. Unripe fruits can be stored at room temperature until ripe.</update>
 
 ## Protecting your plants
 ### Pest control
@@ -51,7 +53,8 @@ Harvest when the grooves in the sides of the fruit are completely yellow, and on
 
 **Control method:** Spray insecticides, neem oil, horticulture oil. <update>In Sri Lanka, natural pest control methods using neem oil or soap sprays are often preferred.</update>
 
-### Disease Control: <update>Prune affected branches and destroy them to prevent spread. Use fungicides if necessary. In Sri Lanka's humid climate, regular pruning to improve air circulation can help prevent fungal diseases.</update>
+### Disease Control: 
+<update>Prune affected branches and destroy them to prevent spread. Use fungicides if necessary. In Sri Lanka's humid climate, regular pruning to improve air circulation can help prevent fungal diseases.</update>
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 7/10)

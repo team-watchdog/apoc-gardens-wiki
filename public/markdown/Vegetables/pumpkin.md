@@ -4,7 +4,7 @@
 **Generic name:** Pumpkin, Winter Squash
 **Sri Lankan name:** Wattakka (Sinhala) Sorakka (Tamil)
 **Scientific name:** Cucurbita Maxima
-**Plant family:** Cucurbitaceae
+**Plant family:** <update>Cucurbitaceae</update>
 **Edible parts:** Most parts of the pumpkin are edible, including the fleshy shell, the seeds, and the leaves
 **Companion plants:**
 - Sweet corn
@@ -16,10 +16,13 @@
 - Potatoes
 
 ## Description:
-A large trailing plant with yellow, bell-shaped flowers, pumpkin is a plant that is frost tender. Most varieties will take up a lot of room. Better to grow them at the edge of a garden patch as they need lots of space to spread. <update>In Sri Lanka, pumpkins are commonly grown in home gardens and are an important crop in rural areas.</update>
+A large trailing plant with yellow, bell-shaped flowers, pumpkin is a plant that is frost tender. Most varieties will take up a lot of room. Better to grow them at the edge of a garden patch as they need lots of space to spread. There are several varieties of pumpkin. Amongst the different varieties, Butternut produces small to medium pear-shaped fruit with deep orange flesh while Buttercup are small to medium round pumpkins with dark green skin. There are a number of large pumpkins, some round and flattish and others that will produce the "Cinderella coach" type giant round fruit which are not such good eating.
+<update>In Sri Lanka, pumpkins are commonly grown in home gardens and are an important crop in rural areas.</update>
 
 ## Planting requirements
-**Planting season:** <update>Year-round in most parts of Sri Lanka, with peak planting during the Maha season (October to January)</update>
+**Planting season:** 
+Can be grow in dry and intermediate zones
+<update>Year-round in most parts of Sri Lanka, with peak planting during the Maha season (October to January)</update>
 
 ### Planting conditions:
 | **Propagation** | Seeds |

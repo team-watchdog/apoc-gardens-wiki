@@ -4,7 +4,7 @@
 **Generic name:** Namu-Namu
 **Sri Lankan name:** Namnam (Sinhala)
 **Scientific name:** Cynometra cauliflora
-**Plant family:** Fabaceae
+**Plant family:** <update>Fabaceae</update>
 **Edible parts:** Fruit
 **Other uses:** Grown as an ornamental plant
 **Companion plants:**

@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      DOMAIN_PREFIX: ${{secrets.DOMAIN_PREFIX}}
+      SERVER_PREFIX: "/apoc-wiki-viewer"
     steps:
       - name: Checkout code
         uses: actions/checkout@v4

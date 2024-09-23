@@ -1,12 +1,12 @@
 # Lemongrass
 
 ## General Information
-**Generic name:** Cymbopogon citratus
+**Generic name:** Lemongrass, Citronella
 **Sri Lankan name:** Sera
-**Scientific name:** Cymbopogon citratus
-**Plant family:** Poaceae
+**Scientific name:** <update>Cymbopogon citratus</update>
+**Plant family:** <update>Poaceae</update>
 **Edible parts:** Lower bulb of the lemongrass stem
-**Nutrition value:** High in vitamins A and C, folate, magnesium, zinc, copper, and manganese. It also contains antioxidants and has anti-inflammatory properties.
+**Nutrition value:** <update>High in vitamins A and C, folate, magnesium, zinc, copper, and manganese. It also contains antioxidants and has anti-inflammatory properties.</update>
 **Companion plants:**
 - Cilantro
 - Basil
@@ -15,7 +15,7 @@
 - Lemon verbena
 - <update>Gotukola</update>
 - <update>Turmeric</update>
-**Non-companion plants:** Tomatoes
+**Non-companion plants:** <update>Tomatoes</update>
 
 ## Description:
 Lemongrass is a sweet, lemony herb native to tropical climates. The stem is widely used in <update>Sri Lankan and other Asian cuisines</update> for fish and meat dishes. The leaves are also used to make refreshing tea. Apart from its culinary use, lemongrass makes an attractive plant that can grow up to 6 feet tall with the same diameter. Lemongrass has fragrant properties that act as a pest repellent.
@@ -43,9 +43,11 @@ Lemongrass is a sweet, lemony herb native to tropical climates. The stem is wide
 ## Harvesting:
 Once the plant is mature and produces lots of stems (at least 10), cut the stems just below the base. Make sure you leave plenty on the plant to allow it to produce new growth.
 
-## Curing: After harvesting, tie the stalks in bundles and hang them upside down in a well-ventilated area out of direct sunlight to dry.
+## Curing: 
+<update>After harvesting, tie the stalks in bundles and hang them upside down in a well-ventilated area out of direct sunlight to dry.</update>
 
-## Storage: Store dried lemongrass in an airtight container in a cool, dark place for up to 6 months. Fresh lemongrass can be stored in the refrigerator for up to two weeks.
+## Storage: 
+<update>Store dried lemongrass in an airtight container in a cool, dark place for up to 6 months. Fresh lemongrass can be stored in the refrigerator for up to two weeks.</update>
 
 ## Protecting your plants
 ### Pest control
@@ -60,7 +62,7 @@ Once the plant is mature and produces lots of stems (at least 10), cut the stems
 
 **Symptoms:** <update>Rust appears as orange or brown spots on leaves. Root rot causes wilting and yellowing of leaves.</update>
 
-**Management:** Avoid overhead watering, remove infected leaves, and provide good air circulation. <update>For root rot, improve soil drainage and avoid overwatering. Use fungicides only as a last resort.</update>
+**Management:** <update>Avoid overhead watering, remove infected leaves, and provide good air circulation. For root rot, improve soil drainage and avoid overwatering. Use fungicides only as a last resort.</update>
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)

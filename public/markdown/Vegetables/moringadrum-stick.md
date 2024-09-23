@@ -8,7 +8,7 @@
 **Generic name:** Drumstick Tree, Horseradish tree
 **Sri Lankan name:** Murunga (Sinhala), Mōriṅkā (Tamil)
 **Scientific name:** *Moringa Oleifera*
-**Plant family:** Moringaceae
+**Plant family:** <update>Moringaceae</update>
 **Edible parts:** Leaves and the pods
 **Nutrition value:** High in vitamins A, C, and minerals like calcium and iron. The leaves are highly nutritious.
 **Companion plants:**
@@ -45,15 +45,19 @@ It is a small tree up to 9-12 m high with a truck of 60 cm across. It has feathe
 ## Harvesting:
 Moringa pods can be harvested for fresh eating when they're about six inches in length. At this young, undeveloped size, the entire pod is edible as are the immature seeds within. These are often cooked like string beans. Mature pods can be harvested at full size. Leaves can be also extracted in abundance and can be cooked, made into salads and made into dried powder.
 
-## Curing: <update>Sun-drying</update>
+## Curing:
+<update>Sun-drying</update>
 
-## Storage: <update>Airtight container in a cool, dry place</update>
+## Storage: 
+<update>Airtight container in a cool, dry place</update>
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** <update>Fruit flies, aphids, leaf-eating caterpillars, mealy bugs</update>
+**Pest type:** 
+Armyworms, cutworms, caterpillars, aphids, fruit flies, termites
+<update>Fruit flies, aphids, leaf-eating caterpillars, mealy bugs</update>
 
-**Symptoms:** Damage to leaves and pods, holes in leaves, wilting of plant parts.
+**Symptoms:** <update>Damage to leaves and pods, holes in leaves, wilting of plant parts.</update>
 
 **Control method:** Regular pruning of damaged portions, spraying neem oil, and keeping the area around the tree debris free. <update>Use of sticky traps for fruit flies.</update>
 

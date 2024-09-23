@@ -3,8 +3,8 @@
 ## General Information
 **Generic name:** Marigold
 **Sri Lankan name:** Dahas Pethiya
-**Scientific name:** Tagetes spp.
-**Plant family:** Asteraceae
+**Scientific name:** <update>Tagetes spp.<update>
+**Plant family:** <update>Asteraceae</update>
 **Edible parts:** N/A
 **Companion plants:**
 >Companion plants aid growth by attracting beneficial insects, repelling pests, and providing support. They are part of a natural pest control system, maximising space and increasing crop productivity.
@@ -32,7 +32,9 @@
 Marigolds are cheerful, brilliantly coloured annuals that are long-standing favourite summer flowers for borders and pots. Colours are mainly yellow and orange with some reds and creamy white. All marigolds are excellent for attracting pollinating insects. <update>In Sri Lanka, they are commonly used in religious ceremonies and as natural pest repellents in home gardens.</update>
 
 ## Planting requirements
-**Planting season:** <update>Year-round in most parts of Sri Lanka, with best results during the dry season (May to September)</update>
+**Planting season:** 
+Spring/Summer/Autumn 
+<update>Year-round in most parts of Sri Lanka, with best results during the dry season (May to September)</update>
 
 ### Planting conditions:
 | **Propagation** | Moisten the soil, then sow seeds 1 inch apart and no more than 1 inch deep |

@@ -1,13 +1,17 @@
 # Pomegranate
 
 ## General Information
-**Generic name:** Punica granatum
+**Generic name:** Pomegranate
 **Sri Lankan name:** Delum
 **Scientific name:** Punica granatum
-**Plant family:** Lythraceae
+**Plant family:** <update>Lythraceae</update>
 **Edible parts:** Fruit
-**Nutrition value:** High in antioxidants, vitamins C and K, and minerals like potassium and iron. A 100g serving provides around 83 calories.
+**Nutrition value:** <update>High in antioxidants, vitamins C and K, and minerals like potassium and iron. A 100g serving provides around 83 calories.</update>
 **Companion plants:**
+- Lavender
+- Comfrey
+- Parsley
+- Marigold
 <update>
 - Banana
 - Papaya
@@ -42,18 +46,20 @@ Pomegranates are brownish-yellow to purplish-red berries 2‒5 in (5‒12 cm) in
 | Weed control | Mulching helps suppress weeds. Hand-pulling or hoeing can also be used |
 
 ## Harvesting:
-<update>Harvesting occurs 5-6 months after flowering in Sri Lanka, typically from October to January</update>
+<update>Harvesting occurs 5-7 months after flowering in Sri Lanka, typically from October to January</update>
 
 ## Curing:
-Pomegranates should be cured at room temperature for about a week to improve their flavor and texture.
+<update>Pomegranates should be cured at room temperature for about a week to improve their flavor and texture.</update>
 
 ## Storage
 <update>Store pomegranates in a cool, dry place for up to two weeks in Sri Lanka's climate. They can be stored in the refrigerator for up to one month.</update>
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** <update>In Sri Lanka, common pests include fruit flies, aphids, and fruit borers</update>
-**Symptoms:** Holes in leaves or fruit, sticky honeydew on leaves, premature fruit drop
+**Pest type:** 
+Not much affected by pests. Occasional pests include butterfly, thrips, scale, mealy bugs, and whiteflies
+<update>In Sri Lanka, common pests include fruit flies, aphids, and fruit borers</update>
+**Symptoms:** <update>Holes in leaves or fruit, sticky honeydew on leaves, premature fruit drop</update>
 **Control method:** <update>Use neem oil, pheromone traps for fruit flies, and maintain orchard hygiene. Implement integrated pest management practices</update>
 
 ### Disease Control

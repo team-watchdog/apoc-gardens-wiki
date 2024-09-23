@@ -2,7 +2,7 @@
 
 ## General Information
 **Generic name:** Lavandula angustifolia
-**Sri Lankan name:** Gurulu Mal
+**Sri Lankan name:** <update>Gurulu Mal</update>
 **Scientific name:** Lavandula angustifolia
 **Plant family:** Lamiaceae (Mint family)
 **Edible parts:** N/A
@@ -12,10 +12,12 @@
 - Flowering shrubs: <update>Hibiscus, bougainvillea</update>
 **Non-companion plants:**
 - <update>Basil</update>
+- Mint
 - Shade-loving plants
 
 ## Description:
-Lavender is a flowering plant in the mint family, easily identified by its sweet floral scent. <update>While not native to Sri Lanka, it has been introduced and can be cultivated in certain regions of the country. In Sri Lanka, lavender is primarily grown for its ornamental value and essential oil production.</update>
+Lavender is a flowering plant in the mint family, easily identified by its sweet floral scent. It is believed to be native to the Mediterranean, the Middle East, and India, with a history dating as far back as 2,500 years. In ancient times, lavender was used as a holy herb.
+<update>While not native to Sri Lanka, it has been introduced and can be cultivated in certain regions of the country. In Sri Lanka, lavender is primarily grown for its ornamental value and essential oil production.</update>
 
 ## Planting requirements
 **Planting season:** <update>Late October to early December (after the monsoon)</update>
@@ -41,23 +43,25 @@ Lavender is a flowering plant in the mint family, easily identified by its sweet
 Harvest flowering stems when first buds open during the first growing season. <update>In Sri Lanka, this typically occurs during the dry season (January to March).</update>
 
 ## Curing:
-Cut flowers on a dry day, tie them into small bunches, and hang upside down in a well-ventilated area to dry. <update>In Sri Lanka's humid climate, ensure proper air circulation to prevent mold.</update>
+<update>Cut flowers on a dry day, tie them into small bunches, and hang upside down in a well-ventilated area to dry. In Sri Lanka's humid climate, ensure proper air circulation to prevent mold.</update>
 
 ## Storage
-Store dried lavender in an airtight container away from light and heat for up to 1 year. <update>In Sri Lanka's humid environment, consider adding silica gel packets to prevent moisture absorption.</update>
+<update>Store dried lavender in an airtight container away from light and heat for up to 1 year. In Sri Lanka's humid environment, consider adding silica gel packets to prevent moisture absorption.</update>
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** <update>Mealybugs, Spider mites, Thrips</update>
+**Pest type:** Spittle Bugs, Whiteflies, Aphids <update>Mealybugs, Spider mites, Thrips</update>
 
 **Symptoms:** Wilting leaves, yellowing leaves, sticky honeydew on leaves
 
 **Control method:**
 - Wash plants periodically with a strong spray of water
+- Encourage a predatory lady bird beetle that feeds on all stages of whiteflies
 - <update>Use neem oil sprays, which are readily available in Sri Lanka</update>
 - Remove affected plants
 
 ### Disease Control
+<update>
 **Disease type:** Root rot, <update>Fungal diseases</update>
 
 **Symptoms:** Wilting leaves, yellowing leaves, and a foul odor from the soil around the plant
@@ -66,7 +70,7 @@ Store dried lavender in an airtight container away from light and heat for up to
 - Avoid overwatering; ensure proper drainage by adding sand or gravel to planting beds
 - <update>In Sri Lanka's humid climate, consider raised beds or container planting to improve drainage</update>
 - Remove affected plants promptly
-
+</update>
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 8/10)
 **Explanation:** Lavender prefers well-drained soil and full sun. Wet zone conditions may require additional care to prevent root rot.

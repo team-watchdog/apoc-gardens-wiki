@@ -4,9 +4,9 @@
 **Generic name:** Radish
 **Sri Lankan name:** Rabu (Sinhala)
 **Scientific name:** Raphanus sativus L.
-**Plant family:** Brassicaceae
+**Plant family:** <update>Brassicaceae</update>
 **Edible parts:** bulbs, seeds, leaf-tops
-**Nutrition value:** High in vitamin C and folate. A 100g serving provides approximately 20 calories.
+**Nutrition value:** <update>High in vitamin C and folate. A 100g serving provides approximately 20 calories.</update>
 **Companion plants:**
 - lettuces
 - tomatoes
@@ -21,7 +21,7 @@
 - oregano
 <update>- gotukola
 - mukunuwenna</update>
-**Non-companion plants:** Avoid other brassicas such as cabbage, broccoli, and cauliflower to prevent disease spread.
+**Non-companion plants:** Avoid other brassicas <update>such as cabbage, broccoli, and cauliflower to prevent disease spread.</update>
 
 ## Description:
 Two types of radish are commonly grown in Sri Lanka. Beeralu Rabu and Japanese ball. Radish belongs to the family Brassicaceae which can be grown in all agro-climatic zones of Sri Lanka. Varieties of radish are now broadly distributed around the world, but almost no archeological records are available to help determine their early history and domestication. However, scientists have tentatively located the origin of Raphanus sativus in Southeast Asia, as this is the only region where truly wild forms have been discovered.
@@ -32,7 +32,7 @@ Two types of radish are commonly grown in Sri Lanka. Beeralu Rabu and Japanese b
 *Image - Thamizhpparithi Maari, Wikimedia Commons*
 
 ## Planting requirements
-**Planting season:** Radish can be planted throughout the year in Sri Lanka. However, it grows best during the cooler months of October to February.
+**Planting season:** <update>Radish can be planted throughout the year in Sri Lanka. However, it grows best during the cooler months of October to February.</update>
 
 ### Planting conditions:
 | **Propagation** | Direct seeding. Soils should be ploughed to a depth of 30-40 cm to provide the necessary depth. Spacing should be 25-30 cm between rows; and 10 cm between plants. Sow seeds in rows on raised beds. |
@@ -55,15 +55,17 @@ Two types of radish are commonly grown in Sri Lanka. Beeralu Rabu and Japanese b
 ## Harvesting:
 Radish can be harvested 30-45 days after germination. Monitor plants to ensure that they are harvested at the correct maturity stage. Most radishes are fully mature after 50 days.
 
-## Curing: After harvesting, cure radishes by storing them in a humid environment with temperatures between 32°F - 40°F (0°C - 4°C) for about two weeks.
+## Curing: 
+ <update>After harvesting, cure radishes by storing them in a humid environment with temperatures between 32°F - 40°F (0°C - 4°C) for about two weeks. </update>
 
-## Storage: Store cured radishes in the refrigerator crisper drawer for up to four weeks. Alternatively, they can be frozen for up to six months. <update>In rural Sri Lanka, radishes are often stored in cool, dry places or in traditional clay pots filled with sand to maintain freshness.</update>
+## Storage: 
+<update>Store cured radishes in the refrigerator crisper drawer for up to four weeks. Alternatively, they can be frozen for up to six months. In rural Sri Lanka, radishes are often stored in cool, dry places or in traditional clay pots filled with sand to maintain freshness.</update>
 
 ## Protecting your plants
 ### Pest control
 **Pest type:** Leaf miner, caterpillars, cutworm
 
-**Symptoms:** Leaf miners cause serpentine mines on leaves. Caterpillars create holes in leaves and may defoliate plants. Cutworms feed on seedlings at the soil line.
+**Symptoms:** <update>Leaf miners cause serpentine mines on leaves. Caterpillars create holes in leaves and may defoliate plants. Cutworms feed on seedlings at the soil line.</update>
 
 **Control method:** A diluted neem oil solution works well as an organic pesticide. For caterpillars, plough soil, pick up and discard caterpillars hiding in the soil. Caterpillars in the soil are also eaten by birds when the soil is ploughed. <update>In Sri Lanka, traditional pest control methods like using wood ash or crushed neem leaves are also common.</update>
 

@@ -3,21 +3,25 @@
 ## General Information
 **Generic name:** Lettuce
 **Sri Lankan name:** Salada kola (Sinhala)
-**Scientific name:** Lactuca sativa
-**Plant family:** Asteraceae
+**Scientific name:** <update>Lactuca sativa</update>
+**Plant family:** <update>Asteraceae</update>
 **Edible parts:** Leaves
 **Nutrition value:**
+<update>
 - Calories: 15 kcal per 100g
 - Protein: 2.8 g per 100g
 - Fat: 0.3 g per 100g
 - Carbohydrate: 3.6 g per 100g
+</update>
 **Companion plants:**
+-  Asparagus, beets, calendula, carrots, chervil, chives, cilantro, eggplant, garlic, mint, melons/squash, nasturtiums, onions/shallots, parsnips, radishes, turnips.
 - <update>Carrots, Beans, Tomatoes, Radishes, Onions, Garlic, Coriander, Marigolds</update>
 **Non-companion plants:**
+- Fennel or crops in the cabbage family. i.e. broccoli, brussels sprouts, cabbage, cauliflower, kale, or kohlrab. 
 - <update>Cabbage family crops (broccoli, cauliflower, cabbage), Celery, Parsley</update>
 
 ## Description:
-Lettuce is most often grown as a leaf vegetable and used for salads. It comes in a range of varieties with different flavors, textures, colors, shapes, and textures.
+Lettuce is most often grown as a leaf vegetable, and used for salads. Lettuce comes in a range of varieties – with flavors from buttery and mild to nutty and even slightly bitter; textures from delicate to crunchy; and colors from pale to dark green and burgundy. Lettuces have a wide range of shapes and textures, from the dense heads of the iceberg type to the notched, scalloped, frilly or ruffly leaves of leaf varieties. 
 
 ## Planting requirements
 **Planting season:** <update>Can be grown year-round in cooler regions of Sri Lanka, best planted during the dry season (May to September) in lowland areas.</update>
@@ -39,6 +43,8 @@ Lettuce is most often grown as a leaf vegetable and used for salads. It comes in
 | Pruning | <update>Remove outer leaves as needed for consumption. This promotes continued growth. Remove any yellowing or diseased leaves promptly.</update> |
 
 ## Harvesting:
+Can be harvested in 50-60 days after transplanting. At harvest, the entire plant can be removed and the roots cut off. At the time of harvesting a well grown plant should weigh about 200 – 400 g. In home gardening, the leaves can be cut separately and used for consumption as required. If cultivated as a single crop, the yield is about 15-17 tons per hectare.
+
 <update>Can be harvested 45-60 days after transplanting, depending on the variety and climate. In home gardens, harvest outer leaves as needed, allowing the plant to continue growing. For commercial production, harvest entire heads when fully mature.</update>
 
 ## Curing:

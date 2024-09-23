@@ -1,12 +1,11 @@
 # Winged Bean
-<IMAGE>
 
 ## General Information
 **Generic name:** Winged Bean
 **Sri Lankan name:** Dambala (Sinhala),
 **Scientific name:** Psophocarpus tetragonolobus
 **Plant family:** Fabaceae
-**Edible parts:** The young pods and leaves, flowers, root tubers and ripe seeds are edible. The seeds are also used to extract an edible oil.
+**Edible parts:** The young pods and leaves, flowers, root tubers <update>and ripe seeds</update> are edible. The seeds are also used to extract an edible oil.
 **Nutrition value:** <update>Winged beans are high in protein (around 20% by weight) and fiber. They are also a good source of vitamins A, C, and several B vitamins.</update>
 **Companion plants:**
 - Beets
@@ -21,18 +20,18 @@
 - Allium family plants such as chives, leeks, garlic, and onions.
 
 ## Description:
-Winged bean is a short day plant that required less than 12 hours of day length. There are two main types of winged bean; short podded ones which are used for tubers <update>and have poor seeds.</update>The long podded ones which have good seeds but poor tubers.
+Winged bean is a short day plant that required less than 12 hours of day length. There are two main types of winged bean; short podded ones which are used for tubers <update>and have poor seeds</update> and long podded ones which have good seeds but poor tubers.
 
 ## Planting requirements
 **Planting season:** Rainy Season
 
 ### Planting conditions:
-| **Propagation** |                                                                                                                                                                                                    |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method | Seeds that are planted during rainy season germinate and grow slowly for the first 3 or 5 weeks. For tubers, vines are pruned off at about 1 m high or left unstaked and some flowers are removed. |
-| Soil            | Grow on a wide variety of soils. Soil should not retain too much water <update>and should have a pH between 5.5 and 7</update>.                                                                    |
-| Water           | Intolerant of water logging (saturation of water in soil)                                                                                                                                          |
-| Light           | Partial sunlight as shading improves pod length and seed number <update>but excessive shade can reduce yield</update>.                                                                             |
+| **Propagation** | Seeds that are planted during rainy season germinate and grow slowly for the first 3 or 5 weeks. For tubers, vines are pruned off at about 1 m high <update>or left unstaked</update> and some flowers are removed. |
+|----|----|
+| Planting method | <update>Plant seeds in rows that are 60 cm apart with a spacing of 25 cm between plants.</update>
+| Soil | Grow on a wide variety of soils. Soil should not retain too much water <update>and should have a pH between 5.5 and 7</update>. |
+| Water | Intolerant of water logging (saturation of water in soil) |
+| Light | Partial sunlight as shading improves pod length and seed number <update>but excessive shade can reduce yield</update>. |
 
 ### Growing conditions:
 
@@ -44,7 +43,7 @@ Winged bean is a short day plant that required less than 12 hours of day length.
 | Weed control | <update>Keep the area around winged bean plants weed-free to prevent competition for nutrients and water.</update>
 
 ## Harvesting:
-Approximately 10 weeks after sowing. Pods develop 10 to 13 weeks after planting and tubers occur 4-5 months after planting</update>.
+Approximately 10 weeks after sowing. Pods develop 10 to 13 weeks after planting <update>and tubers occur 4-5 months after planting</update>.
 
 ## Curing:
 <update>After harvesting, cure pods at room temperature for a week before storing.</update>

@@ -3,22 +3,28 @@
 ## General Information
 **Generic name:** Lime
 **Sri Lankan name:** Dehi
-**Scientific name:** Citrus aurantiifolia
-**Plant family:** Rutaceae
+**Scientific name:** <update>Citrus aurantiifolia</update>
+**Plant family:** <update>Rutaceae</update>
 **Edible parts:** Fruit
 **Nutrition value:** High in vitamin C, folate, and potassium. A medium lime contains about 20 calories.
 **Companion plants:**
 - Ginger (aid growth by attracting beneficial insects)
-<update>- Marigolds (repel pests)
-- Basil (improves flavor and repels insects)</update>
+<update>
+- Marigolds (repel pests)
+- Basil (improves flavor and repels insects)
+- </update>
 **Non-companion plants**
+<update>
 - Avoid planting near potatoes, tomatoes, and cucumbers as they can negatively affect each other's growth.
+</update>
 
 ## Description:
 Lime trees are well-suited to Sri Lanka's tropical climate. <update>They thrive in the warm, humid conditions found in many parts of the country. Lime trees in Sri Lanka typically grow to a height of 3-5 meters and can be found in home gardens, agricultural plots, and even in some urban areas. The trees have glossy, dark green leaves and produce small, fragrant white flowers before bearing fruit.</update> They typically need at least 3 to 4 years to bear fruit, depending on the size of your tree at purchase. They also need ideal growing conditions, including plenty of sunlight, adequate moisture, and well-draining soil.
 
 ## Planting requirements
-**Planting season:** <update>Year-round, but best planted at the beginning of the rainy season (May-June or October-November)</update>
+**Planting season:**
+
+<update>Year-round, but best planted at the beginning of the rainy season (May-June or October-November)</update>
 
 ### Planting conditions:
 | **Propagation** | Seeds can be directly placed in a pot of soil or place it in a plastic bag. Before planting lime seeds, wash them and allow them to dry for a couple days. Plant them afterwards. Plant seeds about ¼ to ½ inch (0.5-1.25 cm.) deep in containers or plastic bags with well-draining soil. Always remember to keep the soil moist and place them in a sunny place. Germination usually occurs within a couple of weeks. Once seedlings have reached about 6 inches (15 cm.) tall, they can be gently lifted and placed in individual pots |
@@ -36,10 +42,12 @@ Lime trees are well-suited to Sri Lanka's tropical climate. <update>They thrive 
 | Propagation | Propagation through seeds and cutting. <update>In Sri Lanka, air layering is also a popular method for propagating lime trees</update> |
 
 ## Harvesting:
+Cut or pull full-sized fruit when green or wait until they are fully ripe, when the skin turns yellow.
+
 <update>In Sri Lanka, limes can be harvested year-round, with peak seasons typically occurring from May to August and November to January. Harvest when the fruit is fully sized and light green in color for maximum juice content.</update>
 
 ## Curing:
-Limes can be cured at room temperature for about a week to enhance their flavor.
+<update>Limes can be cured at room temperature for about a week to enhance their flavor.</update>
 
 ## Storage
 <update>In Sri Lanka's warm climate, store limes in the refrigerator for up to 2 weeks. For longer storage, limes can be pickled or their juice can be frozen in ice cube trays.</update>
@@ -47,7 +55,7 @@ Limes can be cured at room temperature for about a week to enhance their flavor.
 ## Protecting your plants
 ### Pest control
 **Pest type:** <update>Fruit flies, Citrus psyllids, Mealybugs, Scale insects</update>
-**Symptoms:** Curling leaves, yellow spots on leaves, sticky honeydew on leaves and fruit
+**Symptoms:** <update>Curling leaves, yellow spots on leaves, sticky honeydew on leaves and fruit</update>
 **Control method:** <update>Use neem oil, introduce natural predators like ladybugs, or apply organic pesticides approved for use in Sri Lanka</update>
 
 ### Disease Control

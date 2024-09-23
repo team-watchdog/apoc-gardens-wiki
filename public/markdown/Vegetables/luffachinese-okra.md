@@ -8,7 +8,7 @@
 **Generic name:** Chinese Okra, Sponge Gourd, Angled luffa
 **Sri Lankan name:** Wetakolu (Sinhala)
 **Scientific name:** *Luffa acutangula*
-**Plant family:** Cucurbitaceae
+**Plant family:** <update>Cucurbitaceae</update>
 **Edible parts:** Fruit
 **Other uses:** Mature fruits are used as natural cleaning sponges<update> and are popular in Sri Lankan households for bathing and cleaning</update>
 **Companion plants:**
@@ -54,10 +54,11 @@ Luffa acutangula is a cucurbitaceous vine that is commercially grown for its unr
 **Pest type:** Leaf miners, brown spot, yellow spot
 
 **Symptoms:**
+<update>
 - Leaf miners: Relatively harmless at first but can quickly multiply and devastate plants.
 - Brown spot: Causes leaf spotting and defoliation if severe.
 - Yellow spot: Caused by fungus or bacteria.
-
+</update>
 **Control method:**
 
 *Leaf miners:*
@@ -69,6 +70,7 @@ Luffa acutangula is a cucurbitaceous vine that is commercially grown for its unr
 *Yellow spot:* <update>Remove infected plant parts and apply recommended chemicals for fungal infections or streptomycin for bacterial infections. Consult local agricultural extension services for specific recommendations.</update>
 
 ### Disease Control
+<update>
 **Disease type:** Powdery mildew
 
 **Symptoms:** White powdery spots on leaves, which can spread and cause leaf drop if severe.
@@ -78,6 +80,7 @@ Luffa acutangula is a cucurbitaceous vine that is commercially grown for its unr
 - Water at the base of the plant to avoid wetting leaves.
 - <update>Apply a mixture of baking soda (1 tsp) and dish soap (1 tsp) in 1 liter of water once a week. This is a common organic remedy used by Sri Lankan farmers.</update>
 - If infection is severe, apply a fungicide containing triadimefon or myclobutanil.
+</update>
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: Medium/10)

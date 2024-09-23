@@ -2,11 +2,11 @@
 
 ## General Information
 **Generic name:** Leeks, Leek
-**Sri Lankan name:** <update>Líks (Sinhala), Liks (Tamil)</update>
+**Sri Lankan name:** Leeks (Sinhala, Tamil)
 **Scientific name:** Allium ampeloprasum
-**Plant family:** Amaryllidaceae
+**Plant family:** <update>Amaryllidaceae<update>
 **Edible parts:** white and green parts
-**Nutrition value:** High in vitamins A, C, and K. Rich in folate and iron.
+**Nutrition value:** <update>High in vitamins A, C, and K. Rich in folate and iron.</update>
 **Companion plants:**
 - cabbage
 - tomatoes
@@ -43,7 +43,7 @@ Leeks vegetable belongs to Liliaceae family. They have a mild onion flavor. You 
 Harvest leeks by either gently twisting and pulling them from the earth, or digging and lifting them. A quality leek should have a firm, white shaft more than three inches long. <update>In Sri Lanka, harvesting typically occurs 3-4 months after planting.</update>
 
 ## Curing:
-After harvesting, cure leeks by cutting off the roots and tops, then store in a cool, humid place for about two weeks.
+<update>After harvesting, cure leeks by cutting off the roots and tops, then store in a cool, humid place for about two weeks.</update>
 
 ## Storage
 Store cured leeks in the refrigerator for up to 3 months or freeze them for later use. <update>In Sri Lanka, where refrigeration might not always be available, leeks can be stored in a cool, dry place for a shorter period.</update>
@@ -52,7 +52,7 @@ Store cured leeks in the refrigerator for up to 3 months or freeze them for late
 ### Pest control
 **Pest type:** Leafminers, Onion maggot, Thrips
 
-**Symptoms:** Leafminers cause serpentine mines on leaves. Onion maggots cause wilting and yellowing of leaves.
+**Symptoms:** <update>Leafminers cause serpentine mines on leaves. Onion maggots cause wilting and yellowing of leaves.</update>
 
 **Control method:** Apply insecticides, use row covers. <update>In Sri Lanka, neem-based pesticides are commonly used for organic pest control.</update>
 

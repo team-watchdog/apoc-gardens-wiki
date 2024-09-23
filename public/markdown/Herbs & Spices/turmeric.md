@@ -1,13 +1,12 @@
 # Turmeric
-<IMAGE>
 
 ## General Information
-**Generic name:** Turmeric
+**Generic name:** Curcuma longa
 **Sri Lankan name:** Kaha
 **Scientific name:** Curcuma longa
 **Plant family:** Zingiberaceae
 **Edible parts:** Rhizomes
-**Nutrition value:** <update>High in iron, manganese, and potassium. Rich in antioxidants.</update>
+**Nutrition value:** High in iron, manganese, and potassium. Rich in antioxidants.
 **Companion plants:**
 - Beans
 - Cilantro
@@ -23,19 +22,18 @@
 - Corn
 
 ## Description:
-Turmeric has been used in India for more than 5000 years and initially, it was cultivated as a dye as its’ vivid yellow color works brilliantly as a coloring agent. Currently it is being used as a key ingredient in food preparation in addition to its cosmetic and beautification as well as medicinal properties.
+Turmeric has been used in <update>Sri Lanka and South Asia</update> for more than 5000 years and initially, it was cultivated as a dye due to its vivid yellow color. Currently, it is widely used as a key ingredient in <update>Sri Lankan cuisine, Ayurvedic medicine, and traditional ceremonies</update>.
 
 ## Planting requirements
-- Grows in wet and intermediate zones, can also be grown in dry zones under irrigation
 **Planting season:** <update>March - April (Yala season), September - October (Maha season)</update>
 
 ### Planting conditions:
-| **Propagation** | Grows from rhizomes                                                                                                                                                                                                                                                                                                                    |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method | Need to plant in raised beds or ridges. The field should be ploughed up to 35-40cm in depth and tilled to prepare the soil. Preferably the Beds should be 4ft in width and 10ft length. But can vary with the space available. Select plump rhizomes with several bumps and plant them 3-4 bumps each                                  |
-| Soil            | Can be grown in many soil types. Preferably a soil pH of 5.5 – 6.5. A well-drained sandy clay loam soils rich with organic matter and sandy loam are the most suitable for growing turmeric. <update>Red and lateritic soils common in Sri Lanka are also suitable</update>. Poorly drained rocky or clay type soils are not suitable. |
-| Water           | Requires ample water though without waterlogging conditions                                                                                                                                                                                                                                                                            |
-| Light           | Requires partial sunlight/medium shade                                                                                                                                                                                                                                                                                                 |
+| **Propagation** | Rhizomes |
+|----|----|
+| Planting method | Need to plant in raised beds or ridges. The field should be ploughed up to 35-40cm in depth and tilled to prepare the soil. Preferably the Beds should be 4ft in width and 10ft length. But can vary with the space available. Select plump rhizomes with several bumps and plant them 3-4 bumps each |
+| Soil | Can be grown in many soil types. Preferably a soil pH of 5.5 – 6.5. A well-drained sandy clay loam soils rich with organic matter and sandy loam are the most suitable for growing turmeric. <update>Red and lateritic soils common in Sri Lanka are also suitable</update>. Poorly drained rocky or clay type soils are not suitable. |
+| Water | Requires ample water though without waterlogging conditions |
+| Light | Requires partial sunlight/medium shade |
 
 ### Growing conditions:
 
@@ -50,24 +48,25 @@ Turmeric has been used in India for more than 5000 years and initially, it was c
 Harvesting is done after 8-10 months of planting. Hence, turmeric planted during <update>Yala season (March - April) can be harvested by December - January, and Maha season (September - October) can be harvested by June - July</update>. During that time, the plants become yellow in color and leaves start drying. Harvesting should be done without damaging the rhizomes and attached soil clusters should be removed with a wooden stick.
 
 ## Curing:
-<update>After harvesting, cure turmeric rhizomes by spreading them out in a shaded area for 2-3 weeks to reduce moisture content.</update>
+After harvesting, cure turmeric rhizomes by spreading them out in a shaded area for 2-3 weeks to reduce moisture content.
 
 ## Storage
-<update>Store cured turmeric rhizomes in a cool, dry place. They can be stored for up to one year.</update>
+Store cured turmeric rhizomes in a cool, dry place. They can be stored for up to one year.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Stem borer, leaf rolling caterpillars, scale insects
-**Symptoms:** <update>Holes in stems, rolled leaves, sticky honeydew on leaves.<update>
-**Control method:** Destroy damage plant parts, spray insecticides.
+**Pest type:** <update>Shoot borer, rhizome scale, leaf roller</update>
+
+**Symptoms:** Holes in stems, rolled leaves, sticky honeydew on leaves.
+
+**Control method:** Destroy damage plant parts, <update>use neem oil or other organic pesticides</update>.
 
 ### Disease Control
-**Disease type:** <update>Rhizome rot, leaf blotch
+**Disease type:** <update>Rhizome rot, leaf blotch</update>
 
 **Symptoms:** Wilted plants with yellowing leaves for rhizome rot; water-soaked spots on leaves that enlarge and turn brown for leaf blotch.
 
 **Management:** Avoid overhead irrigation, maintain good air circulation, remove infected plant parts, use disease-resistant varieties if available.
-</update>
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)

@@ -4,7 +4,7 @@
 **Generic name:** Mangosteen, Gamboge
 **Sri Lankan name:** Mangus (Sinhala, Tamil)
 **Scientific name:** Garcinia mangostana
-**Plant family:** Clusiaceae
+**Plant family:** <update>Clusiaceae</update>
 **Edible parts:** Fruit
 **Other uses:**
 <update>Mangosteen bark contains xanthones which have anti-inflammatory and antioxidant properties. It is used in traditional medicine for treating various ailments. In Sri Lanka, the fruit rind is used to make herbal teas and in Ayurvedic preparations.</update>

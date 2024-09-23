@@ -1,5 +1,4 @@
 # Woodapple
-<IMAGE>
 
 ## General Information
 **Generic name:** Woodapple, Elephant apple
@@ -7,49 +6,47 @@
 **Scientific name:** Limonia acidissima
 **Plant family:** Rutaceae
 **Edible parts:** Brownish pulp inside the fruit
-**Nutrition value:** <update>Rich in vitamins and minerals, antioxidant properties</update>
+**Nutrition value:** Rich in vitamins and minerals, antioxidant properties
 **Companion plants:**
 - <update>Coconut (Cocos nucifera), which provides partial shade and helps maintain soil moisture</update>
 **Non-companion plants**
 - <update>Cinnamon (Cinnamomum verum), as it may compete for nutrients in the soil</update>
 
 ## Description:
- Wood apples originated in Sri Lanka and India. It is a fruit indigenous to Sri Lanka. It is rich in vitamins and minerals, and is an antioxidant. Wood apple is used as a treatment for snake bite and the removal of toxins in the digestive system. Parts of the wood apple fruit are used in ayurveda and indigenous medicine. Trees grow up to around 15 - 20 metres and live for around 50 – 70 years.<update>In Sri Lanka, woodapple trees are commonly found in home gardens, especially in the dry and intermediate zones.</update>
+Wood apples originated in Sri Lanka and India. It is a fruit indigenous to Sri Lanka. Wood apple trees grow up to around 15 - 20 metres and live for around 50 – 70 years. <update>In Sri Lanka, woodapple trees are commonly found in home gardens, especially in the dry and intermediate zones.</update>
 
 ## Planting requirements
-- Grows in dry and intermediate zones
-**Planting season:** June - November
+**Planting season:** <update>Best planted at the onset of the monsoon season, typically May-June or October-November</update>
 
 ### Planting conditions:
-| **Propagation** | Propagated mainly by seeds or vegetative propagation. There are several methods of vegetative propagation such as grafting and budding.                                      |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method | Wood apple seeds are planted in the beds. The seedling plants appear in 5- 10 days. In four to six weeks it is transferred to pots consisting of compost, sand and top soil. |
-| Soil            | Requires a soil pH of 5.8 to 6.5. Can thrive in a wide range of soil. A light sandy loamy soil that drains well is ideal.                                                    |
-| Water           | Daily irrigation should be carried out during the early stages. Young plants require more irrigation than the older plants.                                                  |
-| Light           | Requires lots of sunshine (8 hours of sunlight)                                                                                                                              |
+| **Propagation** | Wood apple seeds are planted in the beds. The seedling plants appear in 5- 10 days. In four to six weeks it is transferred to pots consisting of compost, sand and top soil. |
+|----|----|
+| Planting method | Requires a soil pH of 5.8 to 6.5. Can thrive in a wide range of soil. A light sandy loamy soil that drains well is ideal. |
+| Soil | <update>Well-draining soil with added organic matter. In Sri Lanka, red-yellow podzolic soils or reddish-brown earths are suitable.</update> |
+| Water | Daily irrigation should be carried out during the early stages. Young plants require more irrigation than the older plants. |
 
 ### Growing conditions:
 
-| **Temperatures** | It can grow in climates that vary in temperature from 48 C and -6 C in the winter                                                                                                  |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Soil             | Can mix manure when preparing the soil and remove weeds from the land                                                                                                              |
-| Water            | In the field during dry periods, 10 – 30 litres of water should be administered depending on the plant requirement.  Basin ring system or drip irrigation can be used for watering |
-| Propagation      | Propagated mainly by seeds or vegetative propagation. There are several methods of vegetative propagation such as grafting and budding.                                            |
+| **Temperatures** | It can grow in climates that vary in temperature from 48 C and -6 C in the winter |
+|----|----|
+| Soil | Can mix manure when preparing the soil and remove weeds from the land |
+| Water | <update>In Sri Lanka's dry zone, regular watering is crucial, especially during prolonged dry spells. In wet zones, ensure proper drainage to prevent waterlogging.</update> |
+| Propagation | Propagated mainly by seeds or vegetative propagation. There are several methods of vegetative propagation such as grafting and budding. |
 
 ## Harvesting:
 Mature green fruit can be harvested <update>typically from July to September in Sri Lanka</update>
 
 ## Curing:
-<update>Wood apples should be cured at room temperature for about a week to allow the pulp to soften</update>
+Wood apples should be cured at room temperature for about a week to allow the pulp to soften
 
 ## Storage
-<update>Store wood apples in a cool, dry place for up to two weeks. In Sri Lanka's humid climate, storing in a well-ventilated area is crucial to prevent mold growth.</update>
+Store wood apples in a cool, dry place for up to two weeks. <update>In Sri Lanka's humid climate, storing in a well-ventilated area is crucial to prevent mold growth.</update>
 
 ## Protecting your plants
 ### Pest control
 **Pest type:** Wood apple being a hardy crop, there is no serious insect or pest diseases
-**Symptoms:** NA
-**Control method:** NA
+**Symptoms:** However, watch out for scale insects and mealybugs that may appear occasionally
+**Control method:** <update>Use neem oil or traditional Sri Lankan pest control methods like spraying with a mixture of tobacco and soap water</update>
 
 ### Disease Control
 **Disease type:** <update>Fruit rot is a common issue in Sri Lanka's humid climate</update>

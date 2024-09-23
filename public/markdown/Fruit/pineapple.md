@@ -4,30 +4,36 @@
 **Generic name:** Pineapple
 **Sri Lankan name:** Annasi
 **Scientific name:** Ananas comosus
-**Plant family:** Bromeliaceae
+**Plant family:** <update>Bromeliaceae</update>
 **Edible parts:** Pericarp and thalamus
-**Nutrition value:** High in vitamins A, C, and manganese. One cup of pineapple provides 131% DV vitamin C.
+**Nutrition value:** <update>High in vitamins A, C, and manganese. One cup of pineapple provides 131% DV vitamin C.</update>
 **Companion plants:**
 - Coconut
 - <update>Papaya</update>
 - <update>Banana</update>
+- Clover
 - Chives
 - Garlic
+- southernwood
+- daffodils
 - <update>Lemongrass</update>
 - <update>Marigolds</update>
 **Non-companion plants**
 - <update>Cassava</update>
 - <update>Sweet potato</update>
+- Walnut trees
+- Eucalyptus
 
 ## Description:
-Pineapple plants can be easily grown by planting the pineapple tops in soil. The pineapple top grows into a bushy plant. If you get growing conditions right, the pineapple plant flowers and a pineapple fruit eventually appears. <update>In Sri Lanka, pineapples are commonly grown in the low country wet and intermediate zones, particularly in areas like Gampaha, Kurunegala, and Ratnapura districts.</update>
+Pineapple plants can be easily grown by planting the pineapple tops in soil. The pineapple top grows into a bushy plant. If you get growing conditions right, the pineapple plant flowers and a pineapple fruit eventually appears. Pineapples can grow in pots indoors, or if you live in warmer climates it can grow outdoors in your garden.
+<update>In Sri Lanka, pineapples are commonly grown in the low country wet and intermediate zones, particularly in areas like Gampaha, Kurunegala, and Ratnapura districts.</update>
 
 ![Pineapple Plant](/api/attachments.redirect?id=52ebc8f5-c87a-48fa-bce0-f9b4e8ae1f88)
 
 *Image - David Adam Kess, Wikimedia Commons*
 
 ## Planting requirements
-**Planting season:** <update>Can be planted year-round in Sri Lanka, but best during the onset of rainy seasons (April-May or September-October)</update>
+**Planting season:** Can be planted year-round in Sri Lanka, <update>but best during the onset of rainy seasons (April-May or September-October)</update>
 
 ### Planting conditions:
 | **Propagation** | Propagated from suckers |
@@ -50,7 +56,7 @@ Pineapple plants can be easily grown by planting the pineapple tops in soil. The
 Well matured fruits with 25% colour change from the fruit base are suitable for harvesting. Fruits should be harvested with 10-15 cm of stem.
 
 ## Curing:
-After harvest, cure pineapples at room temperature for a few days to develop their full flavor.
+<update>After harvest, cure pineapples at room temperature for a few days to develop their full flavor.</update>
 
 ## Storage
 Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples can be stored at room temperature until ripe.
@@ -59,7 +65,7 @@ Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples
 ### Pest control
 **Pest type:** Mealy bugs, <update>pineapple mites, nematodes</update>
 
-**Symptoms:** Mealybugs appear as small, cottony masses on leaves and stems. <update>Mites cause bronzing of leaves, while nematodes lead to stunted growth and yellowing.</update>
+**Symptoms:** <update>Mealybugs appear as small, cottony masses on leaves and stems. Mites cause bronzing of leaves, while nematodes lead to stunted growth and yellowing.</update>
 
 **Control method:** Select healthy suckers, pre treatment prior to planting, weed control, spray insecticides with neem oil or insecticidal soap. <update>Use approved pesticides as per local agricultural department recommendations.</update>
 

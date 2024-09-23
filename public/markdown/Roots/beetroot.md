@@ -1,5 +1,5 @@
 # Beetroot
-![Beetroot](../images/beetroot.png)
+<IMAGE>
     
 ## General Information
 **Generic name:** Beetroot

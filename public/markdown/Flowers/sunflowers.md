@@ -41,10 +41,10 @@ The sunflower (Helianthus annuus), with its golden-yellow petals and large golde
 Can be harvested within 10-11 weeks. Once the flowers mature, petals will shed and the head becomes brownish color. Harvest individual flowers using a knife <update>Harvest sunflowers when the backs of the flower heads turn yellow-brown.</update>
 
 ## Curing:
-After harvesting, allow the seeds to dry in the sun for about two weeks before storing them <update>Curing helps reduce moisture content and prevents mold growth.</update>
+<update>After harvesting, allow the seeds to dry in the sun for about two weeks before storing them Curing helps reduce moisture content and prevents mold growth.</update>
 
 ## Storage
-Store dried seeds in an airtight container in a cool, dark place <update>Stored properly, sunflower seeds can last up to a year.</update>
+<update>Store dried seeds in an airtight container in a cool, dark place Stored properly, sunflower seeds can last up to a year.</update>
 
 ## Protecting your plants
 ### Pest control

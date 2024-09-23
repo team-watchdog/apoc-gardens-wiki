@@ -6,15 +6,18 @@
 **Scientific name:** Lasia Spinosa
 **Plant family:** Araceae
 **Edible parts:** Leaves, Rhizomes (rootstalk)
-**Nutrition value:** High in dietary fiber and antioxidants
+**Nutrition value:** <update>High in dietary fiber and antioxidants</update>
 **Companion plants:**
+<update>
 - Banana
 - Coconut
-<update>- Kithul (Fishtail palm)
-- Arecanut</update>
+- Kithul (Fishtail palm)
+- Arecanut
+</update>
 **Non-companion plants**
+<update>
 - Cabbage
-
+</update>
 ## Description:
 Kohila leaves and rhizomes are used as a vegetable in local Sri Lankan cuisine. It is also traditionally used as an herbal medicine for its high amount of antioxidant and dietary fiber content. There are two types of kohila.
 
@@ -48,10 +51,10 @@ Exotic Kohila: The leaf is divided into many segments. It shows higher growth ra
 Leaves can be harvested about 8-12 months after planting. About 2,000 – 2,500kgs of rhizomes can be taken as harvest from 50 square meter area and about 150 bundles of leaves at a time. <update>In Sri Lanka, kohila is often harvested continuously from established plants in home gardens.</update>
 
 ## Curing:
-After harvesting, cure kohila by washing the leaves and rhizomes thoroughly and allowing them to dry in the shade for a few days before storage. <update>In Sri Lanka, kohila is often used fresh, but any excess can be dried for later use.</update>
+<update>After harvesting, cure kohila by washing the leaves and rhizomes thoroughly and allowing them to dry in the shade for a few days before storage. In Sri Lanka, kohila is often used fresh, but any excess can be dried for later use.</update>
 
 ## Storage
-Store dried kohila leaves in an airtight container in a cool, dry place. Rhizomes can be stored in a humid, cool place for up to 6 months. <update>In Sri Lankan households, fresh kohila is often kept in a cool, shaded area and used within a few days.</update>
+<update>Store dried kohila leaves in an airtight container in a cool, dry place. Rhizomes can be stored in a humid, cool place for up to 6 months. In Sri Lankan households, fresh kohila is often kept in a cool, shaded area and used within a few days.</update>
 
 ## Protecting your plants
 ### Pest control

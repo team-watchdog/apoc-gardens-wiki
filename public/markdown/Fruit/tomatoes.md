@@ -1,13 +1,12 @@
 # Tomatoes
-<IMAGE>
 
 ## General Information
 **Generic name:** Tomato, Garden Tomato
-**Sri Lankan name:** Thakkali (Sinhala, Tamil)
+**Sri Lankan name:** Thakkali (Sinhala, தமிழ்: தக்காளி)
 **Scientific name:** Solanum lycopersicum
 **Plant family:** Nightshade family (Solanaceae)
 **Edible parts:** Berry
-**Nutrition value:** <update>Rich source of vitamin A and C along with various minerals and B vitamins. Contains antioxidants like lycopene.</update>
+**Nutrition value:** Rich source of vitamin A and C along with various minerals and B vitamins. Contains antioxidants like lycopene.
 **Companion plants:**
 - Asparagus
 - Chervil
@@ -24,31 +23,30 @@
 - Cucumber
 
 ## Description:
-TIn addition to being an important flavour enhancer in variety of dishes, Tomatoes are a rich source of vitamin A and C along with various minerals and B vitamins. The studies have shown that a diet rich in tomatoes is protective against a variety of cancers, including prostate and pancreatic. Other studies have shown that important antioxidants in tomatoes, such as lycopene, are present in greater quantities when the tomatoes are raised organically, so growing your own tomatoes would be an advantage. There are several varieties of tomatoes.
+Tomatoes are not only important flavor enhancers in various dishes but also a rich source of vitamins and minerals. Studies have shown that consuming tomatoes can protect against certain cancers and that organic tomatoes contain higher levels of beneficial antioxidants like lycopene.
 
 ## Planting requirements
-- Can be grown in any zone except wet zone
-**Planting season:** Mid March, End April
+**Planting season:** <update>October to December (Maha season) and April to May (Yala season)</update>
 
 #### Planting conditions:
-| **Propagation** | Seeds                                                                                                                                                                                                  |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method | Grow in seed trays, plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed.                                                                                    |
-| Soil            | Requires rich soil with pH between 6.5 to 7. Harrow the soil and break it finely. Mix organic matter/compost prior to planting. Good drainage is essential                                             |
-| Water           | Don't water too much; keep the soil slightly on the dry side—just dry-to-moist.<update>In Sri Lanka's climate, water seeds daily but lightly until germination, especially during dry spells.</update> |
-| Light           | Need plenty of sunshine (at least 6 hours of direct sunlight) but do not like humidity                                                                                                                 |
+| **Propagation** | Seeds |
+|----|----|
+| Planting method | Grow in seed trays, plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed.<update>Ensure seeds are planted at least 1/2 inch deep. In Sri Lanka, direct seeding is also common in some areas.</update> |
+| Soil | Requires rich soil with pH between 6.5 to 7. Harrow the soil and break it finely. Mix organic matter/compost prior to planting. Good drainage is essential<update>In Sri Lanka, well-draining loamy soils are ideal. Add coconut husk or rice hull ash to improve drainage in heavy soils.</update> |
+| Water | Don't water too much; keep the soil slightly on the dry side—just dry-to-moist.<update>In Sri Lanka's climate, water seeds daily but lightly until germination, especially during dry spells.</update> |
+| Light | Need plenty of sunshine (at least 6 hours of direct sunlight) but do not like humidity<update>In Sri Lanka, provide partial shade during the hottest part of the day, especially in lowland areas.</update> |
 
 #### Growing conditions:
 
-| **Temperatures** | Requires soil temperature of 70°F (21°C).                                                                                                                                               |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Soil             | Better to add 5 to 7cm of mulch throughout the plants to ensure soil remains moist. Organic material such as shredded bark and chopped leaves will make the soil better as they crumble |
-| Water            | Water plants daily or at least every other day to maintain sufficient soil moisture                                                                                                     |
-| Pruning          | <update>Remove lower leaves and suckers to improve air circulation, which is crucial in Sri Lanka's humid climate to prevent fungal diseases.</update>                                  |
-| Weed control     | Keep surrounding area around the plant free from weed.                                                                                                                                  |
+| **Temperatures** | Requires soil temperature of 70°F (21°C) for germination<update>Tomatoes grow well in Sri Lanka's tropical climate. In cooler upcountry areas, use plastic mulch to warm the soil.</update> |
+|----|----|
+| Soil | Better to add 5 to 7cm of mulch throughout the plants to ensure soil remains moist. Organic material such as shredded bark and chopped leaves will make the soil better as they crumble<update>In Sri Lanka, use locally available mulch materials like paddy straw or coconut fronds. This helps conserve moisture during dry spells.</update> |
+| Water | Water plants daily or at least every other day to maintain sufficient soil moisture<update>In Sri Lanka's hot climate, water deeply 2-3 times a week. Use drip irrigation if possible to conserve water.</update> |
+| Pruning | <update>Remove lower leaves and suckers to improve air circulation, which is crucial in Sri Lanka's humid climate to prevent fungal diseases.</update> |
+| Weed control | Keep surrounding area around the plant free from weed<update>Manual weeding is common in Sri Lanka. Apply organic mulch to suppress weed growth.</update> |
 
 ## Harvesting:
-Can be harvested after 8-17 weeks.
+Can be harvested after 8-17 weeks<update>In Sri Lanka, tomatoes are typically ready for harvest 60-80 days after transplanting, depending on the variety and climate conditions.</update>
 
 ## Curing:
 <update>Curing is not necessary for ripe tomatoes. For green tomatoes harvested before monsoon rains, store in a cool, dry place to ripen gradually.</update>

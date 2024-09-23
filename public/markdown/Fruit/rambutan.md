@@ -4,10 +4,11 @@
 **Generic name:** Rambutan
 **Sri Lankan name:** Rambutan (Sinhala)
 **Scientific name:** Nephelium lappaceum
-**Plant family:** Sapindaceae
+**Plant family:** <update>Sapindaceae</update>
 **Edible parts:** Fruit
-**Nutrition value:** High in vitamin C, fiber, and antioxidants. A 100g serving provides approximately 3g of protein, 7g of dietary fiber, and 93mg of vitamin C.
+**Nutrition value:** <update>High in vitamin C, fiber, and antioxidants. A 100g serving provides approximately 3g of protein, 7g of dietary fiber, and 93mg of vitamin C.</update>
 **Companion plants:**
+N/A
 <update>
 - Coconut
 - Mango
@@ -17,9 +18,12 @@
 
 ## Description:
 A tree of the soapberry family (Sapindaceae), Rambutan grows best in tropical climates and yields edible fruit. It attracts bees and other pollinators and its fruit has a pleasant aroma. The bright-red, oval fruit is covered with long, soft spines and has a tasty acid pulp. The tree grows to about 10.5–12 metres (35–40 feet). Recommended varieties for cultivation in Sri Lanka: Malwana Special, Malayan Red, Malayan Yellow.
+Other varieties available in Sri Lanka which are not recommended: Java Special, Java Labukabola, Java Simadjan, Java Seedless, Java Sinjanjan, 
 
 ## Planting requirements
-**Planting season:** <update>Planting should be done at the beginning of the monsoon season, typically in May or October in Sri Lanka.</update>
+**Planting season:** 
+Planting should be done with the onset of monsoon. 
+<update>Planting should be done at the beginning of the monsoon season, typically in May or October in Sri Lanka.</update>
 
 ### Planting conditions:
 | **Propagation** | Grafting/Transplanting. It is not possible to reach a firm conclusion about the quality of the fruits of the plants produced by planting seedlings. Therefore, planting seedlings is not recommended. |
@@ -44,14 +48,14 @@ A well-managed mature rambutan tree can yield about 200 kg (6000 fruits) per yea
 The best time to harvest rambutan is when its characteristic color is seen in the fruits. Rambutan does not ripen further when it is plucked from the tree. Therefore, rambutan should be harvested at the right time to send it to the market. Cluster harvesting is useful as it provides some pruning.
 
 ## Curing:
-After harvesting, cure rambutan by placing them in a single layer on a tray and storing them in a cool, dry place for about 5-7 days. This helps to reduce moisture content and improves shelf life.
+<update>After harvesting, cure rambutan by placing them in a single layer on a tray and storing them in a cool, dry place for about 5-7 days. This helps to reduce moisture content and improves shelf life.</update>
 
 ## Storage
 <update>Store cured rambutan at temperatures between 10-15°C (50-59°F) with high humidity levels (85-90%) for up to 2 weeks. In Sri Lanka, where ambient temperatures are often higher, refrigeration is crucial for extending shelf life.</update>
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Animals like squirrels, crows, monkeys and bats | Insects: Piti Makuna, worms, fruit flies, Stem borer beetle (Risk of insect damage is mostly post harvest) | Pitipus disease
+**Pest type:** <update>Animals like squirrels, crows, monkeys and bats | Insects: Piti Makuna, worms, fruit flies, Stem borer beetle (Risk of insect damage is mostly post harvest) | Pitipus disease</update>
 
 **Symptoms:** Animals: Damage to fruits and branches. Insects: Holes in leaves and fruits, sticky honeydew on leaves. Pitipus disease: Yellowing leaves, wilting, and eventual death of branches.
 

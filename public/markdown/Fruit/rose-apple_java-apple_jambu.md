@@ -12,7 +12,7 @@
 
 **Scientific name:** *Syzygium samarangense*
 
-**Plant family:** Myrtaceae
+**Plant family:** <update>Myrtaceae</update>
 
 **Edible parts:** Fruit
 
@@ -32,12 +32,16 @@
 </update>
 
 **Non-companion plants**
+<update>
 - Do not plant near citrus trees as they are susceptible to the same pests.
+</update>
 
 ## Description:
 Syzygium samarangense is a tropical tree growing to 12 m (39 ft) tall, with evergreen leaves 10–25 cm (4–10 in) long and 5–10 cm (2–4 in) broad. The leaves are elliptical, but rounded at the base; they are aromatic when crushed. The trunk is relatively short, with a wide – yet open – crown starting low on the tree. The bark is pinkish-gray in color, and flakes readily.
 
-The flowers are white to yellowish-white, 2.5 cm (1 in) diameter, with four petals and numerous stamens. They form in panicles of between three and 30 near branch tips. The resulting fruit is a bell-shaped, edible berry, with colors ranging from white, pale green, or green to red, purple, or crimson, to deep purple or even black.
+The flowers are white to yellowish-white, 2.5 cm (1 in) diameter, with four petals and numerous stamens. They form in panicles of between three and 30 near branch tips. The resulting fruit is a bell-shaped, edible berry, with colors ranging from white, pale green, or green to red, purple, or crimson, to deep purple or even black. 
+
+In Sri Lanka, Jambu species grow well under tropical or near-tropical climates. Red jambu grows well in the lowland and midland as well as the upland. It is found in almost every province of Sri Lanka under cool climate conditions. Jambu is not found in very low temperature areas. Improved varieties of jambu can be grown well in wet, intermediate and dry zone areas. Sand jambu is more popular in wet zone areas. Pini Jambu grows successfully in humid zone upland areas with hot humid environment.
 
 ## Planting requirements
 <update>**Planting season:** Best planted at the onset of the rainy season (October to November) in Sri Lanka</update>
@@ -63,17 +67,21 @@ The flowers are white to yellowish-white, 2.5 cm (1 in) diameter, with four peta
 ## Harvesting:
 Trees planted through direct seeding will bear fruit in about 3 years. Budded or grafted trees may provide a harvest in one to one and a half years.
 
-**Curing:**
+## Curing:
 Fruits are ready to pick when they turn their final color (red, purple, etc.) and yield slightly to gentle pressure.
 
-**Storage:**
+## Storage:
 Store fruits in the refrigerator for up to 2 weeks. Avoid storing with ethylene-producing fruits like apples or bananas.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** <update>In Sri Lanka, common pests include fruit flies, mealy bugs, and scale insects.</update>
+**Pest type:** 
+Jambu plants are not disease or pest prone, however, occasional infestations of fruit flies or plant lice are possible.
+<update>In Sri Lanka, common pests include fruit flies, mealy bugs, and scale insects.</update>
 **Symptoms:** Fruit flies cause small holes in the fruit, while mealy bugs and scale insects cause yellowing and wilting leaves.
-**Control method:** <update>Use of neem oil, sticky traps, and promoting natural predators like ladybugs are effective organic control methods.</update>
+**Control method:** 
+Organic insecticides are effective at controlling pests. 
+
 
 ### Disease Control
 **Disease type:** <update>In Sri Lanka's humid climate, fungal diseases like anthracnose and root rot are common.</update>

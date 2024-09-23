@@ -4,9 +4,9 @@
 **Generic name:** Snake Gourd, Serpent gourd
 **Sri Lankan name:** Pathola (Sinhala)
 **Scientific name:** Trichosanthes cucumerina
-**Plant family:** Cucurbitaceae
+**Plant family:** <update>Cucurbitaceae</update>
 **Edible parts:** Fruit is eaten as a vegetable. Leaves and shoots are also edible, and the pulp of mature fruits is sometimes eaten as a tomato substitute.
-**Other uses:** Some medicinal value practiced in Ayurvedic medicine. The fruit can also be dried and used as a soap.
+**Nutrition value:** [CONTENT]
 **Companion plants:**
 - Radishes
 - Catnip
@@ -45,7 +45,7 @@ Harvest the crop 60-75 days after planting with 4 days interval. A yield of 20,0
 N/A
 
 ## Storage
-Store in a cool place away from direct sunlight and heat sources. The fruit can be stored for up to two weeks at room temperature or up to six months if refrigerated.<update>For long-term storage, consider freezing the fruits after blanching.</update>
+<update>Store in a cool place away from direct sunlight and heat sources. The fruit can be stored for up to two weeks at room temperature or up to six months if refrigerated.For long-term storage, consider freezing the fruits after blanching.</update>
 
 ## Protecting your plants
 ### Pest control

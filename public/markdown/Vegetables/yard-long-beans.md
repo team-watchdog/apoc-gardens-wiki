@@ -1,5 +1,4 @@
 # Yard Long Beans
-<IMAGE>
 
 ## General Information
 **Generic name:** Yardlong bean, pea bean, long-podded cowpea, Chinese long bean, snake bean, long bean
@@ -11,8 +10,9 @@
 **Companion plants:**
 - Chilies
 - Tomatoes
-- Eggplants. 
-- Between plant towers, you can plant squash, it will help to reduce the weed. Pole beans also preserve cool weather vegetables like spinach and lettuce.
+- Eggplants
+- Squash (between plant towers)
+- Spinach and lettuce (preserves cool weather vegetables)
 **Non-companion plants:**
 - Alliums
 - Gladiolas
@@ -24,12 +24,12 @@ A variety of the cowpea, the asparagus bean is grown primarily for its strikingl
 **Planting season:** Wet zone- after monsoonal rains; Dry Zone-Yala : in rain fed cultivations- March /April; Dry Zone – Under irrigation (Yala Season)- April/May. Maha-End of November
 
 ### Planting conditions:
-| **Propagation** | Direct seeding                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Propagation** | Direct seeding |
+|----|----|
 | Planting method | Harrow soil to a depth of 15-20 cm and break the soil. If water retains in soil, or irrigation is done, prepare beds or ridges.<br>Plant 3-4 Seeds per pit after soaking them for 24 hours.<br>Irrigate the seeds well.<br>After 2 weeks of seedling emergence, Keep two healthy Seedlings and remove the rest carefully.<br>Set up about 7 ft. long poles for vine support.<br>Train the vines to poles.<br>Can place single pole per pit or set intermittent support poles and draw ropes horizontally and train the vines to the ropes. <update>In Sri Lanka, it's common to use coconut fronds or bamboo poles for support.</update> |
-| Soil            | Well-draining sandy loam soil is ideal. Soil pH around 5.6 -7 is optimal. Heavy clay soils with poor drainage is not good for cultivation. <update>Soil should be well-fertilized with organic matter. In Sri Lanka, adding compost or well-rotted cow manure is recommended.</update>                                                                                                                                                                                                                                                                                                                                                   |
-| Water           | At initial stages apply water every 4 days per week. Later add water once a week. If soil moisture is high, root rot disease may occur. Ensure consistent moisture but avoid overwatering to prevent root rot. In dry zones, mulching can help retain soil moisture.                                                                                                                                                                                                                                                                                                                                                                     |
-| Light           | Requires plentiful sunlight.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Soil | Well-draining sandy loam soil is ideal. Soil pH around 5.6 -7 is optimal. Heavy clay soils with poor drainage is not good for cultivation. <update>Soil should be well-fertilized with organic matter. In Sri Lanka, adding compost or well-rotted cow manure is recommended.</update> |
+| Water | At initial stages apply water every 4 days per week. Later add water once a week. If soil moisture is high, root rot disease may occur <update>Ensure consistent moisture but avoid overwatering to prevent root rot. In dry zones, mulching can help retain soil moisture.</update> |
+| Light | Requires plentiful sunlight <update>In Sri Lanka's tropical climate, partial shade during the hottest part of the day can be beneficial, especially in the dry zone.</update> |
 
 ### Growing conditions:
 
@@ -51,22 +51,23 @@ NA
 
 ## Protecting your plants
 ### Pest control
-**Pest type:**
-**Symptoms:**
-**Control method:**
+**Pest type:** Collar Rot/Root Rot and Ashy stem blight
 
-### Disease Control
-**Disease type:** Collar Rot/Root Rot and Ashy stem blight
-**Symptoms:** 
+**Symptoms:**
 - Root rot: Wilting, yellowing leaves, and eventual plant death.
 - Ashy stem blight: Ash-colored spots on stems, which eventually turn black.
-**Management:**
-  - **For Root rot:**
-      - Improve drainage
-      - Application of fungicides to the basement
-      - Crop rotation
-      - Removal of infected plant parts from the field and destruction
+
+**Control method:**
+- **For Root rot:**
+  - Improve drainage
+  - Application of fungicides to the basement
+  - Crop rotation
+  - Removal of infected plant parts from the field and destruction
+
 - **For ashy stem blight:** Department of Agriculture recommends using Tebuconazole 250g /lEW fungicide after about 04 weeks of planting <update>Apply fungicide every two weeks until symptoms disappear. In organic farming, neem-based solutions can be used as an alternative.</update>
+
+### Disease Control
+<update>In addition to fungal diseases, viral diseases can be a problem in Sri Lanka. Use disease-resistant varieties when available and control insect vectors like aphids and whiteflies.</update>
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)

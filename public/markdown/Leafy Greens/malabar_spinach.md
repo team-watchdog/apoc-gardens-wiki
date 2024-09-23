@@ -3,11 +3,18 @@
 ## General Information
 **Generic name:** Malabar Spinach, Ceylon Spinach, Sri Lankan Spinach, Vine Spinach, Creeping Spinach
 **Sri Lankan name:** Nivithi
-**Scientific name:** Basella alba (green stemmed variety) and Basella rubra (red stemmed variety)
-**Plant family:** Basellaceae
+**Scientific name:** <update>Basella alba (green stemmed variety) and Basella rubra (red stemmed variety)</update>
+**Plant family:** <update>Basellaceae</update>
 **Edible parts:** Leaves
 **Nutrition value:** High in iron, calcium, vitamin A, and vitamin C. It also contains proteins and dietary fiber.
 **Companion plants:**
+- Brassicas
+- eggplant
+- leeks
+- lettuce
+- peas
+- radishes
+- strawberries
 <update>
 - Manioc (Cassava)
 - Okra
@@ -17,13 +24,16 @@
 - Bitter gourd
 </update>
 **Non-companion plants:**
+  <update>
 - Potatoes
-
+</update>
 ## Description:
-Malabar spinach is a member of the Basellaceae family. <update>A native to tropical Asia, including Sri Lanka, it is well-adapted to the island's climate. It has dark green, fleshy leaves and is a fast-growing vine that thrives in hot and humid conditions. In Sri Lanka, it is commonly found in home gardens and is valued for its nutritional content and ability to grow quickly in tropical climates.</update>
+Malabar spinach is a member of the Basellaceae family. A native to India and tropical moist lowlands of South Asia, it has dark green leaves that resemble those of spinach though it is a vine type plant that grows mostly in hot climates. It occurs in two varieties, Basella rubra, the red stemmed variety, and Basella alba, which has green stems and thick fleshy leaves.
 
 ## Planting requirements
-**Planting season:** <update>Can be grown year-round in Sri Lanka, but best planted at the onset of the rainy season (May-June or October-November)</update>
+**Planting season:** 
+ A warm season plant
+<update>Can be grown year-round in Sri Lanka, but best planted at the onset of the rainy season (May-June or October-November)</update>
 
 ### Planting conditions:
 | **Propagation** | <update>Seeds can be directly sown or stem cuttings can be used for faster propagation</update> |
@@ -43,10 +53,12 @@ Malabar spinach is a member of the Basellaceae family. <update>A native to tropi
 | Weed control | <update>Regular weeding is important. Use organic mulch to suppress weeds and retain soil moisture</update> |
 
 ## Harvesting:
-<update>Harvest can begin 6-8 weeks after planting. Regular harvesting of young leaves and shoots encourages continued growth. In Sri Lanka, Malabar spinach can be harvested year-round with proper care.</update>
+To harvest larger, more succulent leaves, wait until the plant has reached full maturity 70 to 85 days after planting.  Cut individual leaves, stems, and vine tips using garden shears or scissors. Harvest only as much as you need at any given time. Regular harvesting encourages more leaf growth.
 
 ## Curing:
+<update>
 After harvesting, wash the leaves thoroughly and dry them in a shaded area before storing.
+</update>
 
 ## Storage
 <update>Store in a clean, damp cloth or perforated plastic bag in the refrigerator for up to 5-7 days. For longer storage, leaves can be blanched and frozen.</update>

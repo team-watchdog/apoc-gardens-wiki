@@ -4,10 +4,20 @@
 **Generic name:** Passion Fruit
 **Sri Lankan name:** Wel dodam
 **Scientific name:** Passiflora edulis
-**Plant family:** Passifloraceae
+**Plant family:** <update>Passifloraceae</update>
 **Edible parts:** Pulp and seeds
-**Nutrition value:** High in vitamins A and C, fiber, and antioxidants. It also contains minerals like potassium, magnesium, and iron.
+**Nutrition value:** <update>High in vitamins A and C, fiber, and antioxidants. It also contains minerals like potassium, magnesium, and iron.</update>
 **Companion plants:**
+- Potatoes
+- beets
+- Swiss chard
+- carrots
+- spinach
+- strawberries
+- eggplants
+- onions
+- leeks
+- lettuce
 <update>
 - Banana
 - Papaya
@@ -21,6 +31,11 @@
 - Basil
 </update>
 **Non-companion plants**
+- Corn
+- cowpea
+- sorghum
+- sweet potatoes
+- okra
 <update>
 - Cassava
 - Taro
@@ -30,10 +45,13 @@
 </update>
 
 ## Description:
-Passion fruit is a climbing vine with large, three lobed leaves, little tendrils that wrap themselves around whatever they can get hold of, and beautiful flowers. <update>In Sri Lanka, the purple variety (Passiflora edulis f. edulis) is more common, though the yellow variety (Passiflora edulis f. flavicarpa) is also grown. The fruits are round or oval, with a hard, waxy rind enclosing an aromatic pulp filled with small, edible seeds.</update>
+Passion fruit is a climbing vine with large, three lobed leaves, little tendrils that wrap themselves around whatever they can get hold of, and beautiful flowers. There are two main varieties of passion fruit. The fruit is either yellow or purple depending on the variety, it is round in shape and has a smooth, thick, pithy rind, filled with sweet, aromatic pulp, juice and seeds.
+<update>In Sri Lanka, the purple variety (Passiflora edulis f. edulis) is more common, though the yellow variety (Passiflora edulis f. flavicarpa) is also grown. The fruits are round or oval, with a hard, waxy rind enclosing an aromatic pulp filled with small, edible seeds.</update>
 
 ## Planting requirements
-**Planting season:** <update>Year-round in most parts of Sri Lanka, but best planted at the onset of the rainy season (May-June or October-November)</update>
+**Planting season:** 
+Grows in warm climates
+<update>Year-round in most parts of Sri Lanka, but best planted at the onset of the rainy season (May-June or October-November)</update>
 
 ### Planting conditions:
 | **Propagation** | Extract seeds from the fruit and rub them between a sheet of sandpaper. Soak overnight for 12 hours. For germination, bury your seed in a container filled with a small amount of soil or seed-raising mix about an inch deep. When your seedling is roughly 4 inches high, re-pot your plant in a larger pot, around 6-8 inches in diameter. <update>In Sri Lanka, stem cuttings are also commonly used for propagation.</update> |
@@ -53,21 +71,24 @@ Passion fruit is a climbing vine with large, three lobed leaves, little tendrils
 | Weed control | Mulching helps control weeds. Hand-pull or use organic herbicides for persistent weeds.
 
 ## Harvesting:
+Fruits are ready for harvest 70 to 80 days after pollination, usually in mid to late summer and sometimes longer. Mature fruits can take up to 6 months.
 <update>In Sri Lanka, passion fruit can be harvested year-round, with peak seasons typically occurring twice a year. Fruits are ready when they turn from green to purple or yellow (depending on variety) and fall to the ground.</update>
 
 ## Curing:
 Passion fruit does not require curing. It can be eaten fresh or used in juices and desserts.
 
 ## Storage
-Store passion fruit at room temperature for up to a week, or refrigerate for up to two weeks. <update>In Sri Lanka's humid climate, refrigeration is recommended for longer storage. Local markets often sell freshly harvested fruits for immediate consumption.</update>
+ <update>Store passion fruit at room temperature for up to a week, or refrigerate for up to two weeks. In Sri Lanka's humid climate, refrigeration is recommended for longer storage. Local markets often sell freshly harvested fruits for immediate consumption.</update>
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** <update>Fruit flies, mealy bugs, scale insects, red spider mites</update>
+**Pest type:** 
+ Snails, Slugs**,** passion butterfly, nematodes
+<update>Fruit flies, mealy bugs, scale insects, red spider mites</update>
 
 **Symptoms:** Holes in leaves, fruit damage, wilting, <update>premature fruit drop</update>
 
-**Control method:** Remove diseased plant/fruit, cover the mature fruit with paper or a mesh, use organic pesticides for insects and neem oil for fungal diseases. <update>Implement integrated pest management techniques, including the use of pheromone traps for fruit flies.</update>
+**Control method:** Remove diseased plant/fruit, cover the mature fruit with paper or a mesh, <update>use organic pesticides for insects and neem oil for fungal diseases. Implement integrated pest management techniques, including the use of pheromone traps for fruit flies.</update>
 
 ### Disease Control
 **Disease type:** <update>Passion fruit woodiness virus, collar rot, brown spot</update>
