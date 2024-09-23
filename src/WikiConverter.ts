@@ -1,6 +1,7 @@
 import showdown from "showdown";
 import path from "path";
 import MarkdownToHtmlNav from "./markdownToHtmlNav";
+import ProcessTitles from "./utils/processTitles";
 
 // Define the interface for the wiki content
 type IWikiContent = {
@@ -98,7 +99,7 @@ class WikiConverter {
 		directory: string
 	) {
 		this.unformattedWikiContent = unformattedWikiContent;
-		this.wikiContent.title = this.capitalizeFirstLetter(title);
+		this.wikiContent.title = ProcessTitles.process(title);
 		this.wikiContent.directory = directory;
 	}
 
@@ -570,17 +571,6 @@ class WikiConverter {
 	</body>
 </html>
         `;
-	}
-
-	/** ========= UTILITY METHODS  ========= */
-
-	/**
-	 * Capitalizes first letter of a string
-	 * @param string
-	 * @returns
-	 */
-	private capitalizeFirstLetter(string: string) {
-		return string.charAt(0).toUpperCase() + string.slice(1);
 	}
 }
 

@@ -22,9 +22,13 @@ var __importStar = (this && this.__importStar) || function (mod) {
     __setModuleDefault(result, mod);
     return result;
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = __importStar(require("fs"));
 const path = __importStar(require("path"));
+const processTitles_1 = __importDefault(require("./utils/processTitles"));
 /**
  * Generates a navigation menu for a set of markdown files.
  * The navigation menu is generated based on the directory structure of the markdown files.
@@ -140,7 +144,7 @@ class MarkdownToHtmlNav {
         }
         else {
             console.log(item.name + " " + item.htmlPath);
-            return `<li><a href="${item.htmlPath}">${item.name}</a></li>`;
+            return `<li><a href="${item.htmlPath}">${processTitles_1.default.process(item.name)}</a></li>`;
         }
     }
 }

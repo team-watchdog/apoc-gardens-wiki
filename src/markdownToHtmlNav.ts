@@ -1,5 +1,6 @@
 import * as fs from "fs";
 import * as path from "path";
+import ProcessTitles from "./utils/processTitles";
 
 interface NavItem {
 	type: "directory" | "file";
@@ -141,7 +142,9 @@ class MarkdownToHtmlNav {
       `;
 		} else {
 			console.log(item.name + " " + item.htmlPath);
-			return `<li><a href="${item.htmlPath}">${item.name}</a></li>`;
+			return `<li><a href="${item.htmlPath}">${ProcessTitles.process(
+				item.name
+			)}</a></li>`;
 		}
 	}
 }

@@ -6,6 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const showdown_1 = __importDefault(require("showdown"));
 const path_1 = __importDefault(require("path"));
 const markdownToHtmlNav_1 = __importDefault(require("./markdownToHtmlNav"));
+const processTitles_1 = __importDefault(require("./utils/processTitles"));
 /**
  * This class will convert the markdown wiki content to a html template
  * @class WikiConverter
@@ -68,11 +69,12 @@ class WikiConverter {
             },
         };
         this.MARKDOWN_DIR = path_1.default.join(__dirname, "../public/markdown");
-        this.HTML_DIR = path_1.default.join(__dirname, "/");
+        this.HTML_DIR = path_1.default.join(__dirname, "");
         this.unformattedWikiContent = "";
         this.navHtml = "";
+        this.serverPrefix = process.env.SERVER_PREFIX || "";
         this.unformattedWikiContent = unformattedWikiContent;
-        this.wikiContent.title = this.capitalizeFirstLetter(title);
+        this.wikiContent.title = processTitles_1.default.process(title);
         this.wikiContent.directory = directory;
     }
     /**
@@ -134,7 +136,7 @@ class WikiConverter {
         // Extract general information
         this.extractAndSaveGeneralInformation(this.unformattedWikiContent);
         // Create the nav html
-        const markdownToHtmlNav = new markdownToHtmlNav_1.default(this.MARKDOWN_DIR, this.HTML_DIR, "/apoc-wiki-viewer");
+        const markdownToHtmlNav = new markdownToHtmlNav_1.default(this.MARKDOWN_DIR, this.HTML_DIR, this.serverPrefix);
         this.navHtml = markdownToHtmlNav.generateNav();
         return this.fitToHtmlTemplate(wikiContent);
     }
@@ -302,7 +304,7 @@ class WikiConverter {
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>${wikiContent.title}</title>
-		<link href="/apoc-wiki-viewer/styles/output.css" rel="stylesheet" />
+		<link href="${this.serverPrefix}/styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
 		<link
@@ -438,19 +440,10 @@ class WikiConverter {
 				</div>
 			</div>
 		</article>
-		<script src="/apoc-wiki-viewer/scripts/index.js"></script>
+		<script src="${this.serverPrefix}/scripts/index.js"></script>
 	</body>
 </html>
         `;
-    }
-    /** ========= UTILITY METHODS  ========= */
-    /**
-     * Capitalizes first letter of a string
-     * @param string
-     * @returns
-     */
-    capitalizeFirstLetter(string) {
-        return string.charAt(0).toUpperCase() + string.slice(1);
     }
 }
 exports.default = WikiConverter;
