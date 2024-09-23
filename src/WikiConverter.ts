@@ -424,7 +424,7 @@ class WikiConverter {
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>${this.wikiContent.title}</title>
+		<title>${wikiContent.title}</title>
 		<link href="/apoc-wiki-viewer/styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
