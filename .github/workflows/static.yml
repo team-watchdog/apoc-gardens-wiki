@@ -37,11 +37,8 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Rename files with invalid characters
-        run: |
-          find ./public -name "*:*" | while read file; do
-            mv "$file" "$(echo $file | tr ':' '_')"
-          done
+      - name: Start script
+        run: npm run start
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v3
