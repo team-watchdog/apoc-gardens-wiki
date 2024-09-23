@@ -38,8 +38,7 @@ Cilantro and coriander come from one and the same plant, and is an aromatic herb
 
 | **Temperatures** | Thrives well in temperatures between 17° to 27°C <update>In Sri Lanka, it grows best during the cooler months but can be grown year-round with proper care</update> |
 |----|----|
-| Soil | Mulching is needed to prevent the soil from drying out. Coriander does not need additional nutrients and keep around the plant regularly weeded.
-Keep soil consistently moist but not waterlogged |
+| Soil | Mulching is needed to prevent the soil from drying out. Coriander does not need additional nutrients and keep around the plant regularly weeded. Keep soil consistently moist but not waterlogged |
 | Water | Water the seedlings regularly throughout the growing season. Needs about about 1 inch of water per week for best growth.<update>In dry zones of Sri Lanka, more frequent watering may be necessary</update> |
 | Pruning | Pinch back flower stalks to encourage bushier growth and more leaves |
 | Weed control | Regularly weed around the plant |
