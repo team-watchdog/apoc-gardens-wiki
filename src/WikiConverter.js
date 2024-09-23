@@ -1,7 +1,9 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
+var __importDefault =
+	(this && this.__importDefault) ||
+	function (mod) {
+		return mod && mod.__esModule ? mod : { default: mod };
+	};
 Object.defineProperty(exports, "__esModule", { value: true });
 const showdown_1 = __importDefault(require("showdown"));
 const path_1 = __importDefault(require("path"));
@@ -37,272 +39,334 @@ const markdownToHtmlNav_1 = __importDefault(require("./markdownToHtmlNav"));
  * This class only works for a specific markdown format. It extracts different sections from the markdown content and converts them to html.
  */
 class WikiConverter {
-    /** ========= PUBLIC METHODS  ========= */
-    /**
-     * Creates an instance of WikiConverter.
-     * @param unformattedWikiContent
-     * @param title
-     * @param directory
-     */
-    constructor(unformattedWikiContent, title, directory) {
-        this.wikiContent = {
-            title: "",
-            directory: "",
-            content: {
-                generalInformation: "",
-                difficultyRating: [
-                    {
-                        zone: "",
-                        difficulty: 0,
-                        description: "",
-                    },
-                ],
-                companionPlants: "",
-                nonCompanionPlants: "",
-                description: "",
-                plantRequirements: "",
-                harvesting: "",
-                curing: "",
-                storage: "",
-                protectingYourPlants: "",
-            },
-        };
-        this.MARKDOWN_DIR = path_1.default.join(__dirname, "../public/markdown");
-        this.HTML_DIR = path_1.default.join(__dirname, "../public/pages");
-        this.unformattedWikiContent = "";
-        this.navHtml = "";
-        this.unformattedWikiContent = unformattedWikiContent;
-        this.wikiContent.title = this.capitalizeFirstLetter(title);
-        this.wikiContent.directory = directory;
-    }
-    /**
-     * This method will set the markdown directory
-     * @param markdownDir
-     */
-    setMarkdownDir(markdownDir) {
-        this.MARKDOWN_DIR = markdownDir;
-    }
-    /**
-     * This method will set the html directory
-     * @param htmlDir
-     */
-    setHtmlDir(htmlDir) {
-        this.HTML_DIR = htmlDir;
-    }
-    /**
-     * This method will convert the json wiki content to a html template
-     * @param markDown
-     * @returns
-     */
-    process() {
-        const wikiContent = this.wikiContent;
-        // Extract the description
-        const description = this.extractSection(this.unformattedWikiContent, "Description", "##");
-        if (description) {
-            wikiContent.content.description =
-                this.htmlToMarkdownConverter(description);
-        }
-        // Extract the plant requirements
-        const plantRequirements = this.extractSection(this.unformattedWikiContent, "Planting requirements", "##");
-        if (plantRequirements) {
-            wikiContent.content.plantRequirements =
-                this.htmlToMarkdownConverter(plantRequirements);
-        }
-        // Extract the harvesting
-        const harvesting = this.extractSection(this.unformattedWikiContent, "Harvesting", "##");
-        if (harvesting) {
-            wikiContent.content.harvesting = this.htmlToMarkdownConverter(harvesting);
-        }
-        // Extract the curing
-        const curing = this.extractSection(this.unformattedWikiContent, "Curing", "##");
-        if (curing) {
-            wikiContent.content.curing = this.htmlToMarkdownConverter(curing);
-        }
-        // Extract the storage
-        const storage = this.extractSection(this.unformattedWikiContent, "Storage", "##");
-        if (storage) {
-            wikiContent.content.storage = this.htmlToMarkdownConverter(storage);
-        }
-        // Extract the protecting your plants
-        const protectingYourPlants = this.extractSection(this.unformattedWikiContent, "Protecting your plants", "##");
-        if (protectingYourPlants) {
-            wikiContent.content.protectingYourPlants =
-                this.htmlToMarkdownConverter(protectingYourPlants);
-        }
-        // Extract the difficulty rating
-        this.extractAndSaveDifficultyRating(this.unformattedWikiContent);
-        // Extract general information
-        this.extractAndSaveGeneralInformation(this.unformattedWikiContent);
-        // Create the nav html
-        const markdownToHtmlNav = new markdownToHtmlNav_1.default(this.MARKDOWN_DIR, this.HTML_DIR, "public/pages");
-        this.navHtml = markdownToHtmlNav.generateNav();
-        return this.fitToHtmlTemplate(wikiContent);
-    }
-    /** ========= PRIVATE METHODS  ========= */
-    /**
-     *  This method will extract a section from the markdown content. This is used to extract the default case of sections
-     * @param markdown
-     * @param sectionName
-     * @param sectionType
-     * @returns
-     */
-    extractSection(markdown, sectionName, sectionType) {
-        var _a;
-        const sectionStart = markdown.indexOf(`${sectionType} ${sectionName}`);
-        if (sectionStart === -1) {
-            return null;
-        }
-        // Find the start of the content (after the header)
-        const contentStart = markdown.indexOf("\n", sectionStart) + 1;
-        // Find the next section of the same type
-        const nextSectionRegex = new RegExp(`^${sectionType} `, "m");
-        const nextSectionMatch = markdown
-            .slice(contentStart)
-            .match(nextSectionRegex);
-        const sectionEnd = nextSectionMatch
-            ? contentStart + ((_a = nextSectionMatch === null || nextSectionMatch === void 0 ? void 0 : nextSectionMatch.index) !== null && _a !== void 0 ? _a : markdown.length)
-            : markdown.length;
-        const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
-        return sectionContent;
-    }
-    /**
-     * This method will extract the general information, companion plants and non-companion plants from the markdown content and save it to the wikiContent object
-     * @param markdown
-     * @returns
-     */
-    extractAndSaveGeneralInformation(markdown) {
-        var _a;
-        const sectionStart = markdown.indexOf("## General Information");
-        if (sectionStart === -1) {
-            return "";
-        }
-        const contentStart = markdown.indexOf("\n", sectionStart) + 1;
-        const nextSectionRegex = new RegExp("^## ", "m");
-        const nextSectionMatch = markdown
-            .slice(contentStart)
-            .match(nextSectionRegex);
-        const sectionEnd = nextSectionMatch
-            ? contentStart + ((_a = nextSectionMatch === null || nextSectionMatch === void 0 ? void 0 : nextSectionMatch.index) !== null && _a !== void 0 ? _a : markdown.length)
-            : markdown.length;
-        const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
-        const companionPlantsRegex = /^\s*\*{0,2}Companion\s+plants\s*:?\*{0,2}/im;
-        const nonCompanionPlantsRegex = /^\s*\*{0,2}Non-companion\s+plants\s*:?\*{0,2}/im;
-        const startOfCompanionPlants = sectionContent.search(companionPlantsRegex);
-        const startOfNonCompanionPlants = sectionContent.search(nonCompanionPlantsRegex);
-        const generalInformation = sectionContent
-            .substring(0, startOfCompanionPlants !== -1
-            ? startOfCompanionPlants
-            : sectionContent.length)
-            .trim();
-        this.wikiContent.content.generalInformation =
-            this.htmlToMarkdownConverter(generalInformation);
-        let companionPlants = "";
-        if (startOfCompanionPlants !== -1) {
-            companionPlants = sectionContent
-                .substring(startOfCompanionPlants, startOfNonCompanionPlants !== -1
-                ? startOfNonCompanionPlants
-                : sectionContent.length)
-                .replace(companionPlantsRegex, "")
-                .trim();
-        }
-        this.wikiContent.content.companionPlants =
-            this.htmlToMarkdownConverter(companionPlants);
-        let nonCompanionPlants = "";
-        if (startOfNonCompanionPlants !== -1) {
-            nonCompanionPlants = sectionContent
-                .substring(startOfNonCompanionPlants)
-                .replace(nonCompanionPlantsRegex, "")
-                .trim();
-        }
-        this.wikiContent.content.nonCompanionPlants =
-            this.htmlToMarkdownConverter(nonCompanionPlants);
-    }
-    /**
-     * This method will extract the difficulty rating from the markdown content and save it to the wikiContent object
-     * @param markdown
-     * @returns
-     */
-    extractAndSaveDifficultyRating(markdown) {
-        var _a;
-        const sectionStart = markdown.indexOf("## Difficulty Rating");
-        if (sectionStart === -1) {
-            return "";
-        }
-        const contentStart = markdown.indexOf("\n", sectionStart) + 1;
-        const nextSectionRegex = new RegExp("^## ", "m");
-        const nextSectionMatch = markdown
-            .slice(contentStart)
-            .match(nextSectionRegex);
-        const sectionEnd = nextSectionMatch
-            ? contentStart + ((_a = nextSectionMatch === null || nextSectionMatch === void 0 ? void 0 : nextSectionMatch.index) !== null && _a !== void 0 ? _a : markdown.length)
-            : markdown.length;
-        const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
-        const difficultyRating = this.convertMarkdownToDifficultyRating(sectionContent);
-        this.wikiContent.content.difficultyRating = difficultyRating;
-        return sectionContent;
-    }
-    /**
-     * This method will convert the markdown difficulty rating to a json object
-     * @param markdown
-     * @returns
-     */
-    convertMarkdownToDifficultyRating(markdown) {
-        const sections = markdown.split(/(?=###)/);
-        return sections.map((section) => {
-            var _a;
-            const [header, ...content] = section
-                .split("\n")
-                .filter((line) => line.trim() !== "");
-            const zone = header.replace("### ", "").split(" (")[0].trim();
-            const difficulty = parseInt(((_a = header.match(/Difficulty: (\d+)\/10/)) === null || _a === void 0 ? void 0 : _a[1]) || "0");
-            const description = this.htmlToMarkdownConverter(content.join("\n").trim());
-            return {
-                zone,
-                difficulty,
-                description,
-            };
-        });
-    }
-    /**
-     * This method will convert the markdown content to html. Uses showdown library for the conversion
-     * @param markdown
-     * @returns html
-     */
-    htmlToMarkdownConverter(markdown) {
-        const converter = new showdown_1.default.Converter();
-        converter.setFlavor("github");
-        converter.setOption("tables", true);
-        converter.setOption("headerLevelStart", 0);
-        const html = converter.makeHtml(markdown);
-        return html;
-    }
-    /**
-     * This method will create a star rating based on the difficulty value
-     * @param difficulty
-     * @returns
-     */
-    createStarRating(difficulty) {
-        let difficultyRating = "☆☆☆☆☆";
-        let difficultyValue = Math.round(difficulty / 2);
-        for (let i = 0; i < difficultyValue; i++) {
-            difficultyRating = difficultyRating.replace("☆", "★");
-        }
-        return difficultyRating;
-    }
-    /**
-     * This method will convert the json wiki content to a html template
-     * @param markDown
-     * @returns
-     */
-    fitToHtmlTemplate(wikiContent) {
-        return `
+	/** ========= PUBLIC METHODS  ========= */
+	/**
+	 * Creates an instance of WikiConverter.
+	 * @param unformattedWikiContent
+	 * @param title
+	 * @param directory
+	 */
+	constructor(unformattedWikiContent, title, directory) {
+		this.wikiContent = {
+			title: "",
+			directory: "",
+			content: {
+				generalInformation: "",
+				difficultyRating: [
+					{
+						zone: "",
+						difficulty: 0,
+						description: "",
+					},
+				],
+				companionPlants: "",
+				nonCompanionPlants: "",
+				description: "",
+				plantRequirements: "",
+				harvesting: "",
+				curing: "",
+				storage: "",
+				protectingYourPlants: "",
+			},
+		};
+		this.MARKDOWN_DIR = path_1.default.join(__dirname, "../public/markdown");
+		this.HTML_DIR = path_1.default.join(__dirname, "/");
+		this.unformattedWikiContent = "";
+		this.navHtml = "";
+		this.unformattedWikiContent = unformattedWikiContent;
+		this.wikiContent.title = this.capitalizeFirstLetter(title);
+		this.wikiContent.directory = directory;
+	}
+	/**
+	 * This method will set the markdown directory
+	 * @param markdownDir
+	 */
+	setMarkdownDir(markdownDir) {
+		this.MARKDOWN_DIR = markdownDir;
+	}
+	/**
+	 * This method will set the html directory
+	 * @param htmlDir
+	 */
+	setHtmlDir(htmlDir) {
+		this.HTML_DIR = htmlDir;
+	}
+	/**
+	 * This method will convert the json wiki content to a html template
+	 * @param markDown
+	 * @returns
+	 */
+	process() {
+		const wikiContent = this.wikiContent;
+		// Extract the description
+		const description = this.extractSection(
+			this.unformattedWikiContent,
+			"Description",
+			"##"
+		);
+		if (description) {
+			wikiContent.content.description =
+				this.htmlToMarkdownConverter(description);
+		}
+		// Extract the plant requirements
+		const plantRequirements = this.extractSection(
+			this.unformattedWikiContent,
+			"Planting requirements",
+			"##"
+		);
+		if (plantRequirements) {
+			wikiContent.content.plantRequirements =
+				this.htmlToMarkdownConverter(plantRequirements);
+		}
+		// Extract the harvesting
+		const harvesting = this.extractSection(
+			this.unformattedWikiContent,
+			"Harvesting",
+			"##"
+		);
+		if (harvesting) {
+			wikiContent.content.harvesting = this.htmlToMarkdownConverter(harvesting);
+		}
+		// Extract the curing
+		const curing = this.extractSection(
+			this.unformattedWikiContent,
+			"Curing",
+			"##"
+		);
+		if (curing) {
+			wikiContent.content.curing = this.htmlToMarkdownConverter(curing);
+		}
+		// Extract the storage
+		const storage = this.extractSection(
+			this.unformattedWikiContent,
+			"Storage",
+			"##"
+		);
+		if (storage) {
+			wikiContent.content.storage = this.htmlToMarkdownConverter(storage);
+		}
+		// Extract the protecting your plants
+		const protectingYourPlants = this.extractSection(
+			this.unformattedWikiContent,
+			"Protecting your plants",
+			"##"
+		);
+		if (protectingYourPlants) {
+			wikiContent.content.protectingYourPlants =
+				this.htmlToMarkdownConverter(protectingYourPlants);
+		}
+		// Extract the difficulty rating
+		this.extractAndSaveDifficultyRating(this.unformattedWikiContent);
+		// Extract general information
+		this.extractAndSaveGeneralInformation(this.unformattedWikiContent);
+		// Create the nav html
+		const markdownToHtmlNav = new markdownToHtmlNav_1.default(
+			this.MARKDOWN_DIR,
+			this.HTML_DIR,
+			"/apoc-wiki-viewer"
+		);
+		this.navHtml = markdownToHtmlNav.generateNav();
+		return this.fitToHtmlTemplate(wikiContent);
+	}
+	/** ========= PRIVATE METHODS  ========= */
+	/**
+	 *  This method will extract a section from the markdown content. This is used to extract the default case of sections
+	 * @param markdown
+	 * @param sectionName
+	 * @param sectionType
+	 * @returns
+	 */
+	extractSection(markdown, sectionName, sectionType) {
+		var _a;
+		const sectionStart = markdown.indexOf(`${sectionType} ${sectionName}`);
+		if (sectionStart === -1) {
+			return null;
+		}
+		// Find the start of the content (after the header)
+		const contentStart = markdown.indexOf("\n", sectionStart) + 1;
+		// Find the next section of the same type
+		const nextSectionRegex = new RegExp(`^${sectionType} `, "m");
+		const nextSectionMatch = markdown
+			.slice(contentStart)
+			.match(nextSectionRegex);
+		const sectionEnd = nextSectionMatch
+			? contentStart +
+			  ((_a =
+					nextSectionMatch === null || nextSectionMatch === void 0
+						? void 0
+						: nextSectionMatch.index) !== null && _a !== void 0
+					? _a
+					: markdown.length)
+			: markdown.length;
+		const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
+		return sectionContent;
+	}
+	/**
+	 * This method will extract the general information, companion plants and non-companion plants from the markdown content and save it to the wikiContent object
+	 * @param markdown
+	 * @returns
+	 */
+	extractAndSaveGeneralInformation(markdown) {
+		var _a;
+		const sectionStart = markdown.indexOf("## General Information");
+		if (sectionStart === -1) {
+			return "";
+		}
+		const contentStart = markdown.indexOf("\n", sectionStart) + 1;
+		const nextSectionRegex = new RegExp("^## ", "m");
+		const nextSectionMatch = markdown
+			.slice(contentStart)
+			.match(nextSectionRegex);
+		const sectionEnd = nextSectionMatch
+			? contentStart +
+			  ((_a =
+					nextSectionMatch === null || nextSectionMatch === void 0
+						? void 0
+						: nextSectionMatch.index) !== null && _a !== void 0
+					? _a
+					: markdown.length)
+			: markdown.length;
+		const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
+		const companionPlantsRegex = /^\s*\*{0,2}Companion\s+plants\s*:?\*{0,2}/im;
+		const nonCompanionPlantsRegex =
+			/^\s*\*{0,2}Non-companion\s+plants\s*:?\*{0,2}/im;
+		const startOfCompanionPlants = sectionContent.search(companionPlantsRegex);
+		const startOfNonCompanionPlants = sectionContent.search(
+			nonCompanionPlantsRegex
+		);
+		const generalInformation = sectionContent
+			.substring(
+				0,
+				startOfCompanionPlants !== -1
+					? startOfCompanionPlants
+					: sectionContent.length
+			)
+			.trim();
+		this.wikiContent.content.generalInformation =
+			this.htmlToMarkdownConverter(generalInformation);
+		let companionPlants = "";
+		if (startOfCompanionPlants !== -1) {
+			companionPlants = sectionContent
+				.substring(
+					startOfCompanionPlants,
+					startOfNonCompanionPlants !== -1
+						? startOfNonCompanionPlants
+						: sectionContent.length
+				)
+				.replace(companionPlantsRegex, "")
+				.trim();
+		}
+		this.wikiContent.content.companionPlants =
+			this.htmlToMarkdownConverter(companionPlants);
+		let nonCompanionPlants = "";
+		if (startOfNonCompanionPlants !== -1) {
+			nonCompanionPlants = sectionContent
+				.substring(startOfNonCompanionPlants)
+				.replace(nonCompanionPlantsRegex, "")
+				.trim();
+		}
+		this.wikiContent.content.nonCompanionPlants =
+			this.htmlToMarkdownConverter(nonCompanionPlants);
+	}
+	/**
+	 * This method will extract the difficulty rating from the markdown content and save it to the wikiContent object
+	 * @param markdown
+	 * @returns
+	 */
+	extractAndSaveDifficultyRating(markdown) {
+		var _a;
+		const sectionStart = markdown.indexOf("## Difficulty Rating");
+		if (sectionStart === -1) {
+			return "";
+		}
+		const contentStart = markdown.indexOf("\n", sectionStart) + 1;
+		const nextSectionRegex = new RegExp("^## ", "m");
+		const nextSectionMatch = markdown
+			.slice(contentStart)
+			.match(nextSectionRegex);
+		const sectionEnd = nextSectionMatch
+			? contentStart +
+			  ((_a =
+					nextSectionMatch === null || nextSectionMatch === void 0
+						? void 0
+						: nextSectionMatch.index) !== null && _a !== void 0
+					? _a
+					: markdown.length)
+			: markdown.length;
+		const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
+		const difficultyRating =
+			this.convertMarkdownToDifficultyRating(sectionContent);
+		this.wikiContent.content.difficultyRating = difficultyRating;
+		return sectionContent;
+	}
+	/**
+	 * This method will convert the markdown difficulty rating to a json object
+	 * @param markdown
+	 * @returns
+	 */
+	convertMarkdownToDifficultyRating(markdown) {
+		const sections = markdown.split(/(?=###)/);
+		return sections.map((section) => {
+			var _a;
+			const [header, ...content] = section
+				.split("\n")
+				.filter((line) => line.trim() !== "");
+			const zone = header.replace("### ", "").split(" (")[0].trim();
+			const difficulty = parseInt(
+				((_a = header.match(/Difficulty: (\d+)\/10/)) === null || _a === void 0
+					? void 0
+					: _a[1]) || "0"
+			);
+			const description = this.htmlToMarkdownConverter(
+				content.join("\n").trim()
+			);
+			return {
+				zone,
+				difficulty,
+				description,
+			};
+		});
+	}
+	/**
+	 * This method will convert the markdown content to html. Uses showdown library for the conversion
+	 * @param markdown
+	 * @returns html
+	 */
+	htmlToMarkdownConverter(markdown) {
+		const converter = new showdown_1.default.Converter();
+		converter.setFlavor("github");
+		converter.setOption("tables", true);
+		converter.setOption("headerLevelStart", 0);
+		const html = converter.makeHtml(markdown);
+		return html;
+	}
+	/**
+	 * This method will create a star rating based on the difficulty value
+	 * @param difficulty
+	 * @returns
+	 */
+	createStarRating(difficulty) {
+		let difficultyRating = "☆☆☆☆☆";
+		let difficultyValue = Math.round(difficulty / 2);
+		for (let i = 0; i < difficultyValue; i++) {
+			difficultyRating = difficultyRating.replace("☆", "★");
+		}
+		return difficultyRating;
+	}
+	/**
+	 * This method will convert the json wiki content to a html template
+	 * @param markDown
+	 * @returns
+	 */
+	fitToHtmlTemplate(wikiContent) {
+		return `
         <!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Document</title>
-		<link href="../../styles/output.css" rel="stylesheet" />
+		<title>${this.wikiContent.title}</title>
+		<link href="/apoc-wiki-viewer/styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
 		<link
@@ -386,19 +450,23 @@ class WikiConverter {
 					<h2>Difficulty rating</h2>
 					<div class="difficulty-container">
                         ${wikiContent.content.difficultyRating
-            .map((rating) => `
+													.map(
+														(rating) => `
                             <div class="difficulty-item-container">
                                 <div class="overview collapsible">
                                     <p class="font-bold">${rating.zone}</p>
                                     <p class="difficulty-tag">Difficulty:</p>
-                                    <p class="stars">${this.createStarRating(rating.difficulty)}</p>
+                                    <p class="stars">${this.createStarRating(
+																			rating.difficulty
+																		)}</p>
                                 </div>
                                 <div class="content">
                                     ${rating.description}
                                 </div>
                             </div>
-                        `)
-            .join("")}
+                        `
+													)
+													.join("")}
 					</div>
 				</div>
 				<hr />
@@ -438,19 +506,19 @@ class WikiConverter {
 				</div>
 			</div>
 		</article>
-		<script src="../../scripts/index.js"></script>
+		<script src="/apoc-wiki-viewer/scripts/index.js"></script>
 	</body>
 </html>
         `;
-    }
-    /** ========= UTILITY METHODS  ========= */
-    /**
-     * Capitalizes first letter of a string
-     * @param string
-     * @returns
-     */
-    capitalizeFirstLetter(string) {
-        return string.charAt(0).toUpperCase() + string.slice(1);
-    }
+	}
+	/** ========= UTILITY METHODS  ========= */
+	/**
+	 * Capitalizes first letter of a string
+	 * @param string
+	 * @returns
+	 */
+	capitalizeFirstLetter(string) {
+		return string.charAt(0).toUpperCase() + string.slice(1);
+	}
 }
 exports.default = WikiConverter;

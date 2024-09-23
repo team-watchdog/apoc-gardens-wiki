@@ -40,7 +40,7 @@ function convertMarkdownToHtml(sourcePath, destPath) {
         const stats = fs.statSync(sourceFilePath);
         if (stats.isDirectory()) {
             // Recursively process subdirectories
-            const newDestPath = path.join(destPath, file);
+            const newDestPath = path.join(destPath, file).toLocaleLowerCase();
             convertMarkdownToHtml(sourceFilePath, newDestPath);
         }
         else if (path.extname(file).toLowerCase() === ".md") {
@@ -55,7 +55,7 @@ function convertMarkdownToHtml(sourcePath, destPath) {
 }
 function main() {
     const MARKDOWN_DIR = path.join(__dirname, "../public/markdown");
-    const HTML_DIR = path.join(__dirname, "../public/pages");
+    const HTML_DIR = path.join(__dirname, "../public");
     convertMarkdownToHtml(MARKDOWN_DIR, HTML_DIR);
 }
 main();

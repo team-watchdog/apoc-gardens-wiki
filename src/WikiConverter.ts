@@ -79,7 +79,7 @@ class WikiConverter {
 		},
 	};
 	private MARKDOWN_DIR = path.join(__dirname, "../public/markdown");
-	private HTML_DIR = path.join(__dirname, "../public/pages");
+	private HTML_DIR = path.join(__dirname, "/");
 	private unformattedWikiContent: string = "";
 	private navHtml: string = "";
 
@@ -204,7 +204,7 @@ class WikiConverter {
 		const markdownToHtmlNav = new MarkdownToHtmlNav(
 			this.MARKDOWN_DIR,
 			this.HTML_DIR,
-			"public/pages"
+			"/apoc-wiki-viewer"
 		);
 		this.navHtml = markdownToHtmlNav.generateNav();
 
@@ -424,8 +424,8 @@ class WikiConverter {
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Document</title>
-		<link href="../../styles/output.css" rel="stylesheet" />
+		<title>${this.wikiContent.title}</title>
+		<link href="/apoc-wiki-viewer/styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
 		<link
@@ -565,7 +565,7 @@ class WikiConverter {
 				</div>
 			</div>
 		</article>
-		<script src="../../scripts/index.js"></script>
+		<script src="/apoc-wiki-viewer/scripts/index.js"></script>
 	</body>
 </html>
         `;

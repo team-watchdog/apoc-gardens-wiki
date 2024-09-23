@@ -16,7 +16,7 @@ function convertMarkdownToHtml(sourcePath: string, destPath: string): void {
 
 		if (stats.isDirectory()) {
 			// Recursively process subdirectories
-			const newDestPath = path.join(destPath, file);
+			const newDestPath = path.join(destPath, file).toLocaleLowerCase();
 			convertMarkdownToHtml(sourceFilePath, newDestPath);
 		} else if (path.extname(file).toLowerCase() === ".md") {
 			// Process markdown files
@@ -38,7 +38,7 @@ function convertMarkdownToHtml(sourcePath: string, destPath: string): void {
 
 function main(): void {
 	const MARKDOWN_DIR = path.join(__dirname, "../public/markdown");
-	const HTML_DIR = path.join(__dirname, "../public/pages");
+	const HTML_DIR = path.join(__dirname, "../public");
 
 	convertMarkdownToHtml(MARKDOWN_DIR, HTML_DIR);
 }

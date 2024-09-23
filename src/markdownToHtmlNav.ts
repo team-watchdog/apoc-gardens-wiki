@@ -50,11 +50,11 @@ class MarkdownToHtmlNav {
 	constructor(
 		markdownRootDir: string,
 		htmlRootDir: string,
-		prefixPath: string = ""
+		prefixPath: string = "/"
 	) {
 		this.markdownRootDir = markdownRootDir;
 		this.htmlRootDir = htmlRootDir;
-		this.prefixPath = prefixPath;
+		this.prefixPath = prefixPath.endsWith("/") ? prefixPath : prefixPath + "/";
 	}
 
 	/**
@@ -91,23 +91,24 @@ class MarkdownToHtmlNav {
 			if (dirent.isDirectory()) {
 				items.push({
 					type: "directory",
-					name: dirent.name.charAt(0).toUpperCase() + dirent.name.slice(1),
+					name: dirent.name,
 					children: this.processDirectory(fullPath),
 				});
 			} else if (dirent.isFile() && dirent.name.endsWith(".md")) {
 				const name = path.parse(dirent.name).name;
-				const relativePath = path.relative(this.markdownRootDir, fullPath);
-				const htmlRelativePath = path.join(
-					this.prefixPath,
-					relativePath.replace(".md", ".html")
-				);
+				const relativePath = path
+					.relative(this.markdownRootDir, fullPath)
+					.toLocaleLowerCase();
+
+				const htmlRelativePath = relativePath.replace(".md", ".html");
 				items.push({
 					type: "file",
 					name: name,
-					htmlPath: this.createRelativePath(htmlRelativePath),
+					htmlPath: this.createAbsolutePath(htmlRelativePath),
 				});
 			}
 		}
+
 		return items;
 	}
 
@@ -116,9 +117,9 @@ class MarkdownToHtmlNav {
 	 * @param htmlPath
 	 * @returns
 	 */
-	private createRelativePath(htmlPath: string): string {
-		// Ensure the path starts with '/' for root-relative paths
-		return "/" + htmlPath.replace(/\\/g, "/");
+	private createAbsolutePath(htmlPath: string): string {
+		// Ensure the path starts with the prefix and uses forward slashes
+		return path.join(this.prefixPath, htmlPath).replace(/\\/g, "/");
 	}
 
 	private renderNavItem(item: NavItem): string {
@@ -139,6 +140,7 @@ class MarkdownToHtmlNav {
         </div>
       `;
 		} else {
+			console.log(item.name + " " + item.htmlPath);
 			return `<li><a href="${item.htmlPath}">${item.name}</a></li>`;
 		}
 	}
