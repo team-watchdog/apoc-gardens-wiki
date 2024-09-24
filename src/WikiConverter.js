@@ -192,7 +192,7 @@ class WikiConverter {
         const title = match[3];
         // Remove ../.. from the src using regex
         const srcRegex = /\.\.\//g;
-        const srcPath = "/" + this.serverPrefix + src.replace(srcRegex, "");
+        const srcPath = this.serverPrefix + "/" + src.replace(srcRegex, "");
         const image = `<figure>
 					<img src="${srcPath}" alt="${alt}" title="${title}" />
 					<figcaption>${title}</figcaption>
