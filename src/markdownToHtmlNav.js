@@ -143,7 +143,6 @@ class MarkdownToHtmlNav {
       `;
         }
         else {
-            console.log(item.name + " " + item.htmlPath);
             return `<li><a href="${item.htmlPath}">${processTitles_1.default.process(item.name)}</a></li>`;
         }
     }

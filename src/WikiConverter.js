@@ -50,6 +50,7 @@ class WikiConverter {
             title: "",
             directory: "",
             content: {
+                image: "",
                 generalInformation: "",
                 difficultyRating: [
                     {
@@ -100,6 +101,8 @@ class WikiConverter {
         const wikiContent = this.wikiContent;
         // Extract the description
         const description = this.extractSection(this.unformattedWikiContent, "Description", "##");
+        // Extract the image
+        this.extractAndSaveImage(this.unformattedWikiContent);
         if (description) {
             wikiContent.content.description =
                 this.htmlToMarkdownConverter(description);
@@ -166,6 +169,35 @@ class WikiConverter {
             : markdown.length;
         const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
         return sectionContent;
+    }
+    /** this method will extract the starting image in the wiki entry and convert it to an image with attributes
+     * @param markdown
+     * @returns
+     */
+    extractAndSaveImage(markdown) {
+        const nextSectionRegex = new RegExp("^## ", "m");
+        const sectionEnd = markdown.search(nextSectionRegex);
+        const sectionContent = markdown.substring(0, sectionEnd).trim();
+        const imageRegex = /!\[.*\]\((.*)\)/;
+        const imageMatch = sectionContent.match(imageRegex);
+        if (!imageMatch)
+            return;
+        const imageMarkdown = imageMatch[0];
+        const regex = /!\[(.*?)\]\((.*?)\s"(.*?)"\)/;
+        const match = imageMarkdown.match(regex);
+        if (!match)
+            return;
+        const alt = match[1];
+        const src = match[2];
+        const title = match[3];
+        // Remove ../.. from the src using regex
+        const srcRegex = /\.\.\//g;
+        const srcPath = "/" + this.serverPrefix + src.replace(srcRegex, "");
+        const image = `<figure>
+					<img src="${srcPath}" alt="${alt}" title="${title}" />
+					<figcaption>${title}</figcaption>
+					</figure>`;
+        this.wikiContent.content.image = image;
     }
     /**
      * This method will extract the general information, companion plants and non-companion plants from the markdown content and save it to the wikiContent object
@@ -376,7 +408,7 @@ class WikiConverter {
 
 		<!-- This is the general information section -->
 		<article id="general-information-section">
-			<img src="assets/images/beetroot.png" alt="placeholder" />
+			${this.wikiContent.content.image}
 			<div class="info-container">
 				<h1>${wikiContent.title}</h1>
 				<div id="general-info">

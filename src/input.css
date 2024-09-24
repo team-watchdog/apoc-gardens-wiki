@@ -128,7 +128,11 @@
 	}
 
 	#general-information-section img {
-		@apply rounded-lg w-full aspect-video object-cover rounded-b-none;
+		@apply rounded-lg w-full aspect-video object-cover rounded-b-none mb-1;
+	}
+
+	#general-information-section figure {
+		@apply text-center text-xs text-secondary-300;
 	}
 
 	#general-information-section h1 {

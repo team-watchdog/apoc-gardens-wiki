@@ -8,13 +8,12 @@ class ProcessTitles {
 		title = title.toLowerCase();
 		title = title.replace("-", " ");
 		title = title.replace("_", " / ");
-		for (let i = 0; i < title.length; i++) {
-			if (title[i] === " ") {
-				title =
-					title.slice(0, i + 1) +
-					ProcessTitles.capitalizeFirstLetter(title.slice(i + 1));
-			}
+
+		const titleArray = title.split(" ");
+		for (let i = 0; i < titleArray.length; i++) {
+			titleArray[i] = this.capitalizeFirstLetter(titleArray[i]);
 		}
+		title = titleArray.join(" ");
 
 		return title;
 	}

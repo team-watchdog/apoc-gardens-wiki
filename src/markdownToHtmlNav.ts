@@ -141,7 +141,6 @@ class MarkdownToHtmlNav {
         </div>
       `;
 		} else {
-			console.log(item.name + " " + item.htmlPath);
 			return `<li><a href="${item.htmlPath}">${ProcessTitles.process(
 				item.name
 			)}</a></li>`;
