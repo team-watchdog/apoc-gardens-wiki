@@ -1,4 +1,5 @@
 # Ginger
+![Ginger.jpg](../../assets/images/Ginger.jpg "Forest & Kim Starr, CC BY 3.0 US <https://creativecommons.org/licenses/by/3.0/us/deed.en>, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Ginger

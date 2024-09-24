@@ -1,4 +1,5 @@
 # Rambutan
+![Rambutan.jpeg](../../assets/images/Rambutan.jpeg "Image - Muhammad Mahdi Karim, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Rambutan

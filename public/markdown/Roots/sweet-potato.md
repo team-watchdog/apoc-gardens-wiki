@@ -1,5 +1,6 @@
 # Sweet Potato
-[[sweet-potato]]
+![Sweet-Potato.jpeg](../../assets/images/Sweet-Potato.jpeg "By Llez - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10483011")
+
 ## General Information
 **Generic name:** Sweet Potato
 **Sri Lankan name:** Batala, Vel-kelengu

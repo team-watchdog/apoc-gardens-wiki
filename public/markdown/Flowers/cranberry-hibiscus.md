@@ -1,4 +1,5 @@
 # Cranberry Hibiscus
+![Cranberry-Hibiscus.jpg](../../assets/images/Cranberry-Hibiscus.jpg "Hermann Luyken, CC0, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Cranberry Hibiscus, African rosemallow

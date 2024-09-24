@@ -1,4 +1,5 @@
 # Watermelon
+![Watermelon.jpg](../../assets/images/Watermelon.jpg "By Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9534738")
 
 ## General Information
 **Generic name:** Citrullus lanatus

@@ -1,8 +1,5 @@
 # Thumba Karawila/Spiny Gourd
-
-![Thumba Karawila](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sivahari_-_Momordica_dioica.jpg/600px-Sivahari_-_Momordica_dioica.jpg)
-
-*Image - Sivahari, Wikimedia Commons*
+![Thumba-Karawila_Spiny-Gourd.jpeg](../../assets/images/Thumba-Karawila_Spiny-Gourd.jpeg "Image - Sivahari, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Spiny Gourd, Spine Gourd, Bristly Balsam Pear

@@ -1,5 +1,5 @@
 # Winged Bean
-
+![Winged-Bean.jpeg](../../assets/images/Winged-Bean.jpeg "Image - Anna Frodesiak, Wikimedia Commons")
 ## General Information
 **Generic name:** Winged Bean
 **Sri Lankan name:** Dambala (Sinhala),

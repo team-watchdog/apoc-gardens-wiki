@@ -1,4 +1,5 @@
 # Pineapple
+![Pineapple.jpeg](../../assets/images/Pineapple.jpeg "Image - David Adam Kess, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Pineapple

@@ -1,10 +1,11 @@
 # Pumpkin
+![Pumpkin.jpg](../../assets/images/Pumpkin.jpg "By Ringer - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59794869")
 
 ## General Information
 **Generic name:** Pumpkin, Winter Squash
 **Sri Lankan name:** Wattakka (Sinhala) Sorakka (Tamil)
 **Scientific name:** Cucurbita Maxima
-**Plant family:** <update>Cucurbitaceae</update>
+**Plant family:** Cucurbitaceae
 **Edible parts:** Most parts of the pumpkin are edible, including the fleshy shell, the seeds, and the leaves
 **Companion plants:**
 - Sweet corn

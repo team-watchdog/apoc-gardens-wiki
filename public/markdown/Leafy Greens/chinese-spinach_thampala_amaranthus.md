@@ -3,8 +3,8 @@
 ## General Information
 **Generic name:** Chinese Spinach, Amaranth
 **Sri Lankan names:** Thampala (Sinhala), Kuppaikkirai or Vakucakkirai (Tamil)
-**Scientific name:** <update>Amaranthus tricolor</update>
-**Plant family:** Amaranthaceae
+**Scientific name:** <update> _Amaranthus viridis_ </update>
+**Plant family:** _Amaranthaceae_
 **Edible parts:** Leaves are eaten as a green vegetable, after cooking.
 **Companion plants:**
 - Corn

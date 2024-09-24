@@ -1,4 +1,5 @@
 # Lemongrass
+![Lemongrass.jpg](../../assets/images/Lemongrass.jpg "Mokkie, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Lemongrass, Citronella

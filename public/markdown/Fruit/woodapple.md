@@ -1,4 +1,5 @@
 # Woodapple
+![Woodapple.jpg](../../assets/images/Woodapple.jpg "By Thamizhpparithi Maari - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100167197")
 
 ## General Information
 **Generic name:** Woodapple, Elephant apple

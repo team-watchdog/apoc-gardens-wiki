@@ -1,4 +1,5 @@
 # Pomegranate
+![Pomegranate.jpeg](../../assets/images/Pomegranate.jpeg "Image - Ivar Leidus, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Pomegranate

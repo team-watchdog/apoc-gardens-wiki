@@ -1,4 +1,5 @@
 # Yard Long Beans
+![Yard-Long-Beans.jpeg](../../assets/images/Yard-Long-Beans.jpeg "Image - Wikimedia Commons")
 
 ## General Information
 **Generic name:** Yardlong bean, pea bean, long-podded cowpea, Chinese long bean, snake bean, long bean

@@ -1,4 +1,5 @@
 # Potato
+![Potato.jpg](../../assets/images/Potato.jpg "ZooFari, Public domain, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Sweet Potato
@@ -11,7 +12,6 @@
 - Vitamins and minerals - Vitamin A, Vitamin C, Vitamin B6, potassium, manganese
 - Rich in fibre Fibre content: 3g per 100g</update>
 **Companion plants:**
->Companion plants aid growth by attracting beneficial insects, repelling pests, and providing support. They are part of a natural pest control system, maximising space and increasing crop productivity.
 <update>
 - Horseradish
 - Beans

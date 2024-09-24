@@ -1,4 +1,5 @@
 # Snake Gourd
+![Snake Gourd.jpeg](../../assets/images/Snake Gourd.jpeg "Image - Manojk, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Snake Gourd, Serpent gourd

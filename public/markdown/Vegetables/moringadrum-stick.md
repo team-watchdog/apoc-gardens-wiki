@@ -1,8 +1,5 @@
 # Moringa/Drum Stick
-
-![Moringa Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moringa_oleifera_-_Kumara_Dhaka.jpg/600px-Moringa_oleifera_-_Kumara_Dhaka.jpg)
-
-*Image - Krish Dulal, Wikimedia Commons*
+![Moringa_Drum-Stick.jpg](../../assets/images/Moringa_Drum-Stick.jpg "Mangosapiens, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Drumstick Tree, Horseradish tree

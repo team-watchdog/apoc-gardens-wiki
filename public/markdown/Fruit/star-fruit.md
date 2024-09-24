@@ -1,4 +1,5 @@
 # Star Fruit
+![Star-Fruit.jpg](../../assets/images/Star-Fruit.jpg "By Salil Kumar Mukherjee - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=142557198")
 
 ## General Information
 **Generic name:** Star fruit, Carambola

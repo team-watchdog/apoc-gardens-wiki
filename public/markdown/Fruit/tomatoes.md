@@ -1,4 +1,5 @@
 # Tomatoes
+![Tomatoes.jpeg](../../assets/images/Tomatoes.jpeg "Image - Filo gen, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Tomato, Garden Tomato

@@ -1,4 +1,5 @@
 # Sunflowers
+![Sunflower.jpg](../../assets/images/Sunflower.jpg "By Fir0002 - Own work, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=7613324")
 
 ## General Information
 **Generic name:** Sunflowers
@@ -16,8 +17,6 @@
 
 ## Description:
 The sunflower (Helianthus annuus), with its golden-yellow petals and large golden centre, is one of the cheeriest flowers to grow in the garden. There are several varieties of sunflowers.
-
-![Sunflower](/api/attachments.redirect?id=42d7c9a0-008d-467b-8a66-1eb30b65d7a2)
 
 ## Planting requirements
 **Planting season:** October to early November/March to April <update>In Sri Lanka, sunflowers can be planted during the Maha and Yala seasons.</update>

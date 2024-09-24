@@ -1,8 +1,5 @@
 # Rose Apple/Java Apple/Jambu
-
-![Rose Apple](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Syzygium_samarangense_-_Kandy,_Sri_Lanka.jpg/1200px-Syzygium_samarangense_-_Kandy,_Sri_Lanka.jpg)
-
-*Image - Chamil, Wikimedia Commons*
+![Rose-Apple_Java-Apple_Jambu.jpeg](../../assets/images/Rose-Apple_Java-Apple_Jambu.jpeg "Image - Hafiz Issadeen, Flickr")
 
 **General Information**
 

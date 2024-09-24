@@ -1,4 +1,5 @@
 # Radish
+![Radish.jpeg](../../assets/images/Radish.jpeg "Image - Thamizhpparithi Maari, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Radish

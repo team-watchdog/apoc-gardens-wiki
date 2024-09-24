@@ -1,4 +1,5 @@
 # Gas Nivithi
+![Gas-Nivithi.jpg](../../assets/images/Gas-Nivithi.jpg "Ronggy, Public domain, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Jewels-Of-Opar, Fame Flower, Pink Baby-Breath, Waterleaf

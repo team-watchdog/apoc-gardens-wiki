@@ -1,4 +1,5 @@
 # Garlic
+![Garlic.jpg](../../assets/images/Garlic.jpg "Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Allium sativum
