@@ -75,14 +75,20 @@ Average yield: 20 t/ha for OP varieties and 20-30 t/ha for hybrid variety <updat
 - Avoid movement of equipment from infected fields to non-infected field <update>Also, use organic pesticides such as neem oil or soap sprays for insect control.</update>
 
 ### Disease Control
-**Disease type:** [EMPTY]
+<update>**Disease type:** Fungal diseases (Powdery mildew, Downy mildew), Bacterial wilt, Viral diseases (Leaf Curl Virus, Cucumber Mosaic Virus)</update>
 
-**Symptoms:** [EMPTY]
+<update>**Symptoms:** Powdery white spots on leaves, yellowing and wilting of leaves, stunted growth, distorted fruits, and plant death in severe cases.</update>
 
-**Management:** [EMPTY]
+<update>**Management:**
+* Use disease-resistant varieties when available
+* Practice crop rotation with non-cucurbit crops
+* Ensure proper spacing for good air circulation
+* Remove and destroy infected plants promptly
+* Apply fungicides preventatively in high-risk conditions
+* Control insect vectors to prevent viral diseases
+* Maintain proper irrigation practices to avoid water stress\</update>
 
 ## Difficulty Rating
-
 ### Low country wet zone (Difficulty: 6/10)
 **Explanation:** <update>Bitter gourds can be challenging to grow in the wet zone due to high humidity and rainfall, which can increase the risk of fungal diseases.</update>
 

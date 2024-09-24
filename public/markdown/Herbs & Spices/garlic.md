@@ -81,26 +81,32 @@ Fork the garlic out of the ground when the stems dry up and dry them out for a f
 
 **Management:** Avoid overhead watering, rotate crops, use disease-resistant varieties. Apply fungicides if necessary.
 </update>
-## Difficulty Ratings 
 
-### 1. **Humid Tropical Lowland Zone**
-- *Difficulty Rating:* 5/10
-- *Explanation:* This zone has suitable temperatures (27-32°C) and high humidity, which are favorable for garlic growth. However, the heavy rainfall may lead to increased risk of diseases like white rot and basal rot. Regular monitoring and timely fungicide application would be necessary.
+## Difficulty Rating
+### Low country wet zone (Difficulty: 7/10)
+**Explanation:** The warm, humid conditions of the low country wet zone can be challenging for garlic cultivation.
+**Challenges/Adaptations:**
+- High humidity increases risk of fungal diseases
+- Requires well-draining soil to prevent waterlogging
+- May need to select softneck varieties more suited to warmer climates
 
-### 2. **Arid Intermediate Zone**
-- *Difficulty Rating:* 6/10
-- *Explanation:* This zone experiences hotter temperatures (32-40°C) and lower rainfall, which can cause water stress for garlic plants. Regular deep watering is crucial to maintain soil moisture. Additionally, the risk of pests like onion maggots may increase due to higher temperatures.
+### Low country dry zone (Difficulty: 6/10)
+**Explanation:** The warm, drier climate of the low country dry zone is more suitable for garlic, but irrigation is crucial.
+**Challenges/Adaptations:**
+- Requires regular irrigation, especially during dry spells
+- Mulching is essential to retain soil moisture and regulate temperature
+- Pest control, particularly for thrips and bulb mites, may be necessary
 
-### 3. **Wet Intermediate Zone**
-- *Difficulty Rating:* 4/10
-- *Explanation:* This zone has suitable temperatures (27-32°C) and high rainfall, which are favorable for garlic growth. However, the heavy rainfall may lead to increased risk of diseases like white rot and basal rot. Regular monitoring and timely fungicide application would be necessary.
+### Mid country (Difficulty: 5/10)
+**Explanation:** The moderate climate of the mid country provides relatively favorable conditions for garlic growth.
+**Challenges/Adaptations:**
+- May require some irrigation during dry periods
+- Attention to soil preparation and enrichment is important
+- Regular monitoring for pests and diseases is necessary
 
-### 4. **Humid Uplands Zone**
-- *Difficulty Rating:* 7/10
-- *Explanation:* This zone has cooler temperatures (18-26°C), which are below the optimal range for garlic growth. Garlic may require additional heat during the day and protection from cold nights. Additionally, the risk of pests like cutworms may increase due to cooler temperatures.
-
-**Key Challenges:**
-- Maintaining optimal soil moisture levels in all zones.
-- Controlling diseases like white rot and basal rot in humid zones.
-- Managing pests like onion maggots in hotter zones.
-- Providing additional heat for garlic plants in cooler upland zones.
+### Up country (Difficulty: 4/10)
+**Explanation:** The cooler temperatures of the up country are generally suitable for garlic cultivation.
+**Challenges/Adaptations:**
+- Longer growing season may be required due to cooler temperatures
+- Proper drainage is crucial to prevent waterlogging in areas with higher rainfall
+- Protection from frost may be necessary in some areas during colder months

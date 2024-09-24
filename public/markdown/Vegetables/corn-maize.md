@@ -1,5 +1,5 @@
 # Corn (Maize)
-<IMAGE>
+![Corn.jpg](../../assets/images/Corn.jpg "Ocdp, CC0, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Corn, Maize
