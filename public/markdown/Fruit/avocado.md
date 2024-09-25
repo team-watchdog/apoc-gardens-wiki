@@ -7,10 +7,9 @@
 **Scientific name:** Persea americana
 **Plant family:** Lauraceae
 **Edible parts:** Fruit
-<update>
+**Nutrition value:** Vitamin C, E, K and B6 as well as riboflavin, niacin, folate, pantothenic acid, magnesium, and potassium.
 **Other uses:**
 Avocado oil is used in cosmetics and soap making. Avocado leaves are used as a tea for medicinal purposes.
-</update>
 
 **Companion plants:**
 - Peanut
@@ -51,13 +50,12 @@ Its fruit is botanically a large berry containing a single large seed.
 ## Harvesting:
 Three to four years from a grafted tree. Avocado trees typically provide about 230-320 kilograms of fruit per year. The fruits ripen at different times, so harvest them as they become ripe.
 
-<update>
 ## Curing:
 Allow the avocados to ripen off the tree for about a week before consuming.
 
 ## Storage:
 Store ripe avocados in the refrigerator for up to three days. Unripe avocados can be stored at room temperature until ripe, then moved to the refrigerator.
-</update>
+
 ## Protecting your plants
 ### Pest control
 **Pest type:** Leaf deformity, leaf weevils, caterpillars, leaf beetles
@@ -102,7 +100,8 @@ Avocado trees are susceptible to root rot, anthracnose, and sunburn. Use fungici
 
 ## References for this entry
 ### Content Sources:
-- 
+- [Medical News Today](https://www.medicalnewstoday.com/articles/321543#eight-benefits-for-the-skin)
+- [Eating well](https://www.eatingwell.com/article/7825925/how-to-store-avocados/#:~:text=It's%20best%20to%20refrigerate%20an,produce%20drawer%20in%20the%20refrigerator.)
 
 ### Image Sources: (In order of appearance)
 - 
