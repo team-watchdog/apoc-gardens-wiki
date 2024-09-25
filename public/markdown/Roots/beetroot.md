@@ -24,9 +24,9 @@ Beetroot is a dark green leafed plant up to 20 cm tall and grows throughout the 
 **Planting season:** Mid-April to late June
 
 ### Planting conditions:
-| **Propagation** | Sow seeds ½-inch deep and 1 to 2 inches apart in rows that are about 12 to 18 inches apart. After sowing, cover the seeds with a thin layer of soil. |
+| **Propagation** | Plants are grown from seed.  They produce seeds in their second year of growth. Soak the seeds overnight for 24 hours before planting the next day. Can also replant the young plant. |
 |----|----|
-| Planting method | Need deep dug, rock free soil, fertilized, well drained soil. The beds should be fertilized normally, though adding a teaspoon of borax per thirty-two-square-foot bed is a good idea because beets are sensitive to boron deficiency. Adding compost will aid the process. |
+| Planting method | Sow seeds ½-inch deep and 1 to 2 inches apart in rows that are about 12 to 18 inches apart. After sowing, cover the seeds with a thin layer of soil. |
 | Soil | Need deep dug, rock free soil, fertilized, well drained soil. The beds should be fertilized normally, though adding a teaspoon of borax per thirty-two-square-foot bed is a good idea because beets are sensitive to boron deficiency. Adding compost will aid the process. |
 | Water | Need to water regularly to maintain moisture in soil. |
 | Light | Partial shade, Full sun |
