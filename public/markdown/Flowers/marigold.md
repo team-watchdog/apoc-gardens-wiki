@@ -54,9 +54,10 @@ Spring/Summer/Autumn 
 ## Harvesting:
 Flower within a few weeks of sowing. Marigolds sprout within a week in warm weather and plants typically produce blooms in about 8 weeks. <update>In Sri Lanka's tropical climate, flowering may occur even faster, sometimes within 6-7 weeks.</update>
 
-## Pest control
-**Pest type:** Spider mites, Aphids, Powdery mildew <update>, Thrips</update>
+## Protecting your plants
 
+### Pest control
+**Pest type:** Spider mites, Aphids, Powdery mildew <update>, Thrips</update>
 **Control method:** Spray insecticides, spray water and remove weed. Regularly monitor plants for signs of pests. Use organic or chemical sprays as needed. <update>In Sri Lanka, neem oil and garlic spray are popular organic pest control methods.</update>
 
 ## Difficulty Rating
