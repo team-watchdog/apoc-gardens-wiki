@@ -43,9 +43,9 @@ Its fruit is botanically a large berry containing a single large seed.
 
 | **Temperatures** | Under 30 degrees celsius |
 |----|----|
-| Soil | Keep soild well drained. |
+| Soil | Keep soil well drained. |
 | Water | Requires a moderate and regular supply of water, but it doesn't tolerate waterlogged soil. When the top layer of soil seems dry, water with small amounts of water and do not overwater the plant. Wilting leaves may be a sign of both too much and too little water. |
-| Pruning | Occasionally prune the tree but take care not to cut off fruit bearing twigs.<br>Prune in late winter or early spring. |
+| Pruning | Occasionally prune the tree but take care not to cut off fruit bearing twigs. |
 
 ## Harvesting:
 Three to four years from a grafted tree. Avocado trees typically provide about 230-320 kilograms of fruit per year. The fruits ripen at different times, so harvest them as they become ripe.
