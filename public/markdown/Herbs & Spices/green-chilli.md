@@ -34,6 +34,7 @@ Chilli is a spicy fruit used in cuisine preparations. It is mostly added as an i
 
 ## Planting requirements
 - Grows in warm humid climate
+
 **Planting season:** <update>Year-round in most parts of Sri Lanka, but best planted at the beginning of the monsoon seasons (May-June or September-October)</update>
 
 ### Planting conditions:
