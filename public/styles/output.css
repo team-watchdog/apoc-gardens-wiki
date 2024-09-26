@@ -722,11 +722,28 @@ ul {
   padding-left: 1rem;
 }
 
+ol {
+  list-style-type: decimal;
+  padding-left: 1rem;
+}
+
+iframe {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  width: 100%;
+  border-radius: 0.5rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
 #header-section {
   position: sticky;
   top: 1rem;
   margin-right: 1rem;
   height: 100%;
+  overflow-y: scroll;
   border-radius: 0.5rem;
   --tw-bg-opacity: 1;
   background-color: rgb(247 247 242 / var(--tw-bg-opacity));
@@ -784,6 +801,13 @@ ul {
 
 .crop-category {
   margin-bottom: 0.5rem;
+}
+
+.home-link {
+  margin-bottom: 1rem;
+  font-weight: 700;
+  --tw-text-opacity: 1;
+  color: rgb(6 43 35 / var(--tw-text-opacity));
 }
 
 #main-section {
@@ -1007,6 +1031,125 @@ ul {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+#first-principles {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  #first-principles {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  #first-principles {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #first-principles {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  #first-principles {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  #first-principles {
+    max-width: 1536px;
+  }
+}
+
+#first-principles {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+}
+
+#first-principles #header-section {
+  position: sticky;
+  top: 1rem;
+  margin-right: 1rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(247 247 242 / var(--tw-bg-opacity));
+  padding-top: 2rem;
+  flex: 1 1 auto;
+}
+
+@media (min-width: 1024px) {
+  #first-principles #header-section {
+    flex-basis: 20%;
+  }
+}
+
+#first-principles main {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  #first-principles main {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  #first-principles main {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #first-principles main {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  #first-principles main {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  #first-principles main {
+    max-width: 1536px;
+  }
+}
+
+#first-principles main {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  #first-principles main {
+    flex-basis: 80%;
+  }
+}
+
+#first-principles p {
+  margin-bottom: 0.5rem;
+  text-wrap: pretty;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  line-height: 1.625;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .static {
   position: static;
 }
@@ -1093,3 +1236,5 @@ ul {
 /** MAIN **/
 
 /** GENERAL INFORMATION **/
+
+/** First Principles **/

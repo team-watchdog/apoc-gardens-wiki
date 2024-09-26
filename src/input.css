@@ -9,6 +9,7 @@
 		@apply flex flex-col-reverse md:flex-row lg:flex-row;
 		@apply mx-auto p-4 font-body;
 	}
+
 	h1 {
 		@apply text-5xl font-bold text-primary-800 font-display mt-4;
 	}
@@ -60,15 +61,24 @@
 	td {
 		@apply border border-secondary-700 border-opacity-50 p-2;
 	}
+
 	ul {
 		@apply list-disc pl-4;
+	}
+
+	ol {
+		@apply list-decimal pl-4;
+	}
+
+	iframe {
+		@apply w-full h-auto aspect-video object-contain rounded-lg my-2;
 	}
 }
 
 /** HEADERS **/
 @layer components {
 	#header-section {
-		@apply rounded-lg bg-secondary-100 pt-8 sticky top-4 h-full mr-4;
+		@apply rounded-lg bg-secondary-100 pt-8 sticky top-4 h-full mr-4 overflow-y-scroll;
 		@apply flex-auto lg:basis-1/6;
 	}
 
@@ -96,6 +106,10 @@
 
 	.crop-category {
 		@apply mb-2;
+	}
+
+	.home-link {
+		@apply text-primary-900 font-bold mb-4;
 	}
 }
 
@@ -220,5 +234,27 @@
 	}
 	.content {
 		@apply hidden bg-secondary-100 rounded-lg p-4 transition-none duration-200 ease-in-out;
+	}
+}
+
+/** First Principles **/
+
+@layer components {
+	#first-principles {
+		@apply container mx-auto p-4;
+	}
+
+	#first-principles #header-section {
+		@apply rounded-lg bg-secondary-100 pt-8 sticky top-4 h-full mr-4;
+		@apply flex-auto lg:basis-1/5;
+	}
+
+	#first-principles main {
+		@apply container mx-auto p-4;
+		@apply md:basis-4/5 py-8 px-6 rounded-lg;
+	}
+
+	#first-principles p {
+		@apply text-pretty text-lg mb-2 antialiased leading-relaxed;
 	}
 }

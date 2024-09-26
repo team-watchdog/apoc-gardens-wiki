@@ -29,6 +29,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const path = __importStar(require("path"));
 const fs = __importStar(require("fs"));
 const WikiConverter_1 = __importDefault(require("./WikiConverter")); // Assuming this is the correct import
+const markdownToHtmlNav_1 = __importDefault(require("./markdownToHtmlNav"));
 function convertMarkdownToHtml(sourcePath, destPath) {
     // Create destination directory if it doesn't exist
     if (!fs.existsSync(destPath)) {
@@ -44,6 +45,9 @@ function convertMarkdownToHtml(sourcePath, destPath) {
             convertMarkdownToHtml(sourceFilePath, newDestPath);
         }
         else if (path.extname(file).toLowerCase() === ".md") {
+            if (path.basename(file) === "index.md") {
+                return;
+            }
             // Process markdown files
             const destFilePath = path.join(destPath, file.replace(".md", ".html"));
             const markdown = fs.readFileSync(sourceFilePath, "utf-8");
@@ -53,9 +57,50 @@ function convertMarkdownToHtml(sourcePath, destPath) {
         }
     });
 }
+function convertIndexHtml(markdownPath, htmlPath) {
+    const indexFilePath = path.join(htmlPath, "index.html");
+    const tempFilePath = path.join(htmlPath, "index.temp.html");
+    const navGenerator = new markdownToHtmlNav_1.default(markdownPath, htmlPath);
+    const navHtml = navGenerator.generateNav();
+    const navRegex = /<nav id="header-section">.*<\/nav>/s;
+    const readStream = fs.createReadStream(indexFilePath, { encoding: "utf8" });
+    const writeStream = fs.createWriteStream(tempFilePath, { encoding: "utf8" });
+    let buffer = "";
+    let foundNav = false;
+    readStream.on("data", (chunk) => {
+        buffer += chunk;
+        // Check if the navigation bar is found
+        if (!foundNav && navRegex.test(buffer)) {
+            // Replace the navigation bar with new content
+            buffer = buffer.replace(navRegex, navHtml);
+            foundNav = true;
+        }
+        // Once found or processed enough, write the modified buffer to the temporary file
+        if (foundNav || buffer.length > 1024) {
+            writeStream.write(buffer);
+            buffer = ""; // Reset the buffer after writing
+        }
+    });
+    readStream.on("end", () => {
+        // Write any remaining data in the buffer to the file
+        if (buffer)
+            writeStream.write(buffer);
+        writeStream.end();
+        // After successful write, replace the original file
+        fs.renameSync(tempFilePath, indexFilePath);
+        console.log("Navigation bar replaced successfully.");
+    });
+    readStream.on("error", (err) => {
+        console.error("Error reading the file:", err);
+    });
+    writeStream.on("error", (err) => {
+        console.error("Error writing the file:", err);
+    });
+}
 function main() {
     const MARKDOWN_DIR = path.join(__dirname, "../public/markdown");
     const HTML_DIR = path.join(__dirname, "../public");
+    convertIndexHtml(MARKDOWN_DIR, HTML_DIR);
     convertMarkdownToHtml(MARKDOWN_DIR, HTML_DIR);
 }
 main();

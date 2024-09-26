@@ -3,10 +3,10 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const showdown_1 = __importDefault(require("showdown"));
 const path_1 = __importDefault(require("path"));
 const markdownToHtmlNav_1 = __importDefault(require("./markdownToHtmlNav"));
 const processTitles_1 = __importDefault(require("./utils/processTitles"));
+const markdownHtmlConverter_1 = __importDefault(require("./utils/markdownHtmlConverter"));
 /**
  * This class will convert the markdown wiki content to a html template
  * @class WikiConverter
@@ -105,34 +105,35 @@ class WikiConverter {
         this.extractAndSaveImage(this.unformattedWikiContent);
         if (description) {
             wikiContent.content.description =
-                this.htmlToMarkdownConverter(description);
+                markdownHtmlConverter_1.default.convert(description);
         }
         // Extract the plant requirements
         const plantRequirements = this.extractSection(this.unformattedWikiContent, "Planting requirements", "##");
         if (plantRequirements) {
             wikiContent.content.plantRequirements =
-                this.htmlToMarkdownConverter(plantRequirements);
+                markdownHtmlConverter_1.default.convert(plantRequirements);
         }
         // Extract the harvesting
         const harvesting = this.extractSection(this.unformattedWikiContent, "Harvesting", "##");
         if (harvesting) {
-            wikiContent.content.harvesting = this.htmlToMarkdownConverter(harvesting);
+            wikiContent.content.harvesting =
+                markdownHtmlConverter_1.default.convert(harvesting);
         }
         // Extract the curing
         const curing = this.extractSection(this.unformattedWikiContent, "Curing", "##");
         if (curing) {
-            wikiContent.content.curing = this.htmlToMarkdownConverter(curing);
+            wikiContent.content.curing = markdownHtmlConverter_1.default.convert(curing);
         }
         // Extract the storage
         const storage = this.extractSection(this.unformattedWikiContent, "Storage", "##");
         if (storage) {
-            wikiContent.content.storage = this.htmlToMarkdownConverter(storage);
+            wikiContent.content.storage = markdownHtmlConverter_1.default.convert(storage);
         }
         // Extract the protecting your plants
         const protectingYourPlants = this.extractSection(this.unformattedWikiContent, "Protecting your plants", "##");
         if (protectingYourPlants) {
             wikiContent.content.protectingYourPlants =
-                this.htmlToMarkdownConverter(protectingYourPlants);
+                markdownHtmlConverter_1.default.convert(protectingYourPlants);
         }
         // Extract the difficulty rating
         this.extractAndSaveDifficultyRating(this.unformattedWikiContent);
@@ -229,7 +230,7 @@ class WikiConverter {
             : sectionContent.length)
             .trim();
         this.wikiContent.content.generalInformation =
-            this.htmlToMarkdownConverter(generalInformation);
+            markdownHtmlConverter_1.default.convert(generalInformation);
         let companionPlants = "";
         if (startOfCompanionPlants !== -1) {
             companionPlants = sectionContent
@@ -240,7 +241,7 @@ class WikiConverter {
                 .trim();
         }
         this.wikiContent.content.companionPlants =
-            this.htmlToMarkdownConverter(companionPlants);
+            markdownHtmlConverter_1.default.convert(companionPlants);
         let nonCompanionPlants = "";
         if (startOfNonCompanionPlants !== -1) {
             nonCompanionPlants = sectionContent
@@ -249,7 +250,7 @@ class WikiConverter {
                 .trim();
         }
         this.wikiContent.content.nonCompanionPlants =
-            this.htmlToMarkdownConverter(nonCompanionPlants);
+            markdownHtmlConverter_1.default.convert(nonCompanionPlants);
     }
     /**
      * This method will extract the difficulty rating from the markdown content and save it to the wikiContent object
@@ -289,26 +290,13 @@ class WikiConverter {
                 .filter((line) => line.trim() !== "");
             const zone = header.replace("### ", "").split(" (")[0].trim();
             const difficulty = parseInt(((_a = header.match(/Difficulty: (\d+)\/10/)) === null || _a === void 0 ? void 0 : _a[1]) || "0");
-            const description = this.htmlToMarkdownConverter(content.join("\n").trim());
+            const description = markdownHtmlConverter_1.default.convert(content.join("\n").trim());
             return {
                 zone,
                 difficulty,
                 description,
             };
         });
-    }
-    /**
-     * This method will convert the markdown content to html. Uses showdown library for the conversion
-     * @param markdown
-     * @returns html
-     */
-    htmlToMarkdownConverter(markdown) {
-        const converter = new showdown_1.default.Converter();
-        converter.setFlavor("github");
-        converter.setOption("tables", true);
-        converter.setOption("headerLevelStart", 0);
-        const html = converter.makeHtml(markdown);
-        return html;
     }
     /**
      * This method will create a star rating based on the difficulty value

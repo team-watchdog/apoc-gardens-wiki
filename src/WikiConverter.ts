@@ -1,7 +1,7 @@
-import showdown from "showdown";
 import path from "path";
 import MarkdownToHtmlNav from "./markdownToHtmlNav";
 import ProcessTitles from "./utils/processTitles";
+import MarkdownHtmlConverter from "./utils/markdownHtmlConverter";
 
 // Define the interface for the wiki content
 type IWikiContent = {
@@ -141,7 +141,7 @@ class WikiConverter {
 
 		if (description) {
 			wikiContent.content.description =
-				this.htmlToMarkdownConverter(description);
+				MarkdownHtmlConverter.convert(description);
 		}
 
 		// Extract the plant requirements
@@ -153,7 +153,7 @@ class WikiConverter {
 
 		if (plantRequirements) {
 			wikiContent.content.plantRequirements =
-				this.htmlToMarkdownConverter(plantRequirements);
+				MarkdownHtmlConverter.convert(plantRequirements);
 		}
 
 		// Extract the harvesting
@@ -164,7 +164,8 @@ class WikiConverter {
 		);
 
 		if (harvesting) {
-			wikiContent.content.harvesting = this.htmlToMarkdownConverter(harvesting);
+			wikiContent.content.harvesting =
+				MarkdownHtmlConverter.convert(harvesting);
 		}
 
 		// Extract the curing
@@ -175,7 +176,7 @@ class WikiConverter {
 		);
 
 		if (curing) {
-			wikiContent.content.curing = this.htmlToMarkdownConverter(curing);
+			wikiContent.content.curing = MarkdownHtmlConverter.convert(curing);
 		}
 
 		// Extract the storage
@@ -186,7 +187,7 @@ class WikiConverter {
 		);
 
 		if (storage) {
-			wikiContent.content.storage = this.htmlToMarkdownConverter(storage);
+			wikiContent.content.storage = MarkdownHtmlConverter.convert(storage);
 		}
 
 		// Extract the protecting your plants
@@ -198,7 +199,7 @@ class WikiConverter {
 
 		if (protectingYourPlants) {
 			wikiContent.content.protectingYourPlants =
-				this.htmlToMarkdownConverter(protectingYourPlants);
+				MarkdownHtmlConverter.convert(protectingYourPlants);
 		}
 
 		// Extract the difficulty rating
@@ -333,7 +334,7 @@ class WikiConverter {
 			.trim();
 
 		this.wikiContent.content.generalInformation =
-			this.htmlToMarkdownConverter(generalInformation);
+			MarkdownHtmlConverter.convert(generalInformation);
 
 		let companionPlants = "";
 		if (startOfCompanionPlants !== -1) {
@@ -349,7 +350,7 @@ class WikiConverter {
 		}
 
 		this.wikiContent.content.companionPlants =
-			this.htmlToMarkdownConverter(companionPlants);
+			MarkdownHtmlConverter.convert(companionPlants);
 
 		let nonCompanionPlants = "";
 		if (startOfNonCompanionPlants !== -1) {
@@ -360,7 +361,7 @@ class WikiConverter {
 		}
 
 		this.wikiContent.content.nonCompanionPlants =
-			this.htmlToMarkdownConverter(nonCompanionPlants);
+			MarkdownHtmlConverter.convert(nonCompanionPlants);
 	}
 
 	/**
@@ -413,7 +414,7 @@ class WikiConverter {
 				header.match(/Difficulty: (\d+)\/10/)?.[1] || "0"
 			);
 
-			const description = this.htmlToMarkdownConverter(
+			const description = MarkdownHtmlConverter.convert(
 				content.join("\n").trim()
 			);
 
@@ -423,21 +424,6 @@ class WikiConverter {
 				description,
 			};
 		});
-	}
-
-	/**
-	 * This method will convert the markdown content to html. Uses showdown library for the conversion
-	 * @param markdown
-	 * @returns html
-	 */
-	private htmlToMarkdownConverter(markdown: string): string {
-		const converter = new showdown.Converter();
-		converter.setFlavor("github");
-		converter.setOption("tables", true);
-		converter.setOption("headerLevelStart", 0);
-
-		const html = converter.makeHtml(markdown);
-		return html;
 	}
 
 	/**

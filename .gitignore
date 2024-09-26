@@ -1,1 +1,8 @@
 .env
+
+public/fruit
+public/flowers/*.html
+public/herbs & spices/*.html
+public/leafy greens/*.html
+public/roots/*.html
+public/vegetables/*.html
