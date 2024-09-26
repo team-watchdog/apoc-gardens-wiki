@@ -2,7 +2,7 @@
 ![Ambaralla](../../assets/images/Ambaralla.jpeg "Image - Anagoria, Wikimedia Commons")
 ## General Information
 **Generic name:** Golden Apple, June plum
-**Sri Lankan name:** Amberel
+**Sri Lankan name:** Amberalla
 **Scientific name:** Spondias dulcis
 **Plant family:** Anacardiaceae
 **Edible parts:** Fruit and the young leaves
@@ -42,13 +42,11 @@ Golden apple may grow to a large tree up to 30 m tall, but is more often 15 m ta
 ## Harvesting:
 Can be picked when green or golden yellow
 
-<update>
 ## Curing:
-Fruits can be eaten fresh off the tree. For storage, cure fruits at room temperature for a week to allow them to ripen further.
+Fruits can be eaten fresh off the tree. For storage, cure green fruits at room temperature for a week to allow them to ripen further.
 
 ## Storage
-Store ripe fruits in the refrigerator for up to two weeks.
-</update>
+Store ripe fruits in the refrigerator for up to several days.
 
 ## Protecting your plants
 ### Pest control
@@ -56,12 +54,10 @@ Store ripe fruits in the refrigerator for up to two weeks.
 **Symptoms:** Holes in fruits, sticky honeydew on leaves
 **Control method:** Bag the fruit on the tree for protection, oil sprays
 
-<update>
 ### Disease Control
 **Disease type:** Fusarium wilt, anthracnose
 **Symptoms:** Wilted leaves and branches, dark spots on fruits
 **Management:** Avoid overhead irrigation, remove infected plant material, use fungicides as a last resort.
-</update>
 
 ## Difficulty Rating
 
@@ -81,6 +77,7 @@ Store ripe fruits in the refrigerator for up to two weeks.
 ### Content Sources:
 [Wikipedia](https://en.wikipedia.org/wiki/Spondias_dulcis)
 [FAO](http://www.fao.org/3/a-i4127e.pdf)
+[tipstreeplanting.com](https://tipstreeplanting.com/ambarella-tree-care/)
 
 ### Image Sources: (In order of appearance)
 ![Amberella tree](/api/attachments.redirect?id=b942b198-cbff-40a9-95ae-e737eb175aa3)

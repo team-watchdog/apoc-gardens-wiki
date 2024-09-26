@@ -10,7 +10,7 @@
 **Edible parts:** The red tubers are eaten after cooking. In some instances, the root is also dried and powdered after which the flour mixed with barley or wheat. They can be pickled or fermented as beetroot juice. They are often boiled, sliced and served with vinegar. The leaves are edible and can be cooked in soups and stews.
 **Type of plant:** It is a temperate climate plant and hence mainly grows in the highlands between 1150 and 2600 m altitude in the tropics. 
 
-**Nutrition value:** <update>High in fiber, vitamin C, potassium, and manganese. A 100g serving provides approximately 43 calories.</update>
+**Nutrition value:** High in fiber, vitamin C, potassium, and manganese. A 100g serving provides approximately 43 calories.
 
 **Companion plants:**
 - Helped by broccoli, bush beans, cabbage, lettuce, kohlrabi, onions, brassicas, passion fruit.
@@ -24,9 +24,9 @@ Beetroot is a dark green leafed plant up to 20 cm tall and grows throughout the 
 **Planting season:** Mid-April to late June
 
 ### Planting conditions:
-| **Propagation** | Sow seeds ½-inch deep and 1 to 2 inches apart in rows that are about 12 to 18 inches apart. After sowing, cover the seeds with a thin layer of soil. |
+| **Propagation** | Plants are grown from seed.  They produce seeds in their second year of growth. Soak the seeds overnight for 24 hours before planting the next day. Can also replant the young plant. |
 |----|----|
-| Planting method | Need deep dug, rock free soil, fertilized, well drained soil. The beds should be fertilized normally, though adding a teaspoon of borax per thirty-two-square-foot bed is a good idea because beets are sensitive to boron deficiency. Adding compost will aid the process. |
+| Planting method | Sow seeds ½-inch deep and 1 to 2 inches apart in rows that are about 12 to 18 inches apart. After sowing, cover the seeds with a thin layer of soil. |
 | Soil | Need deep dug, rock free soil, fertilized, well drained soil. The beds should be fertilized normally, though adding a teaspoon of borax per thirty-two-square-foot bed is a good idea because beets are sensitive to boron deficiency. Adding compost will aid the process. |
 | Water | Need to water regularly to maintain moisture in soil. |
 | Light | Partial shade, Full sun |
@@ -37,8 +37,8 @@ Beetroot is a dark green leafed plant up to 20 cm tall and grows throughout the 
 |----|----|
 | Soil | Soil needs to have regular moisture to speed up germination. Beets need to maintain plenty of moisture in order to grow well. |
 | Water | Water the beetroot regularly to reduce the likelihood of the roots becoming woody or splitting. During the first month water every couple of days until the seeds have germinated. |
-| Pruning | <update>Pinch off flower stalks if you want to prevent bolting and encourage more leaf growth.</update> |
-| Weed control | <update>Keep the area clean by removing weeds regularly to reduce competition for nutrients and moisture.</update> |
+| Pruning | Pinch off flower stalks if you want to prevent bolting and encourage more leaf growth. |
+| Weed control | Keep the area clean by removing weeds regularly to reduce competition for nutrients and moisture. |
 
 ## Harvesting:
 It can be harvested once it has grown couple of inches from the ground.**Grasp the foliage firmly where it meets the top of the root and pull. Beetroot is better harvested too early rather than too late – younger roots are more tender. Beets should be harvested when they are no larger than 2” in diameter.**
@@ -47,7 +47,7 @@ It can be harvested once it has grown couple of inches from the ground.**Grasp t
 <update>After harvesting, cure beetroots by storing them in a dark, humid place at around 50°F (10°C) for about two weeks to improve their flavor and storage life.</update>
 
 ## Storage
-<update>Store cured beetroots in the refrigerator for up to three months or in the freezer for up to one year. To freeze, first blanch the beetroots for five minutes, then cool them quickly before placing in a sealed bag in the freezer.</update>
+Store cured beetroots in the refrigerator for up to three months or in the freezer for up to one year. To freeze, first blanch the beetroots for five minutes, then cool them quickly before placing in a sealed bag in the freezer.
 
 ## Protecting your plants
 ### Pest control
@@ -90,3 +90,11 @@ It can be harvested once it has grown couple of inches from the ground.**Grasp t
 - Ensure soil is well-drained to prevent root rot.
 - Provide some protection from frost during colder periods using row covers or other methods.
 - Consider starting seeds indoors or using transplants to extend the growing season.
+
+## References for this entry
+### Content Sources:
+- [https://www.epicgardening.com/growing-beets/](https://www.epicgardening.com/growing-beets/)
+- [https://itsavegworldafterall.com/how-to-freeze-beets/](https://itsavegworldafterall.com/how-to-freeze-beets/)
+
+### Image Sources: (In order of appearance)
+

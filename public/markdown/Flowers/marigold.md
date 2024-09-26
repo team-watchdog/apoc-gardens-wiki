@@ -23,7 +23,7 @@
 - Eggplant
 - Chili
 </update>
-**Non-companion plants**
+**Non-companion plants:**
 - Beans
 - Cabbage
 

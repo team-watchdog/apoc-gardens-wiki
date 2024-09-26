@@ -7,9 +7,8 @@
 **Scientific name:** Genus *Musa* - numerous varieties
 **Plant family:** Musaceae
 **Edible parts:** Fruit and the flower. The central pith of the false stem and the underground rhizome are also sometimes eaten.
-<update>
 **Nutrition value:** Rich in potassium, vitamin C, vitamin B6, and dietary fiber. They also contain small amounts of other vitamins and minerals.
-</update>
+
 **Companion plants:**
 - Sweet potatoes
 - Lemongrass
@@ -44,33 +43,26 @@ Bananas can be classed into diploid, triploid, and tetraploid kinds with various
 
 ## Harvesting:
 Time to maturity varies from 6 to 18 months depending on variety and altitude.
-<update>
+
 ## Curing: 
 Bananas are cured after harvesting by hanging them in a dark, humid place for about a week to allow the flavors to develop.
 
 ## Storage: 
 Store bananas at room temperature away from direct sunlight. They can also be frozen or dried for later use.
-</update>
+
 ## Protecting your plants
 ### Pest control
 **Pest type:** Nematodes, Weevils, Thrips, Scarring beetle, Sap-sucking insects
-<update>
 **Symptoms:** Wilting leaves, yellowing leaves, holes in leaves and fruits
-</update>
-
 **Control method:** Use insecticides, remove affected plant, remove weeds, spray soapy water, release lady bird beetles and lace wings in the field which are very active aphid feeders
 
-<update>
 ### Disease Control
 **Disease type:** Black Sigatoka, Bunchy Top Virus
-
 **Symptoms:** Black spots on leaves, yellowing of leaves, stunted growth
-
 **Management:** Regularly monitor plants for signs of disease. Remove infected leaves and plants. Use fungicides to control Black Sigatoka.
-</update>
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 6/10)
+### Low country wet zone (Difficulty: 5/10)
 **Explanation:** Bananas grow well in the warm, humid conditions of the low country wet zone.
 **Challenges/Adaptations:**
 - Requires regular watering to prevent wilting
