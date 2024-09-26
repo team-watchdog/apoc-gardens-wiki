@@ -7,6 +7,7 @@ const path_1 = __importDefault(require("path"));
 const markdownToHtmlNav_1 = __importDefault(require("./markdownToHtmlNav"));
 const processTitles_1 = __importDefault(require("./utils/processTitles"));
 const markdownHtmlConverter_1 = __importDefault(require("./utils/markdownHtmlConverter"));
+require("dotenv").config();
 /**
  * This class will convert the markdown wiki content to a html template
  * @class WikiConverter

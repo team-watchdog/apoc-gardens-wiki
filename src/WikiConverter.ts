@@ -2,6 +2,7 @@ import path from "path";
 import MarkdownToHtmlNav from "./markdownToHtmlNav";
 import ProcessTitles from "./utils/processTitles";
 import MarkdownHtmlConverter from "./utils/markdownHtmlConverter";
+require("dotenv").config();
 
 // Define the interface for the wiki content
 type IWikiContent = {

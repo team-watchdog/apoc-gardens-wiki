@@ -68,7 +68,9 @@ class MarkdownToHtmlNav {
       <nav id="header-section">
         <h2>Content</h2>
         <div>
-		<a class="home-link" href="${this.createAbsolutePath("index.html")}">🌱 First Principles</a>
+		<a class="home-link" href="${this.createAbsolutePath(
+			"index.html"
+		)}">🌱 First Principles</a>
 		<br>
           ${navItems.map((item) => this.renderNavItem(item)).join("")}
         </div>
@@ -122,7 +124,8 @@ class MarkdownToHtmlNav {
 	 */
 	private createAbsolutePath(htmlPath: string): string {
 		// Ensure the path starts with the prefix and uses forward slashes
-		return path.join(this.prefixPath, htmlPath).replace(/\\/g, "/");
+
+		return this.prefixPath + htmlPath.replace(/\\/g, "/");
 	}
 
 	private renderNavItem(item: NavItem): string {

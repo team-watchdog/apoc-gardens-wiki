@@ -30,6 +30,7 @@ const path = __importStar(require("path"));
 const fs = __importStar(require("fs"));
 const WikiConverter_1 = __importDefault(require("./WikiConverter")); // Assuming this is the correct import
 const markdownToHtmlNav_1 = __importDefault(require("./markdownToHtmlNav"));
+require("dotenv").config();
 function convertMarkdownToHtml(sourcePath, destPath) {
     // Create destination directory if it doesn't exist
     if (!fs.existsSync(destPath)) {
@@ -58,9 +59,11 @@ function convertMarkdownToHtml(sourcePath, destPath) {
     });
 }
 function convertIndexHtml(markdownPath, htmlPath) {
+    const serverPrefix = process.env.SERVER_PREFIX || "";
+    console.log("server prefix: " + serverPrefix);
     const indexFilePath = path.join(htmlPath, "index.html");
     const tempFilePath = path.join(htmlPath, "index.temp.html");
-    const navGenerator = new markdownToHtmlNav_1.default(markdownPath, htmlPath);
+    const navGenerator = new markdownToHtmlNav_1.default(markdownPath, htmlPath, serverPrefix);
     const navHtml = navGenerator.generateNav();
     const navRegex = /<nav id="header-section">.*<\/nav>/s;
     const readStream = fs.createReadStream(indexFilePath, { encoding: "utf8" });

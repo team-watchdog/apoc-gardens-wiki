@@ -127,7 +127,7 @@ class MarkdownToHtmlNav {
      */
     createAbsolutePath(htmlPath) {
         // Ensure the path starts with the prefix and uses forward slashes
-        return path.join(this.prefixPath, htmlPath).replace(/\\/g, "/");
+        return this.prefixPath + htmlPath.replace(/\\/g, "/");
     }
     renderNavItem(item) {
         var _a;

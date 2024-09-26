@@ -1,8 +1,8 @@
 import * as path from "path";
 import * as fs from "fs";
 import WikiConverter from "./WikiConverter"; // Assuming this is the correct import
-import MarkdownHtmlConverter from "./utils/markdownHtmlConverter";
 import MarkdownToHtmlNav from "./markdownToHtmlNav";
+require("dotenv").config();
 
 function convertMarkdownToHtml(sourcePath: string, destPath: string): void {
 	// Create destination directory if it doesn't exist
@@ -42,9 +42,16 @@ function convertMarkdownToHtml(sourcePath: string, destPath: string): void {
 }
 
 function convertIndexHtml(markdownPath: string, htmlPath: string): void {
+	const serverPrefix = process.env.SERVER_PREFIX || "";
+
+	console.log("server prefix: " + serverPrefix);
 	const indexFilePath = path.join(htmlPath, "index.html");
 	const tempFilePath = path.join(htmlPath, "index.temp.html");
-	const navGenerator = new MarkdownToHtmlNav(markdownPath, htmlPath);
+	const navGenerator = new MarkdownToHtmlNav(
+		markdownPath,
+		htmlPath,
+		serverPrefix
+	);
 	const navHtml = navGenerator.generateNav();
 
 	const navRegex = /<nav id="header-section">.*<\/nav>/s;
