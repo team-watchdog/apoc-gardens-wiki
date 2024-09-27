@@ -61,26 +61,41 @@ Refigerate washed and dryed cauliflower in an airtight freezer bag.
 ### Pest control
 
 **Pest type:** 
-- Cabbage looper / Looper caterpillar (Chrysodexis eriosoma): are known to attack all cruciferous plants throughout their growth cycle. This pest can cause significant damage to cruciferous crops if left unchecked, potentially leading to reduced yield and crop quality. 
+- **Cabbage looper / Looper caterpillar (_Chrysodexis eriosoma_):** are known to attack all cruciferous plants throughout their growth cycle. This pest can cause significant damage to cruciferous crops if left unchecked, potentially leading to reduced yield and crop quality. 
 
-- Diamond black moth (Plutella xylostella): The larva is a small, green colour surface feeder. When disturbed, larvae quickly retreat by wriggling backwards or dropping on silk threads, either suspending themselves or landing on lower leaves.
+- **Diamond black moth (_Plutella xylostella_):** The larva is a small, green colour surface feeder. When disturbed, larvae quickly retreat by wriggling backwards or dropping on silk threads, either suspending themselves or landing on lower leaves.
 
-- Black worm (Agrotis spp): Habitually nocturnal. 
+- **Black worm (_Agrotis spp_):** Habitually nocturnal. 
 
 **Symptoms:** 
-- Cabbage looper / Looper caterpillar: Presence of larval excrement at the base of leaves, Creation of large, irregular holes on the underside of leaves. In severe infestations, complete consumption of leaves. Skeletonization of leaves in extreme cases.
+- **Cabbage looper / Looper caterpillar:** Presence of larval excrement at the base of leaves, Creation of large, irregular holes on the underside of leaves. In severe infestations, complete consumption of leaves. Skeletonization of leaves in extreme cases.
 
-- Diamond black moth: It feeds on the leaves from the under surface leaving a papery epidermis intact. 
+- **Diamond black moth:** It feeds on the leaves from the under surface leaving a papery epidermis intact. 
 
-- Black worm: In early stages makes round holes in leaves. In adulthood these pests chew the base of the plant stems and can drag parts of the sapling plants underground.
+- **Black worm:** In early stages makes round holes in leaves. In adulthood these pests chew the base of the plant stems and can drag parts of the sapling plants underground.
   
 **Control method:**
 
-- Cabbage looper / Looper caterpillar: Indian mustard (Brassica juncea) plants can be used as trap crops. Regular monitoring of plants and handpick larvae from crops soon as it is identified.
+- **Cabbage looper / Looper caterpillar:** Indian mustard (Brassica juncea) plants can be used as trap crops. Regular monitoring of plants and handpick larvae from crops soon as it is identified.
 
-- Diamond black moth: Lacewings insects feed on eggs and young larvae. Proper irrigation and rainfall can help eliminate larvae. Regular monitoring of plants is required.
+- **Diamond black moth:** Lacewings insects feed on eggs and young larvae. Proper irrigation and rainfall can help eliminate larvae. Regular monitoring of plants is required.
 
-- Black worm: Regular monitoring of plants and handpick larvae from crops soon as it is identified. Plough the soil deeply to bring the larvae and pupa to the surface of the soil. Encourage predatory birds during soil tillage.
+- **Black worm:** Regular monitoring of plants and handpick larvae from crops soon as it is identified. Plough the soil deeply to bring the larvae and pupa to the surface of the soil. Encourage predatory birds during soil tillage.
+
+## Protecting your plants
+### Pest control
+#### Cabbage looper / Looper caterpillar (_Chrysodexis eriosoma_)
+**Symptoms:** Known to attack all cruciferous plants throughout their growth cycle. This pest can cause significant damage to cruciferous crops if left unchecked, potentially leading to reduced yield and crop quality. Presence of larval excrement at the base of leaves, Creation of large, irregular holes on the underside of leaves. In severe infestations, complete consumption of leaves. Skeletonization of leaves in extreme cases.
+
+**Control method:** Indian mustard (Brassica juncea) plants can be used as trap crops. Regular monitoring of plants and handpick larvae from crops soon as it is identified.
+#### *Diamond black moth (_Plutella xylostella_)
+**Symptoms:** The larva is a small, green colour surface feeder. When disturbed, larvae quickly retreat by wriggling backwards or dropping on silk threads, either suspending themselves or landing on lower leaves. It feeds on the leaves from the under surface leaving a papery epidermis intact.
+
+**Control method:** Lacewings insects feed on eggs and young larvae. Proper irrigation and rainfall can help eliminate larvae. Regular monitoring of plants is required.
+#### **Black worm (_Agrotis spp_)**
+**Symptoms:** Habitually nocturnal.  In early stages makes round holes in leaves. In adulthood these pests chew the base of the plant stems and can drag parts of the sapling plants underground.
+
+**Control method:** Regular monitoring of plants and handpick larvae from crops soon as it is identified. Plough the soil deeply to bring the larvae and pupa to the surface of the soil. Encourage predatory birds during soil tillage.
 
 ### Disease Control
 
