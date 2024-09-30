@@ -1,5 +1,5 @@
 # Capsicum/Banana Pepper
-![Capsicum_Banana Pepper.jpeg](../../assets/images/Capsicum_Banana Pepper.jpeg "Image - Narek75, Wikimedia Commons")
+![Capsicum_Banana Pepper.jpeg](../../assets/images/Capsicum_Banana-Pepper.jpeg "Image - Narek75, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Capsicum
