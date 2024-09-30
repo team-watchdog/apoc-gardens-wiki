@@ -96,4 +96,3 @@ Star apples are best eaten when fresh but but fruits can be stored in the refrig
 ### Content Sources:
 
 ### Image Sources: (In order of appearance)
-![Star Apple Tree](https://upload.wikimedia.org/wikipedia/commons/a/a7/Chrysophyllum_cainito.jpg)
