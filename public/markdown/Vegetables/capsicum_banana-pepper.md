@@ -75,22 +75,54 @@ Nurseries should be established in well-drained areas and areas where Solanaceae
 - Choanephora blight
 
 **Symptoms:**
-- **Damping off:** Seedlings may rot and die before they emerge from the soil or collapse after coming up, with soft, wet roots and dead plants scattered around.
-- **Anthracnose:** Leaves, stems, and flowers get discolored, flowers and pods fall, and small, round spots form on pods, leading to rot. Severe cases cause plants to wither and die.
-- **Bacterial wilt:** Plants wilt in the heat, their leaves shred and fall, and they die quickly. You can check for the disease by cutting a stem and seeing if it oozes bacteria in water.
-- **Leaf curl virus:** Leaves turn yellow with visible veins, the plant becomes stunted with small, curled leaves and small pods.
-- **Leaf spot disease:** Brown spots with yellow edges appear on leaves, which later turn yellow and drop. It starts on older leaves and can spread to younger ones, especially in warm, humid conditions.
-- **Powdery mildew:** Pale yellow spots form on upper leaves, followed by white, powdery patches on the lower leaves that spread, causing the leaves to yellow and fall.
-- **Choanephora blight:** Dark spots appear on flowers and the tops of plants, spreading quickly and causing die-off and wet rot. The infected areas turn grayish due to visible spores, and fruits often get infected near the calyx.
+- **Damping off:**
+  - Seedlings may rot and die before they emerge from the soil or collapse after coming up, with soft, wet roots and dead plants scattered around.
+- **Anthracnose:**
+  - Leaves, stems, and flowers get discolored, flowers and pods fall, and small, round spots form on pods, leading to rot.
+  - Severe cases cause plants to wither and die.
+- **Bacterial wilt:**
+  - Plants wilt in the heat, their leaves shred and fall, and they die quickly.
+  - You can check for the disease by cutting a stem and seeing if it oozes bacteria in water.
+- **Leaf curl virus:**
+  - Leaves turn yellow with visible veins, the plant becomes stunted with small, curled leaves and small pods.
+- **Leaf spot disease:**
+  - Brown spots with yellow edges appear on leaves, which later turn yellow and drop.
+  - It starts on older leaves and can spread to younger ones, especially in warm, humid conditions.
+- **Powdery mildew:**
+  - Pale yellow spots form on upper leaves.
+  - Followed by white, powdery patches on the lower leaves that spread, causing the leaves to yellow and fall.
+- **Choanephora blight:**
+  - Dark spots appear on flowers and the tops of plants, spreading quickly and causing die-off and wet rot.
+  - The infected areas turn grayish due to visible spores, and fruits often get infected near the calyx.
 
 **Management:** 
-- **Damping off:** Nurseries should be set up in well-drained areas where tomatoes, brinjals, and chillies haven’t been grown before. Rotate crops with non-host plants, sterilize nursery beds (e.g., by burning or solarization), and avoid overcrowding seeds (40g per 3m x 1m bed). Remove and destroy diseased plants along with the surrounding soil.
-- **Anthracnose:** Use resistant plant varieties and healthy seeds. Keep fields clean by destroying crop residues and removing diseased plant parts. Rotate crops with non-host plants every 2-3 years, improve field drainage, and maintain proper plant spacing. Apply beneficial organisms like **Trichoderma spp.** and **Pseudomonas fluorescens**.
-- **Bacterial wilt:** Rotate crops with non-host plants, use wilt-resistant varieties, and remove and destroy infected roots, weeds, and plants along with the surrounding soil. Avoid using water from infected fields for healthy ones, and improve field drainage.
-- **Leaf curl virus:** Ensure timely cultivation, set up wind barriers like maize, and destroy alternative host plants such as weeds.
-- **Leaf spot disease:** Collect and destroy all infected leaves for proper field sanitation. To reduce high humidity, use recommended plant spacing and ensure good drainage. Apply the recommended amount of organic fertilizers.
-- **Powdery mildew:** Maintain field sanitation, use resistant varieties, ensure good air circulation with proper spacing and weed control, and apply **Trichoderma spp.** to support plant health.
-- **Choanephora blight:** Maintain the recommended plant spacing, and promptly remove and destroy diseased shoots when symptoms appear.
+- **Damping off:**
+  - Nurseries should be set up in well-drained areas where tomatoes, brinjals, and chillies haven’t been grown before.
+  - Rotate crops with non-host plants, sterilize nursery beds (e.g., by burning or solarization)
+  - Avoid overcrowding seeds (40g per 3m x 1m bed).
+  - Remove and destroy diseased plants along with the surrounding soil.
+- **Anthracnose:**
+  - Use resistant plant varieties and healthy seeds.
+  - Keep fields clean by destroying crop residues and removing diseased plant parts.
+  - Rotate crops with non-host plants every 2-3 years, improve field drainage, and maintain proper plant spacing.
+  - Apply beneficial organisms like **Trichoderma spp.** and **Pseudomonas fluorescens**.
+- **Bacterial wilt:**
+  - Rotate crops with non-host plants, use wilt-resistant varieties, and remove and destroy infected roots, weeds, and plants along with the surrounding soil.
+  - Avoid using water from infected fields for healthy ones, and improve field drainage.
+- **Leaf curl virus:**
+  - Ensure timely cultivation, set up wind barriers like maize, and destroy alternative host plants such as weeds.
+- **Leaf spot disease:**
+  - Collect and destroy all infected leaves for proper field sanitation.
+  - To reduce high humidity, use recommended plant spacing and ensure good drainage.
+  - Apply the recommended amount of organic fertilizers.
+- **Powdery mildew:**
+  - Maintain field sanitation
+  - Use resistant varieties
+  - Ensure good air circulation with proper spacing and weed control
+  - Apply **Trichoderma spp.** to support plant health.
+- **Choanephora blight:**
+  - Maintain the recommended plant spacing
+  - Promptly remove and destroy diseased shoots when symptoms appear.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
