@@ -78,7 +78,7 @@ Large Carrots can be harvested in 12-18 weeks.
 **Challenges/Adaptations:**
 - Heavy soil: Incorporate sand or compost
 - High humidity: Provide good air circulation
-<update>- Excessive rainfall: Use raised beds and improve drainage</update>
+- Excessive rainfall: Use raised beds and improve drainage
 
 ### Low country dry zone (Difficulty: 6/10)
 **Explanation:** Carrots prefer consistent moisture, so irrigation may be necessary.
@@ -86,7 +86,6 @@ Large Carrots can be harvested in 12-18 weeks.
 **Challenges/Adaptations:**
 - Drought: Irrigate regularly
 - High temperatures: Provide afternoon shade
-<update>- Water scarcity: Implement water-efficient irrigation systems like drip irrigation</update>
 
 ### Mid country (Difficulty: 5/10)
 **Explanation:** Carrots grow well in the mid-country's cooler temperatures.
@@ -94,12 +93,12 @@ Large Carrots can be harvested in 12-18 weeks.
 **Challenges/Adaptations:**
 - Heavy soil: Incorporate sand or compost
 - Strong winds: Provide plant support
-<update>- Varying rainfall: Adjust watering based on seasonal patterns</update>
+- Varying rainfall: Adjust watering based on seasonal patterns
 
 ### Up country (Difficulty: 4/10)
-**Explanation:** <update>Carrots thrive in the up-country's cooler temperatures, making it the ideal region for carrot cultivation in Sri Lanka.</update>
+**Explanation:** Carrots thrive in the up-country's cooler temperatures, making it the ideal region for carrot cultivation in Sri Lanka.
 
 **Challenges/Adaptations:**
-- Cold temperatures: Use row covers or cloches
+- Cold temperatures: Use row covers
 - Short growing season: Choose fast-growing varieties
-<update>- Steep terrain: Implement terracing and soil conservation practices</update>
+- Steep terrain: Implement terracing and soil conservation practices
