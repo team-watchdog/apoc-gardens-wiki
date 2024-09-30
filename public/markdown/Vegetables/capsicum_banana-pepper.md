@@ -74,39 +74,52 @@ Nurseries should be established in well-drained areas and areas where Solanaceae
 - Powdery mildew
 - Choanephora blight
 
-**Symptoms:** 
-- **Damping off:** Damping-off occurs in two stages: pre-emergence, where seedlings rot and die before emerging from the soil, and post-emergence, where seedlings collapse after emerging, showing signs of moisture, soft rot at the base or roots, withered leaves, and scattered dead plants when the infection is severe.
-- **Anthracnose:** Symptoms of the disease include discoloration of leaves, stems, and flower stalks, with falling flowers and young pods; small, round, sunken lesions on pod surfaces that spread and form brown circular spots on ripe pods, which develop blackish spores in concentric rings, leading to pod rot and, when severe, a dieback that starts at the tip and spreads downwards, causing the entire plant to wither and die.
-- **Bacterial wilt:** The disease appears as single or multiple withered plants, with immature leaves wilting in heat and leading to death a few days after leaf shredding; diagnosis involves suspending a cut diseased stem in water to observe bacterial ooze.
-- **Leaf curl virus disease:** Infected plants exhibit yellowing leaves with visible veins, dwarfism from shortened internodes and excessive shoots, upward curling of reduced-size leaves, and small pods.
-- **Leaf spot disease:** 
-**Management:** NA
+**Symptoms:**
+- **Damping off:** Seedlings may rot and die before they emerge from the soil or collapse after coming up, with soft, wet roots and dead plants scattered around.
+- **Anthracnose:** Leaves, stems, and flowers get discolored, flowers and pods fall, and small, round spots form on pods, leading to rot. Severe cases cause plants to wither and die.
+- **Bacterial wilt:** Plants wilt in the heat, their leaves shred and fall, and they die quickly. You can check for the disease by cutting a stem and seeing if it oozes bacteria in water.
+- **Leaf curl virus:** Leaves turn yellow with visible veins, the plant becomes stunted with small, curled leaves and small pods.
+- **Leaf spot disease:** Brown spots with yellow edges appear on leaves, which later turn yellow and drop. It starts on older leaves and can spread to younger ones, especially in warm, humid conditions.
+- **Powdery mildew:** Pale yellow spots form on upper leaves, followed by white, powdery patches on the lower leaves that spread, causing the leaves to yellow and fall.
+- **Choanephora blight:** Dark spots appear on flowers and the tops of plants, spreading quickly and causing die-off and wet rot. The infected areas turn grayish due to visible spores, and fruits often get infected near the calyx.
+
+**Management:** 
+- **Damping off:** Nurseries should be set up in well-drained areas where tomatoes, brinjals, and chillies haven’t been grown before. Rotate crops with non-host plants, sterilize nursery beds (e.g., by burning or solarization), and avoid overcrowding seeds (40g per 3m x 1m bed). Remove and destroy diseased plants along with the surrounding soil.
+- **Anthracnose:** Use resistant plant varieties and healthy seeds. Keep fields clean by destroying crop residues and removing diseased plant parts. Rotate crops with non-host plants every 2-3 years, improve field drainage, and maintain proper plant spacing. Apply beneficial organisms like **Trichoderma spp.** and **Pseudomonas fluorescens**.
+- **Bacterial wilt:** Rotate crops with non-host plants, use wilt-resistant varieties, and remove and destroy infected roots, weeds, and plants along with the surrounding soil. Avoid using water from infected fields for healthy ones, and improve field drainage.
+- **Leaf curl virus:** Ensure timely cultivation, set up wind barriers like maize, and destroy alternative host plants such as weeds.
+- **Leaf spot disease:** Collect and destroy all infected leaves for proper field sanitation. To reduce high humidity, use recommended plant spacing and ensure good drainage. Apply the recommended amount of organic fertilizers.
+- **Powdery mildew:** Maintain field sanitation, use resistant varieties, ensure good air circulation with proper spacing and weed control, and apply **Trichoderma spp.** to support plant health.
+- **Choanephora blight:** Maintain the recommended plant spacing, and promptly remove and destroy diseased shoots when symptoms appear.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: **Medium**/10)
+### Low country wet zone (Difficulty: 6/10)
 **Explanation:** Banana peppers require consistent moisture but are prone to fungal diseases in overly wet conditions.
 
 **Challenges/Adaptations:**
-- <update>Fungal diseases can be a challenge. Ensure good air circulation and avoid overwatering.</update>
-### Low country dry zone (Difficulty: **Easy**/10)
+- Fungal diseases can be a challenge. Ensure good air circulation and avoid overwatering.
+
+### Low country dry zone (Difficulty: 4/10)
 **Explanation:** The dry zone's hot, sunny climate is well-suited to banana peppers.
 
 **Challenges/Adaptations:**
-- <update>Drought stress can be an issue. Ensure consistent watering.</update>
-### Mid country (Difficulty: **Medium**/10)
+- Drought stress can be an issue. Ensure consistent watering.
+  
+### Mid country (Difficulty: 5/10)
 **Explanation:** The mid country's varied climate requires careful attention to temperature and moisture levels.
 
 **Challenges/Adaptations:**
-- <update>Temperature fluctuations can affect fruit set. Provide shade during peak heat hours if necessary.</update>
-### Up country (Difficulty: **Hard**/10)
+- Temperature fluctuations can affect fruit set. Provide shade during peak heat hours if necessary.
+  
+### Up country (Difficulty: 8/10)
 **Explanation:** The upcountry's cooler temperatures and higher rainfall make growing banana peppers more challenging.
 
 **Challenges/Adaptations:**
-- <update>Cooler temperatures can slow growth. Provide additional warmth with row covers or black plastic mulch.</update>
+- Cooler temperatures can slow growth. Provide additional warmth with row covers or black plastic mulch.
 
 ## References for this entry
 ### Content Sources:
-- <update>[Banana Pepper](https://www.growveg.com/uk/plants/capsicum-banana-pepper)</update>
+-
 
 ### Image Sources: (In order of appearance)
-- ![Banana Pepper](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Capsicum_annuum_-_Narek75.jpg/1200px-Capsicum_annuum_-_Narek75.jpg) *Image - Narek75, Wikimedia Commons*
+- 
