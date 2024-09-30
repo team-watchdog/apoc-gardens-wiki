@@ -6,6 +6,7 @@
 **Scientific name:** Brassica oleracea capitata
 **Plant family:** Brassicaceae (formerly Cruciferae)
 **Edible parts:** The vegetative bud
+**Nutrition value:** Rich in vitamin A, vitamin C, Iron and Zinc. A 100g serving contains approximately 15 calories.
 **Companion plants:**
 - Bush beans
 - Beets
@@ -14,7 +15,6 @@
 - Onions
 - Marigold
 - Nasturtium
-- <update>Gotukola</update>
 - Aromatic herbs (sage, dill, chamomile, thyme)
 **Non-companion plants:**
 - Climbing (pole) beans
@@ -23,30 +23,26 @@
 - Eggplant (aubergine)
 - Strawberry
 - Mustard
-- <update>Radish</update>
 
 ## Description:
 Cabbage belong to the Brassicaceae (formerly Cruciferae), which is one of the most important families, for it includes the genus Brassica, the cabbage tribe. This contains a great variety of plants, most of which are very good to eat. They come in different colours.
 
-![](/api/attachments.redirect?id=63a3f299-edbd-4904-9d6b-3009827a9963)
-
-*Image - Wikimedia Commons*
-
 ## Planting requirements
-- Grows in cooler climate/mild climates 
-**Planting season:** <update>October to February (Maha season)</update>
+- Grows in cooler climate/mild climates. Heat tolerant varieties can be cultivated in dry zone.
+
+**Planting season:** In the up-country year-round. In the low country it is only during October to February (Maha season).
 
 ### Planting conditions:
 | **Propagation** | Transplant seedlings |
 |----|----|
-| Planting method | <update>Start seeds in nursery beds or trays. Transplant seedlings when they are 3 to 4 inches (7-10cm) tall, typically 3-4 weeks after sowing. In cooler areas like Nuwara Eliya, direct sowing is possible.</update> |
+| Planting method | Start seeds indoors 4 to 6 weeks and then transplant them in the garden when they are 3 to 4 inches (7-10cm) tall. Directly sow seeds on the ground. Prepare the planting beds ahead of planting by covering beds with 2 to 3 inches (5-7cm) of aged compost and turning it under to 12 inches (30cm) deep. Sow cabbage seeds a ½ inch deep spaced 1 inch (2.5cm) apart. |
 | Soil | It requires a soil pH between 6.5 and 6.8. The soil needs to be fertile, well-draining, and non-acidic. These plants are heavy feeders that require plenty of organic matter as well as plenty of nitrogen and lime. So mixing the soil with compost before planting is ideal. |
 | Water | Cabbage requires regular, even watering. Uneven watering can result in stunted or cracked heads. |
-| Light | <update>Prefers full sun to partial shade, especially in warmer lowland areas.</update> |
+| Light | Prefers short days with light sunshine and cool temperatures. |
 
 ### Growing conditions:
 
-| **Temperatures** | <update>Grows best in temperatures between 15°C to 20°C (59°F to 68°F)</update> |
+| **Temperatures** | Needs a soil temperatures between 41°F and 64°F |
 |----|----|
 | Soil | Cabbages like deeply dug ground with plenty of humus worked into it. |
 | Water | Give cabbage 1 to 1½ inches of water every week. Always water at the base of the plant; avoid over-head watering which can spread disease. |
@@ -54,81 +50,102 @@ Cabbage belong to the Brassicaceae (formerly Cruciferae), which is one of the mo
 | Weed control | Keep the garden weed-free, especially during early stages of growth. |
 
 ## Harvesting:
-Can be harvested within 11-15 weeks after planting. <update>In Sri Lanka, harvest when the head is firm and compact, usually 90-120 days after transplanting, depending on the variety and growing conditions.</update> Cut your cabbages at the top of the stem with a sharp knife. Remember to pull both the stem and the root from the ground.
+Can be harvested within 11-15 weeks after planting. Cut your cabbages at the top of the stem with a sharp knife. Remember to pull both the stem and the root from the ground.
 
 ## Curing:
-<update>
-After harvesting, cure cabbages by removing outer leaves and cutting the base of the stem flat. Store in a cool, humid place for 2-3 weeks before long-term storage. </update>
+Cabbage does not require curing.
 
 ## Storage
-<update>In Sri Lanka's tropical climate, store cabbages in a cool, dry place or in the refrigerator for up to 2 weeks. For longer storage, consider processing methods like pickling or dehydrating.</update>
+In Sri Lanka's tropical climate, store cabbages in a cool, dry place or in the refrigerator for up to 2 weeks. For longer storage, consider processing methods like pickling or dehydrating.
 
-**Pest control**
-**Pest type:** Cutworms, cabbage loopers (caterpillars preceded by small yellow and white moths), imported cabbage worms, cabbage root maggots, slugs, and aphids.
+## Protecting your plants
+### Pest control
+**Pest type:**
+- Diamond back moth (_Plutella xylostella_)
+- Cabbage looper (_Chrysodexis eriosoma_)
+- Tobacco cut worm (_Spodoptera litura_)
+- Black cut worm (_Agrotis spp_)
+- Root maggot (_Delia spp_)
+- Aphids
+- Slug and Snail
 
 **Symptoms:**
-- Cutworms: Wilting or missing seedlings at the soil line.
-- Cabbage loopers: Holes in leaves; presence of greenish-brown caterpillars with a distinctive loop-like movement.
-- Imported cabbage worms: Small white butterflies laying eggs on leaves; presence of small, pale green caterpillars with yellow stripes.
-- Cabbage root maggots: Wilting plants; yellowing leaves; roots covered in tiny, cream-colored grubs.
-- Slugs: Irregular holes in leaves; shiny, soft-bodied pests.
-- Aphids: Small, soft-bodied insects that suck sap from leaves and stems; may cause leaf curling or distortion.
+- **Diamond back moth:** The small green larvae feed heavily on leaves, leaving only a thin layer, and in severe cases, they remove all leaf tissue except the veins, affecting cabbage head formation.
+- **Cabbage loopers:** Holes in leaves; presence of greenish-brown caterpillars with a distinctive loop-like movement.
+- **Tobacco cut worm:** Irregular holes on leaves.
+- **Black cut worm:** The nocturnal larvae make holes in leaves early on, but later cut entire plants at the base during emergence, causing wilting during the day.
+- **Root maggot:** Wilting leaves and plants shrivel, when pulled up, tiny root maggots can be seen on the roots.
+- **Aphids:** They suck sap from the plant, causing leaf malformation and contamination of edible parts.
+- **Slug and Snail:** Irregular holes in leaves.
 
 **Control method:**
-- Cutworms: Place a protecting collar around young plants; use row covers to protect seedlings until they reach 6 inches tall.
-- Cabbage loopers & imported cabbage worms: Use floating row covers to prevent moths from laying eggs on leaves. Handpick caterpillars and drop them into soapy water. <update>Apply neem oil or Bacillus thuringiensis (Bt) for severe infestations.</update>
-- Cabbage root maggots: Mix ash with the soil near the plant to deter grubs; use beneficial nematodes to control grub population.
-- Slugs: Handpick and dispose of slugs; use iron phosphate baits or copper tape around plants.
-- Aphids: Spray plants with insecticidal soap or neem oil. Introduce ladybugs or lacewings as natural predators.
+- **Diamond back moth:** Regular monitoring, crop rotation, and destruction of crop residues. Avoid broad-spectrum pesticides.
+- **Cabbage loopers:** proper nursery management, regular field monitoring, crop rotation, and chemical control using the same products as above.
+- **Tobacco cut worm:** Proper field sanitation, crop rotation, and protection of natural predators.
+- **Black cut worm:** Regular monitoring, hand collection, weed management, deep plowing, and encouraging predatory birds.
+- **Root maggot:** Field monitoring, crop rotation, yellow sticky traps, removal of infected plants, and proper compost application.
+- **Aphids:** Visual monitoring, weed control, and protection of natural predators.
+- **Slug and Snail:** Removal of debris, trapping and hand collection, and encouraging predatory birds.
 
-**Disease Control**
-<update>
-**Disease type:** Blackleg, clubroot, and black rot.
+### Disease Control
+**Disease type:**
+- Cabbage club root disease
+- Cercospora leaf spot
+- Black rot
+- Head rot
+- Cabbage ring spot
+- Downey mildew
 
 **Symptoms:**
-- Blackleg: Dark spots on leaves that enlarge and turn brown; plant wilts and dies.
-- Clubroot: Swollen roots with a distinctive club-like shape; yellowing leaves; stunted growth.
-- Black rot: V-shaped, yellow or brown lesions on leaves; black streaks on veins.
+- **Cabbage club root disease:** lumps or malformations on the roots of the wilting cabbages.
+- **Cercospora leaf spot:**
+- **Black rot:**
+- **Head rot:**
+- **Cabbage ring spot:**
+- **Downey mildew:**
 
 **Management:**
-- Blackleg & Black rot: Rotate crops annually to prevent disease buildup. Remove infected plants and destroy them. Use fungicides if necessary.
-- Clubroot: Rotate crops with non-host plants such as beans, corn, or grasses. Apply lime to raise soil pH. Use resistant cabbage varieties.
-</update>
+- **Cabbage club root disease:** Use disease-free planting materials, increase soil pH with lime, rotate crops with non-cruciferous plants, remove weed hosts, and use clean equipment.
+- **Cercospora leaf spot:** Field sanitation
+- **Black rot:** Use healthy seeds, maintain field sanitation and proper drainage, practice crop rotation, continuously monitor fields, and destroy infected plants.
+- **Head rot:** Field sanitation
+- **Cabbage ring spot:** Use healthy planting materials, ensure field sanitation, remove alternate host weeds, and maintain proper spacing to avoid overlapping of plants.
+- **Downey mildew:** Maintaining field sanitation and weed control.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 7/10)
-**Explanation:** <update>Cabbages are challenging in the wet zone due to high humidity, rainfall, and temperatures, which favor pests and diseases.</update>
+**Explanation:** Cabbages are challenging in the wet zone due to high humidity, rainfall, and temperatures, which favor pests and diseases.
 
 **Challenges/Adaptations:**
 - Keep garden clean and weed-free to minimize pest habitat.
 - Provide adequate spacing between plants for air circulation.
 - Use row covers to protect young plants from pests.
 - Monitor plants regularly for signs of disease or pests.
-- <update>Consider raised beds to improve drainage in high rainfall areas.</update>
+- Consider raised beds to improve drainage in high rainfall areas.
 
 ### Low country dry zone (Difficulty: 6/10)
-**Explanation:** <update>Cabbages can be grown in the dry zone but require consistent watering and protection from heat stress.</update>
+**Explanation:** Cabbages can be grown in the dry zone but require consistent watering and protection from heat stress.
 
 **Challenges/Adaptations:**
 - Ensure consistent moisture through regular watering.
 - Apply mulch to retain soil moisture and suppress weeds.
 - Provide some shade during peak heat hours using taller companion plants or structures.
-- <update>Choose heat-tolerant varieties suitable for dry zone conditions.</update>
+- Choose heat-tolerant varieties suitable for dry zone conditions.
 
 ### Mid country (Difficulty: 5/10)
-**Explanation:** <update>The mid-country's moderate temperatures and rainfall make it suitable for cabbage cultivation, but pest management is still crucial.</update>
+**Explanation:** The mid-country's moderate temperatures and rainfall make it suitable for cabbage cultivation, but pest management is still crucial.
 
 **Challenges/Adaptations:**
 - Monitor soil moisture levels; adjust watering accordingly.
 - Protect young plants from strong winds using supports or structures.
 - Practice crop rotation to prevent disease buildup.
-- <update>Implement integrated pest management techniques to control common pests.</update>
+- Implement integrated pest management techniques to control common pests.
 
 ### Up country (Difficulty: 4/10)
-**Explanation:** <update>The upcountry's cooler temperatures are ideal for cabbage growth, but care is needed to protect from occasional frost and heavy rainfall.</update>
+**Explanation:** The upcountry's cooler temperatures are ideal for cabbage growth, but care is needed to protect from occasional frost and heavy rainfall.
 
 **Challenges/Adaptations:**
 - Provide protection from frost using row covers or cold frames when necessary.
 - Choose cold-hardy cabbage varieties suitable for higher elevations.
 - Ensure adequate soil drainage to prevent waterlogging during heavy rainfall.
-- <update>Time planting to avoid the wettest months to reduce disease pressure.</update>
+- Time planting to avoid the wettest months to reduce disease pressure.
