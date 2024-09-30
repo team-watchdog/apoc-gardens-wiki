@@ -55,7 +55,7 @@ Harvest can be obtained in 90 - 110 days from planting. Variations in this time-
 Cauliflower does not require a curing stage.
 
 ## Storage
-Refigerate washed and dryed cauliflower in an airtight freezer bag.
+Refrigerate washed and dried cauliflower in an airtight freezer bag.
 
 ## Protecting your plants
 ### Pest control
