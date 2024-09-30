@@ -58,7 +58,7 @@ Banan peppers should be kept in a cool environment. Properly stored in the fridg
 - White flies
 
 **Symptoms:** 
-- **White flies:** Acts as vectors of leaf curl virus disease
+- **White flies:** Acts as vectors carrying 'leaf curl virus disease'
 
 **Control method:** A wind barrier such as maize is recommended as a preventative action. Growing aromatic companion herbs can also serve as pest repellents.
 
