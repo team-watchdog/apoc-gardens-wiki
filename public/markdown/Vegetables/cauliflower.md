@@ -49,7 +49,7 @@ The plant consists of a thick stem surrounded by leaves on top of which the curd
 | Pruning      | N/A                                                                                                                                                                                                                                                                                                                                                                     |
 
 ## Harvesting
-Harvest can be obtained in 60-75 days from planting. Variations in this time-line can be experienced on the basis of climatic zones/plant variety. 6-9 tons can be expected per Hectare. Harvest cauliflower when heads reach usable size, before the flower buds open. Cut the head above ground level and remove the leaves wrapped around the head. If you leave curds on the plant for too long, they will become loose.
+Harvest can be obtained in 90 - 110 days from planting. Variations in this time-line can be experienced on the basis of climatic zones/plant variety. Harvest cauliflower when heads reach usable size, before the flower buds open. Cut the head above ground level and remove the leaves wrapped around the head. If you leave curds on the plant for too long, they will become loose.
 
 ## Curing
 Cauliflower does not require a curing stage.
@@ -75,42 +75,30 @@ Refigerate washed and dryed cauliflower in an airtight freezer bag.
 - **Black worm:** In early stages makes round holes in leaves. In adulthood these pests chew the base of the plant stems and can drag parts of the sapling plants underground.
   
 **Control method:**
-
 - **Cabbage looper / Looper caterpillar:** Indian mustard (Brassica juncea) plants can be used as trap crops. Regular monitoring of plants and handpick larvae from crops soon as it is identified.
 
 - **Diamond black moth:** Lacewings insects feed on eggs and young larvae. Proper irrigation and rainfall can help eliminate larvae. Regular monitoring of plants is required.
 
 - **Black worm:** Regular monitoring of plants and handpick larvae from crops soon as it is identified. Plough the soil deeply to bring the larvae and pupa to the surface of the soil. Encourage predatory birds during soil tillage.
 
-## Protecting your plants
-### Pest control
-#### Cabbage looper / Looper caterpillar (_Chrysodexis eriosoma_)
-**Symptoms:** Known to attack all cruciferous plants throughout their growth cycle. This pest can cause significant damage to cruciferous crops if left unchecked, potentially leading to reduced yield and crop quality. Presence of larval excrement at the base of leaves, Creation of large, irregular holes on the underside of leaves. In severe infestations, complete consumption of leaves. Skeletonization of leaves in extreme cases.
-
-**Control method:** Indian mustard (Brassica juncea) plants can be used as trap crops. Regular monitoring of plants and handpick larvae from crops soon as it is identified.
-#### Diamond black moth (_Plutella xylostella_)
-**Symptoms:** The larva is a small, green colour surface feeder. When disturbed, larvae quickly retreat by wriggling backwards or dropping on silk threads, either suspending themselves or landing on lower leaves. It feeds on the leaves from the under surface leaving a papery epidermis intact.
-
-**Control method:** Lacewings insects feed on eggs and young larvae. Proper irrigation and rainfall can help eliminate larvae. Regular monitoring of plants is required.
-#### **Black worm (_Agrotis spp_)**
-**Symptoms:** Habitually nocturnal.  In early stages makes round holes in leaves. In adulthood these pests chew the base of the plant stems and can drag parts of the sapling plants underground.
-
-**Control method:** Regular monitoring of plants and handpick larvae from crops soon as it is identified. Plough the soil deeply to bring the larvae and pupa to the surface of the soil. Encourage predatory birds during soil tillage.
-
 ### Disease Control
 
 **Disease type:** 
-Club root
+- **Club root:** Swollen and distorted club-shaped galls form on main lateral roots. This can completely destroy the crop.
 
-Damping-Off Diseases (Causal Fungi: Pythium, Rhizoctonia, and Fusarium spp.)
+- **Damping-Off Diseases:** This includes Black rot, Bacterial soft rot, Downy mildew. These diseases mainly take hold after long humid rains when the plants cannot dry out properly.
 
 **Symptoms:**
-- Swelling or malformation on the main lateral roots those are called club rootsand those galls appear like clubs or spindles on the roots
-- The crop can be completely destroyed due to damage
+- **Club root:** Leaves turn pale yellow or pink while wilting.
+  
+- **Damping-Off Diseases:** Black rot: V-shaped yellow-brown patches on outer leaves, V-tip pointing to leaf vein. Soft rot: Outer leaves wilt; soft, cottony mold develops underneath. Downy mildew: Light green spots on leaves, quickly browning and multiplying.
 
 **Management:**
-- Minimize soil borne pathogens by burning the soil before planting,
-</update>
+- **Club root:** Use healthy seeds for propogation. Use clean planting materials. Add lime to increase soil pH levels. Weed control. Destroy infected plants by burning plant and soil.
+  
+- **Damping-Off Diseases:** Use healthy seeds for propogation. Use clean planting materials. Keep proper space between plants. Frequent monitoring and weed control. Destroy infected plants. 
+
+
 ## Difficulty Rating
 
 ### Low country wet zone (Difficulty: 6/10)
