@@ -88,7 +88,7 @@ Refigerate washed and dryed cauliflower in an airtight freezer bag.
 **Symptoms:** Known to attack all cruciferous plants throughout their growth cycle. This pest can cause significant damage to cruciferous crops if left unchecked, potentially leading to reduced yield and crop quality. Presence of larval excrement at the base of leaves, Creation of large, irregular holes on the underside of leaves. In severe infestations, complete consumption of leaves. Skeletonization of leaves in extreme cases.
 
 **Control method:** Indian mustard (Brassica juncea) plants can be used as trap crops. Regular monitoring of plants and handpick larvae from crops soon as it is identified.
-#### *Diamond black moth (_Plutella xylostella_)
+#### Diamond black moth (_Plutella xylostella_)
 **Symptoms:** The larva is a small, green colour surface feeder. When disturbed, larvae quickly retreat by wriggling backwards or dropping on silk threads, either suspending themselves or landing on lower leaves. It feeds on the leaves from the under surface leaving a papery epidermis intact.
 
 **Control method:** Lacewings insects feed on eggs and young larvae. Proper irrigation and rainfall can help eliminate larvae. Regular monitoring of plants is required.
