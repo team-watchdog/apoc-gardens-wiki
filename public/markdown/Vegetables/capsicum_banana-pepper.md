@@ -29,7 +29,7 @@ It can be cultivated throughout the year under supplementary irrigation and also
 | **Propagation** | Direct seeding or transplanting                                                           |
 |----|----|
 | Planting method | Direct seeding or transplanting. Seeds germinate in 8-10 days. Seedlings are ready to plant in 21 days |
-| Soil | Grows well in well drained, deep and fertile loam soils. Sandy soils also good when required amount of organic matter added. pH value between 5.5 -6.8 is preferred. Plough the field up to 15-20 cm depth. Raised beds have to be prepared for better drainage.Soil should be well-drained and fertile with a pH between 5.5 and 7.0. |
+| Soil | Grows well in well drained, deep and fertile loam soils. Sandy soils also good when required amount of organic matter added. pH value between 5.5 -6.8 is preferred. |
 | Water | Irrigation to be practiced in 4-5 day intervals at early stages and 1 week interval at latter stages of the crop. This depends on the rainfall. Irrigation is required before and after fertilizer application, and during flowering and fruit development stages. Water regularly, especially during fruiting. |
 | Light | Requires plenty of sunlight like other peppers |
 
