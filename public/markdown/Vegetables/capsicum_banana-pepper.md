@@ -39,7 +39,6 @@ It can be cultivated throughout the year under supplementary irrigation and also
 |----|----|
 | Soil | Grows well in well drained, deep and fertile loam soils. Sandy soils also good when required amount of organic matter added. pH value between 5.5-6.8 is preferred |
 | Water | Irrigation to be practiced in 4-5 day intervals at early stages and 1 week interval at latter stages of the crop. This depends on the rainfall. Irrigation is required before and after fertilizer application, and during flowering and fruit development stages. |
-| Propagation | Direct seeding or transplanting |
 
 ## Harvesting:
 First harvesting can be done 75 days after nursery sowing and at 5-7 day intervals. Thereafter in 7-10 picks during the crop growth. Practice harvesting in dry weather conditions.
