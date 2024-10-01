@@ -72,8 +72,6 @@ Bitter gourds can be stored in the refrigerator for up to 2 weeks. Wrap them in 
 - Bacterial wilt (_Ralstonia solanacearum_)
 - Phytoplasma disease of cucurbits
 
-Fungal diseases (Powdery mildew, Downy mildew), Bacterial wilt, Viral diseases (Leaf Curl Virus, Cucumber Mosaic Virus)
-
 **Symptoms:** 
 - **Powdery mildew:** The symptoms begin as pale yellow spots on older leaves, which expand as white, fluffy mycelium spreads across the leaf surface. Severely affected leaves turn brown, shrivel, and may eventually drop from the plant.
   
