@@ -39,7 +39,6 @@ Carrots are a root vegetable that is grown from seed. It normally grows an expan
 | Light | Carrots require six to eight hours of direct sunlight a day. Providing afternoon shade or planting in filtered light can give carrots the amount of light they need while keeping soil temperatures lower during the hottest part of the day. In hot climate, shade netting or intercropping with taller plants can help protect carrots from excessive heat.|
 
 ### Growing conditions:
-
 | **Temperatures** | Seed germinate well in the temperature range 7–24°C. Plants grow well with a temperature about 15°C. |
 |----|----|
 | Soil | Root vegetables grow faster in loose, loamy, or sandy soils. To lighten heavy soil in carrot beds, incorporate sand, low-nitrogen compost, wood shavings, shredded leaf mulch, or chopped straw. Avoid adding animal manures as these are often nitrogen-rich.|
@@ -58,18 +57,76 @@ Large Carrots can be harvested in 12-18 weeks.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Aphids, Carrot Rust Flies, Carrot Weevils, Cutworms, Leafhoppers, Root-Knot Nematodes, Wireworms
+**Pest type:** 
+- Leaf miner (_Liriomyza huidobrensis_)
+- Black cut (_worm-Agrotis spp_)
+- Root knot Nematode (_Meloidogyne spp._)
+- Slug and Snail
 
-**Symptoms:** Stunted growth, yellowing leaves, wilting, holes in leaves
+**Symptoms:** 
+- **Leaf miner:** Spotted appearance on foliage. Larvae make irregular mine and result drying and withering of leaves. Damaged plants may succumb to secondary infection by late blight.
 
-**Control method:** Keep the surrounding areas of the plant weed free, apply insecticides and neem oil. <update>In Sri Lanka, traditional organic pesticides like neem oil and garlic-chili spray are commonly used.</update>
+- **Black cut:** These nocturnal pests create round holes in young leaves, later cutting plants at the base near the ground and damaging shoots. They pull plant stems below the surface, causing several plants to wilt during the day, and leave unsightly holes in the tubers.
+
+- **Root knot Nematode:**
+  - Yellowing
+  - Stunting
+  - Wilting
+  - Uneven growth
+  - Uproot tubers can be observed
+  - Galls on feeder roots
+  - Forking of the tap root
+  - Bunching of roots
+  
+- **Slug and Snail:** Destroy seedlings at the emergence. Damage is severe during high rainfall conditions.
+
+**Control method:**
+- **Leaf miner:**
+  - Regular field inspection
+  - Yellow colour sticky trap
+  - Covering crops with suitable material prevent mitigating flies
+  - Removal of other host plants surrounds the crop field
+  - Removal and distruction of infected plant material
+  - Encourage naturally found parasitoids; _Hemiptarsenus semibiclavas_ and _Opius spp_
+ 
+- **Black cut:**
+  - Regular monitoring
+  - Hand collecting and destroying
+  - Weed management
+  - Proper field sanitation
+  - Plough the soil deeply to bring the larvae and pupa to the surface of the soil
+  - Encourage predatory birds to prey the worms during tillage.
+ 
+- **Root knot:**
+  - Block entry of pests into fields.
+  - Avoid moving plants and soil from infested areas.
+  - Prevent irrigation water from infested fields from reaching clean areas.
+  - Thoroughly clean tools before use.
+  - Till the soil two to three times and expose it to sunlight.
+  - Apply poultry manure two weeks before planting.
+  - Practice crop rotation to disrupt pest life cycles.
+ 
+- **Slug and Snail:**
+  - Eliminate daytime sheltering spots for snails.
+  - Regularly trap and remove snails from the field.
+  - Remove debris and maintain proper field sanitation.
+  - Implement effective weed management.
+  - Encourage predatory birds by enhancing their natural habitats.
 
 ### Disease Control
-**Disease type:** Fusarium wilt, Alternaria leaf blight
+**Disease type:** 
+- Blight
+- Soft rot
 
 **Symptoms:** Wilted leaves, yellowing or browning leaves, lesions on roots
 
-**Management:** Avoid overhead watering, rotate crops, use disease-resistant varieties. <update>In Sri Lanka's humid climate, proper spacing and good air circulation are crucial to prevent fungal diseases.</update>
+**Management:**
+- **Blight:** 
+  - Use of healthy seeds
+  - Field sanitation
+- **Soft rot:**
+  - Field sanitation
+  - Improve drainage condition in the field
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 7/10)
