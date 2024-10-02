@@ -7,7 +7,7 @@
 **Scientific name:** _Momordica Charantia_
 **Plant family:** _Cucurbitaceae_
 **Edible parts:** Fruit
-**Other uses:** Anti diabetic and anti cancer properties
+**Other uses:** Anti-diabetic and anti cancer properties
 **Nutrition value:** Bitter Gourd is rich in a number of important antioxidants. Half a cup of fresh bitter gourd accounts for about 43% of your recommended daily intake of vitamin C.
 
 **Companion plants:**
@@ -80,7 +80,7 @@ Bitter gourds can be stored in the refrigerator for up to 2 weeks. Wrap them in 
 - **Collar rot/Root rot:** Initially, the plants exhibit temporary wilting symptoms, with yellowing leaves that lose turgidity and droop. Eventually, the plants die, and the vascular bundles in the collar region turn yellow or brown.
 
 - **Gummy Stem Blight:**
-  - **Lesions**: Start as spreading water-soaked areas on leaves and fruit.
+  - **Lesions**: Start by spreading water-soaked areas on leaves and fruit.
   - **Chlorotic Halo**: These lesions may have a chlorotic halo and transition to light brown with irregular outlines.
   - **Fruit Damage**: Dark, cracked, sunken lesions develop on the fruit.
   - **Plant Collapse**: Plants may collapse due to sunken, girdling cankers.
@@ -107,7 +107,7 @@ Bitter gourds can be stored in the refrigerator for up to 2 weeks. Wrap them in 
 
 - **Collar rot/Root rot:** Destory infected plants. Improve drainage.
 
-- **Gummy Stem Blight:** Crop debris should be ploughed deeply immediately after harvest to reduce fungus survival
+- **Gummy Stem Blight:** Crop debris should be plowed deeply immediately after harvest to reduce fungus survival
 
 - **Bacterial wilt:**
   - Destroy infected plants along with the soil.
