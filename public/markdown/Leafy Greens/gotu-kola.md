@@ -8,6 +8,7 @@
 **Plant family:** Apiaceae
 **Edible parts:** The whole plant is eaten raw or cooked. The leaves are added to tossed salads or steamed and served with rice. They can be cooked in vegetable soups or stews. The plant is also used for medicine where the leaves are made into tea. Also, the juice of the leaves diluted with water and sweetened with sugar is used as a drink. <update>In Sri Lanka, Gotu kola is commonly used in traditional dishes like Gotu kola sambol and Gotukola kanda (porridge).</update>
 **Nutrition value:** Contains vitamins B and C, proteins, and is high in antioxidants.
+
 **Companion plants:**
 - Lettuce
 - Spinach
@@ -28,7 +29,7 @@ There are three types of vine type Gotukola according to the size of leaves;
 3. Types with small leaves (WelGotukola)
 
 ## Planting requirements
-**Planting season:** <update>Year-round in Sri Lanka, with best growth during the rainy seasons (May-September and December-February)</update>
+**Planting season:** Grows year round
 
 ### Planting conditions:
 | **Propagation** | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container that has proper drainage in the bottom of the container. |
@@ -36,19 +37,19 @@ There are three types of vine type Gotukola according to the size of leaves;
 | Planting method | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container that has proper drainage in the bottom of the container. |
 | Soil | It grows best in sunny, moist, fertile soils. Well-drained lowlands are the most suitable for cultivation. It required a soil with a pH range of 6-7. Can add lime or wood ash to help with the pH balance, if necessary. The soil must be adequately prepared before planting Gotu kola seeds, as this plant does not grow well in poor soil conditions. To prepare the soil for Gotu kola planting, you need to first prepare your garden bed by removing all weeds and debris before adding compost or manure to the soil. |
 | Water | Irrigation is important to maintain the soil moisture. It requires proper watering and drainage to thrive. Water logging should be avoided. If watering frequently, need to have a drainage hole in the container. After planting, make sure to water the area thoroughly. After that, rinse the soil as often as necessary to maintain it uniformly and continuously moist. |
-| Light | Gotu kola needs a lot of sunlight to grow properly. It should be placed in a sunny spot where it can receive at least six hours of sunlight every day. <update>In Sri Lanka, partial shade during the hottest parts of the day can be beneficial, especially in the dry zone.</update> |
+| Light | Gotu kola needs a lot of sunlight to grow properly. It should be placed in a sunny spot where it can receive at least six hours of sunlight every day.|
 
 ### Growing conditions:
 
-| **Temperatures** | It needs a temperature above 10°C. <update>In Sri Lanka, it thrives in temperatures between 20-30°C, which are common across most of the island.</update> |
+| **Temperatures** | It needs a temperature above 10°C. |
 |----|----|
 | Soil | Raised beds or sunken beds should be prepared according to the selected field to facilitate good drainage. Good textured soil with fine filth is more suitable for the growth of deep roots. Both organic and inorganic fertilizers can be applied to the crop. |
-| Water | The plant should be watered every day during the summer months and every two days during the winter months. The main target here is to keep moist soil. <update>In Sri Lanka's dry zone, more frequent watering may be necessary, especially during drought periods.</update> |
+| Water | The plant should be watered every day during the summer months and every two days during the winter months. The main target here is to keep moist soil.|
 | Pruning | Pinch back growing tips to encourage bushier growth. |
 | Weed control | Hand-pull weeds regularly, especially during the first few weeks after planting. |
 
 ## Harvesting:
-Gotu kola leaves can be picked throughout the summer months. <update>In Sri Lanka, harvesting can be done year-round, with more frequent harvests during the rainy seasons when growth is most vigorous.</update> The leaves can be used dried or fresh for use in infusions, milk decoctions, or powdered.
+Gotu kola leaves can be picked throughout the summer months. The leaves can be used dried or fresh for use in infusions, milk decoctions, or powdered.
 
 ## Curing: 
 <update>Spread leaves on a clean surface and allow them to dry naturally in the shade. Store dried leaves in an airtight container.</update>
@@ -72,8 +73,8 @@ Gotu kola leaves can be picked throughout the summer months. <update>In Sri Lank
 **Management:** Avoid overwatering to prevent root rot. Remove infected leaves promptly to control leaf spot and powdery mildew. Apply fungicides as a last resort for severe cases of powdery mildew. <update>In Sri Lanka's humid climate, ensuring good air circulation and avoiding overhead watering can help prevent fungal diseases.</update>
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 3/10)
-**Explanation:** The warm, humid conditions of the low country wet zone are generally favorable for Gotu-kola cultivation.
+### Low country wet zone (Difficulty: 2/10)
+**Explanation:** The warm, humid conditions of the low country wet zone are generally more favorable for Gotu-kola cultivation.
 **Challenges/Adaptations:**
 - May require partial shade during the hottest parts of the day
 - Need to ensure good drainage to prevent waterlogging
@@ -86,7 +87,7 @@ Gotu kola leaves can be picked throughout the summer months. <update>In Sri Lank
 - Mulching is essential to retain soil moisture
 - May need shade cloth or partial shade during extreme heat
 
-### Mid country (Difficulty: 2/10)
+### Mid country (Difficulty: 3/10)
 **Explanation:** The moderate climate of the mid-country provides ideal conditions for Gotu-kola growth.
 **Challenges/Adaptations:**
 - Minimal adaptations needed
