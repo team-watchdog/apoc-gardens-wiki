@@ -1,7 +1,5 @@
 # Ceylon Olive / Veralu
-
- ![](/api/attachments.redirect?id=76979cf9-287d-4271-a2b7-6359c7ffd72b)
-
+ ![Ceylon Olive](../../assets/images/Ceylon-Olive_Veralu.jpg "By Gregorvitch - Own work A photograph taken by a Canon Poweshot SX130 IS Digital Camera, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16228511")
 
 ## General Information
 **Generic name: Ceylon Olive, Wild Olive**
@@ -41,7 +39,7 @@
 | **Propagation** | Direct seeding, budding, grafting. |
 
 ## Harvesting:
- 8-9 years for direct seeded trees. 3-4 years for budded and grafted trees. A tree can produce between 60 to 100 kilograms of fruit every year. 
+8-9 years for direct seeded trees. 3-4 years for budded and grafted trees. A tree can produce between 60 to 100 kilograms of fruit every year. 
 
 ## Curing:
 
