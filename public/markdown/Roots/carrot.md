@@ -2,12 +2,12 @@
 ![Carrot.jpg](../../assets/images/Carrot.jpg "By Evan-Amos - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=80678492")
 
 ## General Information
-**Generic name:** Daucus carota
-**Sri Lankan name:** Carrot
-**Scientific name:** Daucus carota
-**Plant family:** Apiaceae
-**Edible parts:** Both the roots and the leaves are edible. The young leaves are used in soups. The roots can be eaten raw or cooked. <update>In Sri Lanka, carrots are commonly used in various curries, salads, and as a raw snack.</update>
-**Nutrition value:** <update> High in vitamins A and K, potassium, and antioxidants.</update>
+**Generic name:** Carrot
+**Sri Lankan name:** Sinhala:Val Kaerat Tamil: Mancalmullanki
+**Scientific name:** _Daucus carota_
+**Plant family:** _Apiaceae_
+**Edible parts:** Both the roots and the leaves are edible. The young leaves are used in soups. The roots can be eaten raw or cooked.
+**Nutrition value:** High in vitamins A and K, potassium, and antioxidants.
 **Companion plants:**
 - Onions
 - Leeks
@@ -17,8 +17,7 @@
 - Radishes
 - Tomatoes
 - Beans
-- <update>Chili peppers
-- Curry leaves</update>
+
 **Non-companion plants:**
 - Brassicas (cabbage, kale, broccoli, cauliflower, brussel sprouts etc)
 - Beetroot
@@ -32,24 +31,23 @@ Carrots are a root vegetable that is grown from seed. It normally grows an expan
 **Planting season:** <update>In Sri Lanka, carrots are typically planted from September to February in the upcountry regions, and from October to January in the mid-country regions.</update>
 
 ### Planting conditions:
-| **Propagation** | Seeds can be mixed with sand before sowing to allow a more even distribution of plants. A spacing of 5 cm apart in rows 15–20 cm apart is suitable. Often this spacing is achieved by thinning out excess plants. Seeds can be planted on raised beds. In Sri Lanka, raised beds are particularly useful during the monsoon season to prevent waterlogging.|
+| Propagation | They are grown from seeds sown directly.|
 |----|----|
-| Planting method | Direct sowing|
-| Soil | Carrots require a deep loose soil. It grows best with a pH of 6.0-7.0. Carrots are frost resistant. Avoid crusty soil through maintaining consistent moisture in the soil. In Sri Lanka, adding organic matter to improve soil structure is crucial, especially in areas with heavy clay soils.|
-| Water | Need to maintain a consistently moist soil in the carrot bed. In dry zones of Sri Lanka, more frequent watering may be necessary.|
-| Light | Carrots require six to eight hours of direct sunlight a day. Providing afternoon shade or planting in filtered light can give carrots the amount of light they need while keeping soil temperatures lower during the hottest part of the day. <update>In Sri Lanka's hot climate, shade netting or intercropping with taller plants can help protect carrots from excessive heat.</update>
+| Planting method | Seeds can be mixed with sand before sowing to allow a more even distribution of plants. A spacing of 5 cm apart in rows 15–20 cm apart is suitable. Often this spacing is achieved by thinning out excess plants. Seeds can be planted on raised beds. In Sri Lanka, raised beds are particularly useful during the monsoon season to prevent waterlogging.|
+| Soil | Carrots require a deep loose soil. It grows best with a pH of 6.0-7.0. Carrots are frost resistant. Avoid crusty soil through maintaining consistent moisture in the soil.|
+| Water | Need to maintain a consistently moist soil in the carrot bed.|
+| Light | Carrots require six to eight hours of direct sunlight a day. Providing afternoon shade or planting in filtered light can give carrots the amount of light they need while keeping soil temperatures lower during the hottest part of the day. In hot climate, shade netting or intercropping with taller plants can help protect carrots from excessive heat.|
 
 ### Growing conditions:
-
-| **Temperatures** | Seed germinate well in the temperature range 7–24°C. Plants grow well with a temperature about 15°C. <update>In Sri Lanka, carrots are best grown in cooler upcountry regions or during cooler seasons in other areas.</update>|
+| **Temperatures** | Seed germinate well in the temperature range 7–24°C. Plants grow well with a temperature about 15°C. |
 |----|----|
-| Soil | Root vegetables grow faster in loose, loamy, or sandy soils. To lighten heavy soil in carrot beds, incorporate sand, low-nitrogen compost, wood shavings, shredded leaf mulch, or chopped straw. Avoid adding animal manures as these are often nitrogen-rich. <update>In Sri Lanka, coconut coir can be an excellent local alternative for improving soil structure.</update>|
-| Water | Daily watering is required to maintain the moisture in the soil. Therefore, provide light, frequent irrigation to obtained good yield. <update>In Sri Lanka's dry zones, drip irrigation systems can be particularly effective.</update>|
+| Soil | Root vegetables grow faster in loose, loamy, or sandy soils. To lighten heavy soil in carrot beds, incorporate sand, low-nitrogen compost, wood shavings, shredded leaf mulch, or chopped straw. Avoid adding animal manures as these are often nitrogen-rich.|
+| Water | Daily watering is required to maintain the moisture in the soil. Therefore, provide light, frequent irrigation to obtained good yield.|
 | Pruning | Not necessary|
-| Weed control | Hand-pulling or hoeing
+| Weed control | Hand-pulling or hoeing |
 
 ## Harvesting:
-Large Carrots can be harvested in 12-18 weeks. <update>In Sri Lanka, harvesting is typically done during the cooler months of December to March.</update>
+Large Carrots can be harvested in 12-18 weeks.
 
 ## Curing:
 <update>Store carrots in a cool, humid place for 2-3 weeks to improve flavour and texture.</update>
@@ -59,18 +57,76 @@ Large Carrots can be harvested in 12-18 weeks. <update>In Sri Lanka, harvesting 
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Aphids, Carrot Rust Flies, Carrot Weevils, Cutworms, Leafhoppers, Root-Knot Nematodes, Wireworms
+**Pest type:** 
+- Leaf miner (_Liriomyza huidobrensis_)
+- Black cut (_worm-Agrotis spp_)
+- Root knot Nematode (_Meloidogyne spp._)
+- Slug and Snail
 
-**Symptoms:** Stunted growth, yellowing leaves, wilting, holes in leaves
+**Symptoms:** 
+- **Leaf miner:** Spotted appearance on foliage. Larvae make irregular mine and result drying and withering of leaves. Damaged plants may succumb to secondary infection by late blight.
 
-**Control method:** Keep the surrounding areas of the plant weed free, apply insecticides and neem oil. <update>In Sri Lanka, traditional organic pesticides like neem oil and garlic-chili spray are commonly used.</update>
+- **Black cut:** These nocturnal pests create round holes in young leaves, later cutting plants at the base near the ground and damaging shoots. They pull plant stems below the surface, causing several plants to wilt during the day, and leave unsightly holes in the tubers.
+
+- **Root knot Nematode:**
+  - Yellowing
+  - Stunting
+  - Wilting
+  - Uneven growth
+  - Uproot tubers can be observed
+  - Galls on feeder roots
+  - Forking of the tap root
+  - Bunching of roots
+  
+- **Slug and Snail:** Destroy seedlings at the emergence. Damage is severe during high rainfall conditions.
+
+**Control method:**
+- **Leaf miner:**
+  - Regular field inspection
+  - Yellow colour sticky trap
+  - Covering crops with suitable material prevent mitigating flies
+  - Removal of other host plants surrounds the crop field
+  - Removal and distruction of infected plant material
+  - Encourage naturally found parasitoids; _Hemiptarsenus semibiclavas_ and _Opius spp_
+ 
+- **Black cut:**
+  - Regular monitoring
+  - Hand collecting and destroying
+  - Weed management
+  - Proper field sanitation
+  - Plough the soil deeply to bring the larvae and pupa to the surface of the soil
+  - Encourage predatory birds to prey the worms during tillage.
+ 
+- **Root knot:**
+  - Block entry of pests into fields.
+  - Avoid moving plants and soil from infested areas.
+  - Prevent irrigation water from infested fields from reaching clean areas.
+  - Thoroughly clean tools before use.
+  - Till the soil two to three times and expose it to sunlight.
+  - Apply poultry manure two weeks before planting.
+  - Practice crop rotation to disrupt pest life cycles.
+ 
+- **Slug and Snail:**
+  - Eliminate daytime sheltering spots for snails.
+  - Regularly trap and remove snails from the field.
+  - Remove debris and maintain proper field sanitation.
+  - Implement effective weed management.
+  - Encourage predatory birds by enhancing their natural habitats.
 
 ### Disease Control
-**Disease type:** Fusarium wilt, Alternaria leaf blight
+**Disease type:** 
+- Blight
+- Soft rot
 
 **Symptoms:** Wilted leaves, yellowing or browning leaves, lesions on roots
 
-**Management:** Avoid overhead watering, rotate crops, use disease-resistant varieties. <update>In Sri Lanka's humid climate, proper spacing and good air circulation are crucial to prevent fungal diseases.</update>
+**Management:**
+- **Blight:** 
+  - Use of healthy seeds
+  - Field sanitation
+- **Soft rot:**
+  - Field sanitation
+  - Improve drainage condition in the field
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 7/10)
@@ -79,7 +135,7 @@ Large Carrots can be harvested in 12-18 weeks. <update>In Sri Lanka, harvesting 
 **Challenges/Adaptations:**
 - Heavy soil: Incorporate sand or compost
 - High humidity: Provide good air circulation
-<update>- Excessive rainfall: Use raised beds and improve drainage</update>
+- Excessive rainfall: Use raised beds and improve drainage
 
 ### Low country dry zone (Difficulty: 6/10)
 **Explanation:** Carrots prefer consistent moisture, so irrigation may be necessary.
@@ -87,7 +143,6 @@ Large Carrots can be harvested in 12-18 weeks. <update>In Sri Lanka, harvesting 
 **Challenges/Adaptations:**
 - Drought: Irrigate regularly
 - High temperatures: Provide afternoon shade
-<update>- Water scarcity: Implement water-efficient irrigation systems like drip irrigation</update>
 
 ### Mid country (Difficulty: 5/10)
 **Explanation:** Carrots grow well in the mid-country's cooler temperatures.
@@ -95,12 +150,12 @@ Large Carrots can be harvested in 12-18 weeks. <update>In Sri Lanka, harvesting 
 **Challenges/Adaptations:**
 - Heavy soil: Incorporate sand or compost
 - Strong winds: Provide plant support
-<update>- Varying rainfall: Adjust watering based on seasonal patterns</update>
+- Varying rainfall: Adjust watering based on seasonal patterns
 
 ### Up country (Difficulty: 4/10)
-**Explanation:** <update>Carrots thrive in the up-country's cooler temperatures, making it the ideal region for carrot cultivation in Sri Lanka.</update>
+**Explanation:** Carrots thrive in the up-country's cooler temperatures, making it the ideal region for carrot cultivation in Sri Lanka.
 
 **Challenges/Adaptations:**
-- Cold temperatures: Use row covers or cloches
+- Cold temperatures: Use row covers
 - Short growing season: Choose fast-growing varieties
-<update>- Steep terrain: Implement terracing and soil conservation practices</update>
+- Steep terrain: Implement terracing and soil conservation practices

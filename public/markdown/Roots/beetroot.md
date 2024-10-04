@@ -53,15 +53,15 @@ Store cured beetroots in the refrigerator for up to three months or in the freez
 ### Pest control
 **Pest type:** Seldom have pest issues. However, leaf miners and other beet-specific pests spread from weeds.
 
-**Symptoms:** <update>Leaf miners cause serpentine mines on leaves, while aphids can cause distorted leaves and sticky honeydew.</update>
+**Symptoms:** As the larvae feed and develop, they create “mines” of dead tissue where they have fed. These mines are opaque initially and then later turn brown.
 
 **Control method:** It is important to keep the area clean by removing weeds and crop rotation to avoid the problem.
 ### Disease Control
-**Disease type:** <update>Beetroot can be affected by diseases such as powdery mildew, Cercospora leaf spot, and root rot.</update>
+**Disease type:** Beetroot can be affected by diseases such as Powdery mildew, Cercospora leaf spot, and root rot.
 
-**Symptoms:** <update>Powdery mildew causes white patches on leaves, Cercospora leaf spot appears as dark spots with yellow haloes, and root rot causes blackened roots and wilting plants.</update>
+**Symptoms:** Powdery mildew causes white patches on leaves, Cercospora leaf spot appears as dark spots with yellow haloes, and root rot causes blackened roots and wilting plants.
 
-**Management:** <update>Avoid overhead watering to prevent fungal diseases. Practice crop rotation and maintain good air circulation around plants. Apply fungicides if necessary.</update>
+**Management:** Avoid overhead watering to prevent fungal diseases. Practice crop rotation and maintain good air circulation around plants. Apply fungicides if necessary.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
@@ -78,7 +78,7 @@ Store cured beetroots in the refrigerator for up to three months or in the freez
 - Water regularly to maintain soil moisture, especially during the dry season.
 - Provide some shade during hot periods to prevent heat stress.
 ### Mid country (Difficulty: 4/10)
-**Explanation:** The moderate climate of the mid country is suitable for beetroot cultivation with minimal effort.
+**Explanation:** The moderate climate of the mid country is suitable for beetroot cultivation with minimal effort./ 
 
 **Challenges/Adaptations:**
 - Minimal challenges, but monitor plants for pests and diseases.
@@ -95,6 +95,8 @@ Store cured beetroots in the refrigerator for up to three months or in the freez
 ### Content Sources:
 - [https://www.epicgardening.com/growing-beets/](https://www.epicgardening.com/growing-beets/)
 - [https://itsavegworldafterall.com/how-to-freeze-beets/](https://itsavegworldafterall.com/how-to-freeze-beets/)
+- [https://extension.umn.edu/yard-and-garden-insects/leafminers](https://extension.umn.edu/yard-and-garden-insects/leafminers)
+- [https://plantvillage.psu.edu/topics/beet/infos](https://plantvillage.psu.edu/topics/beet/infos)
 
 ### Image Sources: (In order of appearance)
 

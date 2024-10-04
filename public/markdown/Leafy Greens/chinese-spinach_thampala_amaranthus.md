@@ -5,7 +5,7 @@
 **Sri Lankan names:** Thampala (Sinhala), Kuppaikkirai or Vakucakkirai (Tamil)
 **Scientific name:** <update> _Amaranthus viridis_ </update>
 **Plant family:** _Amaranthaceae_
-**Edible parts:** Leaves are eaten as a green vegetable, after cooking.
+**Edible parts:** Leaves are eaten as a green vegetable, after cooking. The seeds can be used in the same manner of grains and oats. 
 **Companion plants:**
 - Corn
 - Onions
@@ -19,21 +19,20 @@ Slender Amaranth is an erect or spreading herb that grows up to 80 cm tall. The 
 **Planting season:** <update>Can be grown year-round in Sri Lanka, but best planted at the onset of monsoon seasons</update>
 
 ### Planting conditions:
-| **Propagation** | Plants can be grown from seed.                                                                                                                                                                                                 |
+| Propagation | Plants can be grown from seed.                                                                                                                                                                                                 |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method | This can be broadcast and be grown in wide rows. Sow seeds 1/4 inch deep leaving 6 inches space between plants (15cm) apart. Cover seeds with a half inch of sifted compost to keep the soil from crusting.                    |
-| Soil            | It will grow well in average soils and will even grow adequately in poor soils. Only dense clay mixtures are likely to be completely unsuitable for amaranth while very rich soils might hinder flowering and seed production. |
+| Planting method | This can be grown in wide rows. Sow seeds 1/4 inch deep leaving 6 inches space between plants (15cm) apart. Cover seeds with a half inch of sifted compost to keep the soil from crusting.                    |
+| Soil            | It will grow well in average soil and will even grow adequately in poor soils. Only dense clay mixtures are likely to be completely unsuitable for amaranth while very rich soils might hinder flowering and seed production. |
 | Water           | Requires well drained soil. Keep the soil evenly moist while providing a steady supply of moisture to produce the best quality leaves.                                                                                         |
 | Light           | Requires full sun to partial shade                                                                                                                                                                                             |
 
 ### Growing conditions:
 
-| **Temperatures** | <update>Thrives in Sri Lanka's tropical climate with temperatures between 25°C to 35°C. Can tolerate higher temperatures with proper irrigation.</update>                                                                                     |
+| Temperatures | <update>Thrives in Sri Lanka's tropical climate with temperatures between 25°C to 35°C. Can tolerate higher temperatures with proper irrigation.</update>                                                                                     |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Soil             | Cover seeds with a half inch of sifted compost to keep the soil from crusting and to support germination. Remove weed around the plant to eliminate competition for moisture and nutrients. If possible, add mulch to conserve soil moisture. |
 | Water            | The plant has an average need for water, requiring no more than one inch per week. However, do not overwater the plant.                                                                                                                       |
-| Pruning          | Pinch back growing tips to encourage bushier growth.                                                                                                                                                                                          |
-| Weed control     | Remove weed around the plant to eliminate competition for moisture and nutrients.                                                                                                                                                             |
+| Pruning          | Pinch back growing tips to encourage bushier growth.                                                                                                                                                                                                                                                                                |
 
 ## Harvesting:
 Pick leaves as needed. <update>In Sri Lanka, harvesting can begin about 3-4 weeks after planting.</update>

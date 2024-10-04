@@ -4,18 +4,17 @@
 ## General Informationd
 **Generic name:** Bael, Bili, Bhel, Bengal quince, golden apple, Japanese bitter orange,
 **Sri Lankan name:** Beli (Sinhala)
-**Scientific name:** Aegle marmelos
-**Plant family:** Rutaceae
+**Scientific name:** _Aegle marmelos_
+**Plant family:** _Rutaceae_
 **Edible parts:** Fruit
 **Other uses:** Fruit and other parts of the tree are used in traditional medicine and religious rituals.
-<update>
+**Nutrition value:** High in protein, Also contains Vitamins A,B and C. The seeds are 62% protein and 32% lipids
+
 **Companion plants:**
-- **Marigold (Tagetes spp.):** Repels many pests including nematodes, aphids, and whiteflies.
-- **Chamomile (Matricaria recutita):** Attracts beneficial insects like ladybugs and lacewings.
+Not applicable
 
 **Non-companion plants**
-- **Tomatoes (Solanum lycopersicum):** Beli trees may inhibit the growth of tomatoes due to allelopathy.
-</update>
+Not applicable
 
 ## Description:
 Aegle marmelos is a rare species of tree native to the Indian subcontinent and Southeast Asia. It is present in India, Bangladesh, Sri Lanka, and Nepal as a naturalized species. It is a deciduous shrub or small to medium-sized tree, up to 13 metres (43 feet) tall with slender drooping branches and a rather open, irregular crown.
@@ -37,7 +36,7 @@ The fruit takes about 9-12 months to ripen on the tree, reaching maturity in Dec
 
 ### Growing conditions:
 
-| Temperatures | 25-35 degrees celsius is ideal |
+| Temperatures | 25-35 degrees celsius is ideal. But can withstand upto 46 degrees celcius |
 |----|----|
 | Soil | Ensure that soil is well-drained |
 | Water | Rainfall provides sufficient water. Monitor soil moisture |
@@ -47,25 +46,31 @@ The fruit takes about 9-12 months to ripen on the tree, reaching maturity in Dec
 ## Harvesting:
 Trees grown from seeding will take 7-9 years to bear fruit. Trees grown from cuttings or grafting will bear fruit in 3-5 years. Fruits take about 9-12 months to ripen. Only pluck the fruit once it has ripened as it will cease ripening once removed from the tree. Older trees typically have higher yields. A 15 year old tree should provide a harvest of between 200-400 fruits.
 
-<update>
 ## Curing:
-The fruit can be cured by leaving it to ripen on the tree until it turns yellow, then storing it in a cool, dry place for about a month.
+Bael does not require a curing stage.
 
 ## Storage
-Ripe Beli fruits can be stored at room temperature for up to 2 weeks. For longer storage, they can be refrigerated for up to 4 months.
-</update>
+Bael fruit can be stored fro 10-15 days at normal temperature, whereas fruit harvested at ripe stage can be stored at room temperature for up to a week. For longer storage, they can be refrigerated for up to 4 months.
+
 ## Protecting your plants
 ### Pest control
 **Pest type:** Older trees are rarely afflicted by disease or pest infestations but saplings maybe susceptible to various fungal infections and insect infestations.
-<update>**Symptoms:** Wilting leaves, yellowing leaves, holes in leaves, sticky honeydew on leaves.</update>
+
+**Symptoms:** Wilting leaves, yellowing leaves, holes in leaves, sticky honeydew on leaves.
+
 **Control method:** Organic pesticides are effective at pest control. Remove diseased parts of the plant in the case of fungal infections. Fungicide maybe required.
 
 ### Disease Control
-<update>
-**Disease type:** Bacterial leaf spot, anthracnose
-**Symptoms:** Water-soaked spots on leaves that enlarge and turn brown or black with a yellow halo.
-**Management:** Avoid overhead irrigation, remove infected plant material, use copper-based fungicides as a last resort.
-</update>
+**Disease type:** 
+- Powdery Mildew
+
+**Symptoms:** 
+- **Powdery Mildew:** In young stages, the plant leaves and young shoots will show white spots
+  
+**Management:**
+- **Powdery Mildew:** Avoid overhead irrigation, remove infected plant material, use sulphur-based fungicides as a last resort.
+
+  
 ## Difficulty Rating
 
 ### Low country wet zone (Difficulty: 6/10)
