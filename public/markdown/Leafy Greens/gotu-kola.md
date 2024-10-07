@@ -35,7 +35,7 @@ There are three types of vine type Gotukola according to the size of leaves;
 | **Propagation** | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
 |----|----|
 | Planting method | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
-| Soil | It grows best in sunny, moist, fertile soils. Well-drained lowlands are the most suitable for cultivation. It required a soil with a pH range of 6-7. Can add lime or wood ash to help with the pH balance, if necessary. The soil must be adequately prepared before planting Gotu kola seeds, as this plant does not grow well in poor soil conditions. To prepare the soil for Gotu kola planting, you need to first prepare your garden bed by removing all weeds and debris before adding compost or manure to the soil. |
+| Soil | Well-drained lowlands are the most suitable for cultivation. It required a soil with a pH range of 6-7. Can add lime or wood ash to help with the pH balance, if necessary. The soil must be adequately prepared before planting Gotu kola seeds, as this plant does not grow well in poor soil conditions. To prepare the soil for Gotu kola planting, you need to first prepare your garden bed by removing all weeds and debris before adding compost or manure to the soil. |
 | Water | Irrigation is important to maintain the soil moisture. It requires proper watering and drainage to thrive. Water logging should be avoided. If watering frequently, need to have a drainage hole in the container. After planting, make sure to water the area thoroughly. After that, rinse the soil as often as necessary to maintain it uniformly and continuously moist. |
 | Light | Gotu kola needs a lot of sunlight to grow properly. It should be placed in a sunny spot where it can receive at least six hours of sunlight every day.|
 
@@ -58,13 +58,6 @@ Gotu kola leaves can be picked throughout the summer months. The leaves can be u
 <update>Fresh leaves can be stored in the refrigerator for up to one week. Dried leaves can be stored in a cool, dark place for up to six months.</update>
 
 ## Protecting your plants
-### Pest control
-**Pest type:** Gotu kola plant is attacked by viruses and snails. In South East Asia and India, Gotu kola plants suffer from bacterial contamination. It is sensitive to pollutants because it is an aquatic plant.
-
-**Symptoms:** <update>Leaves may develop yellow or brown spots, wilting, or stunted growth.</update>
-
-**Control method:** Harvest regularly to prevent viruses and bacterial contamination. To prevent snails, using a snail pellet is recommended. Spreading sawdust will also help to keep away the snails. <update>In Sri Lanka, organic methods like neem oil sprays can be effective against pests while maintaining ecological balance.</update>
-
 ### Disease Control
 **Disease type:** 
 - **Brown leaf spot (_Cercospora sp._):** Spread by soil and wind with infected plant parts.
