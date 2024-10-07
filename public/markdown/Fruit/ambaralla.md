@@ -87,7 +87,7 @@ Avoid overhead irrigation, remove infected plant material, and use fungicides as
 
 ## References for this entry
 ### Content Sources:
-[Wikipedia](https://en.wikipedia.org/wiki/Spondias_dulcis)
-[tipstreeplanting.com](https://tipstreeplanting.com/ambarella-tree-care/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Spondias_dulcis)
+- [tipstreeplanting.com](https://tipstreeplanting.com/ambarella-tree-care/)
 
 ### Image Sources: (In order of appearance)
