@@ -6,7 +6,7 @@
 **Sri Lankan name:** Gotukola, Heen-gotukola
 **Scientific name:** Centella asiatica
 **Plant family:** Apiaceae
-**Edible parts:** The whole plant is eaten raw or cooked. The leaves are added to tossed salads or steamed and served with rice. They can be cooked in vegetable soups or stews. The plant is also used for medicine where the leaves are made into tea. Also, the juice of the leaves diluted with water and sweetened with sugar is used as a drink. <update>In Sri Lanka, Gotu kola is commonly used in traditional dishes like Gotu kola sambol and Gotukola kanda (porridge).</update>
+**Edible parts:** The whole plant is eaten raw or cooked. The leaves are added to tossed salads or steamed and served with rice. They can be cooked in vegetable soups or stews. The plant is also used for medicine where the leaves are made into tea. Also, the juice of the leaves diluted with water and sweetened with sugar is used as a drink.
 **Nutrition value:** Contains vitamins B and C, proteins, and is high in antioxidants.
 
 **Companion plants:**
@@ -32,16 +32,16 @@ There are three types of vine type Gotukola according to the size of leaves;
 **Planting season:** Grows year round
 
 ### Planting conditions:
-| **Propagation** | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container that has proper drainage in the bottom of the container. |
+| **Propagation** | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
 |----|----|
-| Planting method | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container that has proper drainage in the bottom of the container. |
+| Planting method | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
 | Soil | It grows best in sunny, moist, fertile soils. Well-drained lowlands are the most suitable for cultivation. It required a soil with a pH range of 6-7. Can add lime or wood ash to help with the pH balance, if necessary. The soil must be adequately prepared before planting Gotu kola seeds, as this plant does not grow well in poor soil conditions. To prepare the soil for Gotu kola planting, you need to first prepare your garden bed by removing all weeds and debris before adding compost or manure to the soil. |
 | Water | Irrigation is important to maintain the soil moisture. It requires proper watering and drainage to thrive. Water logging should be avoided. If watering frequently, need to have a drainage hole in the container. After planting, make sure to water the area thoroughly. After that, rinse the soil as often as necessary to maintain it uniformly and continuously moist. |
 | Light | Gotu kola needs a lot of sunlight to grow properly. It should be placed in a sunny spot where it can receive at least six hours of sunlight every day.|
 
 ### Growing conditions:
 
-| **Temperatures** | It needs a temperature above 10°C. |
+| Temperatures | It needs a temperature above 10°C. |
 |----|----|
 | Soil | Raised beds or sunken beds should be prepared according to the selected field to facilitate good drainage. Good textured soil with fine filth is more suitable for the growth of deep roots. Both organic and inorganic fertilizers can be applied to the crop. |
 | Water | The plant should be watered every day during the summer months and every two days during the winter months. The main target here is to keep moist soil.|
@@ -66,11 +66,62 @@ Gotu kola leaves can be picked throughout the summer months. The leaves can be u
 **Control method:** Harvest regularly to prevent viruses and bacterial contamination. To prevent snails, using a snail pellet is recommended. Spreading sawdust will also help to keep away the snails. <update>In Sri Lanka, organic methods like neem oil sprays can be effective against pests while maintaining ecological balance.</update>
 
 ### Disease Control
-**Disease type:** Root rot, leaf spot, and powdery mildew.
+**Disease type:** 
+- **Brown leaf spot (_Cercospora sp._):** Spread by soil and wind with infected plant parts.
+- **Rust Disease (_Uromyces sp._):** Spread by wind and planting materials.
+- **Root Rot Disease (_Sclerotium spp._):** Spread through the infected plants or soil.
+- **Bacterial Wilt (_Ralstonia solanacearum_):** spread by the infected plants, soil, and irrigation water.
+- **Cucumber Mosaic Virus & Poty Virus:** spread by aphids, sap, and cuttings.
 
-**Symptoms:** Root rot: yellowing leaves, wilting, and eventual plant death. Leaf spot: dark spots on leaves that may enlarge and merge. Powdery mildew: white, powdery patches on leaves.
+**Symptoms:** 
+- **Brown leaf spot:** Red or purplish-brown spots appear on the leaves and gradually spread throughout. Eventually, the leaves turn yellow and die.
+  
+- **Rust Disease:** Rust spots appear on the underside of the leaves. The disease also affects the stems, causing them to become brittle and easily damaged.
 
-**Management:** Avoid overwatering to prevent root rot. Remove infected leaves promptly to control leaf spot and powdery mildew. Apply fungicides as a last resort for severe cases of powdery mildew. <update>In Sri Lanka's humid climate, ensuring good air circulation and avoiding overhead watering can help prevent fungal diseases.</update>
+- **Root Rot Disease:** Root and stem rot occur in some areas of the gotukola cultivation. The leaves turn yellow, and the plant eventually dries up and dies. White fungal networks can be seen at the base of the plant.
+  
+- **Bacterial Wilt:** The leaves of infected plants turn brown, rot, and the fruits die. When the base of the infected plant is cut and placed in a glass of water, bacteria can be seen oozing from the cut surface in the form of white smoke.
+
+- **Cucumber Mosaic Virus & Poty Virus:**
+  - Yellow-green spots develop on the leaves.
+  - Young leaves become irregular in shape, smaller, and turn yellow with brown spots.
+  - Leaf edges and stems turn purple.
+  - Stunting occurs, and mulching decreases.
+  - The plant eventually dies.
+
+**Management:** 
+- **Brown leaf spot:**
+  - If the disease spreads rapidly, harvest quickly and burn the diseased plant parts.
+  - Ensure proper nutrition for cultivation.
+  - Avoid unnecessary use of nitrogenous fertilizers.
+  - Practice crop rotation.
+  - Use healthy planting material for replanting.
+    
+- **Rust Disease:**
+  - If the disease is spreading severely, harvest immediately, remove the diseased plant parts, and burn them.
+  - Provide proper nutrition for the crops.
+  - Avoid unnecessary application of nitrogenous fertilizers.
+  - Follow crop rotation practices.
+  - Use healthy planting material for replanting.
+    
+- **Root Rot Disease:**
+  - Avoid overwatering
+
+- **Bacterial Wilt:**
+  - No chemical treatments should be used.
+  - Immediately remove diseased plants along with the surrounding soil.
+  - In paddy fields, avoid diverting water from diseased rows to healthy ones.]
+  - Improve irrigation in the field.
+  - Use organic fertilizers, especially chicken manure.
+  - Control the disease through crop rotation (e.g., sweet potato, kangkung, or mukunuwenna).
+  - Use uninfected planting materials for replanting.
+    
+- **Cucumber Mosaic Virus & Poty Virus:**
+  - Remove the diseased plants as soon as they are seen and burn
+  - Provide proper nutrition for the cultivation.
+  - Avoid unnecessary application of nitrogenous fertilizers
+  - Following crop rotation
+  - Use healthy planting material for replanting.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 2/10)
