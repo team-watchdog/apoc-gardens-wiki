@@ -7,7 +7,7 @@
 **Scientific name:** _Capsicum annuum_
 **Plant family:** Solanaceae
 **Edible parts:** Fruit
-**Nutrition value:** 
+**Nutrition value:** Rich in vitamins C and B6 and contains about 40 calories in 100g.
 **Companion plants:**
 - Onions
 - Leeks
