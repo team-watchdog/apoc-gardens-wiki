@@ -91,7 +91,7 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
 - **Root rot:** Lives in the soil and damages new roots, the plant dies when the damage is severe.
   
 - **Anthracnose:**
-  - fruit and leaf damage under hot, humid weather conditions.
+  - Fruit and leaf damage under hot, humid weather conditions.
   - 1/2-inch circular spots appear on the fruit. The center of the spots is sunken and cracks are formed in the spots.
   - Purple spores are found in the spots during wet weather conditions.
     
