@@ -57,10 +57,15 @@ Pick them after 70-80 days after planting
 
 ## Protecting your plants:
 
-## Pest control
+### Pest Control
 **Pest type:** Aphids, jassids, thrips, mites, leaf-eating caterpillars, and fruit borers
 **Symptoms:** 
 **Control method:** Spray insecticides, removing infected plants, splashing water. Use organic or chemical pesticides sparingly. Encourage natural predators like ladybugs and lacewings. <update>In Sri Lanka, neem oil and garlic spray are popular organic pest control methods.</update>
+
+### Disease Control 
+**Disease type:**
+**Symptoms:**
+**Management:**
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 5/10)
