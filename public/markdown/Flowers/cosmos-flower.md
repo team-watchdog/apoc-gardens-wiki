@@ -7,37 +7,33 @@
 **Scientific name:** Cosmos bipinnatus
 **Plant family:** Asteraceae
 **Edible parts:** Flowers and leaves can be used in salads.
-**Nutrition value:** <update>High in vitamin C, calcium, iron, magnesium, phosphorus, potassium, sodium, zinc, dietary fiber, folate, niacin, pantothenic acid, pyridoxine, riboflavin, thiamine, vitamin A, vitamin B6, vitamin E and vitamin K.</update>
+**Nutrition value:** <update>High in vitamin C, calcium, iron, magnesium, phosphorus, potassium, sodium, zinc, dietary fiber, folate, niacin, pantothenic acid, pyridoxine, riboflavin, thiamine, vitamin A, vitamin B6, vitamin E, and vitamin K.</update>
 **Companion plants:**
 - Tomatoes
 - Legumes
 - Cucumbers
 - Squash
-<update>
-- Okra
-- Eggplant
-</update>
+  
 **Non-companion plants**
 - Fennel
 - Sage
 
 ## Description:
-Cosmos are sun-loving plants with a long flowering season. These flowers come in different colours of pale pastels and whites through bright pink, crimson, orange and other colours. They are ideal for flower beds filling the yard with open-faced blooms that can go on for months and months. There are several varieties of cosmos.<update>In Sri Lanka, cosmos are popular in home gardens and as ornamental plants in public spaces, adding vibrant colours to the tropical landscape.</update>
+Cosmos are sun-loving plants with a long flowering season. These flowers come in different colours of pale pastels and whites through bright pink, crimson, orange, and other colours. They are ideal for flower beds filling the yard with open-faced blooms that can go on for months and months. There are several varieties of cosmos.<update>In Sri Lanka, cosmos are popular in home gardens and as ornamental plants in public spaces, adding vibrant colours to the tropical landscape.</update>
 
 ## Planting requirements
 **Planting season:** <update>Year-round in most parts of Sri Lanka, but best planted at the beginning of the monsoon season (May-June or October-November)</update>
 
 ### Planting conditions:
-| **Propagation**    | Propagate from seeds                                                                                                                        |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method    | Prepare the seed bed area by removing clumps of soil to achieve a crumbly texture. Sow seeds lightly, spaced about 2-3in (5-8 cm) apart     |
-| Soil               | Prefers well-drained light soil and does not require any special soil preparation <update>Common in Sri Lankan red and brown soils</update> |
-| Water              | Can tolerate dry soil but prefers moist soil                                                                                                |
-| Light              | Requires full sunshine                                                                                                                      |
-| Fertiliser / Mulch | <update>Apply compost or well-rotted manure before planting</update>                                                                        |
+| Propagation | Propagate from seeds |
+|----|----|
+| Planting method | Prepare the seed bed area by removing clumps of soil to achieve a crumbly texture. Sow seeds lightly, spaced about 2-3in (5-8 cm) apart |
+| Soil | Prefers well-drained light soil and does not require any special soil preparation <update>Common in Sri Lankan red and brown soils</update> |
+| Water | Can tolerate dry soil but prefers moist soil |
+| Light | Requires full sunshine |
+| Fertiliser / Mulch | <update>Apply compost or well-rotted manure before planting</update> |
 
 ### Growing conditions:
-
 | **Temperatures** | <update>Thrives in Sri Lanka's tropical climate with temperatures between 20°C to 32°C</update> |
 |----|----|
 | Soil | Better to mulch the garden for moisture retention |
@@ -56,7 +52,7 @@ Not specified
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Cosmos suffer from few pest problems. However, can be attacked by Stem canker, Powdery Mildew, gray mold, Aphids <update>, and Thrips</update>
+**Pest type:** Cosmos suffer from a few pest problems. However, can be attacked by Stem canker, Powdery Mildew, grey mold, Aphids <update>, and Thrips</update>
 
 **Symptoms:** <update>Wilting, discoloured leaves, stunted growth, and deformed flowers</update>
 
