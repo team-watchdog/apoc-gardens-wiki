@@ -4,8 +4,8 @@
 ## General Information
 **Generic name:** Banana
 **Sri Lankan name:** Kehel (Sinhala), Vāḻaipalam (Tamil)
-**Scientific name:** Genus *Musa* - numerous varieties
-**Plant family:** Musaceae
+**Scientific name:** Genus _Musa_ - numerous varieties
+**Plant family:** _Musaceae_
 **Edible parts:** Fruit and the flower. The central pith of the false stem and the underground rhizome are also sometimes eaten.
 **Nutrition value:** Rich in potassium, vitamin C, vitamin B6, and dietary fiber. They also contain small amounts of other vitamins and minerals.
 
@@ -15,34 +15,36 @@
 - Comfrey
 - Taro
 
-**Non-companion plants:** Corn, Tomatoes
+**Non-companion plants:** 
+Not applicable
 
 ## Description:
 Bananas can be classed into diploid, triploid, and tetraploid kinds with various amounts of the A or B parents. They grow 2-9 m high. They are large non-woody herbs with broad long leaves. Most kinds have several suckers. Bananas grow a soft firm false stem from an underground corm. The fruiting stalk eventually emerges from the top of this false stem and normally curves over pointing towards the ground.
 
 ## Planting requirements
 - Ideal for warm and humid climates
+  
 **Planting season:** February - March, October - November
 
 ### Planting conditions:
-| **Propagation** | Suckers are usually put 30 cm deep |
+| Propagation | Suckers are usually put 30 cm deep |
 |----|----|
 | Planting method | Suckers are usually put 30 cm deep |
-| Soil | Requires a soil pH between 4.5-7.5. A fertile soil with adequate moisture is ideal |
-| Water | Bananas require large amount of water for healthy growth. Needs a moist soil that drains well |
+| Soil | Requires a soil pH between 4.5 - 7.5 and fertile soil with adequate moisture is ideal |
+| Water | Bananas require a large amount of water for healthy growth. Needs a moist soil that drains well |
 | Light | Requires full sunlight |
 
 ### Growing conditions:
 
-| **Temperatures** | Best temperature to grow bananas is 27°C - 38°C |
+| Temperatures | Best temperature to grow bananas is 27°C - 38°C |
 |----|----|
-| Soil | Bananas are heavy feeders and therefore respond well for manure.  |
+| Soil | Bananas are heavy feeders and therefore respond well to manure.  |
 | Water | Require watering every day but avoid waterlogging. Watering from a garden hose or drip irrigation is best |
 | Pruning | Prune the plant after harvesting to encourage new growth.
 | Weed control | Keep the area around the plants weed-free to prevent competition for nutrients and water.
 
 ## Harvesting:
-Time to maturity varies from 6 to 18 months depending on variety and altitude.
+The ideal time for harvesting is 12 weeks from flowering and should be done in the morning or evening.
 
 ## Curing: 
 Bananas are cured after harvesting by hanging them in a dark, humid place for about a week to allow the flavors to develop.
@@ -52,14 +54,70 @@ Store bananas at room temperature away from direct sunlight. They can also be fr
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Nematodes, Weevils, Thrips, Scarring beetle, Sap-sucking insects
-**Symptoms:** Wilting leaves, yellowing leaves, holes in leaves and fruits
-**Control method:** Use insecticides, remove affected plant, remove weeds, spray soapy water, release lady bird beetles and lace wings in the field which are very active aphid feeders
+**Pest type:**
+- Weevils
+- Thrips
+- Nematodes
+- Scarring beetles
+- Sap-sucking insects
+
+**Symptoms:** 
+- Wilting leaves
+- Yellowing leaves
+- Holes in leaves and fruits
+
+**Control method:** 
+- Use insecticides
+- Remove the affected plants
+- Remove weeds
+- Spray soapy water
+- Release ladybird beetles and lacewings in the field which are very active aphid feeders
 
 ### Disease Control
-**Disease type:** Black Sigatoka, Bunchy Top Virus
-**Symptoms:** Black spots on leaves, yellowing of leaves, stunted growth
-**Management:** Regularly monitor plants for signs of disease. Remove infected leaves and plants. Use fungicides to control Black Sigatoka.
+**Disease type:**
+- Panama disease (_Fusarium ocdysporum_)
+- Anthracnose (_colletortichum  spp_)
+- Black Sigatoka leaf spot disease (_Mycosphorella fijiensis_)
+- Kodana leaf spot disease (_Codana musqe_)
+
+**Symptoms:** 
+- **Panama disease:**
+  - All varieties except sour varieties are susceptible to Panama disease.
+  - The pathogen infects the root system, blocking the vascular tissue. Brown discoloration appears in the pseudostem and corm.
+  - Wilting occurs due to impaired water absorption, causing the leaves to yellow, fall from the petiole, and eventually lead to plant death.
+  - Symptoms often appear on bushes near developing banana canes, while smaller plants may not show symptoms.
+  
+- **Anthracnose:**
+  - Among the banana varieties grown in Sri Lanka, the gray banana is the most susceptible to this disease.
+  - In other cultivated banana varieties, black circular spots may form during fruit ripening, appearing as clusters of black spots, a condition that occurs post-harvest.
+    
+- **Black Sigatoka:**
+  - Dark brown spots run parallel to the lateral veins, appearing on the upper leaves (typically 2nd to 4th sheets).
+  - This disease is more economically damaging than Kahasigatoka leaf disease, potentially reducing yields by 35-50%. All cultivated banana varieties are susceptible.
+  - A minimum of 5 healthy, productive leaves is crucial for yield. This disease can significantly affect yield, causing premature fruit ripening and uneven ripening.
+
+- **Kodana leaf spot:**
+  - Oval spots form on the leaf blade and spread toward both leaf margins.
+  - These spots have a brown-gray center with a concentric ring-like pattern and are surrounded by a bright yellow halo.
+
+Black spots on leaves, yellowing of leaves, stunted growth
+**Management:**
+- **Panama disease:**
+  - Fungicides are ineffective for disease control, so prevention is key.
+  - Water regularly and avoid disposing of diseased plant parts into waterways.
+  - Practice crop rotation with resistant varieties like sour.
+  - Obtain planting material from healthy mother plants.
+  - Reduce soil acidity, as acidic conditions increase pathogen density, by applying dolomite or fly ash.
+  - Tissue-cultured plants can be used as healthy planting material but may still be affected if planted in infected fields.
+
+- **Anthracnose:**
+  - Proper field hygiene should be maintained by removing weeds and keeping the plantation clean.
+  - For gray plantains, apply a fungicide containing mancozeb or chlorothalonil at 2-week intervals after bud break.
+  - It is also recommended that the banana bunch be covered.
+    
+- **Black Sigatoka:** If symptoms are present, the plants should be removed.
+  
+- **Kodana leaf spot:** Infected leaves should be cut off and burned.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 5/10)
@@ -75,21 +133,18 @@ Store bananas at room temperature away from direct sunlight. They can also be fr
 - Needs protection from strong winds
 
 ### Mid country (Difficulty: 5/10)
-**Explanation:** The moderate climate of the mid country is suitable for banana cultivation.
+**Explanation:** The moderate climate of the midcountry is suitable for banana cultivation.
 **Challenges/Adaptations:**
 - Requires regular pruning to encourage fruit production
 - Susceptible to pests and diseases
 
 ### Up country (Difficulty: 8/10)
-**Explanation:** Bananas can be grown in the up country with careful management of temperature and water requirements.
+**Explanation:** Bananas can be grown in the upcountry with careful management of temperature and water requirements.
 **Challenges/Adaptations:**
 - Requires protection from frost
-- Needs regular watering to prevent wilting due to high altitude temperatures
+- Needs regular watering to prevent wilting due to high-altitude temperatures
 
 ## References for this entry
 ### Content Sources:
-- [Wikipedia](https://en.wikipedia.org/wiki/Banana)
-- [FAO](http://www.fao.org/3/a-i4127e.pdf)
 
 ### Image Sources: (In order of appearance)
-- ![Banana Plant](/api/attachments.redirect?id=3f8d9e9c-1edb-4a6f-9cdd-b02bc61458fc)
