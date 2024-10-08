@@ -52,15 +52,13 @@ Jasmine starts flowering after 6 months of planting and can be harvested through
 Fully developed flower buds should be handpicked in the early morning and late evening and can last for up to two weeks if kept in a cool place.
 
 ## Protecting your plants
-Jasmines are generally resistant to pests and diseases. 
+Jasmines are generally resistant to pests and diseases. Of course, root rot can set in if waterlogged, and aphids and caterpillars form a generic threat that can damage your plant if you leave it unattended when it's just starting to grow. 
 
 ## Difficulty Rating
 
 Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being particularly well-suited to the mid-country and low country wet zone. The main considerations are ensuring proper drainage in wetter areas and adequate water in drier zones. The up-country presents the most challenges due to potentially cooler temperatures, but even there, jasmine can be grown with some adaptations.
 
-# Jasmine Growing Difficulty in Sri Lanka
-
-## Low country wet zone (Difficulty: 3/10)
+### Low country wet zone (Difficulty: 3/10)
 
 **Explanation:** Jasmine thrives in tropical conditions and is well-suited to the wet zone.
 
@@ -69,7 +67,7 @@ Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being p
 - Use raised beds or mounds to improve soil drainage if needed
 - Prune regularly to control growth and improve air circulation
 
-## Low country dry zone (Difficulty: 4/10)
+### Low country dry zone (Difficulty: 4/10)
 
 **Explanation:** Jasmine adapts well to various conditions but may need extra care in drier areas.
 
@@ -78,7 +76,7 @@ Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being p
 - Implement drip irrigation for efficient water use
 - Provide partial shade during extreme heat if necessary
 
-## Mid country (Difficulty: 2/10)
+### Mid country (Difficulty: 2/10)
 
 **Explanation:** The mid-country's climate is likely ideal for jasmine cultivation.
 
@@ -87,7 +85,7 @@ Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being p
 - Prune as needed to control growth and encourage flowering
 - Monitor for any signs of stress, though these are unlikely
 
-## Up country (Difficulty: 5/10)
+### Up country (Difficulty: 5/10)
 
 **Explanation:** While jasmine can grow in cooler areas, it may require some extra care in the up-country.
 
@@ -100,6 +98,7 @@ Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being p
 ### Content sources:
 - https://mpns.science.kew.org/mpns-portal/searchName?searchTerm=jasmine&nameType=all
 - https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/shrubs/crepe-jasmine/
+- https://www.gardeningknowhow.com/ornamental/flowers/jasmine/jasmine-pest-control.htm
 - https://www.gardenia.net/guide/jasmine-how-to-grow-and-care-with-success
 - https://chameliflower.com/jasmine-companion-plants/
 - https://www.dilmahconservation.org/arboretum/plants-and-trees/walpichcha-wekonda--b32f0281abfd997f5371827beb12de10.html
