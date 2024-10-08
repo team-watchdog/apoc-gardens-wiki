@@ -44,14 +44,14 @@ This fruit is adaptable to both cold and dry climate zones in Sri Lanka. Adequat
 ### Planting conditions:
 | **Propagation** | Mandarins can be grown either from seed or from root stock/transplant. |
 |----|----|
-| Planting method |  Germinate the plants indoors in a pot. For a root stock, aerate and thin the soil upto 5-10cm in depth. Create a small hole approx 5cm in depth. Fold the roots horizontally and place the plant in the hole and tighten the soil. Once it sprouts, move to an outdoor location with the soil prepared as per the section below. |
+| Planting method |  Germinate the plants indoors in a pot. Aerate and thin the soil upto 5-10cm in depth. Create a small hole approx 5cm in depth, then plant. For a root stock, fold the roots horizontally and place the plant in the hole and tighten the soil. Once it sprouts, move to an outdoor location with the soil prepared as per the section below. |
 | Soil | Prepare pits for planting at intervals of 3.5 – 4.0 meters. Each pit should be 75 X 75X 75 cm (width, length, height) in size. When digging pits, topsoil and subsoil should be piled separately. Expose the pits to sunlight for a few days. Pits should be filled with a mixture of well-digested organic matter and topsoil in a ratio of 1:1. Mark the center of each pit with a wedge. Ensure soil pH is around 5-6 for optimal growth. In areas with heavy clay soil, add sand and organic matter to improve drainage.|
 | Water | Water regularly, about once a week.|
 | Light | It is important to provide shade to the plant for about 1-2 weeks. After this, the plant will require a lot of sunlight. |
 
 ### Growing conditions:
 
-| Temperatures | Recommended 25-32℃ <update>Avoid temperatures below 10℃. In up-country areas, provide frost protection during colder months.</update> |
+| Temperatures | Recommended 25-32℃. Avoid temperatures below 10℃. In up-country areas, provide protection during colder months. |
 |----|----|
 | Soil | A loose, well-drained loamy soil rich in organic matter is ideal for cultivation. Also, the absence of gravel or hard soil in the soil up to a depth of about two meters is essential for the success of cultivation. The ideal soil pH for this crop is around 5-6. If the pH value is lower or higher than this, the cultivation is likely to be weakened due to toxicity and deficiencies of various elements. |
 | Water | Water well once a week, or when the top 2-3 cm of the soil has become dry. Avoid overwatering to prevent root rot. In dry zones, consider mulching to retain soil moisture. During dry spells, increase watering frequency, especially for young trees. |
