@@ -10,7 +10,8 @@
 **Other uses:** Eaten as fruit, used for juices and seasonings. Essential oils from the peel are used in aromatherapy. Limomene, its most active ingredient, functions as a natural insect repellent, as well as an anti-bacterial solution.
 **Companion plants:**
 
-- Marigold  can help repel pests like aphids and nematodes
+- Marigold can help repel pests like aphids and nematodes
+- Flowers like jasmine benefit from the shade of these trees, while attracting beneficial insects
 - Basil, mint, curry leaves and lemongrass can deter pests, improve soil health and attract beneficial insects
 - Legumes such as peas and beans act as nitrogen fixers and improve the soil for citruses
 
