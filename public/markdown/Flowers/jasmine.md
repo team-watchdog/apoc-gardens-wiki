@@ -21,17 +21,17 @@ Jasmine is a low-maintenance plant that grows vigorously and pairs well with tre
 ## Description:
 Jasmine, (genus Jasminum), genus of about 200 species of fragrant-flowered shrubs and vines of the olive family (Oleaceae). The plants are native to tropical and to some temperate areas. Most true jasmines have climbing branches without tendrils. The white, yellow, or rarely pink flowers are tubular with a flaring, lobed, pinwheel-like form; some double-flowered varieties have been developed. They are also occasionally used in teas.
 
-In Sri Lanka, crepe jasmine (Samanpichcha, aka Tabernaemontana divaricata, aka the pinwheel flower) shrubs grow almost everywhere, usually cultivated in small gardens or left to grow by the wayside. Its flowers are widely used in religious ceremonies. Unlike other jasmines, crepe jasmine has little to no fragrance.
+In Sri Lanka, crepe jasmine (Samanpichcha, aka Tabernaemontana divaricata, aka the pinwheel flower) shrubs grow almost everywhere, usually cultivated in small gardens or left to grow by the wayside. Its flowers are widely used in religious ceremonies. Unlike other jasmines, crepe jasmine has little to no fragrance. Other varieties exist, such as wal pichcha (a vine that bears flowers similar to crepe jasmine) and etteriya aka orange jasmine, which grows into a short tree.
 
 ## Planting requirements
-Almost all jasmines do well in tropical conditions and are hardy growers that need little maintenance except pruning. 
+Almost all jasmines do well in tropical conditions and are hardy growers that need little maintenance except pruning. For most jasmines, it's best to provide a support structure (either a trellis or wall) that the vine can climb across. You can also grow jasmine in large pots.
 
 **Planting season:** Year-round in most parts of Sri Lanka, but best planted at the beginning of the rainy season (May-June or October-November)
 
 ### Planting conditions:
 | **Propagation** | Propagated through cuttings, layering, suckers, grafting, budding, tissue culture |
 |----|----|
-| Planting method | Plough the soil and bring the soil to a proper tilt stage and then dig pits the size of 30cmX30cmX30cm. Better to expose these pits for 2-3 weeks for sunlight to eliminate soil borne diseases and mites |
+| Planting method | Plough the soil and bring the soil to a proper tilt stage and then dig pits the size of 30cmX30cmX30cm. It's best to expose these pits for 2-3 weeks beforehand for sunlight to eliminate soil borne diseases and mites |
 | Soil | Grows in a variety of soils. However, grows well in well drained loamy soil that is rich in organic matter with a pH between 6.5 and 7.5 |
 | Water | Timely watering is important for good growth and production of flowers |
 | Light | Requires 6 hours of direct sunlight |
@@ -102,3 +102,5 @@ Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being p
 - https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/shrubs/crepe-jasmine/
 - https://www.gardenia.net/guide/jasmine-how-to-grow-and-care-with-success
 - https://chameliflower.com/jasmine-companion-plants/
+- https://www.dilmahconservation.org/arboretum/plants-and-trees/walpichcha-wekonda--b32f0281abfd997f5371827beb12de10.html
+- https://www.dilmahconservation.org/arboretum/plants-and-trees/etteriya--e424a2d68f359d1ccb060fcd8da2f290.html
