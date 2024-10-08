@@ -1,24 +1,25 @@
-# Jamanaran
+# Mandarin Orange
 <IMAGE>
 
 ## General Information
-**Generic name:** Jamanaran
-**Sri Lankan names:** Jamanaran, Heen naran, Konda naran, Jambu naran, Naran (Sinhala) | Kamalappalam, Narangam (Tamil)
+**Generic name:** Mandarin Orange
+**Sri Lankan names:** Jamanaran (Sinhala) | Narangam (Tamil)
 **Scientific name:** Citrus reticulata
 **Plant family:** Rutaceae
 **Edible parts:** Fruit
-**Other uses:** <update>Leaves and fruit used in Ayurvedic medicine to treat vomiting, nausea, and liver disease. Essential oils from the peel are used in aromatherapy and as natural insect repellents.</update>
+**Other uses:** Eaten as fruit, used for juices and seasonings. Essential oils from the peel are used in aromatherapy. Limomene, its most active ingredient, functions as a natural insect repellent, as well as an anti-bacterial solution.
 **Companion plants:**
-<update>
-- Marigold (Tagetes spp.) can help repel pests like aphids and nematodes
-- Lemongrass (Cymbopogon citratus) can deter pests and attract beneficial insects
-- Curry leaves (Murraya koenigii) can improve soil health and repel certain pests
-</update>
+
+- Marigold  can help repel pests like aphids and nematodes
+- Basil, mint, curry leaves and lemongrass can deter pests, improve soil health and attract beneficial insects
+- Legumes such as peas and beans act as nitrogen fixers and improve the soil for citruses
+
 **Non-companion plants:**
-<update>
-- Avoid planting near potatoes (Solanum tuberosum) as they are susceptible to citrus scab disease
-- Keep away from other citrus trees to prevent cross-pollination and disease spread
-</update>
+
+- Avoid planting near potatoes, carrots and other deep-rooted plants tubers or root vegetables
+- Space the mandarin orange plants so that they don't compete with each other
+- Avoid planting herbs with shallow roots close to the base of the mandarin orange
+
 
 ## Description:
 Recommended Varieties - Juicy: This variety produced by the Horana Fruit Crops Research and Development Institute has been recommended for cultivation in the low country region of Sri Lanka. This variety can be used for fresh fruit and juice production. It bears large fruits weighing between 100-130 grams. The pulp becomes orange in color.
