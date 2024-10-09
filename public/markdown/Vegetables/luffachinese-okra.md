@@ -16,13 +16,14 @@
 - Heavy feeders (e.g., tomatoes, eggplants): Compete aggressively for nutrients, potentially starving the luffa plants.
 
 ## Description:
-Luffa acutangula is a cucurbitaceous vine that is commercially grown for its unripe fruits as a vegetable. Mature fruits are used as natural cleaning sponges and are a common sight in Sri Lankan markets. Its fruit slightly resembles a cucumber or zucchini with ridges. It ranges from central and eastern Asia to southeastern Asia. In Sri Lanka, it is widely cultivated in home gardens and commercial farms across different agro-ecological zones.
+Luffa acutangula is a cucurbitaceous vine that is commercially grown for its unripe fruits as a vegetable. Luffa is related to cucumbers, squash, pumpkins, and melons. Its fruit slightly resembles a cucumber or zucchini with ridges, and can be steamed, stewed or curried. Raw luffa tastes somewhere between cucumber and zucchini.
 
-Three main varieties are grown in Sri Lanka: 
+In Sri Lanka, three main varieties are cultivated in home gardens and commercial farms across different agro-ecological zones.
 - LA33
 - Asiri
 - Gannoruwa Ari
 
+Many fruits grow on a single vine. Mature fruits are used as natural cleaning sponges and are a common sight in Sri Lankan markets. 
 
 ## Planting requirements
 Luffa can  be grown successfully in hot weather. Can be cultivated up to 500m from sea level.
