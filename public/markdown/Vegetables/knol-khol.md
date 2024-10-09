@@ -86,5 +86,6 @@ Store cured kohlrabi in the refrigerator for up to 3 months.
 - https://doa.gov.lk/hordi-crop-knol-khol/
 - https://plants.usda.gov/home/plantProfile?symbol=BROLG2
 - https://fdc.nal.usda.gov/fdc-app.html#/food-details/168424/nutrients
+- Cha, S. S., Lee, M. Y., & Lee, J. J. (2013). Comparison of physicochemical composition of kohlrabi flesh and peel. Korean Journal of Food Preservation, 20(1), 88-96.
 - https://timesofindia.indiatimes.com/life-style/food-news/what-is-kohlrabi-its-benefits-and-how-to-add-it-to-your-diet/photostory/80071558.cms?picid=80071564
 - Jung, H. A., Karki, S., Ehom, N. Y., Yoon, M. H., Kim, E. J., & Choi, J. S. (2014). Anti-diabetic and anti-inflammatory effects of green and red kohlrabi cultivars (Brassica oleracea var. gongylodes). Preventive nutrition and food science, 19(4), 281.
