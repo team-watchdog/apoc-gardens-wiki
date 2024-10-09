@@ -4,82 +4,95 @@
 ## General Information
 **Generic name:** Lettuce
 **Sri Lankan name:** Salada kola (Sinhala)
-**Scientific name:** <update>Lactuca sativa</update>
-**Plant family:** <update>Asteraceae</update>
+**Scientific name:** Lactuca sativa
+**Plant family:** Asteraceae
 **Edible parts:** Leaves
-**Nutrition value:**
-<update>
-- Calories: 15 kcal per 100g
-- Protein: 2.8 g per 100g
-- Fat: 0.3 g per 100g
-- Carbohydrate: 3.6 g per 100g
-</update>
+**Nutrition value:** A very low-calorie, low-nutrient food. 
+
 **Companion plants:**
--  Asparagus, beets, calendula, carrots, chervil, chives, cilantro, eggplant, garlic, mint, melons/squash, nasturtiums, onions/shallots, parsnips, radishes, turnips.
-- <update>Carrots, Beans, Tomatoes, Radishes, Onions, Garlic, Coriander, Marigolds</update>
+- Alyssum: Attracts beneficial insects like hoverflies and lacewings that control aphids.
+- Basil: Improves the flavor and growth of lettuce.
+- Beets: Have different root depths, preventing nutrient competition and improving soil health.
+- Calendula: Acts as a trap crop for aphids, protecting lettuce.
+- Chamomile: Attracts beneficial insects like parasitic wasps and hoverflies.
+- Chives and Garlic: Help deter pests, particularly aphids.
+- Cilantro: Attracts beneficial insects that eat aphids.
+- Carrots: Loosen soil and attract beneficial insects like ladybugs and lacewings.
+- Dill: Attracts beneficial insects and improves lettuce health and growth.
+- Marigolds: Deter pests like nematodes and aphids, and can act as a trap crop for slugs.
+- Nasturtiums: Attract beneficial insects and deter pests like beetles and aphids.
+- Onions and Shallots: Deter pests and discourage rabbits without competing for nutrients.
+- Parsnips: Have different root depths, improving soil health without competing for nutrients.
+- Peas: Fix nitrogen in the soil and provide shade for lettuce.
+- Radishes: Break up compacted soil and become more tender when grown with lettuce.
+- Strawberries: Improve soil health and attract beneficial insects.
+- Turnips: Break up compacted soil and deter pests like aphids and flea beetles.
+- Asparagus, Corn, Cucumbers, Eggplant, Spinach, Sunflowers: Generally compatible with lettuce growth
+
 **Non-companion plants:**
-- Fennel or crops in the cabbage family. i.e. broccoli, brussels sprouts, cabbage, cauliflower, kale, or kohlrab. 
-- <update>Cabbage family crops (broccoli, cauliflower, cabbage), Celery, Parsley</update>
+- Cabbage family crops (broccoli, cauliflower, cabbage, brussels sprouts, kale, kohlrabi): Compete for similar nutrients and may inhibit lettuce growth.
+- Fennel: Secretes a chemical that can stunt the growth of nearby plants, including lettuce.
+- Celery: Attracts similar pests and diseases, potentially increasing the risk of infestations.
+- Parsley: Causes lettuce to bolt (go to seed) prematurely.
 
 ## Description:
-Lettuce is most often grown as a leaf vegetable, and used for salads. Lettuce comes in a range of varieties – with flavors from buttery and mild to nutty and even slightly bitter; textures from delicate to crunchy; and colors from pale to dark green and burgundy. Lettuces have a wide range of shapes and textures, from the dense heads of the iceberg type to the notched, scalloped, frilly or ruffly leaves of leaf varieties. 
+Lettuce is an annual plant most often grown as a leaf vegetable and used for salads. It comes in a range of varieties with flavors from buttery and mild to nutty and slightly bitter; textures from delicate to crunchy; and colors from pale to dark green and burgundy. Lettuces have a wide range of shapes and textures, from the dense heads of the iceberg type to the notched, scalloped, frilly or ruffly leaves of leaf varieties.
 
 ## Planting requirements
-**Planting season:** <update>Can be grown year-round in cooler regions of Sri Lanka, best planted during the dry season (May to September) in lowland areas.</update>
+**Planting season:** Can be grown year-round in Upcountry Wet and Upcountry Intermediate Zones of Sri Lanka. In lowland areas, best planted during the dry season (May to September).
 
 ### Planting conditions:
 | **Propagation** | Seed |
 |----|----|
-| Planting method | <update>Prepare raised beds about 1 m wide, apply well-decomposed organic manure, sow seeds in rows at 10 cm spacing, transplant seedlings after three weeks, space plants 30 cm between rows and 15 cm between plants. In upcountry areas, direct seeding is possible.</update> |
-| Soil | <update>Well-drained loamy soil rich in organic matter. pH should be between 6.0 and 7.0. Add lime if soil is too acidic.</update> |
-| Water | <update>Water regularly, especially during dry periods. Ensure soil remains moist but not waterlogged.</update> |
-| Light | <update>In upcountry areas, full sun is acceptable. In lowland areas, partial shade during the hottest part of the day is beneficial.</update> |
+| Planting method | Prepare raised beds about 1 m wide, apply well-decomposed organic manure. Sow seeds in rows at 10 cm spacing in nursery beds. Transplant seedlings after three weeks, spacing plants 30 cm between rows and 15 cm between plants. In upcountry areas, direct seeding is possible. |
+| Soil | Well-drained sandy loam soil with a loose structure and rich in organic matter. pH should be between 6.0 and 7.0 (add lime if soil is too acidic). |
+| Water | Water regularly, especially during dry periods. Ensure soil remains moist but not waterlogged. |
+| Light | In upcountry areas, full sun is acceptable. In lowland areas, partial shade during the hottest part of the day is beneficial. |
 
 ### Growing conditions:
 
-| **Temperatures** | <update>Optimal growth between 15°C to 20°C. In lowland areas, provide shade or grow during cooler months to prevent bolting.</update> |
+| **Temperatures** | Optimal growth at less than 20°C. In lowland areas, provide shade or grow during cooler months to prevent bolting and bitter taste. |
 |----|----|
-| Soil | <update>Loose, well-draining soil enriched with organic matter. Maintain pH between 6.0 and 7.0.</update> |
-| Water | <update>Regular watering is crucial, especially in dry zones. Mulching helps retain soil moisture. In wet zones, ensure proper drainage to prevent waterlogging.</update> |
-| Pruning | <update>Remove outer leaves as needed for consumption. This promotes continued growth. Remove any yellowing or diseased leaves promptly.</update> |
+| Soil | Loose, well-draining soil enriched with organic matter. Maintain pH between 6.0 and 7.0. |
+| Water | Water daily in the first few days after planting. After two weeks, water every four days according to rainfall. In dry zones, more frequent watering may be necessary. |
+| Pruning | Remove outer leaves as needed for consumption. This promotes continued growth. Remove any yellowing or diseased leaves promptly. |
+| Weed Control | Maintain proper growth by keeping the field weed-free. Hand weeding is advisable. |
+
+### Fertilizer Application:
+| Type | Time of application | Source | Quantity |
+|------|---------------------|--------|----------|
+| Lime | Two weeks before planting | Lime/dolomite | 1-2 t/ha |
+| Organic manure | 3-5 days before planting | Poultry manure/cattle manure/compost | 10 t/ha |
+| Chemical fertilizer | One day before transplanting | Urea: 215 kg/ha, TSP: 130 kg/ha, MOP: 75 kg/ha | |
 
 ## Harvesting:
-Can be harvested in 50-60 days after transplanting. At harvest, the entire plant can be removed and the roots cut off. At the time of harvesting a well grown plant should weigh about 200 – 400 g. In home gardening, the leaves can be cut separately and used for consumption as required. If cultivated as a single crop, the yield is about 15-17 tons per hectare.
+Can be harvested 50-60 days after transplanting. At harvest, the entire plant can be removed and the roots cut off. A well-grown plant should weigh about 200 – 400 g. In home gardening, the leaves can be cut separately and used for consumption as required.
 
-<update>Can be harvested 45-60 days after transplanting, depending on the variety and climate. In home gardens, harvest outer leaves as needed, allowing the plant to continue growing. For commercial production, harvest entire heads when fully mature.</update>
-
-## Curing:
-<update>Curing is not typically necessary for lettuce in Sri Lanka. After harvesting, clean the leaves gently and store properly.</update>
-
-## Storage
-<update>Store lettuce in a cool, humid place. In areas without refrigeration, wrap in damp cloth and keep in a cool spot. If available, refrigerate at 0°C to 4°C for up to a week.</update>
+## Storage:
+Store lettuce in a cool, humid place. In areas without refrigeration, wrap in damp cloth and keep in a cool spot. If available, refrigerate at 0°C to 4°C for up to a week.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** <update>Aphids, Caterpillars, Slugs and Snails</update>
+**Pest types:** Root-eating caterpillars, Cutworms, Aphids, Slugs and Snails
 
-**Symptoms:** <update>Holes in leaves, curled or distorted leaves, presence of pests on undersides of leaves</update>
+**Symptoms and Control methods:**
+- Root-eating caterpillars: Larvae damage roots and lower stem parts. Control by capturing adults using yellow or blue sticky traps.
+- Cutworms: Caterpillars cut seedlings at the base. Inspect crop and apply recommended pesticides for severe damage.
+- Aphids: Curled or distorted leaves. Use neem oil or soap sprays.
+- Slugs and Snails: Holes in leaves. Set up beer traps or use wood ash barriers.
 
-**Control method:**
-<update>
-- Use neem oil or soap sprays for aphids
-- Handpick caterpillars or use Bacillus thuringiensis
-- Set up beer traps or use wood ash barriers for slugs and snails
-- Maintain field hygiene and remove weeds regularly
-</update>
+Maintain field hygiene and remove weeds regularly.
 
 ### Disease Control
-**Disease type:** <update>Damping off, Downy mildew, Bottom rot</update>
+**Disease types:** Soft rot, Sclerotium rot, Damping off, Downy mildew
 
-**Symptoms:** <update>Seedling collapse, yellowing leaves with white fuzzy growth, rotting of lower leaves and stems</update>
+**Symptoms and Management:**
+- Soft rot: Rotting starts from lower leaves and moves upwards. Control by proper spacing and preventing lower leaves from touching the soil. Apply polythene mulch to reduce infection.
+- Sclerotium rot: White mold growth under humid conditions. Improve drainage and maintain proper spacing.
+- Damping off: Seedling collapse. Use well-draining soil and avoid overwatering.
+- Downy mildew: Yellowing leaves with white fuzzy growth. Ensure good air circulation and avoid overhead watering.
 
-**Management:**
-<update>
-- Use well-draining soil and avoid overwatering to prevent damping off
-- Ensure good air circulation and avoid overhead watering to manage downy mildew
-- Practice crop rotation and maintain proper spacing to prevent bottom rot
-- In severe cases, use approved fungicides as per local agricultural recommendations
-</update>
+Practice crop rotation and use approved fungicides as per local recommendations for severe cases.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
@@ -110,11 +123,9 @@ Can be harvested in 50-60 days after transplanting. At harvest, the entire plant
 - Manage soil moisture during heavy rains
 - Choose varieties suited to local conditions
 
-## References for this entry
-### Content Sources:
-- [Lettuce - Wikipedia](https://en.wikipedia.org/wiki/Lettuce)
-- [Growing Lettuce in Sri Lanka - Farmer's Guide](http://farmer.gov.lk/index.php?option=com_content&view=article&id=123&Itemid=76)
-- <update>[Department of Agriculture, Sri Lanka - Lettuce Cultivation](https://www.doa.gov.lk/HORDI/index.php/en/crop-recommendations/1103-lettuce)</update>
 
-### Image Sources: (In order of appearance)
-- ![Lettuce](/api/attachments.redirect?id=a7350bba-4fb6-42e7-90f6-d85c7f9fa71c) - Selena von Eichendorf, Wikimedia Commons
+### Sources:
+- https://www.gardenia.net/guide/best-worst-companions-for-lettuce
+- https://www.gardeningknowhow.com/edible/vegetables/lettuce/companion-plants-for-lettuce.htm
+- http://farmer.gov.lk/index.php?option=com_content&view=article&id=123&Itemid=76
+- https://www.doa.gov.lk/HORDI/index.php/en/crop-recommendations/1103-lettuce
