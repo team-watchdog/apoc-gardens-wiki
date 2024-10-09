@@ -1,5 +1,5 @@
 # Kekiri/Cooking Melon
-![Kekiri_Cooking-Melon.jpeg](../../assets/images/Kekiri_Cooking-Melon.jpeg)
+![Kekiri_Cooking-Melon.jpeg](../../assets/images/Kekiri_Cooking-Melon.jpeg "Image from Wikimedia Commons")
 
 ## General Information
 **Generic name:** Cantaloupe, Hondeydew melon
