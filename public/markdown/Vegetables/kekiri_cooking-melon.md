@@ -10,10 +10,25 @@
 **Nutrition value:** High in vitamin C, with very little else, making it great for a low-calorie diet.
 **Other uses:** Kekiri draws bees, and therefore is helpful for attracting pollinators to the garden. In ayurveda, kekiri is often recommended for a variety of ailments, from headaches to jaundice to constipation.
 
-**Companion plants:**
-<update>Beans, peas, corn, and okra</update>
-**Non-companion plants:**
-<update>Potatoes and cucumbers</update>
+### Companion Plants
+- **Nasturtiums**: Act as a trap crop for aphids, drawing them away from cantaloupes.
+- **Marigolds**: Repel pests like aphids and whiteflies with their strong scent.
+- **Beans**: Fix nitrogen in the soil, providing natural fertilization for cantaloupes.
+- **Corn**: Offers natural support for climbing bean plants, which in turn stabilize the soil for cantaloupes.
+- **Radishes**: Provide quick ground cover, suppressing weeds around cantaloupe plants.
+- **Sunflowers**: Create a beneficial microclimate and can serve as a windbreak for cantaloupe vines.
+- **Oregano**: Deters pests with its strong aroma, protecting nearby cantaloupe plants.
+- **Borage**: Attracts pollinators, enhancing cantaloupe flower pollination.
+
+### Non-Companion Plants
+
+- **Cucumbers**: Compete for resources and can share pests with cantaloupes.
+- **Other Melons**: May cross-pollinate and compete for nutrients with cantaloupes.
+- **Potatoes**: Can attract blight that may spread to cantaloupe plants.
+- **Fennel**: Produces compounds that inhibit the growth of nearby plants, including cantaloupes.
+- **Pumpkins**: Share pests like cucumber beetles with cantaloupes.
+- **Squash**: Attract similar pests to cantaloupes and compete for space.
+- **Honeysuckle**: Aggressively competes for water and nutrients in the soil.
 
 ## Description:
 
