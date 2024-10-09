@@ -1,5 +1,5 @@
 # Slender Amaranth/Thampala/Amaranthus
-[Thampala.jpeg](../../assets/images/Thampala.jpg "Stefan.lefnaer, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Thampala.jpeg](../../assets/images/Thampala.jpg "Stefan.lefnaer, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Chinese Spinach, Amaranth
