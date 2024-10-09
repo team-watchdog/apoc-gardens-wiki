@@ -1,5 +1,5 @@
 # Jackfruit
-![Jackfruit.jpeg](../../assets/images/Jackfruit.jpeg "Suyash Dwivedi, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Jackfruit.jpeg](../../assets/images/Jackfruit.jpg "Suyash Dwivedi, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
     
 ## General Information
 **Generic name:** Jackfruit
