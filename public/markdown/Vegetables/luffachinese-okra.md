@@ -88,34 +88,34 @@ Avoid direct sunlight on harvested fruits. Pack in baskets to ensure good ventil
 **Explanation:** Luffa can be cultivated throughout the year in the wet zone, including areas like Colombo, Galle, and Ratnapura.
 
 **Challenges/Adaptations:**
-Monitor and manage fungal diseases due to high humidity
-Ensure proper drainage to prevent waterlogging
-Implement regular pest control measures
+- Monitor and manage fungal diseases due to high humidity
+- Ensure proper drainage to prevent waterlogging
+
 
 ### Low country dry zone (Difficulty: 6/10)
 **Explanation:** Luffa cultivation in the dry zone requires some irrigation management, especially during the Yala season. This zone includes areas like Anuradhapura, Polonnaruwa, and Hambantota.
 
 **Challenges/Adaptations:**
-Implement efficient irrigation systems, especially during dry periods
-Use mulching to conserve soil moisture
-Provide shade during peak hours to prevent excessive heat stress
+- Implement efficient irrigation systems, especially during dry periods
+- Use mulching to conserve soil moisture
+- Provide shade during peak hours to prevent excessive heat stress
 
 ### Mid country (Difficulty: 5/10)
 **Explanation:** Luffa cultivation in the mid country requires some water balancing, but is otherwise quite doable. This zone includes areas like Kandy, Matale, and Badulla.
 
 **Challenges/Adaptations:**
-Balance water requirements to avoid both drought and waterlogging
-Monitor for pests and diseases regularly
-Provide support structures for proper vine growth
+- Balance water requirements to avoid both drought and waterlogging
+- Monitor for pests and diseases regularly
 
-### Up country (Difficulty: 7/10)
+
+### Up country (Difficulty: 6/10)
 **Explanation:** Luffa cultivation in the upcountry is challenging due to cooler temperatures, which are less ideal for this heat-loving crop. This zone includes areas like Nuwara Eliya and parts of Badulla.
 
 **Challenges/Adaptations:**
-Select warmer, sheltered locations for cultivation
-Use protective structures or greenhouses to maintain higher temperatures
-Provide additional support for vines to protect against strong winds
-Adjust planting times to coincide with warmer months
+- Select warmer, sheltered locations for cultivation
+- Use protective structures or greenhouses to maintain higher temperatures
+- Provide additional support for vines to protect against strong winds
+- Adjust planting times to coincide with warmer months
 
 ## Sources:
 - https://doa.gov.lk/hordi-crop-luffa/
