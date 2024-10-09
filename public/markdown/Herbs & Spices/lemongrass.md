@@ -18,11 +18,11 @@ Lemongrass has pest-repellent properties, particularly against mosquitoes, and t
 - Mint: Attracts beneficial insects, improving overall garden health.
 - Lemon verbena: Shares similar growing requirements and pest-repelling properties.
 - Gotukola: A Sri Lankan herb that thrives in similar conditions.
-- Turmeric: Grows well alongside lemongrass with similar soil requirements.
-
-**Non-companion plants:** 
-- Tomatoes
-
+- Marigolds: Act as natural pesticides and prefer similar growing conditions.
+- Ginger and turmeric: Tropical plants that grow well alongside lemongrass and have similar culinary uses.
+- Citrus trees: Lemongrass can serve as an attractive ground cover under citrus trees, reducing weeds and retaining soil moisture.
+- Tomatoes and peppers: Prefer similar growing conditions to lemongrass and can benefit from its pest-repelling properties.
+- 
 ## Description
 Lemongrass is a fragrant, lemony herb native to tropical climates. In Sri Lanka and other Asian cuisines, its stem is widely used in fish and meat dishes, while its leaves make a refreshing tea. It can be used fresh or dried and powdered. Beyond culinary uses, lemongrass serves as an attractive ornamental plant, growing up to 6 feet in height and width. Its natural pest-repellent properties make it a valuable addition to any garden.
 
