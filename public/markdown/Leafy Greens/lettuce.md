@@ -58,12 +58,6 @@ Lettuce is an annual plant most often grown as a leaf vegetable and used for sal
 | Pruning | Remove outer leaves as needed for consumption. This promotes continued growth. Remove any yellowing or diseased leaves promptly. |
 | Weed Control | Maintain proper growth by keeping the field weed-free. Hand weeding is advisable. |
 
-### Fertilizer Application:
-| Type | Time of application | Source | Quantity |
-|------|---------------------|--------|----------|
-| Lime | Two weeks before planting | Lime/dolomite | 1-2 t/ha |
-| Organic manure | 3-5 days before planting | Poultry manure/cattle manure/compost | 10 t/ha |
-| Chemical fertilizer | One day before transplanting | Urea: 215 kg/ha, TSP: 130 kg/ha, MOP: 75 kg/ha | |
 
 ## Harvesting:
 Can be harvested 50-60 days after transplanting. At harvest, the entire plant can be removed and the roots cut off. A well-grown plant should weigh about 200 – 400 g. In home gardening, the leaves can be cut separately and used for consumption as required.
