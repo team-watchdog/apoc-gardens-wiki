@@ -123,3 +123,4 @@ Harvest mature fruit by cutting stalk with a sharp knife. Yield figures from the
 - http://www.instituteofayurveda.org/plants/plants_detail.php?i=362
 - https://plants.ces.ncsu.edu/plants/cucumis-melo/
 - https://fdc.nal.usda.gov/fdc-app.html#/food-details/169092/nutrients
+- https://greg.app/cantaloupe-companion-plants/
