@@ -4,106 +4,137 @@
 ## General Information
 **Generic name:** Cucumis sativus
 **Sri Lankan name:** Pipingna, Thiyambara, Rata Kekiri
-**Scientific name:** Cucumis sativus
-**Plant family:** Cucurbitaceae
+**Scientific name:** _Cucumis sativus_
+**Plant family:** _Cucurbitaceae_
 **Edible parts:** Fruit
-**Nutrition value:** <update>High in vitamins K and C, potassium, magnesium, and manganese. A 100g serving provides approximately 45 calories.</update>
+**Nutrition value:** High in vitamins K and C, potassium, magnesium, and manganese.
+
 **Companion plants:**
 - Nasturtiums
-- <update>Okra</update>
 - Beans
-- <update>Brinjal</update>
-- <update>Bitter gourd</update>
 - Celery
 - Lettuce
 - Sweet Corn
 - Cabbages
 - Sunflowers
 - Coriander
-- <update>Curry leaves</update>
-- <update>Lemongrass</update>
-- <update>Marigolds</update>
 - Fennel
 - Dill
 - Sunflowers
+  
 **Non-companion plants:**
 - Potato
 - Tomatoes
 
 ## Description:
-Cucumbers grow as vine and an easy crop to grow through summer. Cucumbers are part of the cucurbit family so are related to other summer vegetables such as pumpkins and squash. There are several varieties of cucumber. Traditional cucumbers such as Lebanese cucumber produce long, dark-green fruit that is picked from when it is 10cm long. Burpless is a long green cucumber with a thin skin sold as low acid. Apple cucumbers are round with creamy-white skin. Pickling cucumbers are called gherkins and are picked small (5-10cm in length). Cucumbers are 90 per cent water, which is why they feel cool and are low in fat and calories. They are also a good source of vitamins B and C. 
+Cucumbers grow as vines and are an easy crop to grow. Cucumbers are part of the cucurbit family so are related to other vegetables such as pumpkins and squash. There are several varieties of cucumber. Traditional cucumbers such as Lebanese cucumber produce long, dark-green fruit that is picked from when it is 10cm long. Burpless is a long green cucumber with a thin skin sold as low acid. Apple cucumbers are round with creamy-white skin. Pickling cucumbers are called gherkins and are picked small (5-10cm in length). Cucumbers are 90 percent water, which is why they feel cool and are low in fat and calories. They are also a good source of vitamins K and C. 
 
 ## Planting requirements
-**Planting season:** <update>Dry season (typically January to March in Sri Lanka).</update> Can be grown through out the year in wet zone.
+**Planting season:** Can be grown throughout the year in the wet zone. And maha season in the dry zone.
 
 ### Planting conditions:
-| **Propagation** | Can be grown from seed or seedling                                                                                                                                                                             |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method | In the ground, seeds can be sown directly into warm, well prepared soil. Sow seeds 12mm deep and 60-90cm apart into damp soil. Press the seed firmly into the soil and lightly cover it.                       |
-| Soil            | Need fertile, well-drained, slightly acid to neutral pH soil around 6.5 to 7. <update>In areas with heavy clay soil common in parts of Sri Lanka, mix in sand and organic matter to improve drainage.</update> |
-| Water           | Keep the soil moist but not wet.                                                                                                                                                                               |
-| Light           | Need at least 8 hours of direct sunlight a day                                                                                                                                                                 |
+| Propagation | Can be grown from seed or seedling |
+|----|----|
+| Planting method | In the ground, seeds can be sown directly into warm, well-prepared soil. Sow seeds 12mm deep and 60-90cm apart into damp soil. Press the seed firmly into the soil and lightly cover it. |
+| Soil | Need fertile, well-drained, slightly acid to neutral pH soil around 5.5 to 7.5. |
+| Water | Keep the soil moist but not wet. |
+| Light | Need at least 8 hours of direct sunlight a day |
 
 ### Growing conditions:
-
-| **Temperatures** | Needs a temperature between 16°C and 35°C                                                                                                                                                                                                                                                                                                                                                                                 |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Soil             | They grow in loose soil that is well drained and full of organic matter. As cucumbers are heavy feeders, add plenty of compost and <update>cow manure</update> to the soil before planting . A soil rich in nutrients helps build strong plants. Water in well and let the soil rest for a week or two if possible. Spreading organic mulch around the base of the plant helps to keep the roots cool and the soil moist. |
-| Water            | Drip irrigation is the best method. Water them in the morning.                                                                                                                                                                                                                                                                                                                                                            |
-| Pruning          | Pinch back growing tips once fruits begin to form to encourage bushier growth.                                                                                                                                                                                                                                                                                                                                            |
-| Weed control     | Keep weeds at bay by mulching around plants and removing weeds regularly.                                                                                                                                                                                                                                                                                                                                                 |
+| **Temperatures** | Needs a temperature between 16°C and 35°C |
+|----|----|
+| Soil | They grow in loose soil that is well-drained and full of organic matter. As cucumbers are heavy feeders, add plenty of compost to the soil before planting. A soil rich in nutrients helps build strong plants. Water well and let the soil rest for a week or two if possible. Spreading organic mulch around the base of the plant helps to keep the roots cool and the soil moist. |
+| Water | Drip irrigation is the best method. Water them in the morning.|
+| Pruning | Pinch back growing tips once fruits begin to form to encourage bushier growth. |
+| Weed control | Keep weeds at bay by mulching around plants and removing weeds regularly.                |
 
 ## Harvesting:
-Harvest in 8-10 weeks. Cut fruit off with scissors or sharp knife.
+Harvest in 8-10 weeks. Cut fruit off with scissors or a sharp knife.
 
 ## Curing:
-Not applicable for cucumbers
+Cucumber does not require a curing stage
 
 ## Storage
-<update>In Sri Lanka's warm climate, store harvested cucumbers in the refrigerator crisper drawer for up to 3-5 days.</update>
+Store harvested cucumbers in the refrigerator crisper drawer for up to 3-5 days.
 
 ## Protecting your plants
-### Pest control
-**Pest type:** <update>Cucumbers in Sri Lanka are often affected by fruit flies, aphids, and whiteflies.</update>
-**Symptoms:** <update>Fruit flies cause fruit rot, aphids cause leaf curling, and whiteflies lead to yellowing leaves.</update>
-**Control method:** <update>Use neem oil sprays, install yellow sticky traps, and encourage natural predators like ladybugs. Practice crop rotation and maintain field hygiene.</update>
+### Pest control  
+**Pest type:**  
+- Fruit Flies (Tephritidae)  
+- Aphids (Aphididae)  
+- Whiteflies (Aleyrodidae)  
 
-### Disease Control
-**Disease type:** Cucumbers, like many vines, are susceptible to fungal infections such as Mildew.<update>Downy mildew, Powdery mildew, Angular leaf spot</update>
-**Symptoms:** <update>Yellow or brown spots on leaves, white powdery growth, or water-soaked lesions on leaves.</update>
-**Management:** To prevent it provide clean straw mulch, drip irrigation, good air movement, a trellis or support and root level or early morning watering
+**Symptoms:**  
+- **Fruit Flies:** Cause fruit rot by laying eggs inside the fruit.  
+- **Aphids:** Cause leaf curling and stunted growth due to sap-sucking activity.  
+- **Whiteflies:** Lead to yellowing of leaves as they feed on plant sap.
+
+**Control method:**  
+- **Fruit Flies:** Use traps, cover fruits with protective netting, and dispose of affected fruits.  
+- **Aphids:** Use insecticidal soaps, neem oil, and introduce natural predators like ladybugs.  
+- **Whiteflies:** Use yellow sticky traps, neem oil, and encourage natural predators like lacewings.
+
+### Disease Control  
+**Disease type:**  
+- Powdery Mildew (Podosphaera xanthii)  
+- Downy Mildew (Pseudoperonospora cubensis)  
+- Collar Rot/Root Rot (Sclerotium spp., Fusarium spp.)  
+- Gummy Stem Blight (Didymella bryoniae)  
+- Bacterial Wilt (Ralstonia solanacearum)  
+- Leaf Curl Virus (LCV)  
+- Papaya Ring Spot Virus (PRSV)  
+- Cucumber Mosaic Virus (CMV)  
+- Zucchini Yellow Mosaic Virus (ZYMV)  
+- Phytoplasma Disease  
+
+**Symptoms:**  
+- **Powdery Mildew:** White, fluffy growth on the surface of leaves, leading to browning and shriveling.  
+- **Downy Mildew:** Angular yellow spots on leaves, eventually causing necrosis and plant cell death.  
+- **Collar/Root Rot:** Wilting, yellowing of leaves, plant collapse, with discolored vascular bundles.  
+- **Gummy Stem Blight:** Dark, sunken lesions on stems and fruit, with gummy exudates and fruiting bodies visible.  
+- **Bacterial Wilt:** Sudden leaf drooping, plant wilting, and brown vascular tissue in affected parts.  
+- **Leaf Curl Virus:** Upward curling and distortion of leaves, stunted plants, and deformed fruits.  
+- **Papaya Ring Spot Virus:** Mottling, leaf distortion, oily patches on fruits.  
+- **Cucumber Mosaic Virus:** Mottled leaves, fruit deformities, and decayed yellow spots on fruits.  
+- **Zucchini Yellow Mosaic Virus:** Stunting, yellowing, leaf blistering, and fruit discoloration.  
+- **Phytoplasma Disease:** Stunted growth, yellow-green leaves, "witch's broom" appearance, and greening of flowers.
+
+**Management:**  
+- **Powdery Mildew:** Use fungicides early, remove infected plant debris, and provide good air circulation.  
+- **Downy Mildew:** Apply recommended fungicides, remove infected debris, and use resistant varieties.  
+- **Collar/Root Rot:** Improve drainage, remove and destroy infected plants, and apply appropriate fungicides.  
+- **Gummy Stem Blight:** Deep plowing of crop debris post-harvest, and use fungicides.  
+- **Bacterial Wilt:** Remove infected plants, crop rotation with non-susceptible plants, and practice field hygiene.  
+- **Leaf Curl Virus:** Control whitefly populations using insecticides and remove infected plants.  
+- **Papaya Ring Spot Virus:** Control aphids and remove infected plants.  
+- **Cucumber Mosaic Virus:** Remove infected plants and apply preventive sprays.  
+- **Zucchini Yellow Mosaic Virus:** Remove infected plants, control vectors, and practice crop rotation.  
+- **Phytoplasma Disease:** Control leafhoppers with insecticides and remove infected plants.
 
 ## Difficulty Rating
-
 ### Low country wet zone (Difficulty: 7/10)
-**Explanation:** <update>High humidity and rainfall increase disease pressure.</update>
+**Explanation:** High humidity and rainfall increase disease pressure.
 **Challenges/Adaptations:**
-- <update>Use raised beds or container gardening to improve drainage</update>
-- <update>Implement strict disease management practices</update>
+- Use raised beds or container gardening to improve drainage
+- Implement strict disease management practices
 
 ### Low country dry zone (Difficulty: 5/10)
-**Explanation:** <update>Ideal conditions with proper irrigation management.</update>
+**Explanation:** Ideal conditions with proper irrigation management.
 **Challenges/Adaptations:**
-- <update>Implement efficient irrigation systems like drip irrigation</update>
-- <update>Use mulching to conserve soil moisture</update>
+- Implement efficient irrigation systems like drip irrigation
+- Use mulching to conserve soil moisture
 
 ### Mid country (Difficulty: 6/10)
-**Explanation:** <update>Generally suitable climate, but may face occasional temperature fluctuations.</update>
+**Explanation:** Generally suitable climate, but may face occasional temperature fluctuations.
 **Challenges/Adaptations:**
-- <update>Use shade cloth during extremely hot periods</update>
-- <update>Monitor and adjust watering based on rainfall patterns</update>
+- Use shade cloth during extremely hot periods
+- Monitor and adjust watering based on rainfall patterns
 
 ### Up country (Difficulty: 8/10)
-**Explanation:** <update>Cooler temperatures and shorter growing seasons pose challenges.</update>
+**Explanation:** Cooler temperatures and shorter growing seasons pose challenges.
 **Challenges/Adaptations:**
-- <update>Use polytunnels or greenhouses to extend the growing season</update>
-- <update>Choose short-season cucumber varieties adapted to cooler climates</update>
+- Use greenhouses to extend the growing season
+- Choose short-season cucumber varieties adapted to cooler climates
 
 ## References for this entry
 ### Content Sources:
-- <https://www.growveg.com/guides/how-to-grow-cucumbers>
-- <https://www.almanac.com/plant/cucumber>
-<update>
-- Department of Agriculture, Sri Lanka: <https://www.doa.gov.lk/HORDI/index.php/en/crop-2/cucumber>
-- Tropical Vegetable Production by R. J. Hillocks: <https://www.cabi.org/bookshop/book/9781780645346/>
-</update>
