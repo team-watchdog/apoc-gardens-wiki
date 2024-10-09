@@ -104,29 +104,29 @@ Store dried lavender in an airtight container away from light and heat for up to
 
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 7/10)
+### Low country wet zone (Difficulty: 6/10)
 **Explanation:** Lavender prefers well-drained soil and full sun. Wet zone conditions may require additional care to prevent root rot.
 
 **Challenges/Adaptations:**
 - Use raised beds or containers with a well-draining potting mix
 - Provide adequate sunlight, even if artificial lighting is needed
 
-### Low country dry zone (Difficulty: 5/10)
+### Low country dry zone (Difficulty: 4/10)
 **Explanation:** Lavender tolerates drought conditions once established. Dry zone conditions are suitable for lavender growth.
 
 **Challenges/Adaptations:**
 - Water plants regularly during the first year to encourage root development
 - Provide afternoon shade to protect from intense heat
 
-### Mid country (Difficulty: 5/10)
+### Mid country (Difficulty: 4/10)
 **Explanation:** Mid country temperatures can be suitable for lavender, but proper drainage is crucial.
 
 **Challenges/Adaptations:**
 - Ensure well-drained soil by adding organic matter or raising planting beds
 - Monitor humidity levels and provide good air circulation
 
-### Up country (Difficulty: 4/10)
-**Explanation:** Up country conditions in Sri Lanka, particularly in areas like Nuwara Eliya, can be ideal for lavender cultivation due to cooler temperatures and lower humidity.
+### Up country (Difficulty: 6/10)
+**Explanation:** Up country conditions in Sri Lanka, particularly in areas like Nuwara Eliya, can be ideal for lavender cultivation due to cooler temperatures. However, constant humidty may be detrimental for mature plants.
 
 **Challenges/Adaptations:**
 - Consider greenhouse cultivation for year-round production
