@@ -109,4 +109,5 @@ Flower within a few weeks of sowing. Marigolds sprout within a week in warm weat
 - https://www.almanac.com/plant/marigolds
 - https://www.thespruce.com/how-to-grow-marigolds-1402909
 - https://kisanvedika.bighaat.com/cultivating-marigold-flowers-a-complete-guide-for-a-successful-bloom/
+- https://www.epicgardening.com/marigold-companion-plants/
 
