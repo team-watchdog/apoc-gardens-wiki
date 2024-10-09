@@ -1,5 +1,5 @@
 # Kangkung
-![Kang-Kung.jpeg](../../assets/images/Kang-Kung.jpeg "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=253457")
+![Kang-Kung.jpeg](../../assets/images/Kang-Kung.jpeg "Image from Wikimedia Commons")
     
 ## General Information
 **Generic name:** Water Spinach
