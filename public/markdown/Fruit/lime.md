@@ -5,7 +5,7 @@
 **Scientific name:** Citrus aurantiifolia
 **Plant family:** Rutaceae
 **Edible parts:** Fruit, zest
-**Nutrition value:** High in vitamin C, folate, potassium, and citric acid. A medium lime contains about 20 calories.
+**Nutrition value:** High in vitamin C, folate, potassium, and citric acid. 
 
 **Companion plants:**
 - Lemongrass: Shares similar growing conditions and repels mosquitoes, complementing the lime's pest-deterrent properties.
@@ -24,7 +24,10 @@
 - Potatoes, tomatoes, and cucumbers: Can negatively affect each other's growth when planted near lime trees.
 
 ## Description:
-Lime trees are well-suited to Sri Lanka's tropical climate. They thrive in the warm, humid conditions found in many parts of the country. Lime trees in Sri Lanka typically grow to a height of 3-5 meters and can be found in home gardens, agricultural plots, and even in some urban areas. The trees have glossy, dark green leaves and produce small, fragrant white flowers before bearing fruit. They typically need at least 3 to 4 years to bear fruit, depending on the size of your tree at purchase. Lime trees can grow up to 24 inches per year under optimal conditions.
+Lime trees are well-suited to Sri Lanka's tropical climate. They thrive in the warm, humid conditions found in many parts of the country, and can add a touch of acid to cooking or be turned into juice. Their juice is also sometimes used as a handy antimicrobial agent. Lime trees in Sri Lanka typically grow to a height of 3-5 meters and can be found in home gardens, agricultural plots, and even in some urban areas. 
+
+The trees have glossy, dark green leaves and produce small, fragrant white flowers before bearing fruit. They typically need at least 3 to 4 years to bear fruit, depending on the size of your tree at purchase. Lime trees can grow up to 24 inches per year under optimal conditions.
+
 
 ## Planting requirements
 **Planting season:** Best planted from June to December in Sri Lanka
@@ -102,4 +105,5 @@ In Sri Lanka's warm climate, store limes in the refrigerator for up to 2 weeks. 
 - https://agritech.tnau.ac.in/horticulture/horti_fruits_acidlime.html
 - https://permacultureplants.com/plants/lime/
 - https://greg.app/makrut-lime-companion-plants/
+- Aibinu, I., Adenipekun, T., Adelowotan, T., Ogunsanya, T., & Odugbemi, T. (2007). Evaluation of the antimicrobial properties of different parts of Citrus aurantifolia (lime fruit) as used locally. African Journal of Traditional, Complementary, and Alternative Medicines, 4(2), 185.
   
