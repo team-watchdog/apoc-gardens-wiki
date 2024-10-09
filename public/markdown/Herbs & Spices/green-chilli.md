@@ -44,28 +44,72 @@ Chilli is a spicy fruit used in cuisine preparations. It is mostly added as an i
 | Temperatures | Optimal daytime temperature is around 21-27°C |
 |----|----|
 | Soil | Land should be prepared by ploughing and mixing compost about 15-20 days before sowing. Soil should be well-prepared with plenty of organic matter |
-| Water | Proper irrigation will also improve flowering and fruit setting. Therefore, better to irrigate based on the water-holding capacity of the soil as well as the type of soil. Water deeply once a week, allowing the top inch of soil to dry out between waterings |
+| Water | Proper irrigation will also improve flowering and fruit setting. Therefore, it is better to irrigate based on the water-holding capacity of the soil as well as the type of soil. Water deeply once a week, allowing the top inch of soil to dry out between waterings |
 | Pruning | Prune plants in late winter or early spring to encourage bushier growth and remove any dead or diseased foliage |
 | Weeding | Whenever possible, keep the plantation free of weeds. |
 
 ## Harvesting:
-Pick them after 70-80 days after planting
+Pick them after 70-80 days after planting.
 
 ## Curing:
+Green chili does not require a curing stage.
 
 ## Storage:
+Green chili can be stored in the refrigerator for 2 to 3 weeks.
 
 ## Protecting your plants:
+Certainly. I'll convert the pest and disease information from the reference file to the format you've specified. Here's the formatted version:
 
-### Pest Control
-**Pest type:** Aphids, jassids, thrips, mites, leaf-eating caterpillars, and fruit borers
-**Symptoms:** 
-**Control method:** Spray insecticides, removing infected plants, splashing water. Use organic or chemical pesticides sparingly. Encourage natural predators like ladybugs and lacewings. <update>In Sri Lanka, neem oil and garlic spray are popular organic pest control methods.</update>
+## Protecting your plants
+### Pest control
+**Pest type:**
+- Aphids
+- Thrips
+- Mites
+- Whiteflies
 
-### Disease Control 
-**Disease type:**
 **Symptoms:**
+- **Aphids, Thrips, Mites:** Suck the sap of chili plants, causing leaf wilting and potential virus transmission.
+- **Whiteflies:** Transmit leaf curl virus, causing leaf yellowing, curling, and stunted plant growth.
+
+**Control method:**
+- Remove weeds in and around the field.
+- Use water sprays to dislodge insects.
+- Apply recommended insecticides as needed, typically 5-7 times during the crop's life.
+- Plant 2-3 rows of crops like maize or sorghum as cover crops around the chili plantation.
+- Use coconut fronds or insect-resistant nets as a protective cover.
+
+### Disease Control
+**Disease type:**
+- Anthracnose (_Colletrotrichum capsici_)
+- Leaf spot disease (_Cercospora capsici_)
+- Root rot (Sclerotium fungus)
+- Shoot rot disease (Choanephora fungus)
+- Powdery mildew (Oidiopies fungi)
+- Bacterial wilt (_Pseudomonas solaniarum_)
+- Viral diseases (Cucumber Mosaic Virus, Chilli Veinal Mottle Virus, Tomato spotted wilt virus)
+
+**Symptoms:**
+- **Anthracnose:** Greyish-brown, sunken scars on pods. Black dot-like fungal spores appear on scars.
+- **Leaf spot disease:** Circular brown spots with yellow grooves on leaves. Leaves turn yellow and drop prematurely.
+- **Root rot:** Stem rotting at soil level, yellowing leaves, plant death.
+- **Shoot rot disease:** Flower buds and flowers turn brownish black. Shoots die quickly from top to bottom.
+- **Powdery mildew:** Yellow spots on the leaf surface, turning brown. White powdery spores on leaf underside.
+- **Bacterial wilt:** Immediate plant wilting, root, and stem rot, stem discoloration.
+- **Viral diseases:** Various symptoms including leaf discoloration, malformation, stunted growth, and reduced yield.
+
 **Management:**
+- **Anthracnose:** Select seeds from healthy plants, treat seeds with fungicides, and apply fungicides during cultivation.
+- **Leaf spot disease:** Keep fields clean, and follow anthracnose control instructions.
+- **Root rot:** Disinfect nursery beds, remove diseased plants, improve drainage.
+- **Shoot rot disease:** Remove and destroy diseased shoots, apply fungicides.
+- **Powdery mildew:** Maintain crop well, apply fungicides after disease occurrence.
+- **Bacterial wilt:** Remove dead plants with the surrounding soil, improve drainage, and practice crop rotation.
+- **Viral diseases:** Control insect vectors, remove weeds, avoid planting with susceptible crops, and use resistant varieties.
+
+For all diseases:
+- Use high-quality seeds and recommended nursery methods.
+- Keep fields and surroundings free of weeds.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 5/10)
