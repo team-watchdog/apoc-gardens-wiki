@@ -6,95 +6,142 @@
 **Sri Lankan name:** Kos (Sinhala), Palāppaḻam (Tamil)
 **Scientific name:** _Artocarpus heterophyllus_
 **Plant family:** _Moraceae_
-**Edible parts:** The arils (the sweet, raw fruit), <update>seeds (boiled or roasted), young fruits (used in curries)</update>
-**Nutrition value:** <update>High in dietary fiber, vitamin C, and minerals like potassium and magnesium. It also contains antioxidants.</update>
+**Edible parts:** The arils (the sweet, raw fruit), seeds (boiled or roasted), young fruits (used in curries)
+**Nutrition value:** High in dietary fiber, protein, vitamin C, and minerals like potassium and magnesium. It also contains antioxidants.
+
 **Companion plants:**
-<update>
-- **Tamarind:** Improves soil fertility and attracts beneficial insects.
-- **Pigeon Pea (Kanduri):** Fixes nitrogen in the soil.
-</update>
-<update>- **Coconut:** Provides shade and maintains soil moisture</update>
+Not applicable
+
 **Non-companion plants**
-<update>
-- **Tomatoes:** Jackfruit trees may inhibit tomato growth due to allelopathy.
-</update>
+Not applicable
 
 ## Description:
-The jackfruit tree, also known by the common name jack tree, is a tropical fruit tree in the Moraceae family that is a relative of breadfruit, mulberry, and fig tree. Jackfruit leaves are dark green and glossy, and the trees are monoecious, meaning they have both male flowers and female flowers on the same tree. <update>In Sri Lanka, jackfruit is considered the "tree of plenty" due to its versatility and abundance.</update>
+The jackfruit tree, also known by the common name jack tree, is a tropical fruit tree in the Moraceae family that is a relative of breadfruit, mulberry, and fig tree. Jackfruit leaves are dark green and glossy, and the trees are monoecious, meaning they have both male flowers and female flowers on the same tree. Jackfruit can be used to control soil erosion due to its extensive root system.
 
 ## Planting requirements
 - Grows in hot humid climates
-**Planting season:** <update>Year-round in most parts of Sri Lanka, but preferably before the monsoon season (May-June or October-November)</update>
+  
+**Planting season:** Year-round in most parts of Sri Lanka, but preferably before the monsoon season (May-June or October-November)
 
 ### Planting conditions:
-| **Propagation**    | Propagated by seed, grafting, cuttings                                                                                                                                                                                                                                                                                                                        |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Propagation | Propagated by seed, grafting, cuttings |
+|----|----|
 | Planting method    | First choose a healthy nursery tree and select a site with full sunshine. Dig a hole 3 to 4 times the diameter and 3 times as deep as the container the jackfruit tree has come in. Remove the tree from the container and place it in the hole so that the top of the soil media in the container is level with or slightly above the surrounding soil level |
-| Soil               | Requires sandy or loamy soils with a pH between 6.0 to 7.5. Moderately drought tolerant. Needs well drained soil                                                                                                                                                                                                                                              |
-| Water              | Need consistent moist soil                                                                                                                                                                                                                                                                                                                                    |
-| Light              | Requires full sunshine (6 hours)                                                                                                                                                                                                                                                                                                                              |
-| Fertiliser / Mulch | <update>Apply organic compost or well-rotted manure annually. Use coconut husk or straw as mulch to retain moisture and suppress weeds</update>                                                                                                                                                                                                               |
+| Soil | Requires well-drained sandy or loamy soils with a high PH. Moderately drought tolerant. |
+| Water | Need consistent moist soil |
+| Light | Requires full sunshine (6 hours) |
 
 ### Growing conditions:
-
-| **Temperatures** | Needs a temperature of 24–28°C |
+| Temperatures | Needs a temperature of 24–28°C |
 |----|----|
-| Soil | Requires regular watering for young plants. Needs regular watering when the conditions are dry |
+| Soil | Trees grow best in well-drained soils. |
 | Water | Regular watering is needed for young plants. Needs regular watering when the conditions are dry |
-| Pruning | Prune in late winter to early spring, removing dead or diseased branches and maintaining a balanced canopy |
+| Pruning | Prune the tree if space is limited, removing dead or diseased branches and maintaining a balanced canopy |
 | Weed control | Keep the area around the tree free of weeds to prevent competition for nutrients |
 
 ## Harvesting:
-<update>In Sri Lanka, jackfruits are harvested year-round, with peak seasons from May to September. They can be picked at an immature stage (unripe) for use in curries, or eaten fresh when picked at a mature stage and allowed to ripen. Look for a change in fruit color and a hollow sound when tapped to determine ripeness.</update>
+In Sri Lanka, jackfruits are harvested year-round, with peak seasons from May to September. They can be picked at an immature stage (unripe) for use in curries, or eaten fresh when picked at a mature stage and allowed to ripen. Look for a change in fruit color and a hollow sound when tapped to determine ripeness.
 
 ## Curing:
 Ripe jackfruits can be cured by storing them at room temperature until the skin turns yellow. Unripe jackfruits should be cooked before consumption.
 
 ## Storage
-<update>In Sri Lanka's tropical climate, ripe jackfruits can be stored at room temperature for 3-4 days. For longer storage, cut the fruit into sections and refrigerate for up to a week. Unripe jackfruits can be stored at room temperature for up to a week or refrigerated for up to 3 months.</update>
+In tropical climates, ripe jackfruits can be stored at room temperature for 3-4 days. For longer storage, cut the fruit into sections and refrigerate for up to a week. Unripe jackfruits can be stored at room temperature for up to a week or refrigerated for up to 3 months.
+
+Certainly! I'll convert the pest and disease information from the reference file into the requested format.
 
 ## Protecting your plants
+
 ### Pest control
-**Pest type:** <update>Fruit flies, bark borers, mealybugs, and red spider mites</update>
-**Symptoms:** Yellowing leaves, distorted growth, honeydew excretion leading to sooty mold, <update>premature fruit drop</update>
-**Control method:** Use insecticidal soap or neem oil for aphids and mealybugs. Introduce natural predators like ladybugs. <update>Set up pheromone traps for fruit flies.</update>
+
+**Pest type:**
+- Shoot and fruit borer
+- Mealy bug
+- Bark-eating caterpillar
+- Aphid
+
+**Symptoms:**
+- **Shoot and fruit borer:** Caterpillar bores into tender shoots and developing fruits. Causes about 30-40% damage in jackfruit from flower bud formation up to fruit ripening.
+    
+- **Mealy bug:** Adult bugs covered with whitish powder, colonizing bark of tree trunks, young shoots, and panicles. Nymphs settle on inflorescence causing flower drop, affecting fruit set. Excretion of honeydew, facilitating the development of sooty mold.
+  
+- **Bark-eating caterpillar:** Larvae nibble the bark and bore into it. Disturbs sap flow, resulting in poor growth and less fruiting. Silk webs with excreta and chewed wood particles visible on the bark.
+  
+- **Aphid:** Nymphs and adults suck sap from leaves, buds, and pods. Curling of infested leaves. Plants may wither and die in advanced stages. Plants remain stunted. Sooty molds grow on the honeydew excreted by the insects.
+
+**Control method:**
+- **Shoot and fruit borer:** Use natural enemies such as parasitoids like Bracon sp., Chelonus sp., Systasis sp.
+  
+- **Mealy bug:** Encourage natural predators such as Menochilus sexmaculatus, Rodolia fumida, Cryptolaemus montrozieri.
+
+**General pest control practices:**
+- Maintain proper field sanitation
+- Introduce natural predators of pests
 
 ### Disease Control
-**Disease type:** Anthracnose, Gummosis, <update>Pink disease</update>
-**Symptoms:** Brown spots on leaves, fruit rot, oozing sap, <update>pink fungal growth on branches</update>
-**Management:** Avoid overhead irrigation, remove infected plant material, use fungicides as a last resort. <update>Prune affected branches and apply copper-based fungicides for pink disease.</update>
+**Disease type:**
+- Soft rot or fruit rot
+- Dieback
+- Leaf spot
+- Rust
+- Pink disease
+
+**Symptoms:**
+- **Soft rot or fruit rot:** Young fruits and male inflorescences are badly attacked. Greyish fungal growth appears, gradually becoming denser and black. Affected fruits fall off early.
+
+- **Dieback:** Discolouration and darkening of bark from the tip. Twigs wither, leaves turn brown with rolled margins. Branches die, shrivel, and fall. Possible gum exudation from affected branches.
+
+- **Leaf spot:** Dark brick red spots on both leaf surfaces, turning greyish with dark pin-headed fruiting bodies upon maturity.
+
+- **Rust:** Small, yellowish spots on the upper leaf surface, turning reddish-brown. The lower surface shows reddish-brown, slightly raised lesions. Heavily infected leaves turn yellow or brown and drop prematurely.
+
+- **Pink disease:** Pinkish powdery coating on the stem. Young woody branches lose leaves and show dieback symptoms. Pink encrustation on the lower shaded side.
+
+**Management:**
+- **Soft rot or fruit rot:** Avoid warm, humid, rainy conditions. Control wind, rain, and insects that can spread the fungus.
+
+- **Dieback:** Maintain relative humidity below 80% and temperatures outside the 25-31°C range. Prune and destroy infected twigs.
+
+- **Leaf spot:** Keep temperature below 25°C and relative humidity below 95%. Remove and destroy old leaves where the fungus overwinters.
+
+- **Rust:** Remove and destroy fallen leaves to reduce teliospore survival. Implement measures to reduce the wind-borne spread of uredospores. Avoid conditions with temperatures between 25.5 to 30.5°C and relative humidity of 86-92%.
+
+- **Pink disease:** Improve air circulation and reduce humidity in the orchard. Prune and destroy affected branches.
+
+**General management practices:**
+- Practice good orchard sanitation
+- Ensure proper spacing between trees for adequate air circulation
+- Use disease-resistant varieties when available
+- Apply appropriate fungicides as per local agricultural guidelines if necessary
+- Avoid overhead irrigation to reduce leaf wetness duration
+
 
 ## Difficulty Rating
-
 ### Low country wet zone (Difficulty: 5/10)
-**Explanation:** <update>Jackfruit trees thrive in the wet zone due to abundant rainfall and suitable temperatures.</update>
+**Explanation:** Jackfruit trees thrive in the wet zone due to abundant rainfall and suitable temperatures.
 **Challenges/Adaptations:**
-- **Pests:** Aphids, mealybugs are common. Regular monitoring is needed.
-<update>- **Diseases:** Higher humidity can increase the risk of fungal diseases. Ensure good air circulation.</update>
+- **Pests:** Aphids, and mealybugs are common. Regular monitoring is needed.
+- **Diseases:** Higher humidity can increase the risk of fungal diseases. Ensure good air circulation.
 
 ### Low country dry zone (Difficulty: 7/10)
 **Explanation:** Jackfruit trees can tolerate drought conditions but require more watering during dry spells.
 **Challenges/Adaptations:**
 - **Drought:** Trees may drop leaves and fruits during severe droughts. Regular watering is crucial.
-<update>- **Mulching:** Apply thick mulch to conserve soil moisture and reduce water stress.</update>
+- **Mulching:** Apply thick mulch to conserve soil moisture and reduce water stress.
 
 ### Mid country (Difficulty: 6/10)
 **Explanation:** Jackfruit trees grow well in the mid-country with regular watering and pest management.
 **Challenges/Adaptations:**
 - **Pests:** Similar to wet zone, but cooler temperatures may slow down pest reproduction.
-<update>- **Soil:** Ensure good drainage on sloped terrain to prevent waterlogging.</update>
+- **Soil:** Ensure good drainage on sloped terrain to prevent waterlogging.
 
 ### Up country (Difficulty: 8/10)
 **Explanation:** Jackfruit trees can tolerate cooler climates but require more care in terms of watering and protection from frost.
 **Challenges/Adaptations:**
-- **Frost:** Young plants should be protected during frost periods. Mature trees are somewhat frost tolerant.
-<update>- **Growth rate:** Slower growth and fruit development due to cooler temperatures. Choose cold-hardy varieties.</update>
+- **Frost:** Young plants should be protected during frost periods. Mature trees are somewhat frost-tolerant.
+- **Growth rate:** Slower growth and fruit development due to cooler temperatures. Choose cold-hardy varieties.
 
 ## References for this entry
 ### Content Sources:
-- <https://www.fao.org/3/a-i6709e.pdf>
-- <https://hortnews.nal.usda.gov/download/15824>
-<update>- <https://www.doa.gov.lk/FCRDC/index.php/en/crop-recomendation/42-jackfruit-artocarpus-heterophyllus></update>
 
 ### Image Sources: (In order of appearance)
-- ![Jackfruit Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Artocarpus_heterophyllus_-_Kandy,_Sri_Lanka.jpg/600px-Artocarpus_heterophyllus_-_Kandy,_Sri_Lanka.jpg)
