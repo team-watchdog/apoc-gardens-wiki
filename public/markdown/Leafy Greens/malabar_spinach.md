@@ -88,7 +88,8 @@ After harvesting, wash the leaves thoroughly and dry them in a shaded area. Stor
 - Choose warmer, sunnier locations for planting
 - Use protective structures like polytunnels during cooler months
 - Adjust watering practices to suit cooler, potentially wetter conditions
-- 
+
+
 ## Sources:
 - https://hort.extension.wisc.edu/articles/malabar-spinach-basella-alba/
 - https://foodprint.org/real-food/malabar-spinach/
