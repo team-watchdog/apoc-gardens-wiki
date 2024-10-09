@@ -175,3 +175,5 @@ Caution: Be careful of the mango sap when harvesting, as it can cause burns, all
 - https://doa.gov.lk/fruit-crops-mango-e/
 - https://www.tropicalpermaculture.com/growing-mangoes.html
 - https://couchtohomestead.com/mango-tree-companion-plants/
+- Bally, I. S. (2006). Mangifera indica (mango). Species profiles for pacific island agroforestry, 1-25.
+- Mitra, S. K. (2014, August). Mango production in the world–present situation and future prospect. In XXIX International Horticultural Congress on Horticulture: Sustaining Lives, Livelihoods and Landscapes (IHC2014): IV 1111 (pp. 287-296).
