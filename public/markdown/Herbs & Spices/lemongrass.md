@@ -2,103 +2,115 @@
 ![Lemongrass.jpg](../../assets/images/Lemongrass.jpg "Mokkie, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ## General Information
-**Generic name:** Lemongrass, Citronella
-**Sri Lankan name:** Sera
-**Scientific name:** <update>Cymbopogon citratus</update>
-**Plant family:** <update>Poaceae</update>
-**Edible parts:** Lower bulb of the lemongrass stem
-**Nutrition value:** <update>High in vitamins A and C, folate, magnesium, zinc, copper, and manganese. It also contains antioxidants and has anti-inflammatory properties.</update>
+**Generic name:** Lemongrass, Citronella  
+**Sri Lankan name:** Sera  
+**Scientific name:** Cymbopogon citratus  
+**Plant family:** Poaceae  
+**Edible parts:** Lower bulb of the lemongrass stem  
+**Nutritional value:** Rich in vitamins A and C, folate, magnesium, zinc, copper, and manganese. Contains antioxidants and possesses anti-inflammatory properties. 
 **Companion plants:**
-- Cilantro
-- Basil
-- Thyme
-- Mint
-- Lemon verbena
-- <update>Gotukola</update>
-- <update>Turmeric</update>
-**Non-companion plants:** <update>Tomatoes</update>
 
-## Description:
-Lemongrass is a sweet, lemony herb native to tropical climates. The stem is widely used in <update>Sri Lankan and other Asian cuisines</update> for fish and meat dishes. The leaves are also used to make refreshing tea. Apart from its culinary use, lemongrass makes an attractive plant that can grow up to 6 feet tall with the same diameter. Lemongrass has fragrant properties that act as a pest repellent.
+Lemongrass has pest-repellent properties, particularly against mosquitoes, and thus works well in any garden. Potential companions are (but not limited to)
 
-## Planting requirements
-**Planting season:** <update>Can be planted year-round in Sri Lanka, but best planted at the beginning of the rainy season (May-June or October-November)</update>
+- Cilantro: Repels pests with its strong scent.
+- Basil: Enhances lemongrass growth and flavor while deterring pests.
+- Thyme: Acts as a natural pesticide.
+- Mint: Attracts beneficial insects, improving overall garden health.
+- Lemon verbena: Shares similar growing requirements and pest-repelling properties.
+- Gotukola: A Sri Lankan herb that thrives in similar conditions.
+- Turmeric: Grows well alongside lemongrass with similar soil requirements.
 
-### Planting conditions:
-| **Propagation** | Can either grow lemongrass from seed or from a supermarket-bought stem |
-|----|----|
-| Planting method | Better to grow them in pots. They need plenty of room to grow. Plant the seeds in a container 6 inches apart and once the seedlings are few inches tall, plant them 1-2 feet apart. |
-| Soil | Prefers soil rich in nutrients. Nitrogen-rich soil is ideal. Prepare the soil by mixing with compost or manure before planting |
-| Water | Lemongrass needs lots of moisture but well-drained soil. Keep the soil moist and ensure that the soil does not dry out |
-| Light | Requires full sunshine, at least 6 hours of direct sunshine per day |
+**Non-companion plants:** 
+- Tomatoes
 
-### Growing conditions:
+## Description
+Lemongrass is a fragrant, lemony herb native to tropical climates. In Sri Lanka and other Asian cuisines, its stem is widely used in fish and meat dishes, while its leaves make a refreshing tea. It can be used fresh or dried and powdered. Beyond culinary uses, lemongrass serves as an attractive ornamental plant, growing up to 6 feet in height and width. Its natural pest-repellent properties make it a valuable addition to any garden.
 
-| **Temperatures** | <update>Thrives in Sri Lankan climate with temperatures between 25-35°C</update> |
-|----|----|
-| Soil | Putting about 3 inch layer of mulch will help conserve soil moisture and enrich the soil as it breaks down |
-| Water | <update>Water regularly during dry periods, especially in the dry zone</update> |
-| Pruning | Prune the plant annually to encourage bushier growth. |
-| Weed control | Keep the area around the lemongrass free of weeds to prevent competition for nutrients and water. |
+## Planting Requirements
+**Planting season:** Year-round in Sri Lanka, with optimal planting at the onset of rainy seasons (May-June or October-November)
 
-## Harvesting:
-Once the plant is mature and produces lots of stems (at least 10), cut the stems just below the base. Make sure you leave plenty on the plant to allow it to produce new growth.
+### Planting Conditions:
+| Aspect | Recommendation |
+|--------|----------------|
+| Propagation | Use seeds or supermarket-bought stems |
+| Planting method | Prefer pots for better control. Plant seeds 6 inches apart; transplant seedlings 1-2 feet apart when a few inches tall |
+| Soil | Rich in nutrients, especially nitrogen. Prepare by mixing with compost or manure |
+| Water | Requires consistent moisture with good drainage |
+| Light | Full sunshine, minimum 6 hours daily |
 
-## Curing: 
-<update>After harvesting, tie the stalks in bundles and hang them upside down in a well-ventilated area out of direct sunlight to dry.</update>
+### Growing Conditions:
+| Aspect | Recommendation |
+|--------|----------------|
+| Temperature | Thrives in Sri Lankan climate (25-35°C) |
+| Soil maintenance | Apply 3-inch layer of mulch to conserve moisture and enrich soil |
+| Watering | Regular watering during dry periods, especially in dry zones |
+| Pruning | Annual pruning encourages bushier growth |
+| Weed control | Keep area around plants weed-free to prevent nutrient competition |
 
-## Storage: 
-<update>Store dried lemongrass in an airtight container in a cool, dark place for up to 6 months. Fresh lemongrass can be stored in the refrigerator for up to two weeks.</update>
+## Harvesting and Post-Harvest Handling
 
-## Protecting your plants
-### Pest control
-**Pest type:** <update>Aphids, Mealybugs</update>
+**Harvesting:** First harvest at 3-6 months, then every three months. Yield increases after the first year. Harvest on sunny days, cutting 10cm above ground. Allow harvested grass to wilt in the field for two days before bundling.
 
-**Symptoms:** Aphids cause yellowing leaves and distorted growth. <update>Mealybugs appear as white, cottony masses on stems and leaves.</update>
+**Curing:** Tie stalks in bundles and hang upside down in a well-ventilated, shaded area to dry.
 
-**Control method:** Wash the plant with water, prune diseased leaves, and use insecticidal soap for aphids. <update>For mealybugs, use neem oil or introduce natural predators like ladybugs.</update>
+**Storage:** Store dried lemongrass in airtight containers in a cool, dark place for up to 6 months. Refrigerate fresh lemongrass for up to two weeks.
+
+## Processing for oil
+Extract lemongrass oil using water distillation. Oil quality depends on citral content and alcohol solubility. Commercial lemongrass (Cymbopogon flexuosus) should have over 75% citral content and be soluble in 70% ethyl alcohol. Sera (Cymbopogon citratus) oil has lower citral content and is insoluble in 70% alcohol.
+
+## Plant Protection
+### Pest Control
+**Common pests:** Aphids, Mealybugs
+
+**Symptoms and control:**
+- Aphids: Cause yellowing leaves and distorted growth. Control with water spray, pruning, and insecticidal soap.
+- Mealybugs: Appear as white, cottony masses. Control with neem oil or natural predators like ladybugs.
 
 ### Disease Control
-**Disease type:** <update>Rust, Root rot</update>
+**Common diseases:** Rust, Root rot
 
-**Symptoms:** <update>Rust appears as orange or brown spots on leaves. Root rot causes wilting and yellowing of leaves.</update>
+**Symptoms and management:**
+- Rust: Orange or brown leaf spots. Manage by avoiding overhead watering, removing infected leaves, and ensuring good air circulation.
+- Root rot: Causes wilting and yellowing. Improve soil drainage and avoid overwatering. Use fungicides as a last resort.
 
-**Management:** <update>Avoid overhead watering, remove infected leaves, and provide good air circulation. For root rot, improve soil drainage and avoid overwatering. Use fungicides only as a last resort.</update>
+## Regional Difficulty Ratings
 
-## Difficulty Rating
-### Low country wet zone (Difficulty: 6/10)
-**Explanation:** Lemongrass thrives in hot, humid climates but requires well-drained soil. The wet zone's high rainfall and humidity can lead to root rot if the soil is not properly drained.
-**Challenges/Adaptations:**
-- Ensure proper drainage by mixing sand or perlite into the soil.
-- Consider planting in raised beds or pots with drainage holes.
-<update>- Use organic mulch to prevent soil erosion during heavy rains.</update>
+### Low Country Wet Zone (Difficulty: 4/10)
+**Overview:** Ideal climate with hot, humid conditions matching lemongrass preferences.
 
-### Low country dry zone (Difficulty: 5/10)
-**Explanation:** Lemongrass prefers consistently moist soil but can tolerate some drought once established. The dry zone's lower rainfall may require more frequent watering.
-**Challenges/Adaptations:**
-- Water regularly, especially during the dry season.
-- Apply a thick layer of organic mulch to retain soil moisture.
-<update>- Consider using drip irrigation to conserve water.</update>
+**Challenges and adaptations:**
+- Ensure proper drainage to prevent waterlogging
+- Consider raised beds or pots in high-rainfall areas
+- Use organic mulch to prevent soil erosion
 
-### Mid country (Difficulty: 6/10)
-**Explanation:** The mid-country's cooler temperatures and varying rainfall can make growing lemongrass more challenging. Lemongrass is not frost tolerant, so protection may be needed during cold spells.
-**Challenges/Adaptations:**
-- Provide some shade during the hottest part of the day.
-- Protect from frost by covering with a frost cloth or moving pots indoors overnight.
-<update>- Plant in areas with good air circulation to prevent fungal diseases.</update>
+### Low Country Dry Zone (Difficulty: 5/10)
+**Overview:** Suitable climate, but requires attention to moisture levels.
 
-### Up country (Difficulty: 8/10)
-**Explanation:** The up-country's cooler temperatures and higher rainfall can make growing lemongrass difficult. Lemongrass is not frost tolerant, and excessive rain can lead to root rot.
-**Challenges/Adaptations:**
-- Provide some shade during the hottest part of the day.
-- Ensure proper drainage by planting in raised beds or pots with drainage holes.
-- Protect from frost by covering with a frost cloth or moving pots indoors overnight.
-<update>- Consider growing in greenhouses or polytunnels for better temperature control.</update>
+**Challenges and adaptations:**
+- Water regularly, especially in dry seasons
+- Apply thick mulch layer to retain soil moisture
+- Consider drip irrigation for consistent watering
 
-## References for this entry
-### Content Sources:
-- https://www.healthline.com/nutrition/lemongrass-benefits
-<update>- Department of Agriculture, Sri Lanka</update>
+### Mid Country (Difficulty: 5/10)
+**Overview:** Generally favorable climate within lemongrass's preferred temperature range.
 
-### Image Sources: (In order of appearance)
-- https://commons.wikimedia.org/wiki/File:Cymbopogon_citratus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-157.jpg
+**Challenges and adaptations:**
+- Provide shade during extreme heat
+- Ensure good air circulation in humid areas
+- Choose sunny locations in cooler regions
+
+### Up Country (Difficulty: 7/10)
+**Overview:** Cooler temperatures present challenges, but cultivation is possible with care.
+
+**Challenges and adaptations:**
+- Select warmest, sunniest planting locations
+- Ensure excellent drainage in high-rainfall areas
+- Use containers for mobility during cold spells
+- Apply mulch to maintain soil temperature and moisture
+
+
+## Sources:
+- https://dea.gov.lk/lemon-grass/
+- https://nhb.gov.in/model-project-reports/Horticulture%20Crops/Lemongrass/Lemongrass1.htm
+- https://www.rhs.org.uk/herbs/lemongrass/grow-your-own
+- https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=76&contentid=11972-2
