@@ -7,7 +7,7 @@
 **Scientific name:** Lactuca sativa
 **Plant family:** Asteraceae
 **Edible parts:** Leaves
-**Nutrition value:** A very low-calorie, low-nutrient food. 
+**Nutrition value:** A very low-calorie, low-nutrient food. 95 
 
 **Companion plants:**
 - Alyssum: Attracts beneficial insects like hoverflies and lacewings that control aphids.
@@ -123,3 +123,4 @@ Practice crop rotation and use approved fungicides as per local recommendations 
 - https://www.gardeningknowhow.com/edible/vegetables/lettuce/companion-plants-for-lettuce.htm
 - http://farmer.gov.lk/index.php?option=com_content&view=article&id=123&Itemid=76
 - https://www.doa.gov.lk/HORDI/index.php/en/crop-recommendations/1103-lettuce
+- https://fdc.nal.usda.gov/fdc-app.html#/food-details/169249/nutrients
