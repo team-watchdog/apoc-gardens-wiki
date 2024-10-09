@@ -23,7 +23,7 @@ In Sri Lanka, three main varieties are cultivated in home gardens and commercial
 - Asiri
 - Gannoruwa Ari
 
-Many fruits grow on a single vine. Mature fruits are used as natural cleaning sponges and are a common sight in Sri Lankan markets. 
+Many fruits grow on a single vine. Mature fruits are used as natural cleaning sponges.
 
 ## Planting requirements
 Luffa can  be grown successfully in hot weather. Can be cultivated up to 500m from sea level.
