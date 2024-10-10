@@ -96,6 +96,7 @@ Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Pineapples grow well in this zone, with abundant rainfall and suitable temperatures.
+
 **Challenges/Adaptations:**
 - Root rot can be a problem during extremely wet periods. Ensure good drainage and avoid overwatering.
 - Use raised beds or mounds to improve drainage during heavy rains.
@@ -103,6 +104,7 @@ Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples
 
 ### Low country dry zone (Difficulty: 5/10)
 **Explanation:** Pineapples can tolerate some drought once established, but may require additional care in dry periods.
+
 **Challenges/Adaptations:**
 - Water stress can cause fruit to be small and less sweet. Provide adequate water, especially during fruiting.
 - Use mulch to conserve soil moisture and consider drip irrigation.
@@ -110,6 +112,7 @@ Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples
 
 ### Mid country (Difficulty: 3/10)
 **Explanation:** The moderate climate of the mid country is highly suitable for pineapple cultivation, offering an excellent balance of temperature and rainfall.
+
 **Challenges/Adaptations:**
 - Mild temperature fluctuations are generally beneficial for fruit development.
 - Implement windbreaks to protect plants from occasional strong winds.
@@ -117,6 +120,7 @@ Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples
 
 ### Up country (Difficulty: 7/10)
 **Explanation:** The cooler temperatures and shorter days of the up country can make pineapple cultivation more challenging, but not impossible.
+
 **Challenges/Adaptations:**
 - Pineapples may take longer to ripen in cooler conditions. Provide additional warmth, such as row covers or greenhouse protection.
 - Choose sheltered locations and consider using plastic mulch to increase soil temperature.
