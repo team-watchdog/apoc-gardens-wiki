@@ -94,44 +94,48 @@ Common diseases in Sri Lanka include early blight, late blight, and bacterial wi
 
 ## Difficulty Rating
 
-### Low country wet zone (Difficulty: 7/10)
-**Explanation:** Tomatoes require consistent moisture and warmth, which can be challenging in the wet zone's humid conditions. High humidity and frequent rains in this zone increase the risk of fungal diseases. Proper drainage and disease management are crucial.
+### Low country wet zone (Difficulty: 5/10)
+**Explanation:** While the wet zone presents challenges due to high humidity and frequent rains, the availability of disease-resistant varieties like Bathiya (F1) and Rajitha, combined with effective companion planting, makes tomato cultivation more manageable.
 
 **Challenges/Adaptations:**
-- Provide adequate drainage
-- Ensure good air circulation around plants
-- Monitor for and manage fungal diseases
-- Use raised beds or container gardening
-- Choose disease-resistant varieties suitable for wet conditions
+• Use varieties resistant to bacterial wilt and leaf curl virus, such as Bathiya (F1) or Rajitha
+• Implement raised beds or container gardening to improve drainage
+• Apply copper-based fungicides as recommended by local agricultural extension services
+• Use trellising to improve air circulation, especially for indeterminate varieties
+• Utilize companion plants like marigolds and basil to repel pests and improve plant health
+• Implement intercropping with plants like carrots to improve soil structure
 
-### Low country dry zone (Difficulty: 6/10)
-**Explanation:** Tomatoes need consistent watering, which can be difficult in the dry zone's low rainfall conditions. Water scarcity can be a major challenge, especially during prolonged dry spells.
-
-**Challenges/Adaptations:**
-
-- Apply mulch to retain soil moisture
-- Monitor for and manage heat stress
-- Implement water-efficient irrigation methods like drip irrigation
-- Use drought-tolerant varieties
-
-### Mid country (Difficulty: 5/10)
-**Explanation:** The mid country's moderate climate is generally suitable for tomato cultivation, but pest management can be challenging.
+### Low country dry zone (Difficulty: 4/10)
+**Explanation:** The dry zone's water scarcity is counterbalanced by the availability of varieties like KC 1, which is suitable for higher temperatures. Companion planting can significantly improve water retention and pest management.
 
 **Challenges/Adaptations:**
+• Choose drought-tolerant varieties like KC 1 or Ravi
+• Implement water-efficient irrigation methods like drip irrigation
+• Use mulching extensively to conserve soil moisture
+• Consider shade netting during the hottest parts of the day
+• Utilize companion plants like sweet alyssum and nasturtiums to attract beneficial insects
+• Implement intercropping with plants like garlic to deter pests naturally
 
-- Monitor for and manage temperature extremes
-- Implement integrated pest management practices
-- Use trellising to improve air circulation
-
-### Up country (Difficulty: 6/10)
-**Explanation:** While frost is rare in Sri Lanka's upcountry, cooler temperatures can slow growth and extend the cultivation period.
+### Mid country (Difficulty: 3/10)
+**Explanation:** The moderate climate of the mid country, combined with a wide range of suitable varieties and effective companion planting strategies, makes this zone ideal for tomato cultivation.
 
 **Challenges/Adaptations:**
+• Select varieties based on specific local conditions (e.g., Thilina for areas with moderate bacterial wilt pressure)
+• Implement integrated pest management practices
+• Use trellising for indeterminate varieties like Bathiya (F1) to maximize space and yield
+• Utilize companion plants like chives and cilantro to repel pests and attract beneficial insects
+• Implement crop rotation with non-solanaceous crops to prevent soil-borne diseases
 
-- Choose heat-tolerant varieties suitable for higher elevations
-- Extend the growing season using row covers or greenhouses
-- Use plastic mulch to warm the soil
-- Select short-duration varieties adapted to cooler climates
+### Up country (Difficulty: 4/10)
+**Explanation:** While cooler temperatures can slow growth, the availability of bush-type varieties and techniques to warm the soil make cultivation in this zone quite feasible. Companion planting can help mitigate temperature-related challenges.
+
+**Challenges/Adaptations:**
+• Choose bush-type varieties like T245 or KWR, which may be more suitable for cooler climates
+• Use plastic mulch to warm the soil and conserve moisture
+• Implement greenhouse or polytunnel cultivation for extended growing seasons
+• Be vigilant about fungal diseases due to potential humidity; choose resistant varieties when possible
+• Utilize companion plants like sunflowers to provide windbreaks and attract pollinators
+• Implement intercropping with carrots to improve soil structure and utilize space efficiently
 
 ## Sources:
 - https://doa.gov.lk/hordi-crop-tomato/
