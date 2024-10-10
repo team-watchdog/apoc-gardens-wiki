@@ -13,12 +13,7 @@
 - Cinnamon
 - Camellia
 - Lemongrass
-<update>
-- Coconut
-- Mango
-- Papaya
-- Banana
-</update>
+
 **Non-companion plants**
   <update>
 - Tomatoes </update>
