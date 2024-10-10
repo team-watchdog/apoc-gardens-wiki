@@ -3,7 +3,7 @@
 
 ## General Information
 **Generic name:** Avocado, Alligator Pear, Butter Fruit
-**Sri Lankan name:** aligæṭapēra (Sinhala)
+**Sri Lankan name:** aligaṭapēra (Sinhala)
 **Scientific name:** _Persea americana_
 **Plant family:** _Lauraceae_
 **Edible parts:** Fruit
@@ -24,31 +24,49 @@ Avocado oil is used in cosmetics and soap making. Avocado leaves are used as a t
 **Non-companion plants:** Plants with deep roots may interfere with Avocado root growth
 
 ## Description:
-The avocado is a medium-sized, evergreen tree in the laurel family (Lauraceae). It is native to the Americas and was first domesticated by Mesoamerican tribes more than 5,000 years ago. Then as now, it was prized for its large and unusually oily fruit. The tree likely originated in the highlands bridging south-central Mexico and Guatemala.
+The avocado is a medium-sized, evergreen tree in the laurel family (Lauraceae). Its fruit is botanically a large berry containing a single large seed. Sri Lanka has developed several local varieties adapted to specific regions. 
 
-Its fruit is botanically a large berry containing a single large seed.
+#### Recommended Varieties:
+
+- Pollock: A West Indian variety that performs well in Sri Lanka's wet zones. It produces large, pear-shaped fruits with smooth, thin skin. The fruit remains green when ripe, weighs about 600 grams, and contains 3-8% fat.
+- Grotferis: A hybrid of the Mexico and West Indian groups. Produces large fruits weighing about 600 grams. The fruit is oval-shaped and turns purple when ripe. Contains 5-10% fat.
+- Peradeniya purple hybrid: A locally developed variety. Produces round, medium-sized fruits that turn purple when ripe. Average fruit weight is 300-350 grams.
+- Ferte: A hybrid between Mexican and Guatemalan groups. Small to medium-sized fruits weighing 225-350 grams. Contains 18-26% fat and is popular in the European market.
+- Simmonds: A West Indian variety producing large, oval fruits weighing about 450 grams. The skin turns yellowish-green when ripe.
+- Tower-02: Produces round oblong fruits weighing about 375 grams. The skin remains green when ripe.
+- Booth-07: A hybrid between Guatemalan and West Indian groups. High-yielding variety with green skin when ripe.
+- Hass: Contains about 10% fat, with fruits weighing 275-375 grams. Has thick skin, is resistant to fruit fly damage, and has high demand in foreign markets.
 
 ## Planting requirements
 **Planting season:** February to April
 
+#### Flowering and pollination:
+Avocado trees are divided into two main groups based on flower behavior:
+- Type A: Female parts active in the morning, male parts active in the evening.
+- Type B: Female parts active in the evening, male parts active the next morning.
+
+For better fruit production, plant both types together to ensure cross-pollination.
+
 ### Planting conditions:
-| Propagation | Grafting is recommended for consistent fruit output. Saplings should initially be planted in a nursery and transplanted to the field 4-6 months later. Plants should be spaced at 8x8 meters. This should allow for the planting of 60-80 trees per acre. |
+| Propagation | Grafting is recommended for consistent fruit output. Saplings should initially be planted in a nursery and transplanted to the field 4-6 months later |
 |----|----|
-| Planting method | Well-draining deep loamy soil with a pH value of about 5.7 |
-| Soil | Keep soil moist but not waterlogged. |
-| Water | Full or partial sunlight |
+| Planting method | Plants should be spaced at 6.5x8 or 8x8 meters |
+| Soil | Well-draining deep loamy soil with a pH value of about 5.7 |
+| Water | Keep soil moist but not waterlogged. Apply a layer of mulch to keep the soil from drying out |
+| Light | Full or partial sunlight |
 
 ### Growing conditions:
-- Grows best in the wet zones in Sri Lanka. Requires annual rainfall of 1200-1300mm. 
+- Grows best in the wet zones in Sri Lanka up to 1500 meters above sea level. Requires annual rainfall of 1200-1300mm. 
 
 | Temperatures | Under 30 degrees Celsius |
 |----|----|
-| Soil | Keep the soil well drained. |
-| Water | Requires a moderate and regular supply of water, but it doesn't tolerate waterlogged soil. When the top layer of soil seems dry, water with small amounts of water and do not overwater the plant. Wilting leaves may be a sign of both too much and too little water. |
-| Pruning | Occasionally prune the tree but take care not to cut off fruit-bearing twigs. |
+| Soil | Keep the soil well drained |
+| Water | Requires a moderate and regular supply of water, but it doesn't tolerate waterlogged soil. When the top layer of soil seems dry, water with small amounts of water and do not overwater the plant. Wilting leaves may be a sign of both too much and too little water |
+| Pruning | Occasionally prune the tree but take care not to cut off fruit-bearing twigs. Maintain height at about 4.5-5.5 meters for easier management and harvesting |
+| Weeding | Periodically remove weeds between or surrounding trees |
 
 ## Harvesting:
-Three to four years from a grafted tree. Avocado trees typically provide about 230-320 kilograms of fruit per year. The fruits ripen at different times, so harvest them as they become ripe.
+Three to four years from a grafted tree. Avocado trees typically provide about 230-320 kilograms of fruit per year. Fruits mature in about 4-6 weeks after flowering but do not ripen on the tree. Harvest fruits with part of the stem attached to reduce chances of rotting. The fruits ripen at different times, so harvest them as they become ripe.
 
 ## Curing:
 Allow the avocados to ripen off the tree for about a week before consuming.
@@ -63,7 +81,7 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
 - Fruit Fly
 
 **Symptoms:** 
-- **Branch Borer:** Causes severe damage to young nursery plants, resulting in plant death.
+- **Branch Borer:** Causes severe damage to young nursery plants, resulting in plant death. Branches and shoots of growing trees may die.
   
 - **Fruit Fly:**
   - Due to the laying of eggs, the fruits show spots on the surface.
@@ -75,10 +93,11 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
 - **Branch Borer:**
   - Cut and burn dead parts of mature trees.
   - Use neem oil as an organic insecticide.
+  - Apply an insecticide such as prozal to nursery plant pots.
   
 - **Fruit Fly:**
   - Setting pheromone traps for male flies.
-  - Collect and bury or destroy infested fruits.
+  - Collect and destroy infested fruits.
   - Apply paper covering at the tender stage.
 
 ### Disease Control
@@ -88,27 +107,27 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
 - Fruit rot
 
 **Symptoms:**
-- **Root rot:** Lives in the soil and damages new roots, the plant dies when the damage is severe.
+- **Root rot:** Caused by soil-borne fungus Phytoptera cinnamomum. Damages new roots, potentially killing the plant when severe. More prevalent in poorly drained soils.
   
 - **Anthracnose:**
-  - Fruit and leaf damage under hot, humid weather conditions.
-  - 1/2-inch circular spots appear on the fruit. The center of the spots is sunken and cracks are formed in the spots.
-  - Purple spores are found in the spots during wet weather conditions.
+  - Causes fruit and leaf damage under hot, humid conditions.
+  - 1/2 inch circular spots appear on fruit, with sunken centers and cracks.
+  - Purple spores in spots during wet weather.
     
-- **Fruit rot:** May affect fruits after harvest. The outer bark and pith of the harvested fruits begin to rot near the stalk.
+- **Fruit rot:** Affects fruits after harvest. Outer bark and pith of harvested fruits begin to rot near the stalk.
   
 **Management:**
 - **Root rot:**
   - Improve soil drainage
   - Apply soil fungicide to the area around the tree.
-  - Mulching and sanitation
+  - Add soil to plant roots, mulch, and improve sanitation
     
-- **Anthracnose:** Controlled by applying fungicide containing copper.
+- **Anthracnose:** Apply copper-containing fungicide several times from fruit set.
   
 - **Fruit rot:**
-  - Pick the infected fruit along with the stalk, soak it in a suitable fungicide, and send it to the field.
-  - Pruning of trees and dead branches.
-  - Improve the sanitary conditions of the field by destroying the fruits that have fallen in the field due to crop residue, disease, and pest damage.
+  - Pick fruit with stalk attached, soak in suitable fungicide before storage.
+  - Prune trees and remove dead branches.
+  - Improve field sanitation by destroying fallen, diseased fruits.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
@@ -142,6 +161,8 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
 
 ## References for this entry
 ### Content Sources:
+- https://doa.gov.lk/fruit-crops-avacado-s/
+- https://www.epicgardening.com/avocado-trees/
 - [Medical News Today](https://www.medicalnewstoday.com/articles/321543#eight-benefits-for-the-skin)
 - [Eating well](https://www.eatingwell.com/article/7825925/how-to-store-avocados/#:~:text=It's%20best%20to%20refrigerate%20an,produce%20drawer%20in%20the%20refrigerator.)
 
