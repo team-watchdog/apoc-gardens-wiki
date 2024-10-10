@@ -1,5 +1,5 @@
 # Shoe Flower
-![Cranberry-Hibiscus.jpg](../../assets/images/Cranberry-Hibiscus.jpg "Hermann Luyken, CC0, via Wikimedia Commons")
+![Shoe-Flower.jpg](../../assets/images/Shoe-Flower.jpg "Robert F. Tobler, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Shoe Flower
