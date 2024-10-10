@@ -76,26 +76,31 @@ Store cured turmeric rhizomes in a cool, dry place. They can be stored for up to
 **Management:** Avoid overhead irrigation, maintain good air circulation, remove infected plant parts, use disease-resistant varieties if available.
 
 ## Difficulty Rating
+
 ### Low country wet zone (Difficulty: 6/10)
 **Explanation:** Turmeric grows well in the wet zone but requires consistent moisture without waterlogging.
+
 **Challenges/Adaptations:**
 - Watch out for fungal diseases; use organic fungicides if necessary.
 - Ensure proper drainage to prevent waterlogging.
 
 ### Low country dry zone (Difficulty: 7/10)
 **Explanation:** Turmeric can be grown in the dry zone with adequate irrigation.
+
 **Challenges/Adaptations:**
 - Ensure consistent watering to prevent excessive heat stress.
 - Use drought-resistant varieties suitable for dry zone conditions.
 
 ### Mid country (Difficulty: 5/10)
 **Explanation:** Turmeric grows well in the mid-country due to its varied temperature conditions and suitable soil types.
+
 **Challenges/Adaptations:**
 - Monitor for pests and diseases; apply organic pesticides and fungicides as needed.
 - Implement soil conservation techniques to prevent erosion on sloped lands.
 
 ### Up country (Difficulty: 8/10)
 **Explanation:** Turmeric can be grown in the upcountry but requires careful management of moisture levels and temperature.
+
 **Challenges/Adaptations:**
 - Ensure proper drainage to prevent waterlogging; use organic mulch to retain soil moisture.
 - Use cold-tolerant varieties and provide protection during cold periods.
