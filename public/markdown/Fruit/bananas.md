@@ -163,5 +163,8 @@ Black spots on leaves, yellowing of leaves, stunted growth
 
 ## References for this entry
 ### Content Sources:
+https://doa.gov.lk/fruit-crops-banana-s/
+https://www.epicgardening.com/plant-grow-and-care-for-banana-plants/
+https://growingspaces.com/growing-bananas/#:~:text=The%20following%20plants%20are%20great,grow%20up%20the%20banana%20plant.
 
 ### Image Sources: (In order of appearance)
