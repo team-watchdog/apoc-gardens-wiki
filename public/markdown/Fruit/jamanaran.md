@@ -1,5 +1,5 @@
 # Mandarin Orange
-![Ambaralla](../../assets/images/Mandarin.jpg "Image - Mandarin Citrus, by pieonane, Pixabay")
+![Jamanaran](../../assets/images/Mandarin.jpg "Image - Mandarin Citrus, by pieonane, Pixabay")
 
 ## General Information
 **Generic name:** Mandarin Orange
