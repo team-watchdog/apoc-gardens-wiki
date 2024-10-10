@@ -1,5 +1,5 @@
 # Shoe Flower
-![Shoe-Flower.jpg](../../assets/images/Shoe-Flower.jpeg "Robert F. Tobler, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Shoe-Flower.png](../../assets/images/Shoe-Flower.png "Robert F. Tobler, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ## General Information
 **Generic name:** Shoe Flower
