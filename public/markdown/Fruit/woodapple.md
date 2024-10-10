@@ -2,7 +2,7 @@
 ![Woodapple.jpg](../../assets/images/Woodapple.jpg "By Thamizhpparithi Maari - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100167197")
 ## General Information
 **Generic name:** Wood apple, Elephant apple
-**Sri Lankan name:** Divul (Sinhala)
+**Sri Lankan name:** Divul (Sinhala) | Vilampalam (Tamil)
 **Scientific name:** Limonia acidissima (Syn: Feronia limonia)
 **Plant family:** Rutaceae
 **Edible parts:** Brownish pulp inside the fruit
