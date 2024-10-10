@@ -9,16 +9,16 @@
 **Nutrition value:** Rich in vitamins A and C, potassium, calcium, iron, and phosphorus.
 
 **Companion plants:**
-Not applicable
+Not applicable. Is a self polinating tree.
 
 **Non-companion plants**
-Not applicable
+Not applicable.
 
 ## Description:
 Golden apple may grow to a large tree up to 30 m tall but is more often 15 m tall in cultivation. The trunk is 60 cm across and can have buttresses. The bark is fairly smooth. The wood is soft and not much use, and twigs break off easily. The leaf is made up of 4 - 12 pairs of leaflets which have fine teeth around the edge. The leaves are 20-30 cm long. This plant cannot tolerate cold weather but is versatile and is easy to maintain in humid climates.
 
 ## Planting requirements
-**Planting season:** Dry season/ spring to summer
+**Planting season:** Dry seasons between monsoons
 
 ### Planting conditions:
 | Propagation | Seeds are most commonly used but propagation from tree cuttings are recommended as seed grown plants tend to give smaller and sour tasting fruit. |
