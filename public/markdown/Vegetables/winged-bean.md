@@ -8,15 +8,16 @@
 **Edible parts:** The young pods and leaves, flowers, root tubers, ripe seeds are edible. The seeds are also used to extract an edible oil.
 **Nutrition value:** Winged beans are high in protein (around 20% by weight) and fiber. They are also a good source of vitamins A, C, and several B vitamins.
 **Companion plants:**
+Beans act as nitrogen-fixers and can support a variety of plants by improving the soil, including, but not limited to:
 - Corn: Provides natural support for climbing winged beans and occupies a different soil layer, reducing competition for nutrients.
 - Cucumber: Encourages strong bean growth while benefiting from the nitrogen fixed by winged beans.
 - Eggplant: Benefits from the nitrogen fixed by winged beans and can provide partial shade.
 - Radish: Quick-growing crop that can be harvested before winged beans mature, maximizing space utilization.
-- Marigold: Deters Mexican bean beetles and other insect pests, also suppresses nematodes in the soil.
+- Marigold: Deters bean beetles and other insect pests, also suppresses nematodes in the soil.
 - Nasturtium: Repels bean beetles and acts as a trap crop for aphids.
 - Summer savory: Repels bean beetles and is said to improve the flavor and overall growth of bean plants.
 - Rosemary: Deters bean beetles and other pests with its strong aroma.
-- Potato: Helps repel Mexican bean beetles, while winged beans can repel Colorado potato beetles.
+- Potato: Potatoes grown with garden beans may be larger, as it benefits from nitrogen fixing activity.
 
 **Non-companion plants:**
 - Onion family plants (chives, leeks, garlic, and onions): These inhibit the growth of bean plants by exuding a substance that kills beneficial bacteria on bean roots.
