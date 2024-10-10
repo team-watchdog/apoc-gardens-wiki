@@ -10,25 +10,26 @@
 **Nutritional value:** Potatoes are a source of vitamin C, iron, riboflavin, potassium, and carbohydrates.
 
 **Companion plants:**
-- Marigolds: Repel pests, deter nematodes and attract beneficial insects.
-- 
+- Marigolds: Repel pests, deter nematodes, and attract beneficial insects.
+- Petunias: Repel pests and attract predatory insects.
+- Coriander: Repel pests and attract predatory insects.
+- Basil: Repel pests and attract beneficial predators.
+- Corn: Improve vigor and maximize yields.
+- Beans: Improve vigor and add nitrogen.
+- Garlic: Prevent blight, repel pests and maximize space.
 
 **Non-companion plants:**
-  <update>
-- Atriplex
-- Carrot
-- Cucumber
-- Pumpkin
-- Raspberries
-- Squash
-- Sunflower
-- Tomato
-<//update>
+- Asparagus: This perennial spreads through rhizomes and can quickly overtake potato plants.
+- Squash: Squash tends to spread and can overgrow potatoes in its path.
+- Fennel: Fennel releases chemicals that may stunt the growth of potatoes.
+- Sunflowers: These tall plants can block sunlight, shading out potatoes.
+- Tomatoes: Both are in the same family, competing for nutrients and space.
+- Cucumbers: Growing cucumbers with potatoes can lead to potato blight, so they should be kept apart.
 
 ## Description:
 Potatoes are generous plants and they easily grow and produce abundant harvests. They come in a variety of types, colors, and shapes. Though there are thousands of varieties of potatoes, only a few dozen are commercially available.
 
-Like the tomato, the potato is a nightshade in the genus Solanum, and the vegetative and fruiting parts of the potato contain the toxin solanine which is dangerous for human consumption. Normal potato tubers that have been grown and stored properly produce glycoalkaloids in amounts small enough to be negligible for human health, but, if green sections of the plant (namely sprouts and skins) are exposed to light, the tuber can accumulate a high enough concentration of glycoalkaloids to affect human health.
+Like the tomato, the potato is nightshade in the genus Solanum, and the vegetative and fruiting parts of the potato contain the toxin solanine which is dangerous for human consumption. Normal potato tubers that have been grown and stored properly produce glycoalkaloids in amounts small enough to be negligible for human health, but, if green sections of the plant (namely sprouts and skins) are exposed to light, the tuber can accumulate a high enough concentration of glycoalkaloids to affect human health.
 
 
 ## Planting requirements
@@ -84,11 +85,11 @@ Potatoes should be stored in a cool, dry place with temperatures between 45-50°
 **Control method:**
 - **Leaf miner:** Yellow sticky traps, removal of infected plant material, use of parasitoids, chemical control with approved insecticides.
 - **Potato tuber moth:** Proper earthing up, crop rotation, destruction of residues, chemical control in severe cases.
-- **Black cut worm:** Hand collecting and destroying, weed management, encouraging predatory birds, chemical control if necessary.
+- **Black cutworm:** Hand collecting and destroying, weed management, encouraging predatory birds, chemical control if necessary.
 - **Golden cyst nematode:** Use of certified seeds, crop rotation, soil testing, use of resistant varieties.
 - **Potato aphid:** Weed control, protection of natural predators, chemical control with approved insecticides.
-- **Thrips:** Weed control, protection of natural predators, planting at correct time, crop rotation, chemical control if necessary.
-- **Whitefly:** Use of yellow/blue sticky traps, spraying water to dislodge adults, chemical control with approved insecticides.
+- **Thrips:** Weed control, protection of natural predators, planting at the correct time, crop rotation, chemical control if necessary.
+- **Whitefly:** Use of yellow/blue sticky traps, spraying water to dislodge adults, and chemical control with approved insecticides.
 - **White grub:** Deep ploughing, encouraging predatory birds, crop rotation, field sanitation.
 - **Slug and Snail:** Elimination of shelters, trapping and removing, debris removal, weed management, use of metaldehyde baits.
 
@@ -119,7 +120,7 @@ Potatoes should be stored in a cool, dry place with temperatures between 45-50°
 - **Common scab:** Use of disease-free tubers, maintaining soil pH 5.0-5.2, maintaining soil water level, crop rotation.
 - **Black scurf:** Crop rotation.
 - **Powdery scab:** Use of disease-free tubers, crop rotation.
-- **Bacterial wilt:** Use of disease-free tubers, crop rotation for at least three years, improving field drainage.
+- **Bacterial wilt:** Use of disease-free tubers, and crop rotation for at least three years, improving field drainage.
 - **Dry rot:** Use of disease-free tubers, crop rotation.
 - **Virus diseases:** Control of vectors (aphids), regular field monitoring, removal of infected plants.
 
