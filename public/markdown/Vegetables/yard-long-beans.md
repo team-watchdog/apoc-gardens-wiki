@@ -2,24 +2,49 @@
 ![Yard-Long-Beans.jpeg](../../assets/images/Yard-Long-Beans.jpeg "Image - Wikimedia Commons")
 
 ## General Information
-**Generic name:** Yardlong bean, pea bean, long-podded cowpea, Chinese long bean, snake bean, long bean
-**Sri Lankan name:** Ma (Sinhala)
+**Generic name:** Yardlong bean, Asapargus bean, pea bean, long-podded cowpea, Chinese long bean, snake bean, long bean
+**Sri Lankan name:** Mae (Sinhala)
 **Scientific name:** Vigna unguiculata subsp. sesquipedalis
 **Plant family:** Fabaceae
 **Edible parts:** Beans
-**Other uses:** NA
 **Companion plants:**
-- Chilies
-- Tomatoes
-- Eggplants
-- Squash (between plant towers)
-- Spinach and lettuce (preserves cool weather vegetables)
+Beans act as nitrogen-fixers and can support a variety of plants by improving the soil, including, but not limited to:
+- Corn: Provides natural support for climbing winged beans and occupies a different soil layer, reducing competition for nutrients.
+- Cucumber: Encourages strong bean growth while benefiting from the nitrogen fixed by winged beans.
+- Eggplant: Benefits from the nitrogen fixed by winged beans and can provide partial shade.
+- Radish: Quick-growing crop that can be harvested before winged beans mature, maximizing space utilization.
+- Marigold: Deters bean beetles and other insect pests, also suppresses nematodes in the soil.
+- Nasturtium: Repels bean beetles and acts as a trap crop for aphids.
+- Summer savory: Repels bean beetles and is said to improve the flavor and overall growth of bean plants.
+- Rosemary: Deters bean beetles and other pests with its strong aroma.
+- Potato: Potatoes grown with garden beans may be larger, as it benefits from nitrogen fixing activity.
+- Chilies: see above
+- Tomatoes: see above
+- Eggplants: see above
+- Squash: see above
+- Lettuce: see above
+
 **Non-companion plants:**
-- Alliums
-- Gladiolas
+- Onion family plants (chives, leeks, garlic, and onions): These inhibit the growth of bean plants by exuding a substance that kills beneficial bacteria on bean roots.
+- Sunflowers: Give off a chemical compound that inhibits the growth of beans.
 
 ## Description:
-A variety of the cowpea, the asparagus bean is grown primarily for its strikingly long (35 to 75 centimetres (1.15 to 2.46 ft)) immature green pods and has uses very similar to those of the green bean. This plant is in a different genus from the common bean. The different colors of seeds usually distinguish the many varieties. It is a vigorous climbing annual vine. The plant is subtropical/tropical and most widely grown in the warmer parts of South Asia, Southeast Asia, and southern China. <update>In Sri Lanka, yard long beans are commonly cultivated in home gardens and commercial farms across various climatic zones.</update>
+A variety of the cowpea, the yard long bean is grown primarily for its strikingly long (35 to 75 centimetres (1.15 to 2.46 ft)) immature green pods and has uses very similar to those of the green bean. This plant is in a different genus from the common bean. The different colors of seeds usually distinguish the many varieties. It is a vigorous climbing annual vine. The plant is subtropical/tropical and most widely grown in the warmer parts of South Asia, Southeast Asia, and southern China. In Sri Lanka, yard long beans are commonly cultivated in home gardens and commercial farms across various climatic zones.
+
+Yard long beans are very popular in Sri Lanka and can be grown in the Low Country Wet Zone, Intermediate Zone, and Dry Zone. They are available in both bush and vine types, with vine types generally producing higher yields.
+
+Several varieties have been released by the Department of Agriculture in Sri Lanka:
+
+1. Gannoruwa Hawari: Released in 2011, vine type with light green colored long pods and reddish-brown seeds. Yields 20-24 t/ha.
+2. Gannoruwa A9 mae: Released in 2015, this is the first collar rot resistant variety. It has high yield (21-24 t/ha), long fleshy green pods, and good keeping quality.
+3. Hawari Mae: Vine type with light green colored long pods with purple colored ends and black seeds.
+4. Sena: Bush type with fleshy green colored pods and cream colored seeds with reddish-brown hilum.
+5. Polon Mae: Vine type with dark green colored pods with purple colored stains and cream colored seeds with black hilum.
+6. Bushita (Local): Bush type with light green colored medium-sized pods and cream colored seeds with brown colored hilum.
+7. BS1: Bush type with light green pods and cream colored seeds with brown colored patches.
+8. Bush Polon Mae: Bush type with medium-sized green pods with purple colored patches and cream colored seeds with black hilum.
+
+Culinary uses of yard long beans in Sri Lanka include various curries, stir-fries, and salads. The tender pods are often used in traditional Sri Lankan dishes, providing both nutrition and flavor to meals.
 
 ## Planting requirements
 **Planting season:** Wet zone- after monsoonal rains; Dry Zone-Yala : in rain fed cultivations- March /April; Dry Zone – Under irrigation (Yala Season)- April/May. Maha-End of November
@@ -27,28 +52,26 @@ A variety of the cowpea, the asparagus bean is grown primarily for its strikingl
 ### Planting conditions:
 | **Propagation** | Direct seeding |
 |----|----|
-| Planting method | Harrow soil to a depth of 15-20 cm and break the soil. If water retains in soil, or irrigation is done, prepare beds or ridges.<br>Plant 3-4 Seeds per pit after soaking them for 24 hours.<br>Irrigate the seeds well.<br>After 2 weeks of seedling emergence, Keep two healthy Seedlings and remove the rest carefully.<br>Set up about 7 ft. long poles for vine support.<br>Train the vines to poles.<br>Can place single pole per pit or set intermittent support poles and draw ropes horizontally and train the vines to the ropes. <update>In Sri Lanka, it's common to use coconut fronds or bamboo poles for support.</update> |
-| Soil | Well-draining sandy loam soil is ideal. Soil pH around 5.6 -7 is optimal. Heavy clay soils with poor drainage is not good for cultivation. <update>Soil should be well-fertilized with organic matter. In Sri Lanka, adding compost or well-rotted cow manure is recommended.</update> |
-| Water | At initial stages apply water every 4 days per week. Later add water once a week. If soil moisture is high, root rot disease may occur <update>Ensure consistent moisture but avoid overwatering to prevent root rot. In dry zones, mulching can help retain soil moisture.</update> |
-| Light | Requires plentiful sunlight <update>In Sri Lanka's tropical climate, partial shade during the hottest part of the day can be beneficial, especially in the dry zone.</update> |
+| Planting method | Harrow soil to a depth of 15-20 cm and break the soil. If water retains in soil, or irrigation is done, prepare beds or ridges.<br>Plant 3-4 Seeds per pit after soaking them for 24 hours.<br>Irrigate the seeds well.<br>After 2 weeks of seedling emergence, Keep two healthy Seedlings and remove the rest carefully.<br>Set up about 7 ft. long poles for vine support.<br>Train the vines to poles.<br>Can place single pole per pit or set intermittent support poles and draw ropes horizontally and train the vines to the ropes. In Sri Lanka, it's common to use coconut fronds or bamboo poles for support. |
+| Soil | Well-draining sandy loam soil is ideal. Soil pH around 5.6 -7 is optimal. Heavy clay soils with poor drainage is not good for cultivation. Soil should be well-fertilized with organic matter. In Sri Lanka, adding compost or well-rotted cow manure is recommended. |
+| Water | At initial stages apply water every 4 days per week. Later add water once a week. If soil moisture is high, root rot disease may occur. Ensure consistent moisture but avoid overwatering to prevent root rot. In dry zones, mulching can help retain soil moisture. |
+| Light | Requires plentiful sunlight. In Sri Lanka's tropical climate, partial shade during the hottest part of the day can be beneficial, especially in the dry zone. |
 
 ### Growing conditions:
 
-| **Temperatures** | Can be grown in dry zone conditions. <update>The ideal temperature range for yard long beans is between 21-30°C (70-86°F), which is common in many parts of Sri Lanka. However, they can tolerate higher temperatures with proper care.</update> |
+| **Temperatures** | Can be grown in dry zone conditions. The ideal temperature range for yard long beans is between 21-30°C (70-86°F), which is common in many parts of Sri Lanka. However, they can tolerate higher temperatures with proper care. |
 |----|----|
-| Soil | Well-draining sandy loam soil is ideal. Soil pH around 5.6 -7 is optimal. Heavy clay soils with poor drainage is not good for cultivation. <update>Soil should be well-fertilized with organic matter. In Sri Lanka, adding compost or well-rotted cow manure is recommended.</update> |
-| Water | At initial stages apply water every 4 days per week. Later add water once a week. If soil moisture is high, root rot disease may occur <update>Ensure consistent moisture but avoid overwatering to prevent root rot. In dry zones, mulching can help retain soil moisture.</update> |
+| Soil | Well-draining sandy loam soil is ideal. Soil pH around 5.6 -7 is optimal. Heavy clay soils with poor drainage is not good for cultivation. Soil should be well-fertilized with organic matter. In Sri Lanka, adding compost or well-rotted cow manure is recommended. |
+| Water | At initial stages apply water every 4 days per week. Later add water once a week. If soil moisture is high, root rot disease may occur. Ensure consistent moisture but avoid overwatering to prevent root rot. In dry zones, mulching can help retain soil moisture. |
 | Pruning | NA |
-| Weed control | <update>Regular weeding is essential, especially in the wet zone where weed growth can be rapid. Manual weeding or mulching can be effective.</update> |
+| Weed control | Regular weeding is essential, especially in the wet zone where weed growth can be rapid. Manual weeding or mulching can be effective. |
 
 ## Harvesting:
-Harvest both bush & vine types every 2 days. <update>For optimal yield and continuous production, harvest regularly when pods are about 15-20 cm long. In Sri Lanka, harvesting is typically done in the early morning or late evening to avoid heat stress on the plants.</update>
+Harvest both bush & vine types every 2 days. For optimal yield and continuous production, harvest regularly when pods are about 15-20 cm long. In Sri Lanka, harvesting is typically done in the early morning or late evening to avoid heat stress on the plants. Bush types can give 7-12 harvests, while vine types can give about 15-16 harvests.
 
-## Curing:
-NA
 
 ## Storage
-<update>In Sri Lanka's humid climate, yard long beans are best consumed fresh. If storage is necessary, keep them in a cool, dry place or refrigerate for up to 3-4 days.</update>
+In Sri Lanka's humid climate, yard long beans are best consumed fresh. If storage is necessary, keep them in a cool, dry place or refrigerate for up to 3-4 days.
 
 ## Protecting your plants
 ### Pest control
@@ -65,44 +88,49 @@ NA
   - Crop rotation
   - Removal of infected plant parts from the field and destruction
 
-- **For ashy stem blight:** Department of Agriculture recommends using Tebuconazole 250g /lEW fungicide after about 04 weeks of planting <update>Apply fungicide every two weeks until symptoms disappear. In organic farming, neem-based solutions can be used as an alternative.</update>
+- **For ashy stem blight:** Department of Agriculture recommends using Tebuconazole 250g /lEW fungicide after about 04 weeks of planting. Apply fungicide every two weeks until symptoms disappear. In organic farming, neem-based solutions can be used as an alternative.
 
 ### Disease Control
-<update>In addition to fungal diseases, viral diseases can be a problem in Sri Lanka. Use disease-resistant varieties when available and control insect vectors like aphids and whiteflies.</update>
+In addition to fungal diseases, viral diseases can be a problem in Sri Lanka. Use disease-resistant varieties when available and control insect vectors like aphids and whiteflies.
+
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 6/10)
-**Explanation:** Yard long beans are relatively easy to grow in the wet zone, but consistent moisture management is crucial to prevent root rot.
-<update>Soil preparation and pest control require some effort. The high humidity in this zone can increase the risk of fungal diseases.</update>
+### Low country wet zone (Difficulty: 5/10)
+**Explanation:** Yard long beans are well-suited to the wet zone climate and are a popular crop in this region. The consistent moisture and warm temperatures provide favorable growing conditions.
 
 **Challenges/Adaptations:**
-- Root rot can be a challenge if soil moisture is not managed properly. <update>Regularly monitor soil moisture levels and adjust watering accordingly. Raised beds can improve drainage in areas with heavy rainfall.</update>
+- High humidity can increase the risk of fungal diseases, particularly collar rot and ashy stem blight. Use resistant varieties like Gannoruwa A9 mae and implement good drainage practices.
+- Regular weeding is necessary due to rapid weed growth in this zone. Mulching can help control weeds and retain soil moisture.
+- Train vines on support structures (coconut fronds or bamboo poles) to maximize space and improve air circulation.
 
-### Low country dry zone (Difficulty: 7/10)
-**Explanation:** Yard long beans can be grown in the dry zone with proper irrigation, but high temperatures may affect yield.
-<update>Consistent water supply is essential to prevent heat stress on plants. Drip irrigation systems are recommended for efficient water use.</update>
-
-**Challenges/Adaptations:**
-- High temperatures can reduce yields. <update>Provide shade during peak hours if possible and ensure consistent watering. Mulching with coconut husks or straw can help retain soil moisture.</update>
-
-### Mid country (Difficulty: 6/10)
-**Explanation:** Yard long beans grow well in the mid country with proper soil management.
-<update>Soil fertility is crucial for optimal growth. The moderate climate in this zone is generally favorable for yard long beans.</update>
+### Low country dry zone (Difficulty: 6/10)
+**Explanation:** Yard long beans can be successfully grown in the dry zone with proper irrigation and management. The warm temperatures are favorable for growth, but water management is critical.
 
 **Challenges/Adaptations:**
-- Soil fertility may decline over time. <update>Regularly apply organic matter to maintain soil fertility. Crop rotation with legumes can help improve soil health.</update>
+- Consistent irrigation is essential, especially during dry periods. Implement efficient watering systems like drip irrigation.
+- High temperatures can stress plants. Provide partial shade during the hottest part of the day, possibly by intercropping with taller plants.
+- Mulching is crucial to conserve soil moisture and regulate soil temperature.
+- Choose drought-tolerant varieties for rain-fed cultivations.
+
+### Mid country (Difficulty: 5/10)
+**Explanation:** The moderate climate of the mid country is generally favorable for yard long beans. Good soil management is key to success in this zone.
+
+**Challenges/Adaptations:**
+- Soil fertility may vary. Regularly incorporate organic matter and follow recommended fertilization practices.
+- The varied topography may require terracing or contour planting in some areas.
+- Both bush and vine types can be grown successfully in this zone. Choose varieties based on available space and market preferences.
 
 ### Up country (Difficulty: 7/10)
-**Explanation:** Yard long beans can be grown in the up country, but frost protection may be necessary.
-<update>Frost protection is crucial during cold nights. The cooler temperatures in this zone can slow growth.</update>
+**Explanation:** While yard long beans can be grown in the up country, the cooler temperatures present challenges.
 
 **Challenges/Adaptations:**
-- Frost can damage plants. <update>Use row covers or other frost protection methods during cold periods. Choose sheltered locations for planting to minimize exposure to cold winds.</update>
+- Cooler temperatures can slow growth and delay harvests. Choose faster-maturing varieties like Sena or Bushita for shorter growing seasons.
+- Frost protection is crucial. Use row covers or other protective measures during cold periods.
+- Planting on south-facing slopes can provide more sunlight and warmth.
+- Focus on bush varieties which may be easier to protect from cold and wind.
 
-## References for this entry
-### Content Sources:
-- Department of Agriculture, Sri Lanka
-- University of Hawaii College of Tropical Agriculture and Human Resources
-
-### Image Sources: (In order of appearance)
-- ![Yard Long Beans](/api/attachments.redirect?id=e75bbbf4-bae4-4525-8d43-8201a027b01a)
+## Sources:
+- https://doa.gov.lk/hordi-crop-yard-long-bean/
+- https://doa.gov.lk/hordi-variety-mae/
+- https://www.thespruce.com/companion-plants-for-beans-2540036
+- https://edis.ifas.ufl.edu/publication/HS1268
