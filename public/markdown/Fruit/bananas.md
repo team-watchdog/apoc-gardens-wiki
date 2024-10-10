@@ -21,27 +21,41 @@ Not applicable
 ## Description:
 Bananas can be classed into diploid, triploid, and tetraploid kinds with various amounts of the A or B parents. They grow 2-9 m high. They are large non-woody herbs with broad long leaves. Most kinds have several suckers. Bananas grow a soft firm false stem from an underground corm. The fruiting stalk eventually emerges from the top of this false stem and normally curves over pointing towards the ground.
 
+#### Recommended Varieties for Sri Lanka
+- Nadee River (Embul-AAB): High-quality sour banana, light green stem, large cans (about 15 kg).
+- Kandula (Dual Purpose-AABB): Quadruple hybrid, can be used as fruit and vegetable, dark purple to black stem, drought and wind resistant.
+- Pulathisi (Cooking banana-ABBB): Quadruple hybrid, drought and wind resistant, suitable for vegetables and products.
+- Prasad (Ash plantain-ABB): Local gray banana selection, suitable for both dry and wet zones.
+- Agra (Kolikuttu-AAB): High-quality Kolikuttu selection, good yield in dry zone under irrigation.
+- Parakum (Seeni Kesel-ABB): High-quality sugar banana selection.
+-  Millewa Suwandel (Suwandel-AAB): Quality fragrant banana, suitable for wet zone.
+- Gannoruwa Seeni 1 (Seeni Kesel-ABB): Superior quality sugar banana, resistant to Panama disease.
+- Gannoruwa red banana (Rath Kesael-AAB): Extra large cans, superior quality and taste.
+
+Other varieties grown in Sri Lanka include Ambon (AAA), Anamalu (AAA), Mondan (ABB), Kitala (ABB), Atamuru (ABB), and Bing Banana (AAA).
+
 ## Planting requirements
-- Ideal for warm and humid climates
+- Ideal for warm and humid climates of Sri Lanka
+- Can be grown successfully from sea level to 1500 meters altitude
   
 **Planting season:** February - March, October - November
 
 ### Planting conditions:
-| Propagation | Suckers are usually put 30 cm deep |
+| Propagation | Young plant suckers |
 |----|----|
 | Planting method | Suckers are usually put 30 cm deep |
-| Soil | Requires a soil pH between 4.5 - 7.5 and fertile soil with adequate moisture is ideal |
+| Soil | Requires a soil pH between 5.5 - 6.5 and fertile soil with good drainage |
 | Water | Bananas require a large amount of water for healthy growth. Needs a moist soil that drains well |
 | Light | Requires full sunlight |
 
 ### Growing conditions:
 
-| Temperatures | Best temperature to grow bananas is 27°C - 38°C |
+| Temperatures | Best temperature range is 15°C - 38°C, with 27°C being optimal |
 |----|----|
 | Soil | Bananas are heavy feeders and therefore respond well to manure.  |
 | Water | Require watering every day but avoid waterlogging. Watering from a garden hose or drip irrigation is best |
 | Pruning | Prune the plant after harvesting to encourage new growth.
-| Weed control | Keep the area around the plants weed-free to prevent competition for nutrients and water.
+| Weed control | Keep the area around the plants weed-free to prevent competition for nutrients and water
 
 ## Harvesting:
 The ideal time for harvesting is 12 weeks from flowering and should be done in the morning or evening.
@@ -83,7 +97,7 @@ Store bananas at room temperature away from direct sunlight. They can also be fr
 **Symptoms:** 
 - **Panama disease:**
   - All varieties except sour varieties are susceptible to Panama disease.
-  - The pathogen infects the root system, blocking the vascular tissue. Brown discoloration appears in the pseudostem and corm.
+  - Brown discoloration in pseudostem and corm, wilting, yellowing leaves
   - Wilting occurs due to impaired water absorption, causing the leaves to yellow, fall from the petiole, and eventually lead to plant death.
   - Symptoms often appear on bushes near developing banana canes, while smaller plants may not show symptoms.
   
@@ -131,18 +145,21 @@ Black spots on leaves, yellowing of leaves, stunted growth
 **Challenges/Adaptations:**
 - Requires more watering than other plants due to high transpiration rate
 - Needs protection from strong winds
+- Best varieties to grow: Kolikuttu, Embul (Sour), Seeni (Sugar Banana), Kandula
 
 ### Mid country (Difficulty: 5/10)
 **Explanation:** The moderate climate of the midcountry is suitable for banana cultivation.
 **Challenges/Adaptations:**
 - Requires regular pruning to encourage fruit production
 - Susceptible to pests and diseases
+- Best varieties to grow: Kolikuttu, Embul (Sour), Seeni (Sugar Banana), Kandula, Anamalu, Ambon, Rath Banana (Red Banana), Nethrampalam
 
 ### Up country (Difficulty: 8/10)
 **Explanation:** Bananas can be grown in the upcountry with careful management of temperature and water requirements.
 **Challenges/Adaptations:**
 - Requires protection from frost
 - Needs regular watering to prevent wilting due to high-altitude temperatures
+- - Best varieties to grow: Embul (Sour), Seeni (Sugar Banana), Kandula, Anamalu, Ambon, Rath Banana (Red Banana), Nethrampalam, Suwandel, Puwalu, Bing Banana
 
 ## References for this entry
 ### Content Sources:
