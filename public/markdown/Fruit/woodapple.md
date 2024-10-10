@@ -21,10 +21,10 @@ Two main forms exist: one with large, sweet-tasting fruits and another with smal
 
 
 ## Planting requirements
-**Planting season:** Best planted at the onset of the monsoon season, typically May-June or October-November
+**Planting season:** Best planted at the onset of the monsoon season, typically May-June or October-November. Usually grown from seed, the seedling plants appear in 5- 10 days. In four to six weeks it is transferred to pots consisting of compost, sand and top soil. Vegetative propagation methods like budding and grafting are also successful.
 
 ### Planting conditions:
-| **Propagation** | Wood apple seeds are planted in the beds. The seedling plants appear in 5- 10 days. In four to six weeks it is transferred to pots consisting of compost, sand and top soil. Vegetative propagation methods like budding and grafting are also successful. |
+| **Propagation** | Wood apple seeds are planted in the beds.  |
 |----|----|
 | Planting method | Requires a soil pH of 5.8 to 6.5. Can thrive in a wide range of soil. A light sandy loamy soil that drains well is ideal. |
 | Soil | Well-draining soil with added organic matter. In Sri Lanka, red-yellow podzolic soils or reddish-brown earths are suitable. |
