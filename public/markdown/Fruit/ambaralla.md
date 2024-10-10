@@ -2,8 +2,8 @@
 ![Ambaralla](../../assets/images/Ambaralla.jpeg "Image - Anagoria, Wikimedia Commons")
 ## General Information
 **Generic name:** Golden Apple, June plum
-**Sri Lankan name:** Amberalla
-**Scientific name:** _Spondias dulcis_
+**Sri Lankan name:** Ambarella
+**Scientific name:** _Spondias dulcis_ or _Spondias cytherea_
 **Plant family:** _Anacardiaceae_
 **Edible parts:** Fruit and the young leaves
 **Nutrition value:** Rich in vitamins A and C, potassium, calcium, iron, and phosphorus.
@@ -15,15 +15,15 @@ Not applicable
 Not applicable
 
 ## Description:
-Golden apple may grow to a large tree up to 30 m tall but is more often 15 m tall in cultivation. The trunk is 60 cm across and can have buttresses. The bark is fairly smooth. The wood is soft and not much use, and twigs break off easily. The leaf is made up of 4 - 12 pairs of leaflets which have fine teeth around the edge. The leaves are 20-30 cm long.
+Golden apple may grow to a large tree up to 30 m tall but is more often 15 m tall in cultivation. The trunk is 60 cm across and can have buttresses. The bark is fairly smooth. The wood is soft and not much use, and twigs break off easily. The leaf is made up of 4 - 12 pairs of leaflets which have fine teeth around the edge. The leaves are 20-30 cm long. This plant cannot tolerate cold weather but is versatile and is easy to maintain in humid climates.
 
 ## Planting requirements
 **Planting season:** Dry season/ spring to summer
 
 ### Planting conditions:
-| Propagation | Mostly grown from seed but can be propagated from cuttings as well |
+| Propagation | Seeds are most commonly used but propagation from tree cuttings are recommended as seed grown plants tend to give smaller and sour tasting fruit. |
 |----|----|
-| Planting method | Can be grown in a container or on the ground. To plant in the ground, dig a hole three times as wide and just as deep as the root ball. Plant firmly in the ground and cover the top layer of soil with 2-3 inches of mulch. |
+| Planting method | Can be grown in a container or on the ground. To plant in the ground, dig a hole three times as wide and just as deep as the root ball. Plant firmly in the ground and cover the top layer of soil with 2-3 inches of mulch. Do not plant in windy areas. |
 | Soil | Grows in any type of soil as long as they are well draining. Does not need high nutrition, though it grows well when fed properly. They grow well in acidic to slightly alkaline soils with a pH of 5.5-7.5.  |
 | Water | Young plants should be watered more often than the older plants |
 | Light | Requires full to partial sunshine (4-6 hours of sunlight each day) |
@@ -34,8 +34,8 @@ Golden apple may grow to a large tree up to 30 m tall but is more often 15 m tal
 |----|----|
 | Soil | Cover the top layer of soil with mulch |
 | Water | One to two times per week for the first few months. Then once a week during dry periods |
-| Pruning | Prune in late winter or early spring to remove dead, damaged, or diseased branches.
-| Weed control | Mulching helps control weeds and retains soil moisture.
+| Pruning | Young trees require regular pruning and thinning of flowers and fruits. The plant tends to overgrow these and as a result can become weak and stunted |
+| Weed control | Mulching helps control weeds and retains soil moisture |
 
 ## Harvesting:
 Can be picked when green or golden yellow
@@ -44,33 +44,34 @@ Can be picked when green or golden yellow
 Fruits can be eaten fresh off the tree. For storage, cure green fruits at room temperature for a week to allow them to ripen further.
 
 ## Storage
-Store ripe fruits in the refrigerator for up to several days.
+Ripe fruit cannot be stored over long periods of time but can be preserved as jam, chutney, sause, etc.
 
 ## Protecting your plants
 ### Pest control
 **Pest type:**
-- Caribbean fruit fly
-- Scale insects
+- **Caribbean fruit fly:** small and orange brown in colour 
+- **Scale insects:** flat and round, red, brown or green coloured insects 
   
 **Symptoms:**
-- **Caribbean fruit fly:** Holes in fruits
-- **Scale insects:** sticky honeydew on leaves
+- **Caribbean fruit fly:** Lays eggs in fruit resulting in little holes
+- **Scale insects:** sticky honeydew on leaves that causes black sooty mold to cover the leaf
   
 **Control method:** 
-- Bag the fruit on the tree for protection
-- Spray oil
+- **Caribbean fruit fly:** Bag the fruit on the tree for protection
+- **Scale insects:** Spray oil
 
 ### Disease Control
 **Disease type:** 
-- Fusarium wilt (_Fusarium oxysporum_)
-- Anthracnose
+- **Root rot:** Occurs through overwatering and planting in soil that doesn't drain well
+- **Fruit rot:** Caused by fruit flies wounding the fruit. 
   
 **Symptoms:** 
-- **Fusarium wilt:** Wilted leaves and branches
-- **Anthracnose:** Dark spots on fruits
+- **Root rot:** Wilting
+- **Fruit rot:** Dark spots on fruits
   
 **Management:** 
-Avoid overhead irrigation, remove infected plant material, and use fungicides as a last resort.
+- **Root rot:** Avoid overhead irrigation, follow proper planting instructions, and bag the fruits on the tree for extra protection.
+- **Fruit rot:** Bag the fruits on the tree for extra protection.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
@@ -88,6 +89,8 @@ Avoid overhead irrigation, remove infected plant material, and use fungicides as
 ## References for this entry
 ### Content Sources:
 - [Wikipedia](https://en.wikipedia.org/wiki/Spondias_dulcis)
+- Food Plant Solutions Rotary Action Group
 - [tipstreeplanting.com](https://tipstreeplanting.com/ambarella-tree-care/)
+- https://www.epicgardening.com/june-plum-tree/
 
 ### Image Sources: (In order of appearance)
