@@ -18,6 +18,11 @@ Beans act as nitrogen-fixers and can support a variety of plants by improving th
 - Summer savory: Repels bean beetles and is said to improve the flavor and overall growth of bean plants.
 - Rosemary: Deters bean beetles and other pests with its strong aroma.
 - Potato: Potatoes grown with garden beans may be larger, as it benefits from nitrogen fixing activity.
+- Chilies: see above
+- Tomatoes: see above
+- Eggplants: see above
+- Squash: see above
+- Lettuce: see above
 
 **Non-companion plants:**
 - Onion family plants (chives, leeks, garlic, and onions): These inhibit the growth of bean plants by exuding a substance that kills beneficial bacteria on bean roots.
