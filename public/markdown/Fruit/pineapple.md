@@ -5,36 +5,52 @@
 **Generic name:** Pineapple
 **Sri Lankan name:** Annasi
 **Scientific name:** Ananas comosus
-**Plant family:** <update>Bromeliaceae</update>
+**Plant family:** Bromeliaceae
 **Edible parts:** Pericarp and thalamus
-**Nutrition value:** <update>High in vitamins A, C, and manganese. One cup of pineapple provides 131% DV vitamin C.</update>
+**Nutrition value:** High in vitamins A, C, and manganese. One cup of pineapple provides 131% DV vitamin C.
+
 **Companion plants:**
-- Coconut
-- <update>Papaya</update>
-- <update>Banana</update>
-- Clover
-- Chives
-- Garlic
-- southernwood
-- daffodils
-- <update>Lemongrass</update>
-- <update>Marigolds</update>
-**Non-companion plants**
-- <update>Cassava</update>
-- <update>Sweet potato</update>
-- Walnut trees
-- Eucalyptus
+- Marigolds: Their vibrant blooms deter nematodes and aphids, providing natural pest control.
+- Basil: Its strong scent wards off pests, promoting a healthier pineapple crop.
+- Nasturtiums: Their peppery scent attracts beneficial insects while repelling common pests.
+- Mint: Its aromatic leaves are known to deter a variety of insects.
+- Garlic: Its strong scent is a natural pest deterrent, protecting nearby pineapple plants.
+- Oregano: Its pest-repellent properties help keep the pineapple patch free of unwanted visitors.
+- Beans: They improve the soil by fixing nitrogen during the first year of pineapple growth.
+- Groundnuts: Like beans, they enhance soil quality through nitrogen fixation.
+- Bananas: They provide some shade, which can improve pineapple fruit quality.
+- Coconut: Traditionally grown with pineapples, providing partial shade and creating a microclimate.
+- Papaya: Can be intercropped with pineapples, offering some shade and diversifying the garden.
+- Clover: Acts as a living mulch, helping to suppress weeds and improve soil health.
+- Chives: Repel certain pests and can improve the flavor of nearby fruits.
+- Lemongrass: Its strong scent can help deter pests from the pineapple patch.
+
+**Non-companion plants:**
+- Cassava: Competes for nutrients and may hinder pineapple growth.
+- Sweet potato: Can be invasive and compete with pineapples for resources.
+- Walnut trees: Produce chemicals that can inhibit pineapple growth.
+- Eucalyptus: Their aggressive root systems and allelopathic properties can harm pineapples.
+- Brassicas (e.g., broccoli, cabbage, kale): Release compounds that can stifle pineapple growth.
+- Trees and large shrubs: Can overshadow and outcompete pineapples for sunlight and nutrients.
+- Invasive species: Plants like Mexican petunia can spread quickly and take over, leaving little room for pineapples.
 
 ## Description:
 Pineapple plants can be easily grown by planting the pineapple tops in soil. The pineapple top grows into a bushy plant. If you get growing conditions right, the pineapple plant flowers and a pineapple fruit eventually appears. Pineapples can grow in pots indoors, or if you live in warmer climates it can grow outdoors in your garden.
-<update>In Sri Lanka, pineapples are commonly grown in the low country wet and intermediate zones, particularly in areas like Gampaha, Kurunegala, and Ratnapura districts.</update>
 
-![Pineapple Plant](/api/attachments.redirect?id=52ebc8f5-c87a-48fa-bce0-f9b4e8ae1f88)
+In Sri Lanka, pineapples are commonly grown in the low country wet and intermediate zones, particularly in areas like Gampaha, Kurunegala, and Ratnapura districts. The fruit is known for its sweet-tart flavor, juicy texture, and tropical aroma. Sri Lankan pineapples are often described as having a perfect balance of sweetness and acidity, with a rich, golden flesh that's both refreshing and satisfying.
 
-*Image - David Adam Kess, Wikimedia Commons*
+Pineapples are widely used:
+1. Fresh consumption: Eaten as a refreshing snack or dessert, especially during hot weather.
+2. Culinary uses: Used in fruit salads, curries (particularly with seafood), and as a meat tenderizer.
+3. Beverages: Pineapple juice is popular, often mixed with other tropical fruits or used in cocktails.
+4. Traditional medicine: Used in Ayurvedic and traditional remedies for digestive issues and inflammation.
+5. Preserves: Made into jams, chutneys, and candied fruit.
+6. Tourism industry: Featured in tropical fruit platters for tourists and used to make welcome drinks in hotels.
+7. Export: High-quality Sri Lankan pineapples are exported, contributing to the country's agricultural economy.
+
 
 ## Planting requirements
-**Planting season:** Can be planted year-round in Sri Lanka, <update>but best during the onset of rainy seasons (April-May or September-October)</update>
+**Planting season:** Can be planted year-round in Sri Lanka, but best during the onset of rainy seasons (April-May or September-October)
 
 ### Planting conditions:
 | **Propagation** | Propagated from suckers |
@@ -46,7 +62,7 @@ Pineapple plants can be easily grown by planting the pineapple tops in soil. The
 
 ### Growing conditions:
 
-| **Temperatures** | <update>Thrives in Sri Lanka's tropical climate, with optimal temperatures between 23-32°C</update> |
+| **Temperatures** | Thrives in Sri Lanka's tropical climate, with optimal temperatures between 23-32°C |
 |----|----|
 | Soil | Make sure your soil is thickly mulched to reduce evaporation. The plant requires lots of nutrition. Mix compost in with your soil before you plant the pineapple, and then mulch thickly around it. |
 | Water | Always water from top down. They are tolerant of being under-watered rather than over-watered |
@@ -57,55 +73,57 @@ Pineapple plants can be easily grown by planting the pineapple tops in soil. The
 Well matured fruits with 25% colour change from the fruit base are suitable for harvesting. Fruits should be harvested with 10-15 cm of stem.
 
 ## Curing:
-<update>After harvest, cure pineapples at room temperature for a few days to develop their full flavor.</update>
+After harvest, cure pineapples at room temperature for a few days to develop their full flavor.
 
 ## Storage
 Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples can be stored at room temperature until ripe.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Mealy bugs, <update>pineapple mites, nematodes</update>
+**Pest type:** Mealy bugs, pineapple mites, nematodes
 
-**Symptoms:** <update>Mealybugs appear as small, cottony masses on leaves and stems. Mites cause bronzing of leaves, while nematodes lead to stunted growth and yellowing.</update>
+**Symptoms:** Mealybugs appear as small, cottony masses on leaves and stems. Mites cause bronzing of leaves, while nematodes lead to stunted growth and yellowing.
 
-**Control method:** Select healthy suckers, pre treatment prior to planting, weed control, spray insecticides with neem oil or insecticidal soap. <update>Use approved pesticides as per local agricultural department recommendations.</update>
+**Control method:** Select healthy suckers, pre treatment prior to planting, weed control, spray insecticides with neem oil or insecticidal soap. Use approved pesticides as per local agricultural department recommendations.
 
 ### Disease Control
-**Disease type:** <update>Top rot, base rot, fruit collapse</update>
+**Disease type:** Top rot, base rot, fruit collapse
 
-**Symptoms:** <update>Top rot causes the center leaves to wilt and rot. Base rot leads to plant collapse. Fruit collapse results in soft, watery fruit.</update>
+**Symptoms:** Top rot causes the center leaves to wilt and rot. Base rot leads to plant collapse. Fruit collapse results in soft, watery fruit.
 
-**Management:** Avoid overwatering, maintain good air circulation, use disease-resistant varieties, and treat with fungicides if necessary. <update>Practice crop rotation and use clean planting material.</update>
+**Management:** Avoid overwatering, maintain good air circulation, use disease-resistant varieties, and treat with fungicides if necessary. Practice crop rotation and use clean planting material.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
-**Explanation:** <update>Pineapples grow well in this zone, but require careful water management.</update>
+### Low country wet zone (Difficulty: 4/10)
+**Explanation:** Pineapples grow well in this zone, with abundant rainfall and suitable temperatures.
 **Challenges/Adaptations:**
-- Root rot can be a problem. Ensure good drainage and avoid overwatering.
-- <update>Use raised beds or mounds to improve drainage during heavy rains.</update>
+- Root rot can be a problem during extremely wet periods. Ensure good drainage and avoid overwatering.
+- Use raised beds or mounds to improve drainage during heavy rains.
+- The humid climate is ideal for pineapple growth, reducing the need for frequent watering.
 
-### Low country dry zone (Difficulty: 6/10)
-**Explanation:** Pineapples prefer consistent moisture but can tolerate some drought once established.
+### Low country dry zone (Difficulty: 5/10)
+**Explanation:** Pineapples can tolerate some drought once established, but may require additional care in dry periods.
 **Challenges/Adaptations:**
-- Water stress can cause fruit to be small and tasteless. Provide adequate water, especially during fruiting.
-- <update>Use mulch to conserve soil moisture and consider drip irrigation.</update>
+- Water stress can cause fruit to be small and less sweet. Provide adequate water, especially during fruiting.
+- Use mulch to conserve soil moisture and consider drip irrigation.
+- The dry climate can help reduce disease incidence, making pest management easier.
 
-### Mid country (Difficulty: 4/10)
-**Explanation:** <update>The moderate climate of the mid country is highly suitable for pineapple cultivation.</update>
+### Mid country (Difficulty: 3/10)
+**Explanation:** The moderate climate of the mid country is highly suitable for pineapple cultivation, offering an excellent balance of temperature and rainfall.
 **Challenges/Adaptations:**
-- Temperature fluctuations can affect fruit set. Provide some shade during extreme heat.
-- <update>Implement windbreaks to protect plants from strong winds.</update>
+- Mild temperature fluctuations are generally beneficial for fruit development.
+- Implement windbreaks to protect plants from occasional strong winds.
+- The climate in this zone is ideal for producing high-quality, flavorful pineapples.
 
-### Up country (Difficulty: 8/10)
-**Explanation:** The cooler temperatures and shorter days of the up country can make pineapple cultivation challenging.
+### Up country (Difficulty: 7/10)
+**Explanation:** The cooler temperatures and shorter days of the up country can make pineapple cultivation more challenging, but not impossible.
 **Challenges/Adaptations:**
-- Pineapples may not ripen properly in cool conditions. Provide additional warmth, such as row covers or greenhouse protection.
-- <update>Choose sheltered locations and consider using plastic mulch to increase soil temperature.</update>
+- Pineapples may take longer to ripen in cooler conditions. Provide additional warmth, such as row covers or greenhouse protection.
+- Choose sheltered locations and consider using plastic mulch to increase soil temperature.
+- Focus on growing pineapples for local consumption, as the cooler climate may produce less sweet but more aromatic fruits.
 
-## References for this entry
-### Content Sources:
-- [Pineapple Production Manual](https://www.hort.purdue.edu/newcrop/recpines/pineapple.html)
-- <update>[Department of Agriculture, Sri Lanka - Pineapple Cultivation](http://www.agridept.gov.lk/index.php/en/crop-recommendations/1020)</update>
-
-### Image Sources: (In order of appearance)
-- ![Pineapple Plant](/api/attachments.redirect?id=52ebc8f5-c87a-48fa-bce0-f9b4e8ae1f88)
+## Sources:
+- https://doa.gov.lk/fruit-crops-pineapple-e/
+- https://www.tropicalpermaculture.com/growing-pineapples.html
+- https://edis.ifas.ufl.edu/publication/MG055
+- https://www.accessagriculture.org/intercropping-pineapples
