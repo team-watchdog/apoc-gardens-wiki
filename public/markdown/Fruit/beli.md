@@ -104,7 +104,7 @@ Bael fruit can be stored from 10-15 days at normal temperature, whereas fruit ha
 
 ## References for this entry
 ### Content Sources:
-- [Plant Cultivation in Sri Lanka](https://www.amazon.com/Plant-Cultivation-Sri-Lanka-Mahindapala/dp/955812036X)
+- https://doa.gov.lk/fruit-crops-beli-s/
 
 ### Image Sources: (In order of appearance)
 - ![Beli tree](https://upload.wikimedia.org/wikipedia/commons/a/a7/Aegle_marmelos_flower.jpg)
