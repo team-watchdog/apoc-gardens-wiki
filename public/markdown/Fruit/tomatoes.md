@@ -1,120 +1,141 @@
 # Tomatoes
 ![Tomatoes.jpeg](../../assets/images/Tomatoes.jpeg "Image - Filo gen, Wikimedia Commons")
 
+
 ## General Information
 **Generic name:** Tomato, Garden Tomato
-**Sri Lankan name:** Thakkali (Sinhala, தமிழ்: தக்காளி)
+**Sri Lankan name:** Thakkali (Sinhala, Tamil) 
 **Scientific name:** Solanum lycopersicum
 **Plant family:** Nightshade family (Solanaceae)
 **Edible parts:** Berry
 **Nutrition value:** Rich source of vitamin A and C along with various minerals and B vitamins. Contains antioxidants like lycopene.
-**Companion plants:**
-- Asparagus
-- Chervil
-- Carrot
-- Celery
-- Chives
-- Parsley
-- Marigold
-- Basil
-**Non-companion plants:**
-- Rosemary
-- Potatoes
-- Fennel
-- Cucumber
+**Companion Plants:**
+- Basil: Repels insect pests like aphids and whiteflies while improving tomato flavor.
+- Marigolds: Repel root-knot nematodes and deter various pests, including tomato hornworms.
+- Carrots: Aerate the soil, promoting better root health for tomatoes.
+- Chives: Repel aphids and attract pollinators when allowed to flower.
+- Garlic: Its strong scent deters pests and helps prevent soil-borne diseases.
+- Parsley: Attracts beneficial insects like ladybugs that prey on tomato pests.
+- Nasturtiums: Act as a trap crop for aphids and whiteflies, drawing them away from tomatoes.
+- Sweet Alyssum: Attracts beneficial insects that prey on tomato pests.
+- Cilantro: When flowering, it attracts parasitic wasps that feed on tomato hornworms.
+- Sunflowers: Attract pollinators and provide support for climbing tomato varieties.
+
+**Non-Companion Plants:**
+- Potatoes: Being in the same family, they are susceptible to similar diseases and pests.
+- Cabbage and other brassicas: These can stunt the growth of tomato plants.
+- Corn: Attracts pests that can also damage tomatoes.
+- Eggplant: Shares similar diseases and pests with tomatoes, increasing the risk of infestation.
+- Peppers: Like eggplants, they are susceptible to the same diseases and pests as tomatoes.
 
 ## Description:
 Tomatoes are not only important flavor enhancers in various dishes but also a rich source of vitamins and minerals. Studies have shown that consuming tomatoes can protect against certain cancers and that organic tomatoes contain higher levels of beneficial antioxidants like lycopene.
 
+In Sri Lanka, tomatoes are an essential ingredient in many local dishes, adding a vibrant flavor and color to curries, salads, and chutneys. The taste of tomatoes can range from sweet to tangy, depending on the variety. They are commonly used in dishes like like curries, consumed raw in salads and sandwiches, and used to make fresh juices and sauces.
+
+Sri Lanka has developed several tomato varieties suited to its climate and resistant to common diseases. Some notable varieties include:
+
+1. Maheshi-F1 (2005): High-yielding hybrid (58 t/ha), thick pericarp, resistant to bacterial wilt, slightly flat fruit shape.
+2. Lanka Sour (Goraka Takkali) (2005): More sour taste, resistant to bacterial wilt, yield potential of 29 t/ha.
+3. Bathiya (F1) (2008): Indeterminate growth, resistant to bacterial wilt and curly top virus, high yield (61 t/ha).
+4. Lanka Cherry (2008): Indeterminate growth, small pear-shaped fruits, suitable for salads and processing.
+5. HORDI tomato hybrid 03 (2019): Attractive red color, thick pericarp, long shelf life, high yield (55-60 t/ha).
+6. Thilina: Semi-indeterminate, heart-shaped fruit, thick pericarp, moderately resistant to bacterial wilt.
+7. KWR: Bush type, resistant to bacterial wilt, suitable for areas with bacterial wilt problems.
+8. T245: Bush type, tolerant to bacterial wilt, nematodes, and leaf curl virus.
+9. Ravi: Bush type, heart-shaped fruits, resistant to flower drop in high temperatures.
+10. Tharindu: Bush type, dark red round fruits, suitable for sauce production.
+11. Rajitha: Bush type, resistant to bacterial wilt and leaf curl virus.
+12. Rashmi: Bushy growth, moderately resistant to bacterial wilt and leaf blight.
+13. KC 1: Bush type, suitable for dry zones with higher temperatures.
+
 ## Planting requirements
-**Planting season:** <update>October to December (Maha season) and April to May (Yala season)</update>
+**Planting season:** October to December (Maha season) and April to May (Yala season)
 
 #### Planting conditions:
 | **Propagation** | Seeds |
 |----|----|
-| Planting method | Grow in seed trays, plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed.<update>Ensure seeds are planted at least 1/2 inch deep. In Sri Lanka, direct seeding is also common in some areas.</update> |
-| Soil | Requires rich soil with pH between 6.5 to 7. Harrow the soil and break it finely. Mix organic matter/compost prior to planting. Good drainage is essential<update>In Sri Lanka, well-draining loamy soils are ideal. Add coconut husk or rice hull ash to improve drainage in heavy soils.</update> |
-| Water | Don't water too much; keep the soil slightly on the dry side—just dry-to-moist.<update>In Sri Lanka's climate, water seeds daily but lightly until germination, especially during dry spells.</update> |
-| Light | Need plenty of sunshine (at least 6 hours of direct sunlight) but do not like humidity<update>In Sri Lanka, provide partial shade during the hottest part of the day, especially in lowland areas.</update> |
+| Planting method | Grow in seed trays, plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Ensure seeds are planted at least 1/2 inch deep. In Sri Lanka, direct seeding is also common in some areas. |
+| Soil | Requires rich soil with pH between 6.5 to 7. Harrow the soil and break it finely. Mix organic matter/compost prior to planting. Good drainage is essential. In Sri Lanka, well-draining loamy soils are ideal. Add coconut husk or rice hull ash to improve drainage in heavy soils. |
+| Water | Don't water too much; keep the soil slightly on the dry side—just dry-to-moist. In Sri Lanka's climate, water seeds daily but lightly until germination, especially during dry spells. |
+| Light | Need plenty of sunshine (at least 6 hours of direct sunlight) but do not like humidity. In Sri Lanka, provide partial shade during the hottest part of the day, especially in lowland areas. |
 
 #### Growing conditions:
 
-| **Temperatures** | Requires soil temperature of 70°F (21°C) for germination<update>Tomatoes grow well in Sri Lanka's tropical climate. In cooler upcountry areas, use plastic mulch to warm the soil.</update> |
+| **Temperatures** | Requires soil temperature of 70°F (21°C) for germination. Tomatoes grow well in Sri Lanka's tropical climate. In cooler upcountry areas, use plastic mulch to warm the soil. |
 |----|----|
-| Soil | Better to add 5 to 7cm of mulch throughout the plants to ensure soil remains moist. Organic material such as shredded bark and chopped leaves will make the soil better as they crumble<update>In Sri Lanka, use locally available mulch materials like paddy straw or coconut fronds. This helps conserve moisture during dry spells.</update> |
-| Water | Water plants daily or at least every other day to maintain sufficient soil moisture<update>In Sri Lanka's hot climate, water deeply 2-3 times a week. Use drip irrigation if possible to conserve water.</update> |
-| Pruning | <update>Remove lower leaves and suckers to improve air circulation, which is crucial in Sri Lanka's humid climate to prevent fungal diseases.</update> |
-| Weed control | Keep surrounding area around the plant free from weed<update>Manual weeding is common in Sri Lanka. Apply organic mulch to suppress weed growth.</update> |
+| Soil | Better to add 5 to 7cm of mulch throughout the plants to ensure soil remains moist. Organic material such as shredded bark and chopped leaves will make the soil better as they crumble. In Sri Lanka, use locally available mulch materials like paddy straw or coconut fronds. This helps conserve moisture during dry spells. |
+| Water | Water plants daily or at least every other day to maintain sufficient soil moisture. In Sri Lanka's hot climate, water deeply 2-3 times a week. Use drip irrigation if possible to conserve water. |
+| Pruning | Remove lower leaves and suckers to improve air circulation, which is crucial in Sri Lanka's humid climate to prevent fungal diseases. |
+| Weed control | Keep surrounding area around the plant free from weed. Manual weeding is common in Sri Lanka. Apply organic mulch to suppress weed growth. |
 
 ## Harvesting:
-Can be harvested after 8-17 weeks<update>In Sri Lanka, tomatoes are typically ready for harvest 60-80 days after transplanting, depending on the variety and climate conditions.</update>
+In Sri Lanka, tomatoes are typically ready for harvest 60-80 days after transplanting, depending on the variety and climate conditions.
 
 ## Curing:
-<update>Curing is not necessary for ripe tomatoes. For green tomatoes harvested before monsoon rains, store in a cool, dry place to ripen gradually.</update>
+Curing is not necessary for ripe tomatoes. For green tomatoes harvested before monsoon rains, store in a cool, dry place to ripen gradually.
 
 ## Storage
-<update>In Sri Lanka's hot climate, store ripe tomatoes in a cool, shaded area. Use within 3-5 days for best quality. Avoid refrigeration as it affects flavor.</update>
+In Sri Lanka's hot climate, store ripe tomatoes in a cool, shaded area. Use within 3-5 days for best quality. Avoid refrigeration as it affects flavor.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Aphids, Cutworms, Hornworms, Whiteflies, Flea beetles<update>, Fruit borer (Helicoverpa armigera)</update>
+**Pest type:** Aphids, Cutworms, Hornworms, Whiteflies, Flea beetles, Fruit borer (Helicoverpa armigera)
 
-**Symptoms:** <update>Look for holes in fruits, wilting plants, curled or yellowing leaves, and presence of pests on undersides of leaves.</update>
+**Symptoms:** Look for holes in fruits, wilting plants, curled or yellowing leaves, and presence of pests on undersides of leaves.
 
 **Control method:**
-- Spray insecticides<update>Use neem oil or pyrethrum-based sprays, which are locally available and effective against many pests in Sri Lanka.</update>
-- Sprinkle wood ash around the plant<update>This traditional method is still used by some Sri Lankan farmers to deter certain pests.</update>
-- Keep surrounding area around the plant free from weed<update>Practice crop rotation and intercropping with marigolds or basil, which are common in Sri Lankan home gardens and help repel pests.</update>
+- Spray insecticides. Use neem oil or pyrethrum-based sprays, which are locally available and effective against many pests in Sri Lanka.
+- Sprinkle wood ash around the plant. This traditional method is still used by some Sri Lankan farmers to deter certain pests.
+- Keep surrounding area around the plant free from weed. Practice crop rotation and intercropping with marigolds or basil, which are common in Sri Lankan home gardens and help repel pests.
 
 ### Disease Control
-<update>Common diseases in Sri Lanka include early blight, late blight, and bacterial wilt. Practice crop rotation, use disease-resistant varieties, and ensure good drainage. Apply copper-based fungicides in severe cases, following local agricultural extension recommendations.</update>
+Common diseases in Sri Lanka include early blight, late blight, and bacterial wilt. Practice crop rotation, use disease-resistant varieties, and ensure good drainage. Apply copper-based fungicides in severe cases, following local agricultural extension recommendations.
 
 ## Difficulty Rating
 
 ### Low country wet zone (Difficulty: 7/10)
-**Explanation:** Tomatoes require consistent moisture and warmth, which can be challenging in the wet zone's humid conditions.<update>High humidity and frequent rains in this zone increase the risk of fungal diseases. Proper drainage and disease management are crucial.</update>
+**Explanation:** Tomatoes require consistent moisture and warmth, which can be challenging in the wet zone's humid conditions. High humidity and frequent rains in this zone increase the risk of fungal diseases. Proper drainage and disease management are crucial.
 
 **Challenges/Adaptations:**
 - Provide adequate drainage
 - Ensure good air circulation around plants
 - Monitor for and manage fungal diseases
-<update>- Use raised beds or container gardening
-- Choose disease-resistant varieties suitable for wet conditions</update>
+- Use raised beds or container gardening
+- Choose disease-resistant varieties suitable for wet conditions
 
 ### Low country dry zone (Difficulty: 6/10)
-**Explanation:** Tomatoes need consistent watering, which can be difficult in the dry zone's low rainfall conditions.<update>Water scarcity can be a major challenge, especially during prolonged dry spells.</update>
+**Explanation:** Tomatoes need consistent watering, which can be difficult in the dry zone's low rainfall conditions. Water scarcity can be a major challenge, especially during prolonged dry spells.
 
 **Challenges/Adaptations:**
-- Provide adequate watering
+
 - Apply mulch to retain soil moisture
 - Monitor for and manage heat stress
-<update>- Implement water-efficient irrigation methods like drip irrigation
-- Use drought-tolerant varieties</update>
+- Implement water-efficient irrigation methods like drip irrigation
+- Use drought-tolerant varieties
 
 ### Mid country (Difficulty: 5/10)
-**Explanation:** Tomatoes prefer consistent temperatures, which can vary in the mid country's fluctuating climate.<update>The mid country's moderate climate is generally suitable for tomato cultivation, but pest management can be challenging.</update>
+**Explanation:** The mid country's moderate climate is generally suitable for tomato cultivation, but pest management can be challenging.
 
 **Challenges/Adaptations:**
-- Provide some shade during peak hours
+
 - Monitor for and manage temperature extremes
-<update>- Implement integrated pest management practices
-- Use trellising to improve air circulation</update>
+- Implement integrated pest management practices
+- Use trellising to improve air circulation
 
 ### Up country (Difficulty: 6/10)
-**Explanation:** Tomatoes are not frost-tolerant, making them challenging to grow in the upcountry's cooler temperatures.<update>While frost is rare in Sri Lanka's upcountry, cooler temperatures can slow growth and extend the cultivation period.</update>
+**Explanation:** While frost is rare in Sri Lanka's upcountry, cooler temperatures can slow growth and extend the cultivation period.
 
 **Challenges/Adaptations:**
-- Provide frost protection
+
 - Choose heat-tolerant varieties suitable for higher elevations
 - Extend the growing season using row covers or greenhouses
-<update>- Use plastic mulch to warm the soil
-- Select short-duration varieties adapted to cooler climates</update>
+- Use plastic mulch to warm the soil
+- Select short-duration varieties adapted to cooler climates
 
-## References for this entry
-### Content Sources:
-- University of Maryland Extension: <https://extension.umd.edu/hgic/topics/tomatoes>
-- Missouri Botanical Garden: <https://www.missouribotanicalgarden.org/plantfinder/plant.asp?kid=1063>
-<update>- Department of Agriculture, Sri Lanka: <https://www.doa.gov.lk/HORDI/index.php/en/crop-2/tomato></update>
-
-### Image Sources: (In order of appearance)
-- ![Tomato Plant](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tomato_plant.jpg/250px-Tomato_plant.jpg)
+## Sources:
+- https://doa.gov.lk/hordi-crop-tomato/
+- https://doa.gov.lk/hordi-variety1-tomato/
+- https://www.gardeningknowhow.com/edible/vegetables/tomato/tropic-tomato-care.htm
+- https://www.allthatgrows.in/blogs/posts/how-to-grow-tomatoes-at-home-in-india
+- https://www.thespruce.com/companion-plants-for-tomatoes-1403289
