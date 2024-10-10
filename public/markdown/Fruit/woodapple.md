@@ -49,16 +49,20 @@ Store wood apples in a cool, dry place for up to two weeks. In Sri Lanka's humid
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Wood apple being a hardy crop, there is no serious insect or pest diseases
-**Symptoms:** However, watch out for scale insects, mealybugs, and Deudorix isocrates that may appear occasionally
+
+**Pest type:** Wood apple being a hardy crop, there is no serious insect or pest diseases. However, watch out for scale insects, mealybugs, and Deudorix isocrates that may appear occasionally
+
 **Control method:** Use neem oil or traditional Sri Lankan pest control methods like spraying with a mixture of tobacco and soap water. For Deudorix isocrates, inspect and destroy fallen fruit to control the pest's life cycle.
 
 ### Disease Control
 **Disease type:** Fruit rot is a common issue in Sri Lanka's humid climate
+
 **Symptoms:** Soft, discolored patches on the fruit, often with a foul odor
+
 **Management:** Improve air circulation around the tree, avoid overhead irrigation, and remove affected fruits promptly
 
 ## Difficulty Rating
+
 ### Low country wet zone (Difficulty: 3/10)
 **Explanation:** Woodapple trees are relatively easy to grow in the low country wet zone with proper care. The warm temperatures and high rainfall provide suitable conditions for woodapple growth.
 
