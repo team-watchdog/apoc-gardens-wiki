@@ -9,7 +9,7 @@
 **Nutrition value:** Rich in vitamin A, vitamin C, Iron and Zinc. A 100g serving contains approximately 15 calories.
 
 **Companion plants:**
-- Carrot
+- Lettuce
 - Beets
 - Spinash
 - Garlic
