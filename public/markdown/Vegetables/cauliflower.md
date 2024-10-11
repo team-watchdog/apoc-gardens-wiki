@@ -47,7 +47,7 @@ The plant consists of a thick stem surrounded by leaves on top of which the curd
 | Water | Once the seedlings have taken root, water twice a day for two weeks. Following which water is in consideration of rainfall. If the plants do not receive consistent rainfall or irrigation, they will have poor texture and may develop a strong “off” flavor.  If the planting does not receive one inch of rain each week, soak the soil thoroughly at least once a week. |
 
 ## Harvesting
-Harvest can be obtained in 90 - 110 days from planting. Variations in this timeline can be experienced on the basis of climatic zones/plant variety. Harvest cauliflower when heads reach usable size before the flower buds open. Cut the head above ground level and remove the leaves wrapped around the head. If you leave curds on the plant for too long, they will become loose.
+Can be harvested within 90-110 days after planting. Variations in this timeline can be experienced on the basis of climatic zones/plant variety. Harvest cauliflower when heads reach usable size before the flower buds open. Cut the head above ground level and remove the leaves wrapped around the head. If you leave curds on the plant for too long, they will become loose.
 
 ## Curing
 Cauliflower does not require a curing stage.
