@@ -26,10 +26,10 @@ _Syzygium samarangense_ is a tropical tree growing to 12 m (39 ft) tall, with ev
 
 The flowers are white to yellowish-white, 2.5 cm (1 in) diameter, with four petals and numerous stamens. They form in panicles of between three and 30 near branch tips. The resulting fruit is a bell-shaped, edible berry, with colors ranging from white, pale green, or green to red, purple, or crimson, to deep purple or even black. 
 
-In Sri Lanka, Jambu species grow well under tropical or near-tropical climates. Red jambu grows well in the lowland and midland as well as the upland. It is found in almost every province of Sri Lanka under cool climate conditions. Jambu is not found in very low temperature areas. Improved varieties of jambu can be grown well in wet, intermediate, and dry zone areas. Sand jambu is more popular in wet zone areas. Pini Jambu grows successfully in humid zone upland areas with hot humid environment.
+In Sri Lanka, Jambu species grow well under tropical or near-tropical climates. Red jambu grows well in the lowland and midland as well as the upland. It is found in almost every province of Sri Lanka under cool climate conditions. Jambu is not found in very low-temperature areas. Improved varieties of jambu can be grown well in wet, intermediate, and dry zone areas. Sand jambu is more popular in wet zone areas. Pini Jambu grows successfully in humid zone upland areas with hot humid environments.
 
 ## Planting requirements
-<update>**Planting season:** Best planted at the onset of the rainy seasons</update>
+**Planting season:** Best planted at the onset of the rainy seasons
 
 ### Planting conditions:
 | Propagation | Direct seeding, budding, grafting |
@@ -73,6 +73,21 @@ Jambu plants are not disease or pest-prone, however, occasional infestations are
 **Control method:** 
 - Use fly traps for fruit fly removal.
 - Organic insecticides are effective at controlling pests. 
+
+## Disease Control
+**Disease type:** 
+- Fruit Rot
+
+**Symptoms:** 
+- **Fruit Rot:**
+  - At early stages, water-soaked, small light purple spots appear on the fruit and spread irregularly across its surface.
+  - At later stages, Diseased fruit shrinks and develops dry rot.
+  
+**Management:** 
+- **Fruit Rot:**
+  - Use appropriate levels of water
+  - Removing infected fruits and destroying
+  - Controlling fruit-feeding insects
 
 ## Difficulty Rating
 
