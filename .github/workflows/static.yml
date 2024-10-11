@@ -59,6 +59,23 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      # Step 1: Check out the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
+  
+      # Step 2: Ensure CNAME file exists
+      - name: Create CNAME file
+        run: |
+          echo "lanka.wiki.apoc-gardens" > ./CNAME
+  
+      # Step 3: Commit the CNAME file (optional, if not already in repo)
+      - name: Commit and push CNAME
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add CNAME
+          git commit -m "Add CNAME for GitHub Pages"
+          git push
       - name: Download artifact
         uses: actions/download-artifact@v3
         with:
