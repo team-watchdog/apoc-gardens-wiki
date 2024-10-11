@@ -89,8 +89,6 @@ Store pods in the refrigerator for up to two weeks. Tubers can be stored in a co
 **Management:** Remove infected plants with soil, improve water drainage system, avoid overhead watering, remove infected plant material, and apply fungicides if necessary
 
 ## Difficulty Rating
-
-## Difficulty Rating
 ### Low country wet zone (Difficulty: 5/10)
 **Explanation:** Winged beans thrive in warm, humid conditions typical of Sri Lanka's low country wet zone. The consistent rainfall reduces the need for irrigation.
 **Challenges/Adaptations:**
