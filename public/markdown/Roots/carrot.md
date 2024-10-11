@@ -25,24 +25,24 @@
 - Fennel
 
 ## Description:
-Carrots are a root vegetable that is grown from seed. It normally grows an expanded root one year and then forms a flower the next year. It can grow up to 60 cm high and spread to 50 cm wide. The root is long in shape and orange in colour. The stem is erect, tough and furrowed. The leaves are feathery and divided 3 times. The flowers are white and lacy. Sometimes flowers are only produced into the second year of growth, depending on temperature.
+Carrots are a root vegetable that is grown from seed. It normally grows an expanded root one year and then forms a flower the next year. It can grow up to 60 cm high and spread to 50 cm wide. The root is long in shape and orange in colour. The stem is erect, tough and furrowed. The leaves are feathery and divided 3 times. The flowers are white and lacy. 
 
 ## Planting requirements
-**Planting season:** <update>In Sri Lanka, carrots are typically planted from September to February in the upcountry regions, and from October to January in the mid-country regions.</update>
+**Planting season:** Can be planted from September to February in the upcountry regions, and from October to January in the mid-country regions.
 
 ### Planting conditions:
 | Propagation | They are grown from seeds sown directly.|
 |----|----|
-| Planting method | Seeds can be mixed with sand before sowing to allow a more even distribution of plants. A spacing of 5 cm apart in rows 15–20 cm apart is suitable. Often this spacing is achieved by thinning out excess plants. Seeds can be planted on raised beds. In Sri Lanka, raised beds are particularly useful during the monsoon season to prevent waterlogging.|
-| Soil | Carrots require a deep loose soil. It grows best with a pH of 6.0-7.0. Carrots are frost resistant. Avoid crusty soil through maintaining consistent moisture in the soil.|
-| Water | Need to maintain a consistently moist soil in the carrot bed.|
-| Light | Carrots require six to eight hours of direct sunlight a day. Providing afternoon shade or planting in filtered light can give carrots the amount of light they need while keeping soil temperatures lower during the hottest part of the day. In hot climate, shade netting or intercropping with taller plants can help protect carrots from excessive heat.|
+| Planting method | Seeds can be mixed with sand before sowing to allow a more even distribution of plants. A spacing of 5 cm apart in rows 15–20 cm apart is suitable. Often this spacing is achieved by thinning out excess plants. direct seeding and raised beds for better drainage during monsoon seasons|
+| Soil | Requires deep, loose soil with a pH of 6.0-7.0.  Soil should be well-drained and rich in organic matter|
+| Water | Consistent moisture is essential and light, frequent irrigation during root enlargement is crucial |
+| Light | Carrots require six to eight hours of direct sunlight a day. Providing afternoon shade or planting in filtered light can give carrots the amount of light they need while keeping soil temperatures lower during the hottest part of the day. In hot climate, shade netting or intercropping with taller plants can help protect carrots from excessive heat|
 
 ### Growing conditions:
 | **Temperatures** | Seed germinate well in the temperature range 7–24°C. Plants grow well with a temperature about 15°C. |
 |----|----|
 | Soil | Root vegetables grow faster in loose, loamy, or sandy soils. To lighten heavy soil in carrot beds, incorporate sand, low-nitrogen compost, wood shavings, shredded leaf mulch, or chopped straw. Avoid adding animal manures as these are often nitrogen-rich.|
-| Water | Daily watering is required to maintain the moisture in the soil. Therefore, provide light, frequent irrigation to obtained good yield.|
+| Water | Daily watering is required to maintain the moisture in the soil. Therefore, provide light, frequent irrigation to obtain good yield.|
 | Pruning | Not necessary|
 | Weed control | Hand-pulling or hoeing |
 
@@ -50,10 +50,10 @@ Carrots are a root vegetable that is grown from seed. It normally grows an expan
 Large Carrots can be harvested in 12-18 weeks.
 
 ## Curing:
-<update>Store carrots in a cool, humid place for 2-3 weeks to improve flavour and texture.</update>
+Store carrots in a cool, humid place for 2-3 weeks to improve flavour and texture.
 
 ## Storage
-<update>Store carrots in the refrigerator crisper drawer for up to 4 months. Alternatively, they can be frozen or canned. Where refrigeration may not always be available, carrots can be stored in cool, dark places or processed into pickles for longer preservation.</update>
+Store carrots in the refrigerator crisper drawer for up to 4 months. Alternatively, they can be frozen or canned. Where refrigeration may not always be available, carrots can be stored in cool, dark places or processed into pickles for longer preservation.
 
 ## Protecting your plants
 ### Pest control
@@ -159,3 +159,9 @@ Large Carrots can be harvested in 12-18 weeks.
 - Cold temperatures: Use row covers
 - Short growing season: Choose fast-growing varieties
 - Steep terrain: Implement terracing and soil conservation practices
+
+#### Sources:
+https://doa.gov.lk/hordi-crop-carrot/
+https://herbidacious.calamus.graphics/2015/05/25/how-to-grow-carrots-for-beginners/
+https://www.epicgardening.com/growing-carrots/
+
