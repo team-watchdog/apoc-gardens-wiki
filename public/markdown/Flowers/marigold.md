@@ -1,13 +1,14 @@
+# Marigold
+![Marigold.jpg](../../assets/images/Marigold.jpg "By Ezhuttukari - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18415653")
+
 ## General Information
 **Generic name:** Marigold
 **Sri Lankan name:** Dahas Pethiya
-**Scientific name:** Tagetes spp.
-**Plant family:** Asteraceae
+**Scientific name:** _Tagetes spp._
+**Plant family:** _Asteraceae_
 **Edible parts:** N/A
-## Companion Plants
 
-Marigolds are an excellent general-purpose plant that can help many other plants:
-
+**Companion Plants:** Marigolds are an excellent general-purpose plant that can help many other plants:
 • Tomatoes: Marigolds repel pests that attack tomatoes and attract pollinators.
 • Cucumbers: Marigolds help deter pests that commonly affect cucumbers.
 • Squash: Marigolds attract pollinators and repel harmful insects that damage squash plants.
@@ -27,8 +28,7 @@ Marigolds are an excellent general-purpose plant that can help many other plants
 • Vinca: Both are drought-tolerant and provide continuous blooms throughout the season.
 • Petunias: Marigolds don't compete with petunias' high nutrient needs.
 
-## Non-Companion Plants for Marigolds
-
+**Non-Companion Plants:**
 • Beans: Marigolds can stunt the growth of bean plants.
 • Cabbage: Marigolds may interfere with the growth of cabbage plants.
 

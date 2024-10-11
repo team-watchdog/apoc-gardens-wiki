@@ -45,9 +45,6 @@ Lavender is a flowering, drought-tolerant perennial shrub in the mint family, ea
 | Pruning | Prune plants in early spring to encourage bushy growth |
 | Weed control | Keep the area around lavender plants weed-free |
 
-
-
-
 ## Harvesting:
 Lavender is a slow growing plant and will typically take until the next planting season to flower. Harvest flowering stems when first buds open.
 
@@ -57,6 +54,7 @@ Cut flowers on a dry day, tie them into small bunches, and hang upside down in a
 ## Storage
 Store dried lavender in an airtight container away from light and heat for up to 1 year. In Sri Lanka's humid environment, consider adding silica gel packets to prevent moisture absorption.
 
+## Protecting your plants
 ### Pest Control
 
 **Pest types:** 
@@ -99,8 +97,6 @@ Store dried lavender in an airtight container away from light and heat for up to
 4. Remove affected plants promptly to prevent spread.
 5. Apply neem oil, which has antifungal properties, for mild fungal infections.
 6. Use organic fungicides if necessary, following local regulations.
-
-
 
 
 ## Difficulty Rating

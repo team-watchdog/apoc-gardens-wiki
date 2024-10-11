@@ -8,8 +8,8 @@ class ProcessTitles {
      */
     static process(title) {
         title = title.toLowerCase();
-        title = title.replace("-", " ");
-        title = title.replace("_", " / ");
+        title = title.replaceAll("-", " ");
+        title = title.replaceAll("_", " / ");
         const titleArray = title.split(" ");
         for (let i = 0; i < titleArray.length; i++) {
             titleArray[i] = this.capitalizeFirstLetter(titleArray[i]);

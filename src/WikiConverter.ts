@@ -283,7 +283,7 @@ class WikiConverter {
 
 		// Remove ../.. from the src using regex
 		const srcRegex = /\.\.\//g;
-		const srcPath = this.serverPrefix + "/" + src.replace(srcRegex, "");
+		const srcPath = this.serverPrefix + src.replace(srcRegex, "");
 
 		const image = `<figure>
 					<img src="${srcPath}" alt="${alt}" title="${title}" />
@@ -409,7 +409,7 @@ class WikiConverter {
 			const [header, ...content] = section
 				.split("\n")
 				.filter((line) => line.trim() !== "");
-
+			// TODO: There's a compilation error here
 			const zone = header.replace("### ", "").split(" (")[0].trim();
 			const difficulty = parseInt(
 				header.match(/Difficulty: (\d+)\/10/)?.[1] || "0"
@@ -456,7 +456,7 @@ class WikiConverter {
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>${wikiContent.title}</title>
-		<link href="${this.serverPrefix}/styles/output.css" rel="stylesheet" />
+		<link href="${this.serverPrefix}styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
 		<link
@@ -596,7 +596,7 @@ class WikiConverter {
 				</div>
 			</div>
 		</article>
-		<script src="${this.serverPrefix}/scripts/index.js"></script>
+		<script src="${this.serverPrefix}scripts/index.js"></script>
 	</body>
 </html>
         `;

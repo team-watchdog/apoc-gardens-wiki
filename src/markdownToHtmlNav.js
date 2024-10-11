@@ -130,7 +130,6 @@ class MarkdownToHtmlNav {
         return this.prefixPath + htmlPath.replace(/\\/g, "/");
     }
     renderNavItem(item) {
-        var _a;
         if (item.type === "directory") {
             return `
         <div class="crop-category">
@@ -139,7 +138,9 @@ class MarkdownToHtmlNav {
             <i class="fa-solid fa-plus text-xs"></i>
           </button>
           <ul>
-            ${((_a = item.children) === null || _a === void 0 ? void 0 : _a.map((child) => this.renderNavItem(child)).join("")) || ""}
+            ${item.children
+                ?.map((child) => this.renderNavItem(child))
+                .join("") || ""}
           </ul>
         </div>
       `;

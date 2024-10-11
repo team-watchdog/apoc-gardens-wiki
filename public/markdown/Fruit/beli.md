@@ -23,7 +23,7 @@ The fruit typically has a diameter of between 5 and 10 cm (2 and 4 in). It is gl
 
 The fruit takes about 9-12 months to ripen on the tree. It can reach the size of a large grapefruit or pomelo, and some are even larger. The shell is hard and must be cracked open. The fibrous yellow pulp is very aromatic. 
 
-####Varieties: There are many local Beli species. At present, the local beli varieties are mainly known as elephant beli and medicine beli. There are many species of beli according to the characteristic differences in the size, color, shape of the fruit, the amount of seeds and the growth style of the tree. 
+Varieties: There are many local Beli species. At present, the local beli varieties are mainly known as elephant beli and medicine beli. There are many species of beli according to the characteristic differences in the size, color, shape of the fruit, the amount of seeds and the growth style of the tree. 
 
 ## Planting requirements
 **Planting season:** February to April

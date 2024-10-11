@@ -154,7 +154,6 @@ class WikiConverter {
      * @returns
      */
     extractSection(markdown, sectionName, sectionType) {
-        var _a;
         const sectionStart = markdown.indexOf(`${sectionType} ${sectionName}`);
         if (sectionStart === -1) {
             return null;
@@ -167,7 +166,7 @@ class WikiConverter {
             .slice(contentStart)
             .match(nextSectionRegex);
         const sectionEnd = nextSectionMatch
-            ? contentStart + ((_a = nextSectionMatch === null || nextSectionMatch === void 0 ? void 0 : nextSectionMatch.index) !== null && _a !== void 0 ? _a : markdown.length)
+            ? contentStart + (nextSectionMatch?.index ?? markdown.length)
             : markdown.length;
         const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
         return sectionContent;
@@ -194,7 +193,7 @@ class WikiConverter {
         const title = match[3];
         // Remove ../.. from the src using regex
         const srcRegex = /\.\.\//g;
-        const srcPath = this.serverPrefix + "/" + src.replace(srcRegex, "");
+        const srcPath = this.serverPrefix + src.replace(srcRegex, "");
         const image = `<figure>
 					<img src="${srcPath}" alt="${alt}" title="${title}" />
 					<figcaption>${title}</figcaption>
@@ -207,7 +206,6 @@ class WikiConverter {
      * @returns
      */
     extractAndSaveGeneralInformation(markdown) {
-        var _a;
         const sectionStart = markdown.indexOf("## General Information");
         if (sectionStart === -1) {
             return "";
@@ -218,7 +216,7 @@ class WikiConverter {
             .slice(contentStart)
             .match(nextSectionRegex);
         const sectionEnd = nextSectionMatch
-            ? contentStart + ((_a = nextSectionMatch === null || nextSectionMatch === void 0 ? void 0 : nextSectionMatch.index) !== null && _a !== void 0 ? _a : markdown.length)
+            ? contentStart + (nextSectionMatch?.index ?? markdown.length)
             : markdown.length;
         const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
         const companionPlantsRegex = /^\s*\*{0,2}Companion\s+plants\s*:?\*{0,2}/im;
@@ -259,7 +257,6 @@ class WikiConverter {
      * @returns
      */
     extractAndSaveDifficultyRating(markdown) {
-        var _a;
         const sectionStart = markdown.indexOf("## Difficulty Rating");
         if (sectionStart === -1) {
             return "";
@@ -270,7 +267,7 @@ class WikiConverter {
             .slice(contentStart)
             .match(nextSectionRegex);
         const sectionEnd = nextSectionMatch
-            ? contentStart + ((_a = nextSectionMatch === null || nextSectionMatch === void 0 ? void 0 : nextSectionMatch.index) !== null && _a !== void 0 ? _a : markdown.length)
+            ? contentStart + (nextSectionMatch?.index ?? markdown.length)
             : markdown.length;
         const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
         const difficultyRating = this.convertMarkdownToDifficultyRating(sectionContent);
@@ -285,12 +282,12 @@ class WikiConverter {
     convertMarkdownToDifficultyRating(markdown) {
         const sections = markdown.split(/(?=###)/);
         return sections.map((section) => {
-            var _a;
             const [header, ...content] = section
                 .split("\n")
                 .filter((line) => line.trim() !== "");
+            // TODO: There's a compilation error here
             const zone = header.replace("### ", "").split(" (")[0].trim();
-            const difficulty = parseInt(((_a = header.match(/Difficulty: (\d+)\/10/)) === null || _a === void 0 ? void 0 : _a[1]) || "0");
+            const difficulty = parseInt(header.match(/Difficulty: (\d+)\/10/)?.[1] || "0");
             const description = markdownHtmlConverter_1.default.convert(content.join("\n").trim());
             return {
                 zone,
@@ -325,7 +322,7 @@ class WikiConverter {
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>${wikiContent.title}</title>
-		<link href="${this.serverPrefix}/styles/output.css" rel="stylesheet" />
+		<link href="${this.serverPrefix}styles/output.css" rel="stylesheet" />
 
 		<!-- Font Awesome -->
 		<link
@@ -461,7 +458,7 @@ class WikiConverter {
 				</div>
 			</div>
 		</article>
-		<script src="${this.serverPrefix}/scripts/index.js"></script>
+		<script src="${this.serverPrefix}scripts/index.js"></script>
 	</body>
 </html>
         `;

@@ -48,7 +48,7 @@ As a food, Kekiri is versatile:
 ## Planting requirements
 - Kekiri grows from seed successfully in a tropical climate. The crop can be easily grown up to 1000 m above sea level.
 - The fruit in this species varies by cultivar in terms of shape, size, rind, texture, flavor, and flesh color.
-- 
+
 **Planting season:** Year round
 
 ### Planting conditions:
