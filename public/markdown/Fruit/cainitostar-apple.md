@@ -13,37 +13,37 @@
 **Non-companion plants** Not Applicable
 
 ## Description:
-Chrysophyllum cainito is a tropical tree of the family Sapotaceae. It is native to the Isthmus of Panama, where it was domesticated. It has spread to the Greater Antilles and the West Indies and is now grown throughout the tropics, including Southeast Asia. It grows rapidly and reaches 20 meters in height. There are two types found in Sri Lanka discernible by the colour of the fruit. One is purple while the other is green.
+Chrysophyllum cainito is a tropical tree of the family Sapotaceae. It is native to the Isthmus of Panama, where it was domesticated. It has spread to the Greater Antilles and the West Indies and is now grown throughout the tropics, including Southeast Asia. It grows rapidly and can reach a height range of 6 to 18 meters. There are two types found in Sri Lanka discernible by the colour of the fruit. One is purple while the other is green.
 
 ## Planting requirements
-**Planting season:** <update>February to April</update>
+**Planting season:** February to April
 
 ### Planting conditions:
 - Hot tropical climate
 
-| **Propagation** | Caimito may be propagated by seed, grafting, budding, and air-layering                   |
+| **Propagation** | While seeds can be used, most successful propagation occurs through cuttings or grafting                   |
 |-----------------|------------------------------------------------------------------------------------------|
 | Planting method | Direct seeding or budding. The seeds germinate easily and are viable for several months. Plant them about an inch deep in a small container kept outdoors. Once the seeds have established roots and are actively growing, you can transplant into the ground or a larger container.If you chose to start with a sapling, it can be planted straight in the ground. Dig a hole that's 3 times wider and deeper than the root ball. |
-| Soil            | well drained, loamy soil with pH between 6.0 to 7.5                                      |
-| Water           | Deep consistent watering                                                                 |
+| Soil            | well drained, loamy soil with pH between 6.0 to 7.5. However, some sources suggest a slightly lower pH range of 5.5 to 6.5 |
+| Water           | Consistent deep watering is emphasized, which is crucial for the tree's health.                                                                 |
 | Sunlight        | Full sun                                                                                 |
 
 ### Growing conditions:
 
-| Temperatures | 25-32 degrees celsius |
+| Temperatures | 25-32 degrees celsius. However, some sources indicate that the tree can tolerate temperatures as low as 22 degrees Celsius |
 |----|----|
 | Soil | Soil must be kept well drained |
 | Water | Deep consistent watering |
-| Pruning | Mature trees should be maintained at 2.4-3.7m by annual selective removal of poorly placed and upright limbs. |
+| Pruning | is necessary for keeping your chrysophyllum cainito at an ideal size. Because fruits don't fall off when ripe, maintain it at a height that you're able to harvest. Prune as needed every 1-3 years to keep it in shape. When the tree is mature, maintain a bush canopy, which will boost fruit production. |
 
 ## Harvesting:
-If grown from seed the Star Apple tree can produce fruit in about 4 years. But if you buy a sapling from a nursery that was grafted onto rootstock or propagated from a branch, it can grow fruit in as few as 1 to 2 years after planting. Pruning is necessary for keeping your chrysophyllum cainito at an ideal size. Because fruits don't fall off when ripe, maintain it at a height that you're able to harvest. Prune as needed every 1-3 years to keep it in shape. When the tree is mature, maintain a bush canopy, which will boost fruit production.
+If grown from seed the Star Apple tree can produce fruit in about 4 years. But if you buy a sapling from a nursery that was grafted onto rootstock or propagated from a branch, it can grow fruit in as few as 1 to 2 years after planting.  
 
 ## Curing:
 Star Apple does not require a curing stage.
 
 ## Storage
-Star apples are best eaten when fresh but but fruits can be stored in the refrigerator for up to two weeks.
+Star apples are best eaten when fresh but fruits can be stored in the refrigerator for up to two weeks.
 
 ## Protecting your plants
 ### Pest control
