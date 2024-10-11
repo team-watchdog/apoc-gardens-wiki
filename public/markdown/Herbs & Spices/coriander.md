@@ -55,11 +55,22 @@ The best way to harvest surplus plants is to pull them up or cut them. Harvest l
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Aphids, beet armyworm, slugs & snails, bolts
+**Pest type:** 
+- Aphids
 
-**Symptoms:** Aphids cause yellowing and curling of leaves. <update>Whiteflies and mealybugs cause stunted growth and honeydew secretion. Leaf miners create tunnels in leaves.</update>
+**Symptoms:** 
+- **Aphids:**
+  - Small, soft-bodied insects (usually green or yellow) are found on the underside of leaves and stems.
+  - Heavy aphid infestations can cause leaves to yellow and develop distorted or necrotic spots, as well as stunted shoots.
+  - Aphids secrete a sticky, sugary substance called honeydew, which promotes the growth of sooty mold on the plants.
 
-**Control method:** Encourage natural predators like ladybirds and hoverflies, pesticide sprays, and regular watering. <update>Use neem oil or garlic-chili spray for organic pest control. Regularly inspect plants and remove affected parts</update>
+**Control method:** 
+- **Aphids:**
+  - **Pruning**: If aphids are limited to a few leaves or shoots, prune them out to control the infestation.
+  - **Check Transplants**: Inspect transplants for aphids before planting.
+  - **Reflective Mulches**: Employ silver-colored plastic mulches to deter aphid feeding.
+  - **Water Spray**: Use a strong jet of water to dislodge aphids from sturdy plants.
+  - **Best Control Methods**: Use insecticidal soaps or oils (e.g., neem or canola oil) for effective treatment.
 
 ### Disease Control
 **Disease type:** 
