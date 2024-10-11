@@ -4,7 +4,7 @@
 ## General Information
 **Generic name:** Chinese Spinach, Amaranth
 **Sri Lankan names:** Thampala (Sinhala), Kuppaikkirai or Vakucakkirai (Tamil)
-**Scientific name:** _Amaranthus blitum_ (formally known as _Amaranthus lividus_)
+**Scientific name:** _Amaranthus viridis_ 
 **Plant family:** _Amaranthaceae_
 **Edible parts:** Leaves are eaten as a green vegetable, after cooking.
 **Nutrition value:** Leaves contain about 3.88% protein, 1.1% fat and 9.38% carbohydrates. They are very rich in vitamins A, C, and vitamin B1.
@@ -26,9 +26,9 @@ Slender Amaranth is an erect or spreading herb that grows up to 80 cm tall. The 
 ### Planting conditions:
 | Propagation | Plants can be grown from seed. |
 |----|----|
-| Planting method | This can be grown in wide rows. Sow seeds 1/4 inch deep leaving 6 inches of space between plants (15cm) apart. Cover seeds with a half inch of sifted compost to keep the soil from crusting. |
-| Soil | It will grow well in average soil and will even grow adequately in poor soils. Only dense clay mixtures are likely to be completely unsuitable for amaranth while very rich soils might hinder flowering and seed production. |
-| Water | Requires well-drained soil. Keep the soil evenly moist while providing a steady supply of moisture to produce the best quality leaves. |
+| Planting method | This can be grown in wide rows. Sow seeds 1/4 inch deep leaving 6 inches of space between plants (15cm) apart. Cover seeds with a half inch of sifted compost to keep the soil from crusting |
+| Soil | It will grow well in average soil and will even grow adequately in poor soils. Only dense clay mixtures are likely to be completely unsuitable for amaranth while very rich soils might hinder flowering and seed production |
+| Water | Requires well-drained soil. While slender amaranth is drought-tolerant, consistent moisture is essential during the early growth stages. Irrigation may be necessary during dry spells |
 | Light | Requires full sun for 6 or more hours |
 
 ### Growing conditions:
@@ -96,6 +96,11 @@ Store in a damp cloth or plastic bag in the refrigerator for up to several days.
 - Use row covers during cooler periods.
 
 ## References for this entry
-### Content Sources:
+### Content:
+https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.4653
+https://www.researchgate.net/publication/284280436_Nutritive_quality_of_Thampala_Amaranthus_spp_as_a_forage_crop_in_Sri_Lanka
+https://link.springer.com/article/10.1007/s44279-024-00057-8
+https://www.ecofriendlyhomestead.com/sustainable-garden/learn/how-to-grow-amaranth-a-key-plant-for-climate-change-food-security
+https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amaranthus-viridis
 
 ### Image Sources: (In order of appearance)
