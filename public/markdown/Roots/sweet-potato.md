@@ -8,109 +8,122 @@
 **Plant family:** _Convolvulaceae_
 **Edible parts:** tuberous root, shoots and young leaves
 **Nutritional value:**
-* Vitamins and minerals  - Vitamin A, Vitamin C, Vitamin B6, potassium, manganese
-* Rich in fibre
-**Companion plants:**
-- Okra
-- Beetroot
-- Capsicum
-- Onions
+- Vitamins and minerals  - Vitamin A, Vitamin C, B Vitamins, potassium, manganese
+- Rich in fiber and on average contains 112 calories per sweet potato
+
+### Companion Plants
+- **Onions & chives**: Deter Colorado potato beetles with their pungent aroma.
+- **Spinach & lettuce**: Act as ground cover, suppress weeds, and improve soil quality.
+- **Beets & radishes**: Break up soil without interfering with tuber growth
+- **Marigolds**: Repel pests like nematodes and potato beetles.
+- **Corn & banana trees**: Provide needed shade for sweet potatoes in hot climates.
+
+### Non-Companion Plants
+- **Squash (Summer & Winter)**: Competes for nutrients and space with sweet potatoes. 
+- **Sunflowers**: Can cause potato blight and take up too much root space.
+- **Tomatoes**: Share diseases with sweet potatoes, particularly potato blight.
+- **Bush Beans**: Compete for space and nutrients, unlike pole beans.
 
 ## Description:
 Sweet potatoes are distinct from regular potatoes and yams. They belong to the Convolvulaceae family, which includes morning glories. The sweet potato's starchy tuberous roots are used as a root vegetable and have a sweet taste.
 
-Sweet potatoes come in a variety of types with different shapes, colours, and textures. They can be white, cream, yellow, reddish-purple, or deep purple. The most significant part of the sweet potato plant is the tuber, a large root that grows underground and is used as a food source. The leaves of the sweet potato plant vary in appearance, some being divided like fingers while others are whole. These leaves are edible and can be cooked like spinach. The plant also produces trumpet-shaped flowers in a range of purple and white hues.
+Sweet potatoes come in a variety of types with different shapes, colors, and textures. They can be white, cream, yellow, reddish-purple, or deep purple. The most significant part of the sweet potato plant is the tuber, a large root that grows underground and is used as a food source. The leaves of the sweet potato plant vary in appearance, some being divided like fingers while others are whole. These leaves are edible and can be cooked like spinach. The plant also produces trumpet-shaped flowers in a range of purple and white hues.
 
 However, it is crucial to be aware that the green fruits that develop from the flowers of sweet potato plants are not edible.
 
-> Tip
->
-> For more information on locally available sweet potato varieties, check <https://doa.gov.lk/hordi-variety-sweet-potato/>
-
 ## Planting requirements
+**Planting season:** This plant can grow with a wide range of rainfall patterns and in different soils
 
-**Planting season:** <update>Sweet potatoes prefer warm climates and should be planted between February to April in Sri Lanka.</update>
-
-## **Planting conditions**
-
-The sweet potato plant can adapt to diverse rainfall patterns and soil types. However, it is susceptible to cold temperatures and excessive water in the root zone, which can be fatal to the crop.
-
-| Propagation        | Plant cuttings - recommended. Plant within 4 days of cutting.\nSmall slips that sprouts directly from a sweet potato can also be planted.\nFresh sweet potato seeds also germinate relatively easily but are harder to find.                                                                                                                                                                                   |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Planting method    | Plant cuttings - recommended. Plant within 4 days of cutting.\nSmall slips that sprouts directly from a sweet potato can also be planted.\nFresh sweet potato seeds also germinate relatively easily but are harder to find.                                                                                                                                                                                   |
-| Soil               | Sandy/ loam soil with good drainage is suitable.\nIf your soil is clay, rocky, or compacted, it is recommended to consider growing plants in raised beds.\nFocus on developing fertile, well-draining soil for optimal root growth.                                                                                                                                                                            |
-| Water              | Keep soil evenly moist. At the crop initial growth stage water supply is important                                                                                                                                                                                                                                                                                                                             |
-| Light              | Requires full sunlight for optimal growth. Plant in an area that receives abundant sunlight.\nUnder shaded conditions, both leaf and root production decrease, and the plant tends to climb to seek sunlight. \nThis results in larger but fewer leaves, and fewer tubers are produced in shady conditions. \nHeavy shade is not tolerated well by the plant, although some varieties may tolerate mild shade. |
-| Fertiliser / Mulch | Enhance soil quality with compost and coconut coir\nAvoid animal/bird manure and heavy nitrogen fertilisers                                                                                                                                                                                                                                                                                                    |
+## Planting conditions
+| Propagation | Plant cuttings |
+|----|----|
+| Planting method | Plant within 4 days of cutting. Small slips that sprout directly from a sweet potato can also be planted. Fresh sweet potato seeds also germinate relatively easily but are harder to find. |
+| Soil | Sandy/ loam soil with good drainage is suitable your soil is clay, rocky, or compacted, it is recommended to consider growing plants in raised beds. Focus on developing fertile, well-draining soil for optimal root growth. |
+| Water | Keep soil evenly moist. At the crop's initial growth stage water supply is important |
+| Light | Requires full sunlight for optimal growth. Plant in an area that receives abundant sunlight. Under shaded conditions, both leaf and root production decrease, and the plant tends to climb to seek sunlight. This results in larger but fewer leaves and fewer tubers are produced in shady conditions. Heavy shade is not tolerated well by the plant, although some varieties may tolerate mild shade. |
+| Fertiliser / Mulch | Enhance soil quality with compost and coconut coir. Avoid animal/bird manure and heavy nitrogen fertilizers |
 
 ## Growing conditions
-
-| Temperatures | This plant grows well with temperatures between <update>21 to 26°C</update> |
+| Temperatures | This plant grows well with temperatures between 21-26°C |
 |----|----|
-| Soil | pH between <update>5.2 to 6.8</update> |
-| Water | Excess water reduces tuber production. <update>The equivalent of one inch of water weekly is sufficient. Apply to roots.</update> |
-| Pruning | Prune plants regularly to maintain their desired size and shape. <update>When plants are pinched or trimmed, it promotes new growth.</update> |
-| Weed control | It is important to remove weeds at early stage of the crop, to reduce plant competition |
+| Soil | pH between 5.2 to 6.8 |
+| Water | Excess water reduces tuber production. The equivalent of one inch of water weekly is sufficient. Apply to roots. |
+| Pruning | Prune plants regularly to maintain their desired size and shape. When plants are pinched or trimmed, it promotes new growth. |
+| Weed control | It is important to remove weeds at an early stage of the crop, to reduce plant competition |
 
 ## Harvesting
+The time to maturity ranges from 4 to 12 months depending on the variety planted and the altitude at which it is being grown. Discard any tubers damaged by insects, pests, or disease.
 
-The time to maturity ranges from <update>4 to 12 months</update> depending on the variety planted and the altitude at which it is being grown. Discard any tubers damaged by insects, pests or disease.
-
-> Tip
-> 
-> Sweet potatoes must be cured after harvest and before they are stored. <update>Curing helps to enhance sweetness and reduces moisture content in the roots.</update>
-
-* Handle sweet potatoes with care to prevent bruising or breaking their delicate skin.
-* Use a garden fork to lift the soil outside the root area and avoid damaging the tender roots.
-* Place harvested sweet potatoes carefully into a carrying container, instead of tossing them. <update>Use either hands or a garden fork to harvest sweet potatoes from the ground.</update>
-* Avoid washing freshly dug sweet potato roots and handle them minimally.
+- Handle sweet potatoes with care to prevent bruising or breaking their delicate skin.
+- Use a garden fork to lift the soil outside the root area and avoid damaging the tender roots.
+- Place harvested sweet potatoes carefully into a carrying container, instead of tossing them. <update>Use either hands or a garden fork to harvest sweet potatoes from the ground.</update>
+- Avoid washing freshly dug sweet potato roots and handle them minimally.
 
 ## Curing
-Cure the sweet potatoes by leaving them in a shaded area with high humidity for <update>7 to 14 days</update>.
+Cure the sweet potatoes by leaving them in a shaded area with high humidity for 7 to 14 days.
 
 ## Storage
 Store the cured sweet potatoes in well-ventilated crates or boxes in a cool, dark, and dry place with low humidity. <update>Ideal storage temperature is between 50 to 60°F (10 to 15°C).</update>
 Optionally, sweet potatoes can be frozen after the curing process by peeling, cutting, and boiling them until fork tender.
 
 ## Protecting your plants
-
 ### Pest control
+**Pest type:**
+- Sweet Potato Weevil (_Cylas formicarius_)
 
-#### Sweet potato weevil (_Cylas formicarius_)
-**Symptoms:** <update>Sweet potato weevil infestation can cause the vines to turn yellow, but it may not be noticeable until a heavy infestation occurs. The damage caused by these weevils is primarily seen in the tubers, where their larvae create tunnels, resulting in cavities, a spongy texture, and a dark appearance.</update>
+**Symptoms:**
+- **Sweet Potato Weevil:** Sweet potato weevil infestation can cause the vines to turn yellow, but it may not be noticeable until a heavy infestation occurs. The damage caused by these weevils is primarily seen in the tubers, where their larvae create tunnels, resulting in cavities, a spongy texture, and a dark appearance.
 
-**Control method:** <update>It is important to ensure that the slips or cuttings used for planting sweet potatoes are free of weevils. Proper sanitation practices, such as removing discarded and unharvested tubers and controlling Ipomoea weeds, are crucial for managing the weevil population. Maintaining moist soil through irrigation helps deter weevils and promotes the development of fungal diseases that can impact the weevil population. Cracking soils can allow the weevil access to tubers.</update>
+**Control method:** 
+- **Sweet Potato Weevil:**
+  - It is important to ensure that the slips or cuttings used for planting sweet potatoes are free of weevils.
+  - Proper sanitation practices, such as removing discarded and unharvested tubers and controlling Ipomoea weeds, are crucial for managing the weevil population.
+  - Maintaining moist soil through irrigation helps deter weevils and promotes the development of fungal diseases that can impact the weevil population. Cracking soils can allow the weevil access to tubers.
 
-### Disease Control**
+### Disease Control
+** Disease type: **
+- Leaf scab (_Elsinoe batatas_) (Fungus)
+- Collar rot (_Phytophthora_) / Root rot (Fungus)
 
-#### Leaf scab (_Elsinoe batatas_) (Fungus)
-**Symptoms:** <update>The young leaves of plants can get infected with this fungus. The infection runs along the veins of the leaves, leaf stalks, and even on stems. As the leaves continue to grow, the fungus can make it difficult for the veins to expand properly. This can cause the leaves to twist, curl, and even tear. On older leaves, small spots between the veins will appear and the leaves might twist in a way that exposes their undersides. In rare cases, the tips of the shoots can even be damaged.</update>
+**Symptoms:**
+- **Leaf scab:**
+  - Young leaves can become infected with fungus.  
+  - The infection spreads along the veins of leaves, leaf stalks, and stems.  
+  - As leaves grow, the fungus may hinder proper vein expansion.  
+  - Affected leaves may twist, curl, or tear.  
+  - On older leaves, small spots can develop between the veins, causing twisting that exposes the undersides. 
+  - In rare cases, the tips of the shoots may also be damaged.
+ 
+- **Collar rot:**
+  - When plants are affected by collar rot or root rot, their leaves will start turning yellow, and eventually, the vines will wilt. The roots may also show signs of rotting.
 
-**Management:** <update>Sometimes, the fungus can survive in old plant debris, but this is usually not a big problem unless crops are planted in the same spot over and over again. The main way the fungus spreads is through infected vines used for planting.</update>
+**Management:**
+- **Leaf scab:**
+  - **Avoid Repeated Planting**: Minimize planting crops in the same location to reduce the chance of fungus survival in old plant debris.
+  - **Use Healthy Vines**: Always select disease-free vines for planting to prevent the spread of the fungus.
+  - **Monitor and Remove Infected Plants**: Regularly check for signs of infection and promptly remove any affected plants to limit spread.
+  - **Practice Crop Rotation**: Rotate crops to break the life cycle of the fungus and reduce its prevalence in the soil.
+    
+- **Collar rot:**
+  - **Remove Infected Plants and Soil**: Regularly remove affected plants and the surrounding soil to minimize the spread of the fungus.
+  - **Monitor Crops**: Stay vigilant and regularly check sweet potato plants for signs of disease to take prompt action if needed.
+  - **Prevent Wounding During Harvest**: Handle plants carefully during harvesting to avoid injuries that can facilitate disease entry.
+  - **Practice Proper Curing**: Ensure that sweet potatoes are cured properly to enhance their resistance to diseases.
+  - **Implement Good Sanitation Practices**: Maintain cleanliness in the growing area to prevent disease spread and support healthy crops.
 
-> Tip
-> 
-> It is important to be careful and avoid using vines that have the fungus to prevent the spread of the disease.
-
-#### Collar rot (_Phytophthora_) / Root rot (Fungus)
-**Symptoms:** <update>When plants are affected by collar rot or root rot, their leaves will start turning yellow, and eventually, the vines will wilt. The roots may also show signs of rotting.</update>
-
-**Management:** <update>To manage this disease, it is important to remove the affected plants from the field along with the soil.</update> This helps to minimise the spread of the fungus. <update>By removing the diseased plants and soil, we can reduce the chances of the disease spreading to healthy plants.
-
-Remember to be vigilant and take necessary steps to prevent the spread of diseases in sweet potato plants. Regular monitoring and prompt action can help maintain healthy crops and ensure a good yield. <update>Avoiding wounding during harvest, proper curing, and good sanitation practices are best for controlling this disease.</update>
-
-Certainly, here's the complete difficulty rating for sweet potato cultivation in Sri Lanka, presented in markdown format:
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
-**Explanation:** Sweet potatoes can grow well in the warm climate of the low country wet zone, but excess moisture can be a challenge.
+### Low country wet zone (Difficulty: 4/10)
+**Explanation:** Sweet potatoes can grow well in the warm climate of the low country wet zone
+
 **Challenges/Adaptations:**
 - Requires well-draining soil to prevent waterlogging
 - May need raised beds in areas with heavy clay soil
 - Vigilance needed for pest control, especially sweet potato weevil
 
-### Low country dry zone (Difficulty: 4/10)
-**Explanation:** The warm, drier climate of the low country dry zone is generally suitable for sweet potato cultivation.
+### Low country dry zone (Difficulty: 5/10)
+**Explanation:** The warm, drier climate of the low country dry zone is generally suitable for sweet potato cultivation. But requires good irrigation.
+
 **Challenges/Adaptations:**
 - Requires regular irrigation, especially during dry spells
 - Mulching may be necessary to retain soil moisture
