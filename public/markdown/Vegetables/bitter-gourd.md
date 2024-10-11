@@ -19,38 +19,36 @@
 **Non-companion plants:** Herbs
 
 ## Description:
-A vining plant that grows much like cucumbers or melons in the hot summer sun. The vines of bitter gourd can grow upto 150 to 190 inches in length. Hence, it’s recommended to keep pruning the plant regularly and use a vertical support to save on space. The leaves of bitter gourds are prominently lobbed while the skin of the bitter gourds fruits are warty and highly ribbed. Under the skin, the flesh of bitter gourds is creamy white and firm.
+The vines of bitter gourd can grow upto 150 to 190 inches in length. Hence, it’s recommended to keep pruning the plant regularly and use a vertical support to save on space. The leaves are prominently lobbed while the skin of the fruit is warty and highly ribbed. Under the skin, the flesh is creamy white and firm. There are five available varieties known as MC 43, Thinneweli white, Mathale green, Neerogi and MG.
 
 ## Planting requirements
-**Planting season:** Year round cultivation can be allowed for suitable areas
-**Maha season:** October to November
-**Yala season:** April, May
+**Planting season:** Year round cultivation can be allowed for suitable areas. Reccomended seasons are April to May and October to November.
 
 ### Planting conditions:
 - Can be successfully cultivated up to above 1200m of the sea level.
 
-| Propagation | Seeds |
+| Propagation | Nursery can be prepared with seeds directly placed in sand trays or beds |
 |----|----|
-| Planting Method | 6 kg of seeds required per 1 hectare. Nursery can be prepared with seeds directly placed in sand trays or beds. Plough the soil to 30 cm in depth and build small soil hills filled with compost and surface soil. Plant 3 seeds per hill at 2-3 cm depth for direct seeding. Plants can be transferred from nursery to field directly within 10 days. If more time is required, plants can be transferred to pots for another two weeks. |
-| Soil | Well drained soil with more compost content and pH range from 5’5 – 7’5 is suitable. |
+| Planting Method | Plough the soil to 30 cm in depth and build small soil hills filled with compost and surface soil. Plant 3 seeds per hill at 2-3 cm depth for direct seeding. Plants can be transferred from nursery to field directly within 10 days. Keep a spacing of 1.5m x 1m between plants. If more time is required, plants can be transferred to pots for another two weeks |
+| Soil | Well-drained with pH 5.5-7.5, rich in compost |
 | Water | Good supply of water needed |
 | Light | Minimum of 6 to 8 hours of sunlight per day |
 
 ### Growing conditions:
 
-| Temperatures | Optimal temperatures are in the range of 24–27C Bitter gourds can tolerate temperatures up to 35°C but growth may be reduced. |
+| Temperatures | Optimal 24-27°C, tolerates up to 35°C |
 |----|----|
-| Soil | Verticle trellising recommended to save space. Three weeks after planting the vines can be trained along a mesh or stakes. Trellis should be spaced at 1.5 m x 1 m. Lateral branches at lower parts of the plants can be pruned.|
-| Water | Bitter Gourd likes a lot of water and humidity. The soil needs to be kept moist throughout the growing season, checking it more often in hot weather. Water whenever the surface soil dries out. Sufficient soil water content needs to be maintained throughout. Water lodging will damage the plants. It is suitable to use soil cover to protect soil moisture during dry periods. |
+| Soil | Verticle trellising recommended after three weeks. Trellis should be spaced at 1.5 m x 1 m. Lateral branches at lower parts of the plants can be pruned |
+| Water | Consistent moisture, avoid waterlogging. It is suitable to use soil cover to protect soil moisture during dry periods |
 
 ## Harvesting:
-Bitter gourds will start fruiting within 55 to 60 days after sowing. Start harvesting bitter gourds once they are 4-5 inches in length and are of dark green colour. If the fruits are left to ripen on the vine longer than this, they will start changing colour to pale orange and become unpalatable. Snip bitter gourd fruits every 2-3 days with a sharp knife to promote new fruiting through the season.
+Start 55-60 days after sowing when fruits are 4-5 inches long and dark green. Harvest every 2-3 days to promote new fruiting. If the fruits are left to ripen on the vine longer than this, they will start changing colour to pale orange and become unpalatable. 
 
 ## Curing:
 Bitter Gourd does not require a curing process.
 
 ## Storage
-Bitter gourds can be stored in the refrigerator for up to 2 weeks. Wrap them in a plastic bag and store in the crisper drawer.
+Refrigerate for up to 2 weeks in a plastic bag in the crisper drawer.
 
 ## Protecting your plants
 ### Pest control
