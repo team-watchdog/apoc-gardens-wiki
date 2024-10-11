@@ -1,5 +1,5 @@
 # Snake Gourd
-![Snake Gourd.jpeg](../../assets/images/Snake Gourd.jpeg "Image - Manojk, Wikimedia Commons")
+![Snake-Gourd.jpeg](../../assets/images/Snake-Gourd.jpeg "Image - Manojk, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Snake Gourd, Serpent Gourd
@@ -16,10 +16,12 @@
 - Dill
 - French marigolds
 **Non-companion plants:**
-- N/A
+Not applicable
 
 ## Description:
-The snake gourd belongs to the pumpkin family and is a climbing plant with tendrils. It can grow up to 6 meters tall and spread 1.5 to 3 meters wide. The vine's stem features furrows, and its leaves have 3 to 7 lobes with a toothed margin. The flowers are white, and the female blooms grow individually on long stalks. Its fruits are typically curved, reaching lengths of 1 to 2 meters. When young, the fruits are grey and green, turning orange or red as they mature.
+The snake gourd, a member of the pumpkin family, is a climbing plant that uses tendrils for support. It can grow up to 6 meters in height and spread between 1.5 to 3 meters wide. The vine’s stem is furrowed, and its broad leaves are divided into 3 to 7 lobes with toothed edges. The plant produces white flowers, with female blossoms growing singly on long stalks. Its distinctive fruits are typically curved and can reach lengths of 1 to 2 meters. When young, the fruits are greyish-green but turn orange or red as they mature.
+
+Snake gourds thrive at elevations up to 500 meters and are commonly found in regions such as Mathale, Kandy, Hambantota, Kurunegala, and Ratnapura.
 
 ## Planting requirements
 **Planting season:** In the dry zone snake gourd is cultivated in the Yala season, while in the wet zone, the crop is cultivated throughout the year.
@@ -35,43 +37,64 @@ The snake gourd belongs to the pumpkin family and is a climbing plant with tendr
 ### Growing conditions:
 | **Temperatures** | High temperature is preferred. Warm-season crop and its ideal temperature range is between 80°F and 95°F (27°C to 35°C) |
 |----|----|
-| Soil | It is recommended to train each vine along a 2m height trellis. Remove side branches.<update>Apply organic fertilizer such as compost or manure at the rate of 5-10 kg per plant, 4 and 8 weeks after the emergence of seedlings.</update> |
-| Water | Water regularly, and avoid letting the soil become dry or waterlogged, killing the plants. Add mulch to the plants' base to retain soil moisture |
+| Soil | It is recommended to train each vine along a 2m height trellis. Remove side branches.|
+| Water | Water regularly, and avoid letting the soil become dry or waterlogged, killing the plants. |
+| Mulching | Add mulch to the plants' base to retain soil moisture |
 
 ## Harvesting:
 Harvest the crop 60-75 days after planting with a 4-day interval.
 
 ## Curing:
-Snake Gourd does not require a curing stage
+Snake Gourd does not require a curing stage.
 
 ## Storage
-<update>Store in a cool place away from direct sunlight and heat sources. The fruit can be stored for up to two weeks at room temperature or up to six months if refrigerated. For long-term storage, consider freezing the fruits after blanching.</update>
+Snake gourd should be stored at 12-13°C with 85-90% humidity to extend its shelf life up to 2-3 weeks. Avoid temperatures below 10°C to prevent chilling damage. Keep the fruits away from ethylene-producing fruits like bananas and apples, and remove any damaged or deformed fruits.
 
 ## Protecting your plants
 ### Pest control
 **Pest type:**
-- Fungal diseases: Powdery mildew, Downy mildew, Collar rot/Root rot, Gummy Stem Blight
-- Bacterial diseases: Bacterial wilt
-- Viral diseases: Leaf Curl Virus, Papaya Ring Spot Virus, Cucumber Mosaic Virus, Zucchini Yellow Mosaic Virus
-- Pytoplasma Disease: Phytoplasma disease of cucurbits
+- Whitefly (_Bemisia tabaci_)
+- Aphids
 
-**Symptoms:** Varies depending on the pest/disease. Common symptoms include yellowing leaves, wilting, spots or lesions on leaves and fruits, and abnormal growth.
+**Symptoms:**
+- **Whitefly:** Transmits Leaf Curl Virus (LCV). Symptoms include upward curling, shortening, and distortion of leaves. Plants become stunted and fruits deformed.
+- **Aphids:** Transmit Papaya Ring Spot Virus (PRSV). Symptoms include mosaic and mottling of leaves, leaf distortion, malformation of fruits, reduction in fruit size, and in severe infections, oily patches on the fruit surface.
 
 **Control method:**
-- Distraction of infected plant debris
-- Destroy infected plants with soil
-- Improve drainage
-- Crop debris should be ploughed deeply immediately after harvest to reduce fungus survival
-- Crop rotation with non-susceptible crops (okra , maize)
-- Mixed cropping with cruciferae crops
+- Remove infected plants
+- Implement crop rotation with non-susceptible crops (okra, maize)
+- Practice mixed cropping with Cruciferae crops
 - Avoid movement of equipment from infected fields to non-infected fields
-
-Powdery mildew is sometimes a problem. This can be treated with a combination of 1 T baking soda, 1 tsp Neem oil, and 1 tsp liquid soap (not detergent) in one gallon of water.<update>Alternatively, use a fungicide containing triadimefon or triflumizole.</update>
-
-Control weeds at the early stages of the crop
+- Use recommended insecticides to control vectors (whiteflies and aphids) if needed.
 
 ### Disease Control
-N/A
+**Disease type:**
+- Fungal diseases: Powdery mildew, Downy mildew, Collar rot/Root rot, Gummy Stem Blight
+- Bacterial diseases: Bacterial wilt
+- Viral diseases: Leaf Curl Virus (LCV), Papaya Ring Spot Virus (PRSV), Cucumber Mosaic Virus (CMV), Zucchini Yellow Mosaic Virus (ZYMV)
+- Phytoplasma disease
+
+**Symptoms:**
+- **Powdery mildew:** Pale yellow spots on older leaves, the white fluffy mycelium grows over leaf surfaces, severely attacked leaves become brown and shriveled, and defoliation may occur.
+- **Downy mildew:** Angular yellow spots are limited by leaf veins on the upper leaf surface, and leaves become chlorotic and necrotic.
+- **Collar rot/Root rot:** Temporary wilting, yellowing leaves, drooping, plant death, and vascular bundles in the collar region becoming yellow or brown.
+- **Gummy Stem Blight:** Water-soaked areas on leaves and fruit, light brown irregular lesions, dark cracked sunken lesions on fruit, plant collapse, gummy exudates from stem cracks.
+- **Bacterial wilt:** Sudden drooping of leaves, whole plant wilting, leaves become brown and dry, vascular discoloration (brown), permanent wilting.
+- **CMV:** Green mottle, leaf deformation, green spots on fruits turning bright yellow, fruit malformation and decay.
+- **ZYMV:** Stunting, yellowing, necrosis, mosaic, leaf deformations (blisters, shoe stringing), fruit discolorations and deformations.
+- **Phytoplasma disease:** Smaller, thickened, and yellowish green leaves, shortened internodes, plant stunting, witch's broom symptom, greening of flowers.
+
+**Management:**
+- Destroy infected plants with soil
+- Improve drainage
+- Plough crop debris deeply immediately after harvest
+- Implement crop rotation with non-susceptible crops
+- Practice mixed cropping with Cruciferae crops
+- Avoid movement of equipment from infected fields to non-infected fields
+- Control vectors using recommended insecticides
+- Remove infected plants
+- For viral diseases, control insect vectors and remove infected plants promptly
+- Use recommended fungicides at the initial stages of disease development
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
@@ -89,21 +112,16 @@ N/A
 - Ensure consistent moisture throughout the growing season.
 
 ### Mid country (Difficulty: 7/10)
-**Explanation:** In the mid country, snake gourd faces challenges due to varying temperature and rainfall patterns.
+**Explanation:** In the midcountry, snake gourd faces challenges due to varying temperature and rainfall patterns.
 
 **Challenges/Adaptations:**
 - Temperature fluctuations can affect fruit set. Provide protection during cold nights if necessary.
 - Monitor plants for signs of disease, as high humidity can encourage fungal growth.
 
 ### Up country (Difficulty: 8/10)
-**Explanation:** In the up country, snake gourd is more challenging to grow due to cooler temperatures and potential frost.
+**Explanation:** In the upcountry, snake gourd is more challenging to grow due to cooler temperatures and potential frost.
 
 **Challenges/Adaptations:**
 - Cooler temperatures can slow plant growth. Provide additional warmth with row covers or plastic mulch if possible.
-- Protect plants from frost using row covers or other protective measures.
+- Protect plants from potential frost using row covers or other protective measures.
 - Ensure consistent moisture throughout the growing season.
-
-## References for this entry
-### Content Sources:
-- <https://www.gardeningknowhow.com/edible/vegetables/snake-gourd/growing-snake-gourds.htm>
-- <https://www.hort.purdue.edu/newcrop/Cucurbitaceae/Trichosanthes_cucumerina.html>
