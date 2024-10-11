@@ -93,6 +93,13 @@ Star apples are best eaten when fresh but fruits can be stored in the refrigerat
 - Grow in a protected location with warmer microclimate or use row covers during cold periods. Consider using heat-trapping techniques like mulching or plastic covers.
 
 ## References for this entry
-### Content Sources:
+### Sources:
+https://www.epicgardening.com/star-apple/
+https://www.srilankabusiness.com/fruits-and-vegetables/tropical-fruits-from-sri-lanka.html
+https://www.youtube.com/watch?v=sKpxt6JaY-8
+https://specialtyproduce.com/produce/Star_Apples_8430.php
+https://perenual.com/plant-species-database-search-finder/species/1877
+https://doa.gov.lk/fruit-crops-caimito-star-apple-s/
+
 
 ### Image Sources: (In order of appearance)
