@@ -10,25 +10,34 @@
 **Nutrition value:** Banana peppers are excellent sources of Vitamin C, Vitamin A, Vitamin B6, Vitamin K, Potassium, Calcium and Folate. 
 
 ## Companion plants:
-- Pepper plants make good neighbours for asparagus, basil, carrots, cucumbers, eggplant, endive, oregano, parsley, rosemary, squash, Swiss chard, and tomatoes
+- Asparagus 
+- Basil
+- Carrots
+- Cucumbers
+- Eggplant
+- Oregano
+- Parsley
+- Rosemary
+- Squash
+- Swiss chard
+- Tomatoes
 
 **Non-companion plants:**
-- Avoid planting next to beans, brassicas, and fennel
+- Beans
+- Brassicas
+- Fennel
 
 ## Description:
-The banana pepper is a medium-sized member of the chili pepper family that has a mild, tangy taste. While typically bright yellow, it is possible for them to change to green, red, or orange as they ripen. It is often pickled, stuffed or used as a raw ingredient in foods. It is a cultivar of the species Capsicum annuum.
+Capsicum is a medium-sized member of the chili pepper family that has a mild, tangy taste. They typically change color from green to yellow, red, or orange as they ripen. Their culinary uses include pickling and stuffing.
 
 ## Planting requirements
 **Planting season:** 
-- Yala season – April and May
-- Maha season – November and December
-
-It can be cultivated throughout the year under supplementary irrigation and also under rain shelters or greenhouses.
+Recommended seasons are April to May and November to December. However, it can be cultivated throughout the year under supplementary irrigation and also under rain shelters or greenhouses.
 
 ### Planting conditions:
 | **Propagation** | Direct seeding or transplanting                                                           |
 |----|----|
-| Planting method | Direct seeding or transplanting. Seeds germinate in 8-10 days. Seedlings are ready to plant in 21 days |
+| Planting method | Seeds germinate in 8-10 days. Seedlings are ready to plant in 21 days |
 | Soil | Grows well in well drained, deep and fertile loam soils. Sandy soils also good when required amount of organic matter added. pH value between 5.5 -6.8 is preferred. |
 | Water | Irrigation to be practiced in 4-5 day intervals at early stages and 1 week interval at latter stages of the crop. This depends on the rainfall. Irrigation is required before and after fertilizer application, and during flowering and fruit development stages. Water regularly, especially during fruiting. |
 | Light | Requires plenty of sunlight like other peppers |
@@ -41,25 +50,49 @@ It can be cultivated throughout the year under supplementary irrigation and also
 | Water | Irrigation to be practiced in 4-5 day intervals at early stages and 1 week interval at latter stages of the crop. This depends on the rainfall. Irrigation is required before and after fertilizer application, and during flowering and fruit development stages. |
 
 ## Harvesting:
-First harvesting can be done 75 days after nursery sowing and at 5-7 day intervals. Thereafter in 7-10 picks during the crop growth. Practice harvesting in dry weather conditions.
+First harvesting can be done 75 days after nursery sowing and at 5-7 day intervals. Practice harvesting in dry weather conditions.
 
 ## Curing:
-Banana Pepper does not require a curing stage
+Capsicum does not require a curing stage.
 
 ## Storage
-Banan peppers should be kept in a cool environment. Properly stored in the fridge, they last about one week.
+Capsicum should be kept in a cool environment. Properly stored in the fridge, they last about one week.
 
 ## Protecting your plants
 ### Pest control
 **Pest type:** 
-- leaf beetles
+- Leaf beetles
 - Caterpillars
 - White flies
 
 **Symptoms:** 
-- **White flies:** Acts as vectors carrying 'leaf curl virus disease'
+- **Leaf beetles:** 
+Feeding Damage: Adult leaf beetles create small, irregular holes in the leaves, leading to a ragged appearance. Heavy infestations can result in wilting or stunted growth of the plants125.
+Fecal Matter: Infested leaves often have dark feces left by the beetles, indicating their presence
 
-**Control method:** A wind barrier such as maize is recommended as a preventative action. Growing aromatic companion herbs can also serve as pest repellents.
+- **Caterpillars:**
+Leaf Damage: Caterpillars typically feed on the foliage, causing significant defoliation. They may also create holes in the leaves or consume entire leaves, leading to reduced photosynthesis and overall plant health34.
+Presence of Frass: Caterpillar droppings (frass) can often be found on or near infested plants, signaling their activity.
+
+- **White flies:**
+Leaf Discoloration: Whiteflies cause yellowing of leaves due to their feeding habits. Infested plants may also exhibit stunted growth and leaf drop36.
+Honeydew Production: The excretion of honeydew by whiteflies can lead to sooty mold growth on leaves, further reducing photosynthesis and plant vigor.
+
+**Control method:** 
+- **Leaf beetles:** 
+Cultural Practices: Maintain good growing conditions to enhance plant vigor, making them more resilient to pest damage. This includes proper irrigation and soil management5.
+Weed Management: Keep the area around the plants free from weeds that may harbor beetles25.
+Insecticides: Use insecticidal soaps or pyrethrins for direct control of adult beetles
+
+- **Caterpillars:**
+Handpicking: For smaller infestations, manually removing caterpillars can be effective.
+Biological Control: Introduce natural predators such as parasitic wasps or beneficial insects that feed on caterpillars.
+Insecticides: Apply targeted insecticides that are effective against caterpillars while minimizing harm to beneficial insects.
+
+- **White flies:**
+Sticky Traps: Use yellow sticky traps to monitor and reduce whitefly populations.
+Natural Predators: Encourage beneficial insects like ladybugs and lacewings that prey on whiteflies.
+Insecticidal Soap or Oils: Apply these treatments to manage whitefly populations effectively without harming beneficial insects.
 
 Nurseries should be established in well-drained areas and areas where Solanaceae crops such as tomatoes, brinjals, and chillies are not grown in previous seasons. Avoid sowing too many seeds in the nursery (3m x 1m size bed-40g seeds are recommended). The diseased parts/plants should be removed and destroyed.
 
@@ -125,7 +158,7 @@ Nurseries should be established in well-drained areas and areas where Solanaceae
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
-**Explanation:** Banana peppers require consistent moisture but are prone to fungal diseases in overly wet conditions.
+**Explanation:** Capsicum require consistent moisture but are prone to fungal diseases in overly wet conditions.
 
 **Challenges/Adaptations:**
 - Fungal diseases can be a challenge. Ensure good air circulation and avoid overwatering.
@@ -149,8 +182,17 @@ Nurseries should be established in well-drained areas and areas where Solanaceae
 - Cooler temperatures can slow growth. Provide additional warmth with row covers or black plastic mulch.
 
 ## References for this entry
-### Content Sources:
--
+### Sources:
+https://doa.gov.lk/hordi-crop-capsicum/
+https://www.gardenia.net/plant/capsicum-annuum
+https://www.thespruce.com/pepper-companion-plants-7486883
+https://plantura.garden/uk/vegetables/peppers/pepper-companion-planting
+https://insteading.com/blog/companion-planting-for-peppers/
+https://www.housedigest.com/1345559/companion-plants-pepper/
+https://plantvillage.psu.edu/topics/chilli-pepper/infos
+https://plantvillage.psu.edu/topics/pepper-bell/infos
+https://ipm.ucanr.edu/PMG/GARDEN/PLANTS/INVERT/leafbeetle.html
+https://worldofplants.ai/en/flea-beetles-on-pepper-plants/
 
 ### Image Sources: (In order of appearance)
 - 
