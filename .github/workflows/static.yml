@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      SERVER_PREFIX: "/apoc-wiki-viewer"
+      SERVER_PREFIX: "/apoc-gardens-wiki/"
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
