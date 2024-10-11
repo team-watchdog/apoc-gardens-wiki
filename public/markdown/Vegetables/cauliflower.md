@@ -25,7 +25,7 @@
 The plant consists of a thick stem surrounded by leaves on top of which the curd grows. They are annual plants that reach about 0.5 metres in height. Cauliflower plants develop a central main flower head (curd), which can weigh from 0.5 kg to over 2.5 kg. Commercially, white cauliflower is the most common, though orange, purple, green, and brown cultivars also exist. The plants produce cross-shaped yellow flowers and bear seeds in dry capsules known as siliques.
 
 ## Planting requirements
-- Ideally suited for cool weather and requires consistent temperatures of about 16 °C (60 °F) to produce heads. However, can be grown in all agro-climatic zones with certain varieties which can be grown in upland, lowland, and intermediate zones in Sri Lanka.
+- Ideally suited for cool weather and requires consistent temperatures of about 16 °C (60 °F) to produce heads. However, can be grown in all agro-climatic zones with certain varieties which can be grown in upland, lowland, and intermediate zones in Sri Lanka. Cauliflower is adaptable to all agro-ecological zones in Sri Lanka, including the upcountry, low country, and intermediate zones. The ideal temperature for growth ranges from 10°C to 20°C, making the cooler upcountry regions particularly suitable for this crop.
 
 **Planting season in Sri Lanka:**
 - Mid country wet zone – January to February and November to December
@@ -35,10 +35,10 @@ The plant consists of a thick stem surrounded by leaves on top of which the curd
 ### Planting conditions
 | **Propagation** | Propagation from root-shoot cuttings is recommended to be the most efficient method |
 |----|----|
-| Planting method | **Plant seed shallowly**, one-fourth to one-half inch deep, dropping a seed every 40 cm. There should be a distance of 40-50 cm between rows. Seed requirement: 300 grams per hectare. When planting in a field, it is recommended to turn the soil 30-40 cm deep, then level the soil in preparation. Seedlings of 3-4 week maturity should then be replanted in raised beds or rows. |
-| Soil | Requires moist nitrogen-rich soil and will produce only small heads if stressed with drought. Well-drained yet moisture-retentive, fertile soil with a pH of 6 to 6.8 ideal. Soil with clay loam and slit is recommended for high yield. |
-| Water | Water regularly with 2 inches of water per square foot each week; even with normal rainfall, this usually requires supplemental watering Once the seedlings have taken root, water twice a day for two weeks. Adjust watering afterward based on rainfall.|
-| Light | Cauliflower should be grown in a spot that gets full sun (6 to 8 hours of sunlight per day). Lack of sunlight may produce thin, leggy plants and subpar heads                                                                                                                                                                                                                            |
+| Planting method | **Plant seed shallowly**, one-fourth to one-half inch deep, dropping a seed every 40 cm. There should be a distance of 40-50 cm between rows. When planting in a field, it is recommended to turn the soil 30-40 cm deep, then level the soil in preparation. Seedlings of 3-4 week maturity should then be replanted in raised beds or rows |
+| Soil | Requires moist nitrogen-rich soil and will produce only small heads if stressed with drought. Well-drained yet moisture-retentive, fertile soil with a pH of 6 to 6.8 ideal. Soil with clay loam and slit is recommended for high yield |
+| Water | Water daily until seedlings are established. After establishment, water every two days for two weeks, then adjust based on rainfall |
+| Light | Cauliflower should be grown in a spot that gets good sun light (6 to 8 hours of sunlight per day). Lack of sunlight may produce thin, leggy plants and subpar heads. However, young plants shoud be provided with shade to protect from high temperatures |
 
 ### Growing conditions
 | Temperatures | Shade should be provided to prevent wilting of young plants. Banana leaves can be used for coverage. When the inflorescences begin to form, the flower should be covered by the cauliflower leaves so as to block direct sunlight. A temperature of 10 to 21°C is required. Exposure to high temperatures produces poor-quality curds. |
@@ -122,6 +122,10 @@ Refrigerate washed and dried cauliflower in an airtight freezer bag.
 - Ensure proper soil preparation and fertilization
 
 ## References for this entry
-### Content Sources:
+### Content:
+https://doa.gov.lk/hordi-crop-cauliflower/
+https://www.epicgardening.com/growing-cauliflower/
+https://www.harti.gov.lk/images/download/reasearch_report/new1/179.pdf
+
 
 ### Image Sources: (In order of appearance)
