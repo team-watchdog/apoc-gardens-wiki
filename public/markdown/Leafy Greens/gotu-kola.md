@@ -4,7 +4,7 @@
 ## General Information
 **Generic name:** Asian Pennywort, Indian Pennywort
 **Sri Lankan name:** Gotukola, Heen-gotukola
-**Scientific name:** Centella asiatica
+**Scientific name:** _Centella asiatica_
 **Plant family:** Apiaceae
 **Edible parts:** The whole plant is eaten raw or cooked. The leaves are added to tossed salads or steamed and served with rice. They can be cooked in vegetable soups or stews. The plant is also used for medicine where the leaves are made into tea. Also, the juice of the leaves diluted with water and sweetened with sugar is used as a drink.
 **Nutrition value:** Contains vitamins B and C, proteins, and is high in antioxidants.
@@ -32,7 +32,7 @@ There are three types of vine type Gotukola according to the size of leaves;
 **Planting season:** Grows year round
 
 ### Planting conditions:
-| **Propagation** | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
+| Propagation | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
 |----|----|
 | Planting method | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
 | Soil | Well-drained lowlands are the most suitable for cultivation. It required a soil with a pH range of 6-7. Can add lime or wood ash to help with the pH balance, if necessary. The soil must be adequately prepared before planting Gotu kola seeds, as this plant does not grow well in poor soil conditions. To prepare the soil for Gotu kola planting, you need to first prepare your garden bed by removing all weeds and debris before adding compost or manure to the soil. |
@@ -40,7 +40,6 @@ There are three types of vine type Gotukola according to the size of leaves;
 | Light | Gotu kola needs a lot of sunlight to grow properly. It should be placed in a sunny spot where it can receive at least six hours of sunlight every day.|
 
 ### Growing conditions:
-
 | Temperatures | It needs a temperature above 10°C. |
 |----|----|
 | Soil | Raised beds or sunken beds should be prepared according to the selected field to facilitate good drainage. Good textured soil with fine filth is more suitable for the growth of deep roots. Both organic and inorganic fertilizers can be applied to the crop. |
@@ -52,12 +51,22 @@ There are three types of vine type Gotukola according to the size of leaves;
 Gotu kola leaves can be picked throughout the summer months. The leaves can be used dried or fresh for use in infusions, milk decoctions, or powdered.
 
 ## Curing: 
-<update>Spread leaves on a clean surface and allow them to dry naturally in the shade. Store dried leaves in an airtight container.</update>
+Gotu Kola does not require a curing stage
 
 ## Storage: 
-<update>Fresh leaves can be stored in the refrigerator for up to one week. Dried leaves can be stored in a cool, dark place for up to six months.</update>
+Fresh leaves can be stored in the refrigerator for up to one week.
 
 ## Protecting your plants
+### Pest Control
+**Pest type:**
+- Thrips
+
+**Symptoms:**
+- **Thrips:** Leaves appear curled and deformed.
+
+**Control method:**
+- **Thrips:** Spray neem oil and use insecticide soaps to the underside of infected leaves
+  
 ### Disease Control
 **Disease type:** 
 - **Brown leaf spot (_Cercospora sp._):** Spread by soil and wind with infected plant parts.
