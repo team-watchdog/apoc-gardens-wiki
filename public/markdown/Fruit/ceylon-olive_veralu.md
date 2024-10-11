@@ -43,9 +43,10 @@ It is a medium-sized tree that bears smooth ovoid green fruits about 2.5 cm long
 8-9 years for direct seeded trees. 3-4 years for budded and grafted trees. A tree can produce between 60 to 100 kilograms of fruit every year. 
 
 ## Curing:
+Veralu does not require a curing stage.
 
 ## Storage
-
+Store fresh veralu in the refrigerator, ideally in a perforated plastic bag to allow airflow while maintaining humidity.
 
 ## Protecting your plants
 ### Pest Control
@@ -61,7 +62,6 @@ It is a medium-sized tree that bears smooth ovoid green fruits about 2.5 cm long
 Mature plants are not very susceptible to diseases.
 
 ## Difficulty Rating
-
 ### Low country wet zone (Difficulty: 3/10)
 **Explanation:** Ceylon Olive thrives in the wet zone due to abundant rainfall and high humidity, which align well with its natural habitat preferences.
 
