@@ -2,43 +2,50 @@
 ![Lavender.jpg](../../assets/images/Lavender.jpg "By User:Fir0002, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=322384")
 
 ## General Information
-**Generic name:** Lavandula angustifolia
-**Sri Lankan name:** Gurulu Mal
-**Scientific name:** Lavandula angustifolia
-**Plant family:** Lamiaceae (Mint family)
-**Edible parts:** N/A
+**Generic name:** Lavender
+**Sri Lankan name:** Gurulu Mal (Sinhala) | Sugandhi (Tamil)
+**Scientific name:** _Lavandula angustifolia_
+**Plant family:** _Lamiaceae_ (Mint family)
+**Edible parts:** Not Applicable
+
 **Companion plants:**
-## Companion Plants:**
+- Thyme
+- Sage
+- Rosemary
+- Oregano
+- Yarrow
+- Strawberries
+- Bell Peppers
+- Jasmine
+- Garlic
+- Onions
 
-Lavender is a great companion plant that repels bugs such as mosquitos, fleas, moths, and ticks while attracting pollinators like bees. As such, lavender can benefit a wide variety of plants in any herb garden, including but not limited to: 
-
-- Thyme: Acts as a great ground cover around lavender and has similar low-maintenance needs.
-- Sage: Shares similar water needs and strong scents with lavender, creating an appealing texture and color contrast.
-- Rosemary: Has similar growing needs and appearance to lavender, and both help deter pests in vegetable gardens.
-- Oregano: Repels aphids and small flies that could potentially damage lavender plants.
-- Yarrow: Attracts pollinators and thrives in similar full-sun, drought-tolerant conditions as lavender.
-- Strawberries: Benefits from lavender's ability to repel slugs, rabbits, and deer.
-- Bell Peppers: Lavender attracts pollinators that can improve pepper fruit set and size.
-- Jasmine: Complements lavender's scent and benefits from its pest-repelling properties.
-- Alliums (garlic, onions, etc): Benefits from lavender warding off pests
+**Non-companion plants**
+- Mint
+- Ferns
+- Plantain Lillies (Hostas)
+- Roses
+- Hydrangeas
+- Touch-me-not (Impatiens)
+- Azaleas
+- Rhubarb
 
 ## Description:
 Lavender is a flowering, drought-tolerant perennial shrub in the mint family, easily identified by its sweet floral scent. It is believed to be native to the Mediterranean, the Middle East, and India, with a history dating as far back as 2,500 years. While not native to Sri Lanka, it has been introduced and can be cultivated in certain regions of the country, primarily grown for its ornamental value and essential oil production.
 
 ## Planting requirements
-**Planting season:** Late October to early December (after the monsoon)
+**Planting season:** Late October to early December
 
 ### Planting conditions:
-| **Propagation** | Seeds or cuttings |
+| Propagation | Seeds or cuttings |
 |----|----|
-| Planting method | Germinate in moist soil or paper towels. Seeds should germinate in around 14-21 days. Once the seedlings germinate in 1-2 months, transplant them in a favorable location to the beds at 4-80 cm apart |
+| Planting method | Germinate in moist soil or paper towels. Seeds should germinate in around 14-21 days. Once the seedlings germinate transplant them in a favorable location to the beds at 40-80 cm apart |
 | Soil | Requires well drained, neutral soil (pH 5.5-8). If necessary, mix local soil with sand and compost to improve drainage.  |
-| Water | Young plants should be watered frequently (mature plants are drought tolerant and don't like too much  water)|
+| Water | Young plants should be watered frequently |
 | Light | Needs full sunshine at least 6 hours a day |
 
 ### Growing conditions:
-
-| **Temperatures** | Prefers average temperature of between 20-30°C |
+| Temperatures | Prefers average temperature of between 20-30°C |
 |----|----|
 | Soil | Lavender can grow in nutrient-poor soils. Improve soil by adding organic compost or manure before planting |
 | Water | Young plants should be watered frequently, letting the soil dry in between (mature plants are drought tolerant and cannot stand overwatering) |
@@ -46,7 +53,7 @@ Lavender is a flowering, drought-tolerant perennial shrub in the mint family, ea
 | Weed control | Keep the area around lavender plants weed-free |
 
 ## Harvesting:
-Lavender is a slow growing plant and will typically take until the next planting season to flower. Harvest flowering stems when first buds open.
+Lavender is a slow growing plant and will typically take until the next planting season to flower. Harvest flowering stems when buds first open.
 
 ## Curing:
 Cut flowers on a dry day, tie them into small bunches, and hang upside down in a well-ventilated area to dry. In Sri Lanka's humid climate, ensure proper air circulation to prevent mold.
@@ -55,49 +62,46 @@ Cut flowers on a dry day, tie them into small bunches, and hang upside down in a
 Store dried lavender in an airtight container away from light and heat for up to 1 year. In Sri Lanka's humid environment, consider adding silica gel packets to prevent moisture absorption.
 
 ## Protecting your plants
-### Pest Control
-
-**Pest types:** 
-- Aphids (greenflies or blackflies)
-- Whiteflies
-- Spider mites
-- Slugs and snails
+### Pest control
+**Pest type:**
+- Spider Mites
+- Scale Insects
+- Aphids
+- Mealybugs
+- Fungus Gnats
 
 **Symptoms:**
-- Aphids and Whiteflies: Leaf curling, yellowing, stunted growth, sticky honeydew on leaves
-- Spider Mites: Fine silvery webbing on leaves and flowers, leaf damage, discoloration
-- Slugs and Snails: Irregular holes in leaves, stems, and flowers
+- **Spider Mites:** Fine webbing on leaves, yellow speckling, and leaf drop.
+- **Scale Insects:** Sticky residue on leaves, deformed foliage, and visible bumps on stems.
+- **Aphids:** Curling leaves, sticky honeydew residue, and the presence of ants attracted to the honeydew.
+- **Mealybugs:** White, cottony clusters on stems and leaves.
+- **Fungus Gnats:** Adult flies visible around the soil; larvae can damage roots.
 
-**Prevention and Control Methods:**
-1. Encourage natural predators (ladybirds, lacewings, hoverflies) by planting companion plants like marigolds, cosmos, and zinnias.
-2. Regularly inspect plants and remove infected leaves or stems.
-3. Maintain adequate watering and humidity levels to deter spider mites.
-4. Use copper barriers, diatomaceous earth, crushed eggshells, or sharp sand to deter slugs and snails.
-5. Wash plants periodically with a strong spray of water to dislodge pests.
-6. Apply insecticidal soap or neem oil for soft-bodied pests.
-7. Introduce beneficial insects like ladybugs and predatory mites.
-8. Use Bacillus thuringiensis (Bt) to control caterpillars if necessary.
-9. Remove severely affected plants to prevent spread.
+**Control method:**
+- **Spider Mites:** Use soapy water sprays, introduce predatory mites, or apply miticides like abamectin for severe infestations.
+- **Scale Insects:** Remove by hand with rubbing alcohol on cotton swabs or use horticultural oil to smother larger infestations.
+- **Aphids:** Introduce beneficial insects like ladybugs or use insecticidal soap to manage populations.
+- **Mealybugs:** Hand removal with alcohol-soaked cotton swabs or application of insecticidal soap.
+- **Fungus Gnats:** Allow soil to dry out between waterings and use yellow sticky traps to catch adults.
 
 ### Disease Control
+**Disease type:**
+- Root Rot
+- Alfalfa Mosaic Virus
+- Septoria Leaf Spot
+- Lavender Shab
 
-**Disease types:** 
-- Root rot 
-- Fungal diseases (e.g., Fusarium and Phytophthora)
+**Symptoms:**
+- **Root Rot:** Wilting leaves, yellowing foliage, and discolored root tissue.
+- **Alfalfa Mosaic Virus:** Yellow patches on leaves that curl and distort.
+- **Septoria Leaf Spot:** Tiny grey spots on leaves that expand, leading to leaf death.
+- **Lavender Shab:** Brown stems with black spots; sudden wilting of shoots.
 
-**Symptoms:** 
-- Wilting leaves
-- Yellowing leaves
-- Foul odor from the soil around the plant
-
-**Prevention and Control Methods:**
-1. Plant lavender in well-draining soil; add sand or grit to improve drainage.
-2. Water sparingly, especially during wet periods.
-3. Ensure proper spacing between plants for adequate airflow.
-4. Remove affected plants promptly to prevent spread.
-5. Apply neem oil, which has antifungal properties, for mild fungal infections.
-6. Use organic fungicides if necessary, following local regulations.
-
+**Management:**
+- **Root Rot:** Improve soil drainage and avoid overwatering; remove infected plants to prevent spread.
+- **Alfalfa Mosaic Virus:** Uproot and dispose of infected plants immediately; sanitize tools to prevent spread.
+- **Septoria Leaf Spot:** Keep foliage dry by ensuring good air circulation; remove infected leaves and apply organic fungicides like neem oil.
+- **Lavender Shab:** There is no cure; remove and destroy infected plants while wearing gloves to prevent contamination.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
@@ -134,3 +138,7 @@ Store dried lavender in an airtight container away from light and heat for up to
 - https://myplantin.com/blog/how-to-grow-lavender-from-seed
 - https://www.theseedcollection.com.au/growguide/lavender-seeds
 - https://www.thespruce.com/lavender-companion-plants-8575030
+- https://www.housedigest.com/1596828/worst-companion-plants-grow-with-lavender-garden/
+- https://plantvillage.psu.edu/topics/lavender/infos
+- https://www.hopesgrovenurseries.co.uk/knowledge-base/pests-diseases-and-common-problems-with-lavender/
+

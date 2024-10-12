@@ -694,6 +694,7 @@ hr {
   border-top-width: 1px;
   --tw-border-opacity: 1;
   border-color: rgb(127 85 57 / var(--tw-border-opacity));
+  font-weight: 400;
 }
 
 table {
@@ -708,6 +709,7 @@ th {
   --tw-border-opacity: 0.5;
   padding: 0.5rem;
   text-align: left;
+  font-weight: 400;
 }
 
 td {
@@ -725,6 +727,13 @@ ul {
 ol {
   list-style-type: decimal;
   padding-left: 1rem;
+}
+
+li {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  --tw-text-opacity: 1;
+  color: rgb(46 29 18 / var(--tw-text-opacity));
 }
 
 iframe {
@@ -831,6 +840,8 @@ iframe {
 }
 
 #main-section p {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
   text-wrap: pretty;
 }
 
@@ -906,6 +917,10 @@ iframe {
   display: grid;
   grid-template-columns: repeat(1, minmax(0, 1fr));
   gap: 0.5rem;
+}
+
+.difficulty-item-container p {
+  margin: 0px;
 }
 
 .difficulty-item-container {
@@ -1031,11 +1046,27 @@ iframe {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/** PROTECTING YOUR PLANTS **/
+
 #protecting-plant-section strong {
   margin-right: 0.5rem;
   font-weight: 800;
   --tw-text-opacity: 1;
   color: rgb(43 106 77 / var(--tw-text-opacity));
+}
+
+#protecting-plant-section > p {
+  margin-bottom: -1rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+#protecting-plant-section li p {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+
+#protecting-plant-section {
 }
 
 #first-principles {

@@ -52,7 +52,6 @@ function convertMarkdownToHtml(sourcePath, destPath) {
             // Process markdown files
             const destFilePath = path.join(destPath, file.replace(".md", ".html"));
             const markdown = fs.readFileSync(sourceFilePath, "utf-8");
-            console.log("Converting " + sourceFilePath + " to " + destFilePath);
             const wikiConverter = new WikiConverter_1.default(markdown, path.basename(file, ".md"), sourceFilePath);
             const html = wikiConverter.process();
             fs.writeFileSync(destFilePath, html);

@@ -29,7 +29,6 @@ function convertMarkdownToHtml(sourcePath: string, destPath: string): void {
 
 			const markdown = fs.readFileSync(sourceFilePath, "utf-8");
 
-			console.log("Converting " + sourceFilePath + " to " + destFilePath);
 			const wikiConverter = new WikiConverter(
 				markdown,
 				path.basename(file, ".md"),

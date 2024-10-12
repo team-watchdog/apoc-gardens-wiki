@@ -4,32 +4,35 @@
 ## General Information
 **Generic name:** Jasmine
 **Sri Lankan name:** Pichcha, Samanpichcha (Sinhala) | Malligai (Tamil)
-**Scientific name:** Jasminum officinale
-**Plant family:** Oleaceae
-**Edible parts:** N/A
+**Scientific name:** _Jasminum officinale_
+**Plant family:** _Oleaceae_
+**Edible parts:** Not Applicable
 **Companion plants:**
-
-Jasmine is a low-maintenance plant that grows vigorously and pairs well with trees.
-- Bananas and citrus trees provide shade and mulch
-- Bamboo provides shade and attracts insects such as ladybugs, which feed on aphids that can attack jasmine
-- Rosemary and alliums (onions, garlic) can provide pest protection
+- Bananas trees
+- Citrus trees
+- Bamboo 
+- Rosemary 
+- Onions
+- Garlic
 
 **Non-companion plants:** 
-- Plants of the nightshade tree (tomatoes, eggplants, and peppers) are susceptible to the same diseases that can attack jasmine; the plants themselves can stunt the growth of jasmine
-- Jasmine will compete with mint for resources
+- Tomatoes
+- Eggplants
+- Peppers
+- Mint
 
 ## Description:
 Jasmine, (genus Jasminum), genus of about 200 species of fragrant-flowered shrubs and vines of the olive family (Oleaceae). The plants are native to tropical and to some temperate areas. Most true jasmines have climbing branches without tendrils. The white, yellow, or rarely pink flowers are tubular with a flaring, lobed, pinwheel-like form; some double-flowered varieties have been developed. They are also occasionally used in teas.
 
-In Sri Lanka, crepe jasmine (Samanpichcha, aka Tabernaemontana divaricata, aka the pinwheel flower) shrubs grow almost everywhere, usually cultivated in small gardens or left to grow by the wayside. Its flowers are widely used in religious ceremonies. Unlike other jasmines, crepe jasmine has little to no fragrance. Other varieties exist, such as wal pichcha (a vine that bears flowers similar to crepe jasmine) and etteriya aka orange jasmine, which grows into a short tree.
+In Sri Lanka, crepe jasmine (Samanpichcha, aka Tabernaemontana divaricata, aka the pinwheel flower) shrubs grow almost everywhere, usually cultivated in small gardens or left to grow by the wayside. Its flowers are widely used in religious ceremonies. Other varieties exist, such as wal pichcha (a vine that bears flowers similar to crepe jasmine) and etteriya aka orange jasmine, which grows into a short tree.
 
 ## Planting requirements
 Almost all jasmines do well in tropical conditions and are hardy growers that need little maintenance except pruning. For most jasmines, it's best to provide a support structure (either a trellis or wall) that the vine can climb across. You can also grow jasmine in large pots.
 
-**Planting season:** Year-round in most parts of Sri Lanka, but best planted at the beginning of the rainy season (May-June or October-November)
+**Planting season:** Year-round in most parts of Sri Lanka. Recommended planting season: May to June and Octorber to November
 
 ### Planting conditions:
-| **Propagation** | Propagated through cuttings, layering, suckers, grafting, budding, tissue culture |
+| Propagation | Propagated through cuttings, layering, suckers, grafting, budding, tissue culture |
 |----|----|
 | Planting method | Plough the soil and bring the soil to a proper tilt stage and then dig pits the size of 30cmX30cmX30cm. It's best to expose these pits for 2-3 weeks beforehand for sunlight to eliminate soil borne diseases and mites |
 | Soil | Grows in a variety of soils. However, grows well in well drained loamy soil that is rich in organic matter with a pH between 6.5 and 7.5 |
@@ -38,7 +41,7 @@ Almost all jasmines do well in tropical conditions and are hardy growers that ne
 
 ### Growing conditions:
 
-| **Temperatures** | Needs a soil temperature between 15° to 24°                                                                                                             |
+| Temperatures | Needs a soil temperature between 15° to 24°                                                                                                             |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Soil             | Keep the soil weed free. If possible, add mulch to prevent weed, soil erosion and retain water moisture                                          |
 | Water            | Drip irrigation is preferred. First irrigate the plant immediately after planting. Otherwise 4-5 days of irrigation depending on climate and soil type |
@@ -48,18 +51,65 @@ Almost all jasmines do well in tropical conditions and are hardy growers that ne
 ## Harvesting:
 Jasmine starts flowering after 6 months of planting and can be harvested throughout the year. 
 
+## Curing:
+Jasmine does not require a curing stage.
+
 ## Storage: 
 Fully developed flower buds should be handpicked in the early morning and late evening and can last for up to two weeks if kept in a cool place.
 
 ## Protecting your plants
-Jasmines are generally resistant to pests and diseases. Of course, root rot can set in if waterlogged, and aphids and caterpillars form a generic threat that can damage your plant if you leave it unattended when it's just starting to grow. 
+### Pest control
+**Pest type:**
+- Aphids
+- Spider Mites
+- Whiteflies
+- Bud Worms
+- Leaf Webbers
+- Mealybugs
+- Scales
+
+**Symptoms:**
+- **Aphids:** Discoloration of leaves, distorted growth, presence of sticky honeydew.
+- **Spider Mites:** Fine webbing on leaves, yellowing, and stippling.
+- **Whiteflies:** Yellowing leaves and sticky residue; often accompanied by sooty mold.
+- **Bud Worms:** Damaged or dropped flower buds, tunneling in buds.
+- **Leaf Webbers:** Scraped leaves covered in silk webs.
+- **Mealybugs:** White, waxy masses on leaves and stems.
+- **Scales:** Distorted leaves and potential leaf drop.
+
+**Control method:**
+- **Aphids:** Use insecticidal soap or neem oil; introduce natural predators like ladybugs.
+- **Spider Mites:** Increase humidity around plants; spray with water or use miticides.
+- **Whiteflies:** Use yellow sticky traps; apply insecticidal soap.
+- **Bud Worms:** Hand-pick or use Bacillus thuringiensis (Bt) as a biological control.
+- **Leaf Webbers:** Prune affected areas; apply horticultural oil.
+- **Mealybugs:** Spray with water or insecticidal soap; remove manually if possible.
+- **Scales:** Prune heavily infested areas; use horticultural oil or introduce beneficial insects.
+
+### Disease Control
+**Disease type:**
+- Powdery Mildew
+- Crown Gall
+- Rust
+- Fusarium Wilt
+- Leaf Spot
+
+**Symptoms:**
+- **Powdery Mildew:** White powdery coating on new growth; deformed buds and flowers.
+- **Crown Gall:** Lumps or galls at the base of the plant restricting water uptake.
+- **Rust:** Orange pustules on undersides of leaves; distorted growth.
+- **Fusarium Wilt:** Stunted growth and wilting, starting with lower leaves turning yellow.
+- **Leaf Spot:** Dark spots on leaves that can lead to leaf drop.
+
+**Management:**
+- **Powdery Mildew:** Apply fungicides containing sulfur or potassium bicarbonate; improve air circulation.
+- **Crown Gall:** Remove infected plants and avoid wounding during care; ensure good hygiene practices.
+- **Rust:** Use copper or sulfur fungicides; remove infected plant parts promptly.
+- **Fusarium Wilt:** Improve soil drainage; rotate crops to prevent recurrence.
+- **Leaf Spot:** Remove infected foliage; apply appropriate fungicides based on the pathogen involved.
 
 ## Difficulty Rating
-
-Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being particularly well-suited to the mid-country and low country wet zone. The main considerations are ensuring proper drainage in wetter areas and adequate water in drier zones. The up-country presents the most challenges due to potentially cooler temperatures, but even there, jasmine can be grown with some adaptations.
-
 ### Low country wet zone (Difficulty: 3/10)
-
 **Explanation:** Jasmine thrives in tropical conditions and is well-suited to the wet zone.
 
 **Challenges/Adaptations:**
@@ -95,7 +145,8 @@ Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being p
 - Ensure soil temperature stays between 15° to 24° C for best results
 
 
-### Content sources:
+## References for this entry
+### Sources:
 - https://mpns.science.kew.org/mpns-portal/searchName?searchTerm=jasmine&nameType=all
 - https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/shrubs/crepe-jasmine/
 - https://www.gardeningknowhow.com/ornamental/flowers/jasmine/jasmine-pest-control.htm
@@ -103,3 +154,10 @@ Jasmine is generally easy to grow in Sri Lanka's climate, with the plant being p
 - https://chameliflower.com/jasmine-companion-plants/
 - https://www.dilmahconservation.org/arboretum/plants-and-trees/walpichcha-wekonda--b32f0281abfd997f5371827beb12de10.html
 - https://www.dilmahconservation.org/arboretum/plants-and-trees/etteriya--e424a2d68f359d1ccb060fcd8da2f290.html
+- https://www.silverstonegardening.com.au/everything-you-need-to-know-about-jasmine/
+- http://www.agritech.tnau.ac.in/horticulture/horti_flower%20crops_malligai.html
+- https://gardenerspath.com/plants/flowers/jasmine-diseases/
+- https://www.gardeningknowhow.com/ornamental/flowers/jasmine/jasmine-pest-control.htm
+- https://ipm.ucanr.edu/PMG/GARDEN/PLANTS/starjasmine.html
+- https://blog.agribegri.com/en/blog/13-common-jasmine-plant-problems-how-to-fix-them-solutions-and-treatment
+

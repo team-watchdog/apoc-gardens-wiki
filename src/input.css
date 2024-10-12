@@ -47,7 +47,7 @@
 	}
 
 	hr {
-		@apply border-t border-secondary-700;
+		@apply border-t border-secondary-700 font-normal;
 	}
 
 	table {
@@ -55,7 +55,7 @@
 	}
 
 	th {
-		@apply text-left border border-secondary-700 border-opacity-50 p-2;
+		@apply text-left border border-secondary-700 border-opacity-50 p-2 font-normal;
 	}
 
 	td {
@@ -68,6 +68,9 @@
 
 	ol {
 		@apply list-decimal pl-4;
+	}
+	li {
+		@apply text-secondary-900 text-base;
 	}
 
 	iframe {
@@ -131,7 +134,7 @@
 	}
 
 	#main-section p {
-		@apply text-pretty;
+		@apply text-pretty mt-2 mb-4;
 	}
 }
 
@@ -167,6 +170,9 @@
 	/** DIFFICULTY RATING **/
 	.difficulty-container {
 		@apply grid grid-cols-1 gap-2 mt-4;
+	}
+	.difficulty-item-container p {
+		@apply m-0;
 	}
 
 	.difficulty-item-container {
@@ -236,8 +242,21 @@
 		@apply hidden bg-secondary-100 rounded-lg p-4 transition-none duration-200 ease-in-out;
 	}
 
+	/** PROTECTING YOUR PLANTS **/
 	#protecting-plant-section strong {
 		@apply text-primary-700 font-extrabold mr-2;
+	}
+
+	#protecting-plant-section > p{
+		@apply -mb-4 text-lg;
+	}
+
+	#protecting-plant-section li p{
+		@apply -mt-2 -mb-2;
+	}
+
+	#protecting-plant-section {
+		
 	}
 }
 

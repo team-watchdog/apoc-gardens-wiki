@@ -3,11 +3,11 @@
 
 ## General Information
 **Generic name:** Shoe Flower
-**Sri Lankan name:** Wada mal (S), nirparatthi (T)
+**Sri Lankan name:** Wada mal (Sinhala) | Nirparatthi (Tamil)
 **Scientific name:** _Hibiscus rosa-sinensis l._
-**Plant family:** Malvaceae
-**Edible parts:** Flower
-**Nutrition value:** High in vitamin C, antioxidants, and minerals like calcium and Phosphorus.
+**Plant family:** _Malvaceae_
+**Edible parts:** Flower, young leaves
+**Nutrition value:** High in vitamin C, antioxidants, and minerals like calcium and phosphorus
 **Companion plants:**
 - Mulberry
 - Cinnamon
@@ -20,19 +20,22 @@ Not applicable
 ## Description:
 Shoe flowers are fast-growing shrubs that can reach up to 2 meters in height. They have bright red flowers and serrated green leaves. The plant is known for its various medicinal uses. The flowers are used to make tea that helps with painful periods, urinary issues, fevers, coughs, and hair growth.
 
+Flowers are commonly used in a variety of culinary dishes and beverages. Their petals have a mild, tart flavor and can be consumed raw, cooked, or pickled. In some cultures, petals are used in teas or added to desserts and salads. The calyces, the outer part of the flower, are often used to make hibiscus tea, known for its deep red color and tangy taste, enjoyed both hot and cold.
+
+The leaves of these plants are also edible. Young, tender leaves can be cooked like spinach or eaten raw in salads, where they provide a slightly astringent flavor.
+
 ## Planting requirements
 **Planting season:** Year-round in Sri Lanka
 
 ### Planting conditions:
 | Propagation | Seeds |
 |----|----|
-| Planting method | Plant the seeds in soil that stays moist and don't let the soil dry. Plant the soil in a depth of 0.5-1cm (0.25-0.5 inch) but cover lightly and don't push |
-| Soil | Grows in a variety of soil but requires well-drained soil. Needs a pH balance of 6.0-7.0 |
+| Planting method | Plant the seeds in soil that stays moist and don't let the soil dry. Plant the soil in a depth of 0.5-1cm (0.25-0.5 inch) but cover lightly |
+| Soil | Grows in a variety of soil but requires the soil to be well-drained. Needs a pH balance of 6.0-7.0 |
 | Water | Keep soil moist but not wet. Requires regular watering during dry seasons in Sri Lanka|
-| Light | Requires full sunshine but also grows in light shade with fewer and likely smaller flowers |
+| Light | Requires full sunshine |
 
 ### Growing conditions:
-
 | Temperatures | Grows well in Sri Lankan temperatures ranging from 20-35°C. Might die off at temperatures below 2°C |
 |----|----|
 | Soil | Hibiscus is carefree but does require some fertilizer. Mix the soil with compost, humus, or organic matter and mulch to cover the soil to keep it moist and weed free |
@@ -41,7 +44,7 @@ Shoe flowers are fast-growing shrubs that can reach up to 2 meters in height. Th
 | Weed control | Mulch around the base of plants to suppress weeds and retain moisture.
 
 ## Harvesting:
-Harvesting young full-grown leaves cut next to the stems or with all the stems.
+Carefully cut the flower stem about 1-2 inches below the bloom. If you are also interested in harvesting seeds, leave some flowers on the plant until they form seed pods. Harvest young full-grown leaves by cutting next to the stems.
 
 ## Curing: 
 Hang the flowers upside down in a well-ventilated area until completely dry.
@@ -109,6 +112,7 @@ Store dried flowers in an airtight container away from light and heat. Leaves ca
 - Choose sheltered locations to protect from strong winds
 
 ## References for this entry
-### Content Sources:
-
-### Image Sources: (In order of appearance)
+### Sources:
+- https://en.wikipedia.org/wiki/Hibiscus
+- https://www.healthline.com/nutrition/all-you-need-to-know-hibiscus
+- https://www.marthastewart.com/what-is-hibiscus-8696855

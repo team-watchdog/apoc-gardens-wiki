@@ -3,10 +3,10 @@
 
 ## General Information
 **Generic name:** Cosmos
-**Sri Lankan name:** Atapethiya
+**Sri Lankan name:** Atapethiya (Sinhala) | Kōsmōs pū, Kāsmōs (Tamil)
 **Scientific name:** _Cosmos bipinnatus_
 **Plant family:** _Asteraceae_
-**Edible parts:** Flowers and leaves can be used in salads.
+**Edible parts:** Flowers and leaves can be used in salads
 **Nutrition value:** Not applicable
 
 **Companion plants:**
@@ -32,12 +32,12 @@ Cosmos are sun-loving plants with a long flowering season. These flowers come in
 | Soil | Prefers well-drained light soil and does not require any special soil preparation |
 | Water | Can tolerate dry soil but prefers moist soil |
 | Light | Requires full sunshine |
-| Fertiliser | _**Do not fertilize cosmos**_. Nutrient-rich soil produces plants that are weak-stemmed |
+| Fertiliser | Do not fertilize cosmos. Nutrient-rich soil produces plants that are weak-stemmed |
 
 ### Growing conditions:
 | Temperatures | Thrives in climate with temperatures between 20°C to 24°C. At temperatures above 27°C and below 16°C germination is reduced |
 |----|----|
-| Soil | Better to mulch the garden for moisture retention |
+| Soil | Add to add mulch to the garden for moisture retention |
 | Water | Water regularly, but do not overwater |
 | Weed control | Keep the area weed free |
 
@@ -45,23 +45,55 @@ Cosmos are sun-loving plants with a long flowering season. These flowers come in
 Cut the flowers anytime after blooming when the petals are open.
 
 ## Curing:
-Cosmos does not require a curing stage
+Cosmos does not require a curing stage.
 
 ## Storage
 Dry blooms in a well-ventilated area, away from sunlight, or use a food dryer. Naturally dried flowers should take 1 to 5 days. Store in a moisture-tight container in a cool, dark place.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Cosmos suffers from a few pest problems. However young seedlings can be attacked by slugs and snails
+**Pest type:**
+- Aphids
+- Leafhoppers
+- Borers
+- Snails and Slugs
 
-**Symptoms:** 
-- Irregular holes are chewed in leaves, and stems are eaten away causing the plant to collapse.
-- Flower buds and seedlings are consumed, and seeds fail to grow as they are eaten soon after germination.
+**Symptoms:**
+- **Aphids:** Distorted growth, yellowing of leaves, sticky residue (honeydew) on leaves.
+- **Leafhoppers:** Stunted growth, yellowing leaves, and potential transmission of aster yellows.
+- **Borers:** Broken stems, visible holes in stems, overall plant weakness.
+- **Snails and Slugs:** Irregular holes in leaves and a slimy trail on surfaces.
 
-**Control method:** Use neem oil and insecticidal soap.
+**Control method:**
+- **Aphids:** Introduce natural predators like ladybugs, use insecticidal soap, or neem oil.
+- **Leafhoppers:** Use insecticidal sprays or introduce beneficial insects to control populations.
+- **Borers:** Early treatment with insecticides; remove and destroy infested plants.
+- **Snails and Slugs:** Hand-picking, using barriers like copper tape, or applying slug bait.
 
 ### Disease Control
-No known diseases are commonly found in cosmos plants.
+**Disease type:**
+- Bacterial Wilt
+- Canker Disease
+- Powdery Mildew
+- Aster Yellows
+- Fusarium Wilt
+- Botrytis Blight
+
+**Symptoms:**
+- **Bacterial Wilt:** Sudden wilting of stems and leaves, often starting at the base.
+- **Canker Disease:** Dark brown scabs on flower stems; upper growth may die off.
+- **Powdery Mildew:** White spots on leaves, leaf distortion, yellowing.
+- **Aster Yellows:** Yellow-green leaves, stunted growth, distorted flowers.
+- **Fusarium Wilt:** Wilting and discoloration of stems and foliage; plant death.
+- **Botrytis Blight:** Papery brown flowers with grayish mold.
+
+**Management:**
+- **Bacterial Wilt:** Remove and dispose of infected plants; practice crop rotation.
+- **Canker Disease:** Remove infected plants immediately; avoid overhead watering.
+- **Powdery Mildew:** Apply fungicides; improve air circulation around plants.
+- **Aster Yellows:** Eradicate infected plants; control leafhopper populations.
+- **Fusarium Wilt:** Remove infected plants; avoid planting cosmos in previously infected soil.
+- **Botrytis Blight:** Improve air circulation; apply fungicides if necessary.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 4/10)
@@ -89,6 +121,9 @@ No known diseases are commonly found in cosmos plants.
 - Plant in sheltered locations to protect from cold winds.
 
 ## References for this entry
-### Content Sources:
+### Sources:
+- https://flowersname.co/flowers-name-in-tamil/#google_vignette
+- https://en.wikipedia.org/wiki/Cosmos_bipinnatus
+- https://www.epicgardening.com/cosmos-problems/
+- https://www.gardeningknowhow.com/ornamental/flowers/cosmos/cosmos-flower-diseases.htm
 
-### Image Sources: (In order of appearance)

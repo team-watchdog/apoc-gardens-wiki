@@ -3,59 +3,59 @@
 
 ## General Information
 **Generic name:** Sunflowers
-**Sri Lankan name:** Sooriyakantha (Sinhala), Cūriyakānti (Tamil)
+**Sri Lankan name:** Sooriyakantha (Sinhala) | Cūriyakānti (Tamil)
 **Scientific name:** _Helianthus annuus_
 **Plant family:** _Asteraceae_
 **Edible parts:** Seeds, leaves, petals, roots, stalks, shells
-**Nutrition value:** Sunflower seeds are packed with protein, healthy fats, and antioxidants, which may help lower the risk of certain health issues. They are also a great source of:
-- Vitamin E
-- Vitamin B1
-- Vitamin B6
-- Iron
-- Copper
-- Selenium
-- Manganese
-- Zinc
-- Potassium
+**Nutrition value:** Sunflower seeds are packed with protein, healthy fats, and antioxidants. They are also a great source of: Vitamin E, Vitamin B1, Vitamin B6, Iron, Copper, Selenium, Manganese, Zinc, Potassium
 
 **Companion plants:**
-- Cucumbers: Sunflowers provide shade and support for cucumber vines, helping them grow.
-- Basil: Helps deter pests such as aphids and improves the growth of nearby plants.
-- Lettuce: The tall sunflower plants offer shade, preventing lettuce from bolting in hot weather.
-- Corn: Both corn and sunflowers grow tall, making efficient use of space and providing support for each other.
+- Cucumbers
+- Basil
+- Lettuce
+- Corn
+- Beans
+- Squash
+- Nasturtiums
+- Marigolds
+- Zinnias
+- Lavender
 
 **Non-companion plants**
-- Potatoes: Sunflowers release toxins that can hinder the growth of potatoes.
-- Strawberries: Sunflowers can cast too much shade on these low-growing plants, leading to stunted growth and reduced fruit production.
+- Potatoes
+- Cabbage family
+- Strawberries
+- Spinash
 
 ## Description:
-The sunflower (Helianthus annuus) is a vibrant and cheerful flower known for its striking golden-yellow petals and large, sunny center. It is primarily cultivated worldwide for oil extraction. Sunflowers can be grown from seeds and are available in various colors and sizes, typically reaching heights of about 6 feet, although some varieties can grow anywhere from 2 to 15 feet tall. Their impressive stature and bright appearance make them a popular choice for gardens, adding warmth and joy to any landscape.
+The sunflower (_Helianthus annuus_) is a vibrant and cheerful flower known for its striking golden-yellow petals and large, sunny center. It is primarily cultivated worldwide for oil extraction. Sunflowers can be grown from seeds and are available in various colors and sizes, typically reaching heights of about 6 feet, although some varieties can grow anywhere from 2 to 15 feet tall. Their impressive stature and bright appearance make them a popular choice for gardens, adding warmth and joy to any landscape.
 
 ## Planting requirements
-**Planting season:** October In Sri Lanka, sunflowers can be planted during the Maha (End of October to early November) and Yala seasons (March to April).
+**Planting season:** March to April and End of October to early November
 
 ### Planting conditions:
-| Propagation | by seeds |
+| Propagation | Seeds |
 |----|----|
-| Planting method | Plant seeds 1 to 2 inches deep. Space smaller varieties 6 inches apart and taller varieties 12 inches apart. Thin seedlings as they grow, and keep rows 2 to 3 feet apart. |
-| Soil | Sunflowers can grow in sandy soils and hard soils with moderate clay content but are unsuitable for acidic soils with poor drainage for commercial cultivation. |
-| Water | Adequate soil moisture is crucial during the flowering period (7-8 weeks after emergence), so weekly supplemental irrigation is recommended to support rapid growth. |
+| Planting method | Plant seeds 1 to 2 inches deep. Space smaller varieties 6 inches apart and taller varieties 12 inches apart. Thin seedlings as they grow, and keep rows 2 to 3 feet apart |
+| Soil | Sunflowers can grow in sandy soils and hard soils with moderate clay content but are unsuitable for acidic soils with poor drainage for commercial cultivation |
+| Water | Adequate soil moisture is crucial during the flowering period (7-8 weeks after emergence), so weekly supplemental irrigation is recommended to support rapid growth |
 | Light | Full sunshine (at least 6 hours of direct sunlight) |
 
 ### Growing conditions:
-| Temperatures | Moderate temperatures are preferred during seed germination and early growth, while hot conditions are essential during flowering and maturation. |
+| Temperatures | Moderate temperatures are preferred during seed germination and early growth, while hot conditions are essential during flowering and maturation |
 |----|----|
-| Soil | Add plenty of mulch to retain moisture and suppress weeds. |
-| Water | Adequate soil moisture is critical during the flowering period (7-8 weeks after emergence), requiring weekly supplemental irrigation due to rapid growth. |
+| Soil | Well-drained, fertile soil is essential. Sunflowers prefer sandy loam with a pH between 6.5 and 7.5. If soil pH is too low, lime can be added to improve it. The soil should also retain moisture without becoming waterlogged |
+| Water | Adequate soil moisture is critical during the flowering period (7-8 weeks after emergence), requiring weekly supplemental irrigation due to rapid growth |
+| Weed Control | Apply plenty of mulch to supress weeds |
 
 ## Harvesting:
 Can be harvested within 10-11 weeks. Once the flowers mature, petals will shed and the head becomes brownish color. Harvest individual flowers using a knife.
 
 ## Curing:
-After harvesting, allow the seeds to dry in the sun for about 2-3 days. Then peel off the seeds from the head and sundry the seeds to reduce the moisture content up to 10%
+After harvesting, allow the seeds to dry in the sun for about 2-3 days. Then peel off the seeds from the head and sundry the seeds to reduce the moisture content up to 10%.
 
 ## Storage
-Store dried seeds in an airtight container in a cool, dark place Stored properly, sunflower seeds can last up to a year.
+Store dried seeds in an airtight container in a cool, dark place. Stored properly, sunflower seeds can last up to a year.
 
 ## Protecting your plants
 ### Pest control
