@@ -20,7 +20,7 @@
 - Sage
 
 ## Description:
-Cosmos are sun-loving plants with a long flowering season. These flowers come in different colours of pale pastels and whites through bright pink, crimson, orange, and other colours. They are ideal for flower beds filling the yard with open-faced blooms that can go on for months and months. There are several varieties of cosmos.
+Cosmos are sun-loving plants with a long flowering season. These flowers come in different colours of pale pastels and whites through bright pink, crimson, orange, and other colours. They are ideal for flower beds filling the yard with open-faced blooms that can go on for months and months. There are several varieties of cosmos of which the most popular are _Cosmos bipinnatus_ (Garden Cosmos), _Cosmos sulphureus_ (Yellow Garden Cosmos) and _Cosmos atrosanguineus_ (Chocolate Cosmos).
 
 ## Planting requirements
 **Planting season:** Year round
@@ -39,6 +39,7 @@ Cosmos are sun-loving plants with a long flowering season. These flowers come in
 |----|----|
 | Soil | Add to add mulch to the garden for moisture retention |
 | Water | Water regularly, but do not overwater |
+| Pruning | Not Applicable |
 | Weed control | Keep the area weed free |
 
 ## Harvesting:

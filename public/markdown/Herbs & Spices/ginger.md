@@ -3,9 +3,9 @@
 
 ## General Information
 **Generic name:** Ginger
-**Sri Lankan name:** Inguru
-**Scientific name:** Zingiber officinale
-**Plant family:** Zingiberaceae
+**Sri Lankan name:** Inguru (Sinhala) | Inji (Tamil)
+**Scientific name:** _Zingiber officinale_
+**Plant family:** _Zingiberaceae_
 **Edible parts:** Rhizome (underground root)
 **Nutrition value:** The root doesn't provide many vitamins or minerals, but it's full of antioxidants that help protect cells from damage and prevent diseases.
 
@@ -26,27 +26,29 @@
 Ginger is a perennial herb that is generally grown for its swollen underground stems, or rhizomes, which have a thickness of between 1.5 and 2.5cm. The plant grows to around 30-100cm in height, and in optimal conditions can grow to form clumps of around 1.5m x 1.5m. Ginger belongs to the same plant family as turmeric, cardamom, and galangal.
 
 ## Planting requirements
-- Mostly found in dry zone, wet zone
-**Planting season:** <update>Maha season (October to January)</update>
+**Planting season:** October to January
 
 ### Planting conditions:
-| **Propagation** | Rhizome (the part of the ginger we commonly call the root) |
+| Propagation | Rhizome (the part of the ginger we commonly call the root) |
 |----|----|
 | Planting method | Each section (cut ginger pieces) should be planted around 6 inches apart |
-| Soil | Requires a humus-rich nutrient soil. Before planting, mulching with a layer of compost or any other organic material will retain moisture and slowly break down into the soil, increasing nutrient levels. |
+| Soil | Requires a humus-rich nutrient soil. Before planting, mulch with a layer of compost or any other organic material will retain moisture and slowly break down into the soil, increasing nutrient levels. |
 | Water | Requires a moist soil but not waterlogged |
 | Light | Requires partial sunlight. 3 - 5 hours of sunlight would be ideal |
 
 ### Growing conditions:
 
-| **Temperatures** | Thrives in temperatures between 19°C and 29°C |
+| Temperatures | Thrives in temperatures between 19°C and 29°C |
 |----|----|
 | Soil | Prefers well-draining soil with plenty of organic matter. Hence, better to prepare the soil with compost as it provides the necessary nutrients while supporting moisture retention |
 | Water | Provide light watering to encourage root development. Watering is required simply to moisten the soil. Once roots begin to develop and the leaves sprout, you can increase the watering. |
 | Weeding | First weeding has to be done after one month of planting. Second weeding is done after three months of planting |
 
 ## Harvesting:
-Can be harvested within 25 weeks after the plant dies.
+The best time to harvest ginger depends on the desired maturity of the rhizomes:
+1. Mature Ginger: Typically, ginger is ready for harvesting 8 to 10 months after planting. Signs of readiness include yellowing leaves and stems that start to fall over. At this stage, the rhizomes will have a firmer skin, making them less prone to bruising during handling.
+2. Baby Ginger: If you prefer to harvest baby ginger, which is younger and has a milder flavor, you can begin harvesting about 4 to 6 months after planting. Baby ginger will have a cream color with soft pink scales and does not require peeling.
+In general, for optimal flavor and storage, it's advisable to wait until the leaves have dried and yellowed before harvesting mature ginger.
 
 ## Curing:
 After harvesting, ginger rhizomes should be washed well and cured by spreading them out in a well-ventilated area for about one day.
@@ -131,11 +133,13 @@ Fresh, unpeeled ginger can be kept for 1-2 weeks under room temperature. Keep in
 ### Up country (Difficulty: 7/10)
 **Explanation:** The cooler temperatures and higher altitudes of the upcountry can slow ginger growth.
 **Challenges/Adaptations:**
-- Ensure soil temperatures remain between 68°F and 86°F. Use black plastic mulch or row covers to warm the soil if necessary.
+- Ensure soil temperatures remain between 20°C and 30°C (68°F and 86°F). Use black plastic mulch or row covers to warm the soil if necessary.
 - Provide additional protection from strong winds using windbreaks or stakes.
 - Consider greenhouse cultivation for better temperature control in cooler regions like Nuwara Eliya.
 
 ## References for this entry
-### Content Sources:
+### Sources:
+- https://dea.gov.lk/ginger/
+- https://www.gardeningknowhow.com/edible/herbs/ginger/harvesting-ginger-roots.htm
 
 ### Image Sources: (In order of appearance)

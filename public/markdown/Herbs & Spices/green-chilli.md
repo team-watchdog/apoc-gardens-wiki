@@ -5,7 +5,7 @@
 **Generic name:** Chilies
 **Sri Lankan name:** Miris (Sinhala), Kochchika (Tamil)
 **Scientific name:** _Capsicum annuum_
-**Plant family:** Solanaceae
+**Plant family:** _Solanaceae_
 **Edible parts:** Fruit
 **Nutrition value:** Rich in vitamins C and B6 and contains about 40 calories in 100g.
 **Companion plants:**
@@ -25,17 +25,13 @@
 Chilli is a spicy fruit used in cuisine preparations. It is mostly added as an ingredient in foods to make it spicy. Apart from this, chilies also possess medicinal properties. In Sri Lanka, green chilies are an essential ingredient in many traditional dishes and are often used fresh or in dried form.
 
 ## Planting requirements
-- Grows in warm humid climate
-
-**Planting season:** Can be cultivated all year round under controlled conditions.
-- **High Season:** Late October - Mid November
-- **Young Season:** April - Early May
+**Planting season:** Can be cultivated all year round under controlled conditions. Recommended planting sesasons: April to Early May and Late October to Mid November.
   
 ### Planting conditions:
 | Propagation | Seeds |
 |----|----|
 | Planting method | Grow in seed trays, and plant the seedlings in 4-6 weeks. Better to plant them on beds for better root growth and also protection from stagnant water |
-| Soil | Can be grown in a range of soil though sandy loamy soil is preferred due to its good drainage properties. Needs a soil pH between 6.5 and 7.5 (neutral soil). |
+| Soil | Can be grown in a range of soil though sandy loamy soil is preferred due to its good drainage properties. Needs a soil pH between 6.5 and 7.5 (neutral soil) |
 | Water | Chilies cannot withstand heavy moisture and hence irrigation should be given when necessary. Water regularly, but avoid overwatering to prevent root rot |
 | Light | Requires at least 8 hours of sunlight per day |
 
@@ -46,19 +42,16 @@ Chilli is a spicy fruit used in cuisine preparations. It is mostly added as an i
 | Soil | Land should be prepared by ploughing and mixing compost about 15-20 days before sowing. Soil should be well-prepared with plenty of organic matter |
 | Water | Proper irrigation will also improve flowering and fruit setting. Therefore, it is better to irrigate based on the water-holding capacity of the soil as well as the type of soil. Water deeply once a week, allowing the top inch of soil to dry out between waterings |
 | Pruning | Prune plants in late winter or early spring to encourage bushier growth and remove any dead or diseased foliage |
-| Weeding | Whenever possible, keep the plantation free of weeds. |
+| Weeding | Whenever possible, keep the plantation free of weeds |
 
 ## Harvesting:
-Pick them after 70-80 days after planting.
+Harvest after 70-80 days after planting.
 
 ## Curing:
 Green chili does not require a curing stage.
 
 ## Storage:
 Green chili can be stored in the refrigerator for 2 to 3 weeks.
-
-## Protecting your plants:
-Certainly. I'll convert the pest and disease information from the reference file to the format you've specified. Here's the formatted version:
 
 ## Protecting your plants
 ### Pest control

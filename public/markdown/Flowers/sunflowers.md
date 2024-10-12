@@ -46,6 +46,7 @@ The sunflower (_Helianthus annuus_) is a vibrant and cheerful flower known for i
 |----|----|
 | Soil | Well-drained, fertile soil is essential. Sunflowers prefer sandy loam with a pH between 6.5 and 7.5. If soil pH is too low, lime can be added to improve it. The soil should also retain moisture without becoming waterlogged |
 | Water | Adequate soil moisture is critical during the flowering period (7-8 weeks after emergence), requiring weekly supplemental irrigation due to rapid growth |
+| Pruning | Not Applicable |
 | Weed Control | Apply plenty of mulch to supress weeds |
 
 ## Harvesting:
@@ -119,3 +120,6 @@ Store dried seeds in an airtight container in a cool, dark place. Stored properl
 **Explanation:** Sunflowers can grow in the upcountry, but they may not tolerate frost and require careful monitoring of temperatures.
 **Challenges/Adaptations:**
 - Protect from frost; monitor temperatures
+
+## References for this entry
+### Sources:

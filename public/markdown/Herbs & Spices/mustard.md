@@ -4,49 +4,48 @@
 ## General Information
 **Generic name:** Mustard
 **Sri Lankan name:** Aba (Sinhala) | Kaduku (Tamil)
-**Scientific name:** Brassica nigra
-**Plant family:** Brassicaceae
+**Scientific name:** _Brassica nigra_
+**Plant family:** _Brassicaceae_
 **Edible parts:** Seeds and leaves
-**Nutrition value:** Rich in minerals, vitamins, and antioxidants. Mustard is high in calcium, iron, magnesium, phosphorus, potassium, zinc, vitamin C, riboflavin, niacin, folate, thiamine, and pantothenic acid.
+**Nutrition value:** Rich in minerals, vitamins, and antioxidants. Mustard is high in calcium, iron, magnesium, phosphorus, potassium, zinc
+
 **Companion plants:**
-- Yarrow: Attracts pollinators and repels pests, benefiting mustard plants.
-- Dill: Attracts beneficial insects and enhances overall garden biodiversity.
-- Mint: Repels pests and attracts beneficial insects, promoting a healthier garden ecosystem.
-- Celery: Improves soil structure and enhances water retention, supporting mustard growth.
-- Chamomile: Attracts pollinators and beneficial insects, enhancing biodiversity around mustard plants.
-- Corn: Provides shade and reduces weed growth, creating a favorable microclimate for mustard.
-- Garlic: Deters pests with its strong aroma and acts as a natural fungicide against soil-borne diseases.
-- Onion: Repels pests with its strong scent and improves soil structure with its fibrous roots.
+- Yarrow
+- Dill
+- Mint
+- Celery
+- Chamomile
+- Corn
+- Garlic
+- Onion
 
 **Non-companion plants:**
-- Beans: Compete for nutrients and may inhibit mustard growth.
-- Strawberry: May compete for resources and potentially alter soil conditions unfavorably for mustard.
-- Eggplant: Can compete for nutrients and potentially attract pests that may harm mustard plants.
-- Tomato: May compete for resources and potentially host diseases that could affect mustard.
-
+- Beans
+- Strawberry
+- Eggplant
+- Tomato
 
 ## Description:
-Mustard seeds, either whole or grounded, are used in culinary preparations. Young mustard shoots cut two or three weeks after sowing form the mustard ingredient of the traditional British salad, mustard and cress. Mustard plants have glossy, dark green leaves and small white flowers.
+Mustard seeds, either whole or grounded, are used in culinary preparations. Young mustard shoots cut two or three weeks after sowing, used as an ingredient of the traditional British salad, mustard and cress. Mustard plants have glossy, dark green leaves and small yellow flowers.
 
 ## Planting requirements
-**Planting season:** April - May (Yala season), October - November (Maha season)
+**Planting season:** April to May and October to November
 
 ### Planting conditions:
-| **Propagation** | Seeds |
+| Propagation | Seeds |
 |----|----|
-| Planting method | Sow the seeds thinly in rows of two feet (60 cm) apart. For better germination, soak seeds overnight before planting. |
-| Soil | Requires a well fertile, well-drained, lightly textured sandy loam soil with a pH no less than 6. Good soil fertility is essential for obtaining good yield. Add compost or cattle manure during soil preparation, ensuring the soil has adequate organic matter. |
-| Water | Soil requires enough water for seeds to germinate. Supply water at 5-7 days interval during first 4 weeks of planting and then water at least 10-14 days interval until seeds mature. Keep the soil consistently moist but not waterlogged. |
-| Light | Full sunshine to partial shade. If the climate is too hot, may need shade covers to protect the plant. Mustard plants require at least 6 hours of sunlight daily. |
+| Planting method | Sow the seeds thinly in rows of two feet (60 cm) apart. For better germination, soak seeds overnight before planting |
+| Soil | Requires a well fertile, well-drained, lightly textured sandy loam soil with a pH no less than 6. Good soil fertility is essential for obtaining good yield. Add compost or cattle manure during soil preparation, ensuring the soil has adequate organic matter |
+| Water | Soil requires enough water for seeds to germinate. Supply water at 5-7 days interval during first 4 weeks of planting and then water at least 10-14 days interval until seeds mature. Keep the soil consistently moist but not waterlogged |
+| Light | Full sunshine to partial shade. If the climate is too hot, may need shade covers to protect the plant. Mustard plants require at least 6 hours of sunlight daily |
 
 ### Growing conditions:
-
-| **Temperatures** | Soil temperatures between 50°F and 95°F |
+| Temperatures | Soil temperatures between 10 and 35°C (50°F and 95°F) |
 |----|----|
-| Soil | Organic fertilizers are very important. Apply well decomposed compost (1%N) at the rate of 2.3 t/ha or cattle manure at the rate of 1.5 t/ha at land preparation. Apply another round 3 weeks after planting. Organic mulches help maintain moisture, suppress weeds, and boost soil fertility. |
-| Water | Adjust watering frequency based on rainfall and weather conditions. Water deeply once a week, ensuring the top inch of soil is dry between waterings. |
+| Soil | Organic fertilizers are very important. Apply well decomposed compost or cattle manure soil preparation. Apply another round 3 weeks after planting. Organic mulches help maintain moisture, suppress weeds, and boost soil fertility |
+| Water | Adjust watering frequency based on rainfall and weather conditions. Water deeply once a week, ensuring the top inch of soil is dry between waterings |
 | Pruning | Prune plants if they become leggy or to encourage bushier growth. |
-| Weed control | Remove weeds and maintain a clean field. Weed management is easier when row seeding is practiced. |
+| Weed control | Remove weeds and maintain a clean field. Weed management is easier when row seeding is practiced |
 
 ## Harvesting:
 Pod harvesting is done manually several times since pod maturity is staggered. Pull the plants out of the ground before the pods are fully ripened, when they are a yellow-brown color. Harvest leaves when they are young and tender, about 6-8 weeks after planting. Harvest seeds once they turn yellow and the pods begin to dry.
@@ -59,14 +58,39 @@ Store dried mustard seeds in an airtight container in a cool, dark place. They c
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Diamond back moth, Sucking bugs-Bagrada spp
+**Pest type:**
+- Mustard Aphid (Lipaphis erysimi)
+- Painted Bug (Bagrada hilaris)
+- Hairy Caterpillar
 
-**Symptoms:** Diamondback moth larvae feed on leaves, creating small holes. Bagrada bugs cause wilting and yellowing of leaves.
+**Symptoms:**
+- **Mustard Aphid:** Stunted growth and reduced pod formation due to sap-sucking.
+- **Painted Bug:** Wilting and drying of plants due to sap-sucking.
+- **Hairy Caterpillar:** Young larvae feed on leaves, leading to complete destruction.
 
-**Control method:** For diamond back moth: Weed management and maintain a clean field. For sucking bugs: Plant on time and maintain a clean field. Use insecticidal soap or neem oil to control pests if infestation is severe.
+**Control method:**
+- **Mustard Aphid:** Timely sowing and use of pesticides like Thiamethoxam or Chlorpyrifos.
+- **Painted Bug:** Irrigation after sowing; application of Malathion if necessary.
+- **Hairy Caterpillar:** Apply insecticides like Malathion or Dichlorvos if infestations are observed.
 
-### Disease Control:
-Mustard plants are susceptible to Alternaria blight, which causes dark spots on leaves that eventually turn brown. To prevent this, avoid overhead watering and maintain good air circulation around plants. If infected, remove affected leaves promptly.
+### Disease Control
+**Disease type:**
+- Alternaria Blight (Alternaria brassicae)
+- White Rust (Albugo candida)
+- Downy Mildew (Hyaloperonospora parasitica)
+- Sclerotinia Rot (Sclerotinia sclerotiorum)
+
+**Symptoms:**
+- **Alternaria Blight:** Dark brown spots on leaves and pods; severe cases lead to wilting.
+- **White Rust:** White pustules on leaves and stems; swelling of affected parts.
+- **Downy Mildew:** Whitish growth on leaf undersides; yellowing of upper surfaces.
+- **Sclerotinia Rot:** Elongated brown lesions on stems; can lead to complete crop failure if not managed early.
+
+**Management:**
+- **Alternaria Blight:** Use resistant varieties and apply fungicides like Indofil M-45 or Captan.
+- **White Rust:** Application of Metalaxyl + Mancozeb or Copper oxychloride.
+- **Downy Mildew:** Destroy debris before sowing and apply fungicides like Indofil M-45 multiple times during the growing season.
+- **Sclerotinia Rot:** Monitor environmental conditions closely; apply fungicide when flowering begins.
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 7/10)
@@ -109,4 +133,9 @@ Mustard plants are susceptible to Alternaria blight, which causes dark spots on 
 - https://plantpropagation.com/mustard/
 - https://www.growveg.com/guides/how-to-grow-mustard
 - https://www.almanac.com/plant/mustard
+- https://plantvillage.psu.edu/topics/mustard/infos
+- https://krishi.icar.gov.in/jspui/bitstream/123456789/41759/1/Book%20Chapter%20IPM%20Mustard%202020.pdf
+- https://www.gcirc.org/fileadmin/documents/Bulletins/B25/B25_04Mustard_in.pdf
+- https://www.grainews.ca/columns/weeds-disease-and-insects-in-mustard/
+
 - Saharan, G. S., Naresh Mehta, N. M., & Sangwan, M. S. (2003). Nature and mechanism of resistance to Alternaria blight in rapeseed–mustard system.

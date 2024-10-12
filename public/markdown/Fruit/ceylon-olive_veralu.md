@@ -24,10 +24,9 @@ It is a medium-sized tree that bears smooth ovoid green fruits about 2.5 cm long
 **Planting season:** Tropical or subtropical climates are most suitable. 
 
 ### Planting conditions:
-- Veralu is widespread throughout Sri Lanka but is more common in the wet zone and rarely found in dry regions. Flowering and fruiting occur in the dry season. Does not tolerate dry conditions and extreme cold
 | Propagation | Direct seeding, budding, grafting. |
 |----|----|
-| Planting method | Direct seeding is possible but seeds are slow to germinate. Germination can take between 3 to 9 months. Cuttings about 4-6 inches long should be planted in nurseries and allowed to take root and then transplanted. Grafting is the more successful method of producing veralu plants. For that, the wedge grafting method is more suitable.  \n  \n Pits should be prepared with a distance of 2-3 meters between the plants for transplanting. Then the pits should be filled with a mixture made by mixing well-rotted dung or compost, topsoil, and sand in equal quantities.  
+| Planting method | Direct seeding is possible but seeds are slow to germinate. Germination can take between 3 to 9 months. Cuttings about 4-6 inches long should be planted in nurseries and allowed to take root and then transplanted. Grafting is the more successful method of producing veralu plants. For that, the wedge grafting method is more suitable. Pits should be prepared with a distance of 2-3 meters between the plants for transplanting. Then the pits should be filled with a mixture made by mixing well-rotted dung or compost, topsoil, and sand in equal quantities.  
 | Soil | Well-draining soil is ideal |
 | Water | Must be watered regularly to maintain soil moisture. Do not overwater |
 | Light | Partial sunlight in early stages of growth |

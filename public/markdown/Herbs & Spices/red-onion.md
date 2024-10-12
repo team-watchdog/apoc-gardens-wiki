@@ -3,25 +3,28 @@
 
 ## General Information
 **Generic name:** Red Onion
-**Sri Lankan name:** Rata lunu, Bombai lunu
+**Sri Lankan name:** Rata lunu, Bombai lunu (Sinhala) | VeLLAi veLLai (Tamil)
 **Scientific name:** _Allium cepa l._
 **Plant family:** _Amaryllidaceae_
 **Edible parts:** The bulb
 **Nutrition value:** High in vitamins C and B6, potassium, manganese,and copper
 
 **Companion plants:**
-- Herbs: Summer savory, marjoram, rosemary, dill, mint, and parsley can improve onion flavor.
-- Chamomile: It helps prevent fungal issues and attracts beneficial insects​
+- Herbs
+- Chamomile
 
 **Non-companion plants:**
-- Asparagus: Competes for nutrients and space, leading to poor growth for both plants.
-- Legumes: Beans, peas, and other members of the legume family can be stunted in growth due to chemical incompatibility with onions.
-- Sage: Known to inhibit onion growth and development.
-- Other Alliums: Garlic, leeks, chives, and shallots can attract similar pests, increasing the risk of diseases and infestations.
-- Turnips: Planting turnips with onions can result in a loss of flavor in the turnips​
+- Asparagus
+- Legumes
+- Sage
+- Garlic
+- Leeks
+- Chives
+- Shallots
+- Turnips
 
 ## Description:
-Onions are an essential ingredient in Sri Lankan cuisine and have been grown for centuries. It can be grown the year around in many different climatic conditions, though the right timing and the method depends largely on where we live. However, they prefer cool weather during the leaf-developing stage while much hotter weather during the bulb-producing stage. 
+Onions are an essential ingredient in Sri Lankan cuisine and have been grown for centuries. It can be grown the year around in many different climatic conditions, though the right timing and the method depends largely on where we live. However, they prefer cool weather during the leaf-developing stage while much hot weather is needed during the bulb-producing stage. 
 
 There are different varieties of onions;
 - Jaffna local 
@@ -32,24 +35,24 @@ There are different varieties of onions;
 
 ## Planting requirements
 **Planting season:** In dry zone areas plant according to the following,
-- From rainwater: Maha season (September - November) & Yala season (March - April)
-- With additional water: Maha season (December - mid-January) & Yala season (May - mid-June)
+- From rainwater: September to November and March and April
+- With additional water: December to mid-January and May to mid-June
 
 ### Planting conditions:
 | Propagation | Onions can be propagated from seeds, transplants, and bulbs |
 |----|----|
-| Planting method | Onions are typically planted as either bulbs (known as "sets") or transplants. Grow seeds in seed trays, and plant out the seedlings in 4-6 weeks. Sow them at a depth approximately three times the diameter of the seed. |
-| Soil | Well-drained sandy loam and clay loam range soils are suitable. Gravel and water-dependent clay soils are not suitable. The crop is also sensitive to salinity so keep the salinity low. |
-| Water | Onions require consistent moisture, especially during bulb formation. In drier regions of Sri Lanka, regular irrigation is crucial. |
-| Light | Onions need full sun exposure. |
+| Planting method | Onions are typically planted as either bulbs (known as "sets") or transplants. Grow seeds in seed trays, and plant out the seedlings in 4-6 weeks. Sow them at a depth approximately three times the diameter of the seed |
+| Soil | Well-drained sandy loam and clay loam range soils are suitable. Gravel and water-dependent clay soils are not suitable. The crop is also sensitive to salinity so keep the salinity low |
+| Water | Onions require consistent moisture, especially during bulb formation. In drier regions of Sri Lanka, regular irrigation is crucial |
+| Light | Onions need full sun exposure |
 
 ### Growing conditions:
-
-| Temperatures | Onions thrive in various climates, preferring cool weather for leaf development and hotter conditions for bulb formation. |
+| Temperatures | Onions thrive in various climates, preferring cool weather for leaf development and hotter conditions for bulb formation |
 |----|----|
-| Soil | Maintain soil pH between 6.0 and 7.0. In more acidic soils common in some parts of Sri Lanka, add lime to adjust the pH. |
-| Water | In Sri Lanka's climate, water deeply once or twice a week, depending on rainfall. Drip irrigation is effective in conserving water and preventing leaf diseases. |
-| Weed control | Regular weeding is crucial, especially in the initial stages of growth. |
+| Soil | Maintain soil pH between 6.0 and 7.0. In more acidic soils common in some parts of Sri Lanka, add lime to adjust the pH |
+| Water | In Sri Lanka's climate, water deeply once or twice a week, depending on rainfall. Drip irrigation is effective in conserving water and preventing leaf diseases |
+| Pruning | Not Applicable |
+| Weed control | Regular weeding is crucial, especially in the initial stages of growth |
 
 ## Harvesting:
 Can be harvested within 60-90 days. When the tips of the leaves start turning yellow, bend over and break the necks of the onions. This starts the ripening process. Also, loosen the onions with a fork to start them drying without damaging the skin. Ease the onions out of the ground.
@@ -102,7 +105,7 @@ Store cured onions in a cool, dry place with good air circulation. In Sri Lanka'
 **Challenges/Adaptations:**
 - Use raised beds to improve drainage
 
-### Low country dry zone (Difficulty: 5/10)
+### Low country dry zone (Difficulty: 4/10)
 **Explanation:** Ideal conditions for onion growth, but irrigation is crucial
 **Challenges/Adaptations:**
 - Implement efficient irrigation systems like drip irrigation
