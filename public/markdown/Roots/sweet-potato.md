@@ -3,52 +3,55 @@
 
 ## General Information
 **Generic name:** Sweet Potato
-**Sri Lankan name:** Batala, Vel-kelengu
+**Sri Lankan name:** Batala (Sinhala) | Vel-kelengu (Tamil)
 **Scientific name:** _Ipomoea batatas_
 **Plant family:** _Convolvulaceae_
-**Edible parts:** tuberous root, shoots and young leaves
+**Edible parts:** Tuberous root, shoots and young leaves
 **Nutritional value:**
-- Vitamins and minerals  - Vitamin A, Vitamin C, B Vitamins, potassium, manganese
+- Vitamins and minerals - Vitamin A, Vitamin C, B Vitamins, potassium, manganese
 - Rich in fiber and on average contains 112 calories per sweet potato
 
-### Companion Plants
-- **Onions & chives**: Deter Colorado potato beetles with their pungent aroma.
-- **Spinach & lettuce**: Act as ground cover, suppress weeds, and improve soil quality.
-- **Beets & radishes**: Break up soil without interfering with tuber growth
-- **Marigolds**: Repel pests like nematodes and potato beetles.
-- **Corn & banana trees**: Provide needed shade for sweet potatoes in hot climates.
+**Companion plants:**
+- Onions
+- Chives
+- Spinach
+- Lettuce
+- Beets
+- Radishes
+- Marigolds
+- Corn
+- Banana trees
 
-### Non-Companion Plants
-- **Squash (Summer & Winter)**: Competes for nutrients and space with sweet potatoes. 
-- **Sunflowers**: Can cause potato blight and take up too much root space.
-- **Tomatoes**: Share diseases with sweet potatoes, particularly potato blight.
-- **Bush Beans**: Compete for space and nutrients, unlike pole beans.
+**Non-companion plants:** 
+- Squash
+- Sunflowers
+- Tomatoes
+- Bush Beans
 
 ## Description:
 Sweet potatoes are distinct from regular potatoes and yams. They belong to the Convolvulaceae family, which includes morning glories. The sweet potato's starchy tuberous roots are used as a root vegetable and have a sweet taste.
 
 Sweet potatoes come in a variety of types with different shapes, colors, and textures. They can be white, cream, yellow, reddish-purple, or deep purple. The most significant part of the sweet potato plant is the tuber, a large root that grows underground and is used as a food source. The leaves of the sweet potato plant vary in appearance, some being divided like fingers while others are whole. These leaves are edible and can be cooked like spinach. The plant also produces trumpet-shaped flowers in a range of purple and white hues.
 
-However, it is crucial to be aware that the green fruits that develop from the flowers of sweet potato plants are not edible.
+However, it is crucial to be aware that the green fruits that develop from the flowers of sweet potato plants are toxic and not edible.
 
 ## Planting requirements
-**Planting season:** This plant can grow with a wide range of rainfall patterns and in different soils
+**Planting season:** Year around cultivation is possible. However, the recommended seasons are April to August and September to March
 
-## Planting conditions
+### Planting conditions:
 | Propagation | Plant cuttings |
 |----|----|
 | Planting method | Plant within 4 days of cutting. Small slips that sprout directly from a sweet potato can also be planted. Fresh sweet potato seeds also germinate relatively easily but are harder to find. |
-| Soil | Sandy/ loam soil with good drainage is suitable your soil is clay, rocky, or compacted, it is recommended to consider growing plants in raised beds. Focus on developing fertile, well-draining soil for optimal root growth. |
+| Soil | Sandy/ loam soil with good drainage is suitable. If soil is clay, rocky, or compacted, it is recommended to consider growing plants in raised beds. Focus on developing fertile, well-draining soil for optimal root growth. |
 | Water | Keep soil evenly moist. At the crop's initial growth stage water supply is important |
 | Light | Requires full sunlight for optimal growth. Plant in an area that receives abundant sunlight. Under shaded conditions, both leaf and root production decrease, and the plant tends to climb to seek sunlight. This results in larger but fewer leaves and fewer tubers are produced in shady conditions. Heavy shade is not tolerated well by the plant, although some varieties may tolerate mild shade. |
-| Fertiliser / Mulch | Enhance soil quality with compost and coconut coir. Avoid animal/bird manure and heavy nitrogen fertilizers |
 
-## Growing conditions
+### Growing conditions:
 | Temperatures | This plant grows well with temperatures between 21-26°C |
 |----|----|
-| Soil | pH between 5.2 to 6.8 |
+| Soil | Maintain soil pH level between 5.2 to 6.8 |
 | Water | Excess water reduces tuber production. The equivalent of one inch of water weekly is sufficient. Apply to roots. |
-| Pruning | Prune plants regularly to maintain their desired size and shape. When plants are pinched or trimmed, it promotes new growth. |
+| Pruning | Prune plants regularly to maintain their desired size and shape. When plants are pinched or trimmed, it promotes new growth. Remove flower buds to prioritize tuber growth|
 | Weed control | It is important to remove weeds at an early stage of the crop, to reduce plant competition |
 
 ## Harvesting
@@ -56,14 +59,14 @@ The time to maturity ranges from 4 to 12 months depending on the variety planted
 
 - Handle sweet potatoes with care to prevent bruising or breaking their delicate skin.
 - Use a garden fork to lift the soil outside the root area and avoid damaging the tender roots.
-- Place harvested sweet potatoes carefully into a carrying container, instead of tossing them. <update>Use either hands or a garden fork to harvest sweet potatoes from the ground.</update>
+- Place harvested sweet potatoes carefully into a carrying container, instead of tossing them. Use either hands or a garden fork to harvest sweet potatoes from the ground.
 - Avoid washing freshly dug sweet potato roots and handle them minimally.
 
 ## Curing
 Cure the sweet potatoes by leaving them in a shaded area with high humidity for 7 to 14 days.
 
 ## Storage
-Store the cured sweet potatoes in well-ventilated crates or boxes in a cool, dark, and dry place with low humidity. <update>Ideal storage temperature is between 50 to 60°F (10 to 15°C).</update>
+Store the cured sweet potatoes in well-ventilated crates or boxes in a cool, dark, and dry place with low humidity. Ideal storage temperature is between 50 to 60°F (10 to 15°C).
 Optionally, sweet potatoes can be frozen after the curing process by peeling, cutting, and boiling them until fork tender.
 
 ## Protecting your plants
@@ -72,16 +75,15 @@ Optionally, sweet potatoes can be frozen after the curing process by peeling, cu
 - Sweet Potato Weevil (_Cylas formicarius_)
 
 **Symptoms:**
-- **Sweet Potato Weevil:** Sweet potato weevil infestation can cause the vines to turn yellow, but it may not be noticeable until a heavy infestation occurs. The damage caused by these weevils is primarily seen in the tubers, where their larvae create tunnels, resulting in cavities, a spongy texture, and a dark appearance.
+-  Sweet potato weevil infestation can cause the vines to turn yellow, but it may not be noticeable until a heavy infestation occurs. The damage caused by these weevils is primarily seen in the tubers, where their larvae create tunnels, resulting in cavities, a spongy texture, and a dark appearance.
 
 **Control method:** 
-- **Sweet Potato Weevil:**
-  - It is important to ensure that the slips or cuttings used for planting sweet potatoes are free of weevils.
-  - Proper sanitation practices, such as removing discarded and unharvested tubers and controlling Ipomoea weeds, are crucial for managing the weevil population.
-  - Maintaining moist soil through irrigation helps deter weevils and promotes the development of fungal diseases that can impact the weevil population. Cracking soils can allow the weevil access to tubers.
+- It is important to ensure that the slips or cuttings used for planting sweet potatoes are free of weevils.
+- Proper sanitation practices, such as removing discarded and unharvested tubers and controlling Ipomoea weeds, are crucial for managing the weevil population.
+- Maintaining moist soil through irrigation helps deter weevils and promotes the development of fungal diseases that can impact the weevil population. Cracking soils can allow the weevil access to tubers.
 
 ### Disease Control
-** Disease type: **
+**Disease type:**
 - Leaf scab (_Elsinoe batatas_) (Fungus)
 - Collar rot (_Phytophthora_) / Root rot (Fungus)
 
@@ -121,7 +123,7 @@ Optionally, sweet potatoes can be frozen after the curing process by peeling, cu
 - May need raised beds in areas with heavy clay soil
 - Vigilance needed for pest control, especially sweet potato weevil
 
-### Low country dry zone (Difficulty: 5/10)
+### Low country dry zone (Difficulty: 4/10)
 **Explanation:** The warm, drier climate of the low country dry zone is generally suitable for sweet potato cultivation. But requires good irrigation.
 
 **Challenges/Adaptations:**

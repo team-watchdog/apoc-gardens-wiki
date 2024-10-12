@@ -3,7 +3,7 @@
 
 ## General Information
 **Generic name:** Carrot
-**Sri Lankan name:** Sinhala:Val Kaerat Tamil: Mancalmullanki
+**Sri Lankan name:** Val Kaerat (Sinhala) | Mancalmullanki (Tamil)
 **Scientific name:** _Daucus carota_
 **Plant family:** _Apiaceae_
 **Edible parts:** Both the roots and the leaves are edible. The young leaves are used in soups. The roots can be eaten raw or cooked.
@@ -28,29 +28,29 @@
 Carrots are a root vegetable that is grown from seed. It normally grows an expanded root one year and then forms a flower the next year. It can grow up to 60 cm high and spread to 50 cm wide. The root is long in shape and orange in colour. The stem is erect, tough and furrowed. The leaves are feathery and divided 3 times. The flowers are white and lacy. 
 
 ## Planting requirements
-**Planting season:** Can be planted from September to February in the upcountry regions, and from October to January in the mid-country regions.
+**Planting season:** Can be planted from September to February in the up-country regions, and from October to January in the mid-country regions.
 
 ### Planting conditions:
-| Propagation | They are grown from seeds sown directly.|
+| Propagation | They are grown from seeds sown directly. Seed germinate well in the temperature range 7–24°C. |
 |----|----|
-| Planting method | Seeds can be mixed with sand before sowing to allow a more even distribution of plants. A spacing of 5 cm apart in rows 15–20 cm apart is suitable. Often this spacing is achieved by thinning out excess plants. direct seeding and raised beds for better drainage during monsoon seasons|
-| Soil | Requires deep, loose soil with a pH of 6.0-7.0.  Soil should be well-drained and rich in organic matter|
+| Planting method | Seeds can be mixed with sand before sowing to allow a more even distribution of plants. A spacing of 5 cm apart in rows 15–20 cm apart is suitable. Often this spacing is achieved by thinning out excess plants. direct seeding and raised beds for better drainage during rainy seasons |
+| Soil | Requires deep, loose soil with a pH of 6-7.  Soil should be well-drained and rich in organic matter |
 | Water | Consistent moisture is essential and light, frequent irrigation during root enlargement is crucial |
-| Light | Carrots require six to eight hours of direct sunlight a day. Providing afternoon shade or planting in filtered light can give carrots the amount of light they need while keeping soil temperatures lower during the hottest part of the day. In hot climate, shade netting or intercropping with taller plants can help protect carrots from excessive heat|
+| Light | Carrots require six to eight hours of direct sunlight a day. Providing afternoon shade or planting in filtered light can give carrots the amount of light they need while keeping soil temperatures lower during the hottest part of the day. In hot climate, shade netting or intercropping with taller plants can help protect carrots from excessive heat |
 
 ### Growing conditions:
-| **Temperatures** | Seed germinate well in the temperature range 7–24°C. Plants grow well with a temperature about 15°C. |
+| Temperatures | Plants grow well with a temperature about 15°C |
 |----|----|
-| Soil | Root vegetables grow faster in loose, loamy, or sandy soils. To lighten heavy soil in carrot beds, incorporate sand, low-nitrogen compost, wood shavings, shredded leaf mulch, or chopped straw. Avoid adding animal manures as these are often nitrogen-rich.|
-| Water | Daily watering is required to maintain the moisture in the soil. Therefore, provide light, frequent irrigation to obtain good yield.|
-| Pruning | Not necessary|
+| Soil | Root vegetables grow faster in loose, loamy, or sandy soils. To lighten heavy soil in carrot beds, incorporate sand, low-nitrogen compost, wood shavings, shredded leaf mulch, or chopped straw. Avoid adding animal manures as these are often nitrogen-rich |
+| Water | Daily watering is required to maintain the moisture in the soil. Therefore, provide light, frequent irrigation to obtain good yield |
+| Pruning | Not necessary |
 | Weed control | Hand-pulling or hoeing |
 
 ## Harvesting:
 Large Carrots can be harvested in 12-18 weeks.
 
 ## Curing:
-Store carrots in a cool, humid place for 2-3 weeks to improve flavour and texture.
+Cure by keeping carrots in a cool, humid place for 2-3 weeks to improve flavour and texture.
 
 ## Storage
 Store carrots in the refrigerator crisper drawer for up to 4 months. Alternatively, they can be frozen or canned. Where refrigeration may not always be available, carrots can be stored in cool, dark places or processed into pickles for longer preservation.
@@ -124,6 +124,7 @@ Store carrots in the refrigerator crisper drawer for up to 4 months. Alternative
 - **Blight:** 
   - Use of healthy seeds
   - Field sanitation
+
 - **Soft rot:**
   - Field sanitation
   - Improve drainage condition in the field
@@ -144,7 +145,7 @@ Store carrots in the refrigerator crisper drawer for up to 4 months. Alternative
 - Drought: Irrigate regularly
 - High temperatures: Provide afternoon shade
 
-### Mid country (Difficulty: 5/10)
+### Mid country (Difficulty: 4/10)
 **Explanation:** Carrots grow well in the mid-country's cooler temperatures.
 
 **Challenges/Adaptations:**
@@ -152,7 +153,7 @@ Store carrots in the refrigerator crisper drawer for up to 4 months. Alternative
 - Strong winds: Provide plant support
 - Varying rainfall: Adjust watering based on seasonal patterns
 
-### Up country (Difficulty: 4/10)
+### Up country (Difficulty: 2/10)
 **Explanation:** Carrots thrive in the up-country's cooler temperatures, making it the ideal region for carrot cultivation in Sri Lanka.
 
 **Challenges/Adaptations:**
@@ -160,7 +161,8 @@ Store carrots in the refrigerator crisper drawer for up to 4 months. Alternative
 - Short growing season: Choose fast-growing varieties
 - Steep terrain: Implement terracing and soil conservation practices
 
-#### Sources:
+## References for this entry
+### Content Sources:
 https://doa.gov.lk/hordi-crop-carrot/
 https://herbidacious.calamus.graphics/2015/05/25/how-to-grow-carrots-for-beginners/
 https://www.epicgardening.com/growing-carrots/

@@ -3,7 +3,7 @@
 
 ## General Information
 **Generic name:** Radish
-**Sri Lankan name:** Rabu (Sinhala)
+**Sri Lankan name:** Rabu (Sinhala) | Muḷḷaṅki, Muḷḷaṅkik kiḻaṅku (Tamil)
 **Scientific name:** _Raphanus sativus L._
 **Plant family:** _Brassicaceae_
 **Edible parts:** bulbs, seeds, leaf-tops
@@ -32,14 +32,13 @@ Two types of radish are commonly grown in Sri Lanka, Beeralu Rabu, and Japanese 
 ### Planting conditions:
 | Propagation | Direct seeding |
 |----|----|
-| Planting method |  Soils should be ploughed to a depth of 30-40 cm to provide the necessary depth. Spacing should be 25-30 cm between rows; and 10 cm between plants. Sow seeds in rows on raised beds. |
-| Soil | Well-drained soils are suitable, poorly drained soils can cause growth problems. A pH range of 6.0 – 7.5 is appropriate for cultivation. Radishes can grow in Sand, Loam, Clay, Acidic, Neutral, and Alkaline soils. |
+| Planting method |  Soil should be ploughed to a depth of 30-40 cm to provide the necessary depth. Spacing should be 25-30 cm between rows; and 10 cm between plants. Sow seeds in rows on raised beds |
+| Soil | Well-drained soils are suitable, poorly drained soils can cause growth problems. A pH range of 6.0 – 7.5 is appropriate for cultivation. Radishes can grow in Sand, Loam, Clay, Acidic, Neutral, and Alkaline soils |
 | Water | Irrigate daily for the first 4-5 days and then every 3-4 days, depending on rainfall |
 | Light | Requires plenty of sunlight |
-| Fertiliser / Mulch | Apply a balanced fertilizer (10-10-10) at planting time. Mix it into the top inch of soil. |
 
 ### Growing conditions:
-| Temperatures | Grows well even in dry zone conditions, but prefers cooler temperatures between 40°F - 70°F (4°C - 24°C). |
+| Temperatures | Grows well even in dry zone conditions, but prefers cooler temperatures between 4°C - 24°C (40°F - 70°F)  |
 |----|----|
 | Soil | Well-drained soils are suitable, poorly drained soils can cause growth problems. A pH range of 6.0 – 7.5 is appropriate for cultivation. |
 | Water | Irrigate daily for the first 4-5 days and then every 3-4 days, depending on rainfall |
@@ -54,8 +53,6 @@ Radishes do not require a curing stage.
 
 ## Storage: 
 Remove the tops of radishes and store them in plastic bags in the refrigerator. They can stay fresh for up to 2 weeks this way.
-
-Certainly. I'll convert the disease and pest information from the reference file into the requested format:
 
 ## Protecting your plants
 ### Pest control
@@ -83,17 +80,16 @@ Certainly. I'll convert the disease and pest information from the reference file
 - Clubroot disease
 
 **Symptoms:**
-- **Clubroot disease:** When grown in low pH (acidic) soils it can cause serious damage to the crop. The roots of the plant become thick and club shaped.
+- When grown in low pH (acidic) soils it can cause serious damage to the crop. The roots of the plant become thick and club shaped.
 
 **Management:**
-- **Clubroot disease:**
-  - The causal organism remains in the soil for a long time and cannot be destroyed by chemicals.
-  - Check the soil before planting and, if necessary, increase the pH by applying lime.
-  - Uproot and burn the infected plants. Don't use infected plants for compost preparation.
-  - Disease can be minimized by transplanting crops which are not in the same genus for about four years.
+- The causal organism remains in the soil for a long time and cannot be destroyed by chemicals.
+- Check the soil before planting and, if necessary, increase the pH by applying lime.
+- Uproot and burn the infected plants. Don't use infected plants for compost preparation.
+- Disease can be minimized by transplanting crops which are not in the same genus for about four years.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 6/10)
+### Low country wet zone (Difficulty: 8/10)
 **Explanation:** Radish can be challenging in the wet zone due to high humidity and potential fungal diseases.
 **Challenges/Adaptations:**
 - Monitor plants closely for disease signs.
@@ -114,7 +110,7 @@ Certainly. I'll convert the disease and pest information from the reference file
 - Ensure consistent watering.
 - Choose varieties that are well-adapted to mid-country conditions.
 
-### Up country (Difficulty: 5/10)
+### Up country (Difficulty: 8/10)
 **Explanation:** Radish may struggle in the up country due to cooler temperatures.
 **Challenges/Adaptations:**
 - Protect plants by using row covers or mulch.
