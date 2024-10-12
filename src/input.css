@@ -248,15 +248,15 @@
 	}
 
 	#protecting-plant-section > p{
-		@apply -mb-4 text-lg;
+		@apply mb-0 text-lg;
 	}
 
 	#protecting-plant-section li p{
-		@apply -mt-2 -mb-2;
+		@apply mt-2 mb-2;
 	}
 
-	#protecting-plant-section {
-		
+	#protecting-plant-section li > strong {
+		@apply text-gray-950 font-normal mr-1;
 	}
 }
 

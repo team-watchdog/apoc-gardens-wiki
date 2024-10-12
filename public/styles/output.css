@@ -1056,17 +1056,21 @@ iframe {
 }
 
 #protecting-plant-section > p {
-  margin-bottom: -1rem;
+  margin-bottom: 0px;
   font-size: 1.125rem;
   line-height: 1.75rem;
 }
 
 #protecting-plant-section li p {
-  margin-top: -0.5rem;
-  margin-bottom: -0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
-#protecting-plant-section {
+#protecting-plant-section li > strong {
+  margin-right: 0.25rem;
+  font-weight: 400;
+  --tw-text-opacity: 1;
+  color: rgb(3 7 18 / var(--tw-text-opacity));
 }
 
 #first-principles {
