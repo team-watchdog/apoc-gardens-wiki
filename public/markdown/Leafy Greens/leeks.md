@@ -3,127 +3,107 @@
 
 ## General Information
 **Generic name:** Leeks, Leek
-**Sri Lankan name:** Leeks (Sinhala, Tamil)
-**Scientific name:** Allium ampeloprasum
-**Plant family:** Alliaceae (Onion family)
+**Sri Lankan name:** Leeks (Sinhala) | Leeks, Ilīksu (Tamil)
+**Scientific name:** _Allium ampeloprasum_
+**Plant family:** _Alliaceae_ (Onion family)
 **Edible parts:** white and green parts
 **Nutrition value:** Contains dietary fiber
 ## Companion Plants
-- Carrots: Leeks help repel carrot root fly, protecting the carrots.
-- Celery: Leeks are suggested to improve the growth of celery when planted nearby.
-- Onions: As fellow alliums, onions share similar growing requirements and pest-repelling properties with leeks.
-- Spinach: Leeks improve the growth of spinach when planted together.
-- Cabbage: Cabbage is a good companion for onions, which are in the same family as leeks.
-- Lettuce: Like cabbage, lettuce is a good companion for onions and may benefit from the pest-repelling properties of leeks.
-- Tomatoes: Although not directly mentioned with leeks, tomatoes benefit from being near onions, which are in the same family as leeks.
-- Marigolds: While not specifically mentioned for leeks, marigolds repel many pests and can be beneficial for most vegetable crops.
+- Carrots
+- Celery
+- Onions
+- Spinach
+- Cabbage
+- Lettuce
+- Tomatoes
+- Marigolds
 
 ## Non-Companion Plants
-
-- Beans: Leeks can inhibit the growth of beans by releasing chemicals that interfere with nitrogen production.
-- Peas: Like beans, peas are also negatively affected by the chemicals released by leeks.
+- Beans
+- Peas
 
 ## Description:
-LLeeks belong to the onion family (Alliaceae) but do not form bulbs. They have a mild onion flavor and are commonly used in soups, as well as eaten raw, braised, or in casseroles or quiche. In Sri Lanka, leeks are commonly used in various curries, soups, and stir-fries, adding a subtle onion-like flavor to dishes. It's best suited for cool climatic conditions in up-country areas like Nuwara Eliya and Badulla.
+Leeks belong to the onion family (_Alliaceae_) but do not form bulbs. They have a mild onion flavor and are commonly used in soups, as well as eaten raw, braised, or in casseroles or quiche. In Sri Lanka, leeks are commonly used in various curries, soups, and stir-fries, adding a subtle onion-like flavor to dishes. It's best suited for cool climatic conditions in up-country areas like Nuwara Eliya and Badulla.
 
 ## Planting requirements
+**Planting season:** mid-March to mid-May for seed sowing. This timing aligns with the cooler climatic conditions that are favorable for leek growth, particularly in the upcountry areas like Nuwara Eliya and Badulla, where leeks thrive best due to the cooler temperatures
 
 ### Planting conditions:
-| **Propagation** | Seedlings or seeds |
+| Propagation | Seedlings or seeds |
 |----|----|
-| Planting method | Prepare 1.2 x 3 m size raised beds. Make holes 40 cm deep and roughly 15cm apart, in rows wide enough apart to allow space for maneuvering. Pour a little water into each hole, and push the leeks down into the mud. 
-| Soil | Well-drained soil with high organic matter. Best pH range is 5-6.
-| Water | Regular irrigation, especially important in the first 4 days after transplanting.
-| Light | Needs full sunshine at least for 6 hours of the day.
+| Planting method | Prepare 1.2 x 3 m size raised beds. Make holes 40 cm deep and roughly 15cm apart, in rows wide enough apart to allow space for maneuvering. Pour a little water into each hole, and push the leeks down into the mud |
+| Soil | Well-drained soil with high organic matter. Best pH range is 5-6 |
+| Water | Regular irrigation, especially important in the first 4 days after transplanting |
+| Light | Needs full sunshine at least for 6 hours of the day |
 
 ### Growing conditions:
-
-| **Temperatures** | Thrives in cooler temperatures of 15-25°C, making it suitable for upcountry regions in Sri Lanka.
+| Temperatures | Thrives in cooler temperatures of 15-25°C, making it suitable for upcountry regions |
 |----|----|
-| Soil | Leeks like rich loam, but they can, and often do, put up with practically anything. Better to provide them with plenty of manure and plenty of compost.
-| Water | Light irrigation in the morning to avoid leaf scorching
-| Pruning | No pruning required.
-| Weed control | Hand-pull weeds or use organic herbicides. 
+| Soil | Leeks like rich loam, but they can, and often do, put up with practically anything. Better to provide them with plenty of manure and plenty of compost |
+| Water | Light irrigation in the morning to avoid leaf scorching |
+| Pruning | No pruning required |
+| Weed control | Hand-pull weeds or use organic herbicides |
 
 ## Harvesting:
-Harvest leeks by either gently twisting and pulling them from the earth, or digging and lifting them. A quality leek should have a firm, white shaft more than three inches long. <update>In Sri Lanka, harvesting typically occurs 3-4 months after planting.</update>
+Harvest leeks by either gently twisting and pulling them from the earth, or digging and lifting them. A quality leek should have a firm, white shaft more than three inches long.
 
 ## Curing:
-<update>After harvesting, cure leeks by cutting off the roots and tops, then store in a cool, humid place for about two weeks.</update>
+After harvesting, cure leeks by cutting off the roots and tops, then store in a cool, humid place for about two weeks.
 
 ## Storage
-Store cured leeks in the refrigerator for up to 3 months or freeze them for later use. <update>In Sri Lanka, where refrigeration might not always be available, leeks can be stored in a cool, dry place for a shorter period.</update>
+Store cured leeks in the refrigerator for up to 3 months or freeze them for later use. Where refrigerators are not available leeks can be stored in cool, dry places.
 
-## Protecting your plants
 ## Protecting Your Plants
 ### Pest Control
-
-**Pest types:**
+**Pest type:**
 - Leafminers (Lyriomyza spp.)
 - Onion maggot (Delia antiqua)
 - Thrips (Thrips tabaci, Frankliniella occidentalis)
 
-**Symptoms and Management:**
+**Symptoms:**
+- **Leafminers:** Thin, white, winding trails on leaves; white blotches; premature leaf drop.
+- **Onion maggot:** Stunted or wilting seedlings; plants breaking at soil line; deformed bulbs.
+- **Thrips:** Leaves turning silver to gray; twisted and dying leaves; scarring of leaves.
 
-- Leafminers: 
-  - Symptoms: Thin, white, winding trails on leaves; white blotches; premature leaf drop.
-  - Management: Check transplants before planting; remove plants after harvest; use insecticides only when damage is identified to protect natural enemies.
-
-- Onion maggot:
-  - Symptoms: Stunted or wilting seedlings; plants breaking at soil line; deformed bulbs.
-  - Management: Practice good sanitation; remove all bulbs at season end; use floating row covers; apply appropriate granular insecticides if necessary.
-
-- Thrips:
-  - Symptoms: Leaves turning silver to gray; twisted and dying leaves; scarring of leaves.
-  - Management: Avoid planting near grain fields; use overhead irrigation; apply appropriate insecticides at first sign of damage.
+**Control method:**
+- **Leafminers:** Check transplants before planting; remove plants after harvest; use insecticides only when damage is identified.
+- **Onion maggot:** Practice good sanitation; remove all bulbs at season end; use floating row covers; apply appropriate granular insecticides if necessary.
+- **Thrips:** Avoid planting near grain fields; use overhead irrigation; apply appropriate insecticides at first sign of damage.
 
 ### Disease Control
 
-**Disease types:**
-1. Botrytis leaf blight (Botrytis squamosa)
-2. Damping-off (Fusarium spp.)
-3. Downy mildew (Peronospora parasitica)
-4. Pink root (Phoma terrestris)
-5. Purple blotch (Alternaria porri)
-6. White rot (Sclerotinia cepivorum)
+**Disease type:**
+- Botrytis leaf blight (Botrytis squamosa)
+- Damping-off (Fusarium spp.)
+- Downy mildew (Peronospora parasitica)
+- Pink root (Phoma terrestris)
+- Purple blotch (Alternaria porri)
+- White rot (Sclerotinia cepivorum)
 
-**Symptoms and Management:**
-
-- Botrytis leaf blight:
-  - Symptoms: Small white lesions with light green halos; leaf blighting.
-  - Management: Plant in single rows with good spacing; time irrigation for quick drying; apply fungicides when plants have at least five true leaves.
-
-- Damping-off:
-  - Symptoms: Rotting seeds; discolored root tips; wilting seedlings.
-  - Management: Use disease-free seed; treat seed with fungicide; rotate crops; consider soil steaming or fumigation.
-
-- Downy mildew:
-  - Symptoms: Pale spots on leaves; gray-purple fuzzy growth; yellowing leaves.
-  - Management: Avoid infected sets; rotate crops; plant in well-draining areas; destroy infected debris; apply appropriate fungicides.
-
-- Pink root:
-  - Symptoms: Pink to purple roots; transparent, water-soaked roots; stunted plants.
-  - Management: Use long crop rotations (3-6 years); plant resistant varieties; consider soil solarization or fumigation.
-
-- Purple blotch:
-  - Symptoms: Water-soaked lesions on leaves or stalk; brown to purple lesions with red or purple margins.
-  - Management: Use long rotations; reduce leaf wetness; apply and rotate appropriate fungicides.
-
-- White rot:
-  - Symptoms: Yellowing older leaves; stunted growth; fluffy white growth on bulb base.
-  - Management: Avoid transferring soil between sites; treat seeds with hot water; use long-term rotation; apply fungicides if available.
+**Symptoms:**
+- **Botrytis leaf blight:** Small white lesions with light green halos; leaf blighting.
+- **Damping-off:** Rotting seeds; discolored root tips; wilting seedlings.
+- **Downy mildew:** Pale spots on leaves; gray-purple fuzzy growth; yellowing leaves.
+- **Pink root:** Pink to purple roots; transparent, water-soaked roots; stunted plants.
+- **Purple blotch:** Water-soaked lesions on leaves or stalk; brown to purple lesions with red or purple margins.
+- **White rot:** Yellowing older leaves; stunted growth; fluffy white growth on bulb base.
 
 **Management:**
-1. Ensure good air circulation by proper spacing between plants.
-2. Use well-draining soil and avoid overwatering.
-3. Practice crop rotation with non-allium species.
-4. Remove and destroy infected plant debris.
-5. Use disease-resistant varieties when available.
-6. Apply appropriate fungicides or insecticides when necessary, following local regulations and guidelines.
-
+- Ensure good air circulation by proper spacing between plants.
+- Use well-draining soil and avoid overwatering.
+- Practice crop rotation with non-allium species.
+- Remove and destroy infected plant debris.
+- Use disease-resistant varieties when available.
+- Apply appropriate fungicides or insecticides when necessary, following local regulations and guidelines.
+- For specific diseases:
+  - **Botrytis leaf blight:** Plant in single rows with good spacing; time irrigation for quick drying; apply fungicides when plants have at least five true leaves.
+  - **Damping-off:** Use disease-free seed; treat seed with fungicide; rotate crops; consider soil steaming or fumigation.
+  - **Downy mildew:** Avoid infected sets; rotate crops; plant in well-draining areas; destroy infected debris; apply appropriate fungicides.
+  - **Pink root:** Use long crop rotations (3-6 years); plant resistant varieties; consider soil solarization or fumigation.
+  - **Purple blotch:** Use long rotations; reduce leaf wetness; apply and rotate appropriate fungicides.
+  - **White rot:** Avoid transferring soil between sites; treat seeds with hot water; use long-term rotation; apply fungicides if available.
 
 ## Difficulty Rating
-
 ### Low country wet zone (Difficulty: 8/10)
 **Explanation:** Leeks are challenging to grow in the wet zone due to high humidity, potential fungal diseases, and temperatures that are higher than ideal for leeks.
 

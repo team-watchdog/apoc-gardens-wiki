@@ -3,7 +3,7 @@
 
 ## General Information
 **Generic name:** Slender Amaranth, Amaranth
-**Sri Lankan names:** Thampala (Sinhala), Kuppaikkirai or Vakucakkirai (Tamil)
+**Sri Lankan names:** Thampala (Sinhala) | Kuppaikkirai, Vakucakkirai (Tamil)
 **Scientific name:** _Amaranthus viridis_ 
 **Plant family:** _Amaranthaceae_
 **Edible parts:** Leaves are eaten as a green vegetable, after cooking.
@@ -24,7 +24,7 @@ Slender Amaranth is an erect or spreading herb that grows up to 80 cm tall. The 
 **Planting season:** Can be grown year-round in Sri Lanka
 
 ### Planting conditions:
-| Propagation | Plants can be grown from seed. |
+| Propagation | Plants can be grown from seed |
 |----|----|
 | Planting method | This can be grown in wide rows. Sow seeds 1/4 inch deep leaving 6 inches of space between plants (15cm) apart. Cover seeds with a half inch of sifted compost to keep the soil from crusting |
 | Soil | It will grow well in average soil and will even grow adequately in poor soils. Only dense clay mixtures are likely to be completely unsuitable for amaranth while very rich soils might hinder flowering and seed production |
@@ -33,11 +33,12 @@ Slender Amaranth is an erect or spreading herb that grows up to 80 cm tall. The 
 
 ### Growing conditions:
 
-| Temperatures | Thrives in Sri Lanka's tropical climate with temperatures between 25°C to 35°C. Can tolerate higher temperatures with proper irrigation. |
+| Temperatures | Thrives in Sri Lanka's tropical climate with temperatures between 25°C to 35°C. Can tolerate higher temperatures with proper irrigation |
 |----|----|
-| Soil | Cover seeds with a half inch of sifted compost to keep the soil from crusting and to support germination. Remove weeds around the plant to eliminate competition for moisture and nutrients. If possible, add mulch to conserve soil moisture. |
-| Water | The plant has an average need for water, requiring no more than one inch per week. However, do not overwater the plant. |
-| Pruning | Pinch back growing tips to encourage bushier growth. |
+| Soil | Cover seeds with a half inch of sifted compost to keep the soil from crusting and to support germination. If possible, add mulch to conserve soil moisture |
+| Water | The plant has an average need for water, requiring no more than one inch per week. However, do not overwater the plant |
+| Pruning | Pinch back growing tips to encourage bushier growth |
+| Weed Control | Remove weeds around the plant to eliminate competition for moisture and nutrients |
 
 ## Harvesting:
 Pick leaves as needed.
@@ -61,17 +62,17 @@ Store in a damp cloth or plastic bag in the refrigerator for up to several days.
 ### Disease Control: 
 **Disease type:**
 - Stem Rot
+
 **Symptoms:**
-- **Stem Rot:** Stem shows dark discoloration of the stem that extends up from the root
+- Stem shows dark discoloration of the stem that extends up from the root
   
 **Management:**
-- **Stem Rot:** 
-  - Provide good air circulation
-  - Increase water drainage in the field when possible
-  - Using disease-resistant varieties when available
+- Provide good air circulation
+- Increase water drainage in the field when possible
+- Using disease-resistant varieties when available
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Thampala grows well in the wet zone due to abundant rainfall and suitable temperatures.
 **Challenges/Adaptations:**
 - Ensure good drainage to prevent waterlogging.
@@ -83,7 +84,7 @@ Store in a damp cloth or plastic bag in the refrigerator for up to several days.
 - Implement drip irrigation or regular watering.
 - Use mulch to conserve soil moisture.
 
-### Mid country (Difficulty: 5/10)
+### Mid country (Difficulty: 4/10)
 **Explanation:** The mid country provides a balanced climate for Thampala growth.
 **Challenges/Adaptations:**
 - Protect from occasional strong winds.

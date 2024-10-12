@@ -3,10 +3,10 @@
 
 ## General Information
 **Generic name:** Asian Pennywort, Indian Pennywort
-**Sri Lankan name:** Gotukola, Heen-gotukola
+**Sri Lankan name:** Gotukola, Heen-gotukola (Sinhala) | Vallaarai (Tamil)
 **Scientific name:** _Centella asiatica_
-**Plant family:** Apiaceae
-**Edible parts:** The whole plant is eaten raw or cooked. The leaves are added to tossed salads or steamed and served with rice. They can be cooked in vegetable soups or stews. The plant is also used for medicine where the leaves are made into tea. Also, the juice of the leaves diluted with water and sweetened with sugar is used as a drink.
+**Plant family:** _Apiaceae_
+**Edible parts:** Leaves
 **Nutrition value:** Contains vitamins B and C, proteins, and is high in antioxidants.
 
 **Companion plants:**
@@ -14,6 +14,7 @@
 - Spinach
 - Chives
 - Nasturtium
+
 **Non-companion plants:** Not applicable
 
 ## Description:
@@ -28,30 +29,34 @@ There are three types of vine type Gotukola according to the size of leaves;
 2. Type with medium size leaves (Meerigama selection). This is the most commercially grown Gotukola type and has good taste.
 3. Types with small leaves (WelGotukola)
 
+The leaves are eaten raw or cooked. They can be added to tossed salads or steamed and served with rice. They can also be cooked in vegetable soups or stews. The plant is also used for medicine where the leaves are made into tea. The juice of the leaves diluted with water and sweetened with sugar is used as a drink.
+
 ## Planting requirements
 **Planting season:** Grows year round
 
 ### Planting conditions:
-| Propagation | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
+| Propagation | Cuttings or runners are the easiest way to grow plants. Seeds can also be used |
 |----|----|
-| Planting method | Cuttings or runners are the easiest way to grow plants. Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom. |
-| Soil | Well-drained lowlands are the most suitable for cultivation. It required a soil with a pH range of 6-7. Can add lime or wood ash to help with the pH balance, if necessary. The soil must be adequately prepared before planting Gotu kola seeds, as this plant does not grow well in poor soil conditions. To prepare the soil for Gotu kola planting, you need to first prepare your garden bed by removing all weeds and debris before adding compost or manure to the soil. |
-| Water | Irrigation is important to maintain the soil moisture. It requires proper watering and drainage to thrive. Water logging should be avoided. If watering frequently, need to have a drainage hole in the container. After planting, make sure to water the area thoroughly. After that, rinse the soil as often as necessary to maintain it uniformly and continuously moist. |
-| Light | Gotu kola needs a lot of sunlight to grow properly. It should be placed in a sunny spot where it can receive at least six hours of sunlight every day.|
+| Planting method | Place a handful of Gotu kola seeds into a bowl of water, and soak it overnight before planting them the next day. Can plant directly on the ground or in a container with proper drainage at the bottom |
+| Soil | Well-drained soil are the most suitable for cultivation. It required a soil with a pH range of 6-7. Can add lime or wood ash to help with the pH balance, if necessary. The soil must be adequately prepared before planting Gotu kola seeds, as this plant does not grow well in poor soil conditions. To prepare the soil for first prepare your garden bed by removing all weeds and debris before adding compost or manure to the soil |
+| Water | Irrigation is important to maintain the soil moisture. It requires proper watering and drainage to thrive. Water logging should be avoided. If watering frequently, need to have a drainage hole in the container. After planting, make sure to water the area thoroughly. After that, rinse the soil as often as necessary to maintain it uniformly and continuously moist |
+| Light | Gotu kola needs a lot of sunlight to grow properly. It should be placed in a sunny spot where it can receive at least six hours of sunlight every day |
 
 ### Growing conditions:
-| Temperatures | It needs a temperature above 10°C. |
+| Temperatures | It needs a temperature above 10°C |
 |----|----|
 | Soil | Raised beds or sunken beds should be prepared according to the selected field to facilitate good drainage. Good textured soil with fine filth is more suitable for the growth of deep roots. Both organic and inorganic fertilizers can be applied to the crop. |
-| Water | The plant should be watered every day during the summer months and every two days during the winter months. The main target here is to keep moist soil.|
-| Pruning | Pinch back growing tips to encourage bushier growth. |
-| Weed control | Hand-pull weeds regularly, especially during the first few weeks after planting. |
+| Water | The plant should be watered every day during the dry seasons. The main target here is to keep the soil moist |
+| Pruning | Pinch back growing tips to encourage bushier growth |
+| Weed control | Hand-pull weeds regularly, especially during the first few weeks after planting |
 
 ## Harvesting:
-Gotu kola leaves can be picked throughout the summer months. The leaves can be used dried or fresh for use in infusions, milk decoctions, or powdered.
+The best time to harvest Gotu Kola is approximately 100 days after planting. This initial harvest can yield a significant amount of leaves, and you can continue to harvest for about 2-3 years thereafter, depending on the plant's health and growth conditions.
+
+You can harvest Gotu Kola whenever the leaves are green and healthy. It's advisable to leave some leaves on the plant to ensure its continued growth and vitality.
 
 ## Curing: 
-Gotu Kola does not require a curing stage
+Gotu Kola does not require a curing stage.
 
 ## Storage: 
 Fresh leaves can be stored in the refrigerator for up to one week.
