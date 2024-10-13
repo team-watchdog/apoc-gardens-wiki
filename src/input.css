@@ -251,11 +251,17 @@
 		@apply mb-0 text-lg;
 	}
 
+	// The list of protecting plants
 	#protecting-plant-section li p{
 		@apply mt-2 mb-2;
 	}
 
+	// The disease / pest names
 	#protecting-plant-section li > strong {
+		@apply text-gray-950 font-normal mr-1;
+	}
+
+	#protecting-plant-section li > p strong {
 		@apply text-gray-950 font-normal mr-1;
 	}
 }
@@ -280,4 +286,5 @@
 	#first-principles p {
 		@apply text-pretty text-lg mb-2 antialiased leading-relaxed;
 	}
+
 }
