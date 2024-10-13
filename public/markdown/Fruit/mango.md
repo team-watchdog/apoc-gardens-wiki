@@ -2,29 +2,28 @@
 ![Mango.jpg](../../assets/images/Mango.jpg "By Judgefloro - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=61500223")
 ## General Information
 **Generic name:** Mango
-**Sri Lankan name:** Amba (Sinhala), Māṅkāy (Tamil)
-**Scientific name:** Mangifera indica
-**Plant family:** Anacardiaceae
-**Edible parts:** Fruit, young leaves
-**Nutrition value:** lots of Vitamin C
-**Companion plants:**
-Mango trees are typically planted in isolation, but can be supplemented by:
-
-- Legumes such as beans and peas: these act as nitrogen-fixers
-- Bananas: Compatible in agroforestry systems with mangoes, especially since they provide biomass and mulch
-- Cocoa: Can be integrated into mango-based agroforestry systems
-- Ginger: Repels pests and improves soil microbial abundance.
-- Turmeric: Pairs with ginger to repel pests and enhance soil health.
-- Nasturtium: Attracts pollinators and acts as a trap crop for pests.
-- Comfrey: Provides nutrient-rich mulch and fixes nitrogen in the soil.
+**Sri Lankan name:** Amba (Sinhala) | Māṅkāy (Tamil)
+**Scientific name:** _Mangifera indica_
+**Plant family:** _Anacardiaceae_
+**Edible parts:** Fruit
+**Nutrition value:** Nutrient-dense fruit high in Vitamin C, essential vitamins, minerals, and antioxidants.
+**Companion plants:** Mango trees are typically planted in isolation, but can be supplemented by:
+- Legumes ( beans, peas)
+- Bananas
+- Cocoa
+- Ginger
+- Turmeric
+- Nasturtium
+- Comfrey
 
 **Non-companion plants:**
-- Avoid planting near coconut trees as they compete for nutrients and water.
-- Avoid other mango trees planted too closely: A 10m x 10m spacing is recommended to avoid competition
+- Coconut trees
+- Avoid other mango trees planted too closely
 
 ## Description:
-Mangoes are erect, branched evergreen trees that grow up to 40 m high and can be long lived. Trees spread to 15 m across and have strong deep roots. The leaves are 10–30 cm long, 2–10 cm wide, shaped like a spear and are arranged in spirals. Some kinds of mangoes have leaves with a wavy edge. In Sri Lanka, there are several local varieties of mangoes, including Willard, Karutha Colomban, Malwana, Horanahiru, Velleicolomban, and TOM EJC.
-Mangoes are erect, branched evergreen trees that grow up to 40 m high and can be long lived. Trees spread to 15 m across and have strong deep roots. The leaves are 10–30 cm long, 2–10 cm wide, shaped like a spear and are arranged in spirals. Some kinds of mangoes have leaves with a wavy edge. In Sri Lanka, there are several local varieties of mangoes, including:
+Mangoes are erect, branched evergreen trees that grow up to 40 m high and can be long lived. Trees spread to 15 m across and have strong deep roots. The leaves are 10–30 cm long, 2–10 cm wide, shaped like a spear and are arranged in spirals. Some kinds of mangoes have leaves with a wavy edge. In Sri Lanka, there are several local varieties of mangoes.
+
+Available varieties:
 
 - Horanahiru: Recommended for the low country wet zone, fast vegetative growth, regular and prolific flowering, unique taste, moderately resistant to Anthracnose, long shelf life, golden yellow pulp when ripe.
 - Karthacolomban: Recommended for dry and intermediate zones, long shape with short beak, dark green and thick peel, soft golden color and juicy flesh.
@@ -39,23 +38,21 @@ Mangoes are erect, branched evergreen trees that grow up to 40 m high and can be
 **Planting season:** May to August, best done before the onset of the rainy season.
 
 ### Planting conditions:
-| **Propagation** | Seeds germinate in 3–6 weeks |
+| Propagation | Seeds germinate in 3–6 weeks |
 |----|----|
-| Planting method | Should be planted keeping a spacing of 6–12 m between plants. The size of the planting hole should be 60 cm x 60 cm x 60 cm, or 90 cm x 90 cm x 90 cm if the soil is very hard |
+| Planting method | Should be planted keeping a spacing of 6–12 m between plants. The size of the planting hole should be 60 cm x 60 cm x 60 cm, or 90 cm x 90 cm x 90 cm if the soil is very hard. A 10m x 10m spacing between trees is recommended |
 | Soil | Can grow in a range of soils. In wetter areas, soils with less clay are better. They can also withstand occasional flooding. A soil pH of 5.5 to 6.5 is best. Soils with pH above 7.5 cause plants to develop iron deficiency |
 | Water | Young plants require regular watering. Water the trees right after planting and during drought periods |
-| Light | Full sunshine (8-10 hours of direct sun is optimal) |
+| Light | 8-10 hours of direct sun is optimal |
 
 ### Growing conditions:
 
-| **Temperatures** | They thrive best where temperatures are about 25°C but will grow with temperatures between 10 and 42°C |
+| Temperatures | They thrive best where temperatures are about 25°C but will grow with temperatures between 10 and 42°C |
 |----|----|
 | Soil | Deep, rich, well drained soils provide the best production. Fill the planting hole with organic manure and top soil 2 weeks before planting |
 | Water | Mango trees grow best when watered using a wet/dry cycle. This means irrigating until the soil is fully saturated, then waiting until the soil is relatively dry before watering again. Mangos do not tolerate constantly wet conditions, so allowing the soil to dry down will keep the mango tree healthy. Soaker hoses, micro-sprinklers, or drip irrigation is preferred to prevent excessive water runoff |
-| Fertiliser / Mulch | Fertilize mango trees in spring and summer only, and only a little at a time. Foliar spraying with fish fertilizer or seaweed solution can provide trace elements and avoid deficiencies |
-
-## Pruning:
-Mangoes respond very well to pruning. It can be used to control tree size and shape, improve productivity, and enhance fruit quality. Prune to maintain an open crown, allowing air and light to penetrate. Regular pruning helps in canopy management, which is essential for good productivity.
+| Pruning | Mangoes respond very well to pruning. It can be used to control tree size and shape, improve productivity, and enhance fruit quality. Prune to maintain an open crown, allowing air and light to penetrate. Regular pruning helps in canopy management, which is essential for good productivity |
+| Weed control | Effective weed control to ensure healthy growth and optimal fruit production. Weeds can compete with mango trees for nutrients |
 
 ## Harvesting:
 Seedling trees produce after 4–6 years and increase in production up to 20 years. Harvesting should be done between 10.00 am to 3.00 pm, using a fruit picker. In Sri Lanka, harvesting typically occurs from May to July. Fruits can be harvested when they change color from dark green to light green, or when yellow color appears on either side of the green shoulder.
@@ -120,6 +117,7 @@ Caution: Be careful of the mango sap when harvesting, as it can cause burns, all
 - To germinate, either place the whole seed in a warm, moist place or carefully extract the embryos and plant individually.
 - Seedling trees may take 5-8 years to fruit, compared to 3-4 years for grafted trees.
 
+## Difficulty Rating
 ### Low country wet zone (Difficulty: 5/10)
 **Explanation:** While mangoes can face challenges in the wet zone due to high humidity and rainfall, there are varieties specifically recommended for this area.
 
@@ -149,7 +147,7 @@ Caution: Be careful of the mango sap when harvesting, as it can cause burns, all
 - TOM EJC: Large fruit, orange flesh with less fiber, good for commercial cultivation.
 - Malwana: Medium size, light green color, good taste.
 
-### Intermediate zone (Difficulty: 5/10)
+### Mid country (Difficulty: 5/10)
 **Explanation:** The intermediate zone offers a balance between wet and dry conditions, making it suitable for several mango varieties. 
 
 **Challenges/Adaptations:**

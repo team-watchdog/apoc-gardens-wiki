@@ -4,24 +4,25 @@
 ## General Information
 **Generic name:** Pomegranate
 **Sri Lankan name:** Delum (Sinhala) | Mathulai palam (Tamil) 
-**Scientific name:** Punica granatum
-**Plant family:** Punicaceae
+**Scientific name:** _Punica granatum_
+**Plant family:** _Punicaceae_
 **Edible parts:** Fruit
-**Nutrition value:** High in antioxidants, vitamins C and K, and minerals like potassium and iron. A 100g serving provides around 83 calories.
+**Nutrition value:** High in antioxidants, vitamins C and K, and minerals like potassium and iron. A 100g serving provides around 83 calories
+
 **Companion plants:**
-- Rosemary: Its strong scent can deter pests that might affect pomegranates.
-- Lavender: Attracts pollinators and its scent can repel some pests.
-- Sage: Can improve the flavor of pomegranates and attract beneficial insects.
-- Thyme: Acts as a ground cover, suppressing weeds and conserving soil moisture.
-- Marigold: Repels nematodes and other soil pests that could damage pomegranate roots.
-- Nasturtium: Attracts beneficial insects and can act as a trap crop for aphids.
-- Borage: Attracts pollinators and can improve soil health.
+- Rosemary
+- Lavender
+- Sage
+- Thyme
+- Marigold
+- Nasturtium
+- Borage
 
 **Non-companion plants:**
-- Fennel: Can inhibit growth of nearby plants and may attract pests harmful to pomegranates.
-- Potatoes: May compete for nutrients and can attract pests that could also affect pomegranates.
-- Cucumbers: Have different water requirements and may compete for resources.
-- Brassicas (e.g., cabbage, broccoli): Can deplete soil of nutrients that pomegranates need.
+- Fennel
+- Potatoes
+- Cucumbers
+- Brassicas (e.g., cabbage, broccoli)
 
 ## Description:
 Pomegranates are brownish-yellow to purplish-red berries 2‒5 in (5‒12 cm) in diameter with a smooth, leathery skin. Pomegranate leaves are glossy, dark green, oblong to oval, and 1‒1.25 in. (2.5‒3 cm) long. Leaves are arranged opposed and pairs alternately crossing at right angles and clustered on short branchlets.
@@ -35,20 +36,19 @@ Important pomegranate varieties cultivated in Sri Lanka include:
 4. Nayana: Dark green leaves, thorny plant, and light pink fruit with harder seeds.
 
 ## Planting requirements
-**Planting season:** Year-round, but best during the dry season (May to September)
+**Planting season:** Year-round, but best during the dry season, May to September
 
 ### Planting conditions:
-| **Propagation** | Propagated from hardwood cuttings |
+| Propagation | Propagated from hardwood cuttings |
 |----|----|
 | Planting method | Plant them with a spacing of 5-7 ft (1.5-2 m) between plants and 8-10 ft (2.5-3 m) between rows for smaller Sri Lankan varieties |
 | Soil | Adapts well to Sri Lankan soil types, including sandy loam and lateritic soils. Prefers well-drained soil with a pH range of 5.5‒7.0 |
 | Water | Should maintain adequate soil moisture. Requires consistent watering |
 | Light | Requires full sunshine (at least 6 hours) |
-| Fertiliser / Mulch | Add compost and organic mulch annually. Apply NPK fertilizer in balanced ratios |
 
 ### Growing conditions:
 
-| **Temperatures** | Thrives in Sri Lanka's tropical climate with temperatures between 25-35°C |
+| Temperatures | Thrives in Sri Lanka's tropical climate with temperatures between 25-35°C |
 |----|----|
 | Soil | Add compost and mulch annually |
 | Water | Should be irrigated every 5-7 days during dry periods. Drip irrigation or basin irrigation is preferred |
@@ -66,15 +66,38 @@ Store pomegranates in a cool, dry place for up to two weeks in Sri Lanka's clima
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** 
-In Sri Lanka, common pests include fruit flies, aphids, and fruit borers
-**Symptoms:** Holes in leaves or fruit, sticky honeydew on leaves, premature fruit drop
-**Control method:** Use neem oil, pheromone traps for fruit flies, and maintain orchard hygiene. Implement integrated pest management practices
+**Pest types:**
+- Fruit flies
+- Aphids
+- Fruit borers
+
+**Symptoms:**
+- Holes in leaves or fruit
+- Sticky honeydew on leaves
+- Premature fruit drop
+
+**Control methods:**
+- Use neem oil
+- Set up pheromone traps for fruit flies
+- Maintain orchard hygiene
+- Implement integrated pest management practices
 
 ### Disease Control
-**Disease type:** In Sri Lanka, pomegranates can be affected by diseases such as fruit spot, leaf spot, and root rot
-**Symptoms:** Brown spots on leaves or fruit, wilting, and yellowing of leaves
-**Management:** Avoid overhead watering, maintain good air circulation, and remove infected plant material. Use copper-based fungicides if necessary, following local agricultural guidelines
+**Disease types:**
+- Fruit spot
+- Leaf spot
+- Root rot
+
+**Symptoms:**
+- Brown spots on leaves or fruit
+- Wilting
+- Yellowing of leaves
+
+**Management:**
+- Avoid overhead watering
+- Maintain good air circulation
+- Remove infected plant material
+- Use copper-based fungicides if necessary, following local agricultural guidelines
 
 ## Difficulty Rating
 
@@ -92,7 +115,7 @@ In Sri Lanka, common pests include fruit flies, aphids, and fruit borers
 - Use mulching to retain soil moisture and reduce water evaporation
 
 ### Mid country (Difficulty: 5/10)
-**Explanation:** This zone provides a good balance of temperature and rainfall, but may require some frost protection in colder areas.
+**Explanation:** This zone provides a good balance of temperature and rainfall.
 **Challenges/Adaptations:**
 - Protect from extreme temperatures with mulching or windbreaks. Consider providing shade during peak heat hours.
 - In areas with heavy rainfall, ensure proper drainage and consider planting on slopes

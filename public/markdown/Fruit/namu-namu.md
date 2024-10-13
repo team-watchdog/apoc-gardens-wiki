@@ -1,44 +1,44 @@
 # Namu-Namu
 ![Namnam](../../assets/images/Cynometra.jpg "Image - Cynom caulif Fr 071126-1806 tdp.jpg, Wikimedia Commons")
 
-
 ## General Information
 **Generic name:** Nam-Nam
-**Sri Lankan name:** Namnam (Sinhala)
-**Other names:** Katak Puru, Puki Anjing, Namu-Namu
-**Scientific name:** Cynometra cauliflora
-**Plant family:** Fabaceae
-**Edible parts:** Fruit, Young leaves
-**Other uses:** Ornamental, Medicinal
+**Sri Lankan name:** Naminam (Sinhala) | Wathakai Palam (Tamil)
+**Scientific name:** _Cynometra cauliflora_
+**Plant family:** _Fabaceae_
+**Edible parts:** Fruit
+**Nutrition value:* Contains of Vitamin C, Vitamin A and Antioxidant
+
 **Companion plants:**
-Companion plant information is limited.
+Not Applicable
+
+**Non-companion plants:**
+Not Applicable
 
 ## Description:
-Cynometra cauliflora is a small, cauliflorous tree growing 3-15 meters tall, with a thick, heavily branched stem. Each leaf has a pair of ovate to ovate-oblong leaflets about 5.5-16.5 cm long and 1.6-5.6 cm wide, with a smooth surface. Small pinkish-white flowers, about 1.2 cm across, are borne on the trunk (cauliflorous), with 4-5 small racemes clustered together on hard knots.
+Nam Nam fruit grows on the tree _Cynometra cauliflora_, which is characterized by its cauliflorous flowers that emerge directly from the trunk and branches. This unique growth habit allows the fruit to develop in clusters along the stems. The fruits brownish-green kidney-shaped fleshy pods, 3-9 cm long, containing 1 brown flattened seed. The pod does not split open readily, but a line is visible along the fruit and divides it into two. The texture of the skin is coriaceous and uneven. The pod is edible, with aromatic and juicy yellow pulp.
 
-The fruits are brownish-green kidney-shaped fleshy pods, 3-9 cm long, containing 1 brown flattened seed. The pod does not split open readily, but a line is visible along the fruit and divides it into two. The texture of the skin is coriaceous and uneven. The pod is edible, with aromatic and juicy yellow pulp.
-
-In Sri Lanka, it is primarily known as Namnam and is found in home gardens and some commercial plantations, particularly in the wet and intermediate zones.  The tree is wind-resistant. Yields data from South-East Asia shows low productivity, so it's often grown more for curiosity and variety than output. As a legume, it likely has a symbiotic relationship with soil bacteria, fixing nitrogen in the soil.
+In Sri Lanka, it is primarily known as Namnam and is found in home gardens and some commercial plantations, particularly in the wet and intermediate zones. The tree is wind-resistant.
 
 ## Planting requirements
-**Planting season:** October to November (during the north-east monsoon)
+**Planting season:** October to November
 
 ### Planting conditions:
-| **Propagation** | Direct seeding or through budding |
-|-----------------|-----------------------------------|
-| Planting method | Well-draining soil is ideal. |
-| Soil | Prefers a pH in the range 5-6, tolerating 4.5-6.5. Avoid waterlogging, especially during monsoon seasons. Ensure proper drainage. |
+| Propagation | Direct seeding or through budding |
+|----|----|
+| Planting method | Well-draining soil is ideal |
+| Soil | Prefers a pH in the range 5-6, tolerating 4.5-6.5. Avoid waterlogging, especially during monsoon seasons. Ensure proper drainage |
 | Water | Moderate water requirements. Annual rainfall of 1,500-2,000mm preferred, tolerates 1,200-2,500mm. |
-| Sunlight | Full sun preferred, but tolerates some shade. |
+| Sunlight | Full sun preferred, but tolerates some shade |
 
 ### Growing conditions:
-| Temperatures | Prefers annual daytime temperatures within the range 22-35°C, but can tolerate 17-40°C. Adaptable plant that can grow in most Sri Lankan climates, but may require protection from extreme heat in dry zones. |
-|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Temperatures | Prefers annual daytime temperatures within the range 22-35°C, but can tolerate 17-40°C. May require protection from extreme heat in dry zones |
+|----|----|
 | Elevation | Grows well at elevations up to 400 meters |
 | Soil | Well-draining soil is ideal |
-| Water | Regular watering during dry periods, especially in dry and intermediate zones. |
-| Pruning | Prune in late winter to early spring to encourage bushier growth. |
-| Weed control | Mulch around the base of the plant to suppress weeds and retain moisture. |
+| Water | Regular watering during dry periods, especially in dry and intermediate zones |
+| Pruning | Prune to encourage bushier growth |
+| Weed control | Mulch around the base of the plant to suppress weeds and retain moisture |
 
 ## Harvesting:
 Seedling trees begin to flower after about 6 years. Pods mature about 2 months after flowering. Fruits are ready to harvest when they turn yellow-brown.
@@ -72,7 +72,7 @@ Store fresh fruits in a cool, dry place for up to a week. For longer storage, dr
 **Management:** Ensure well-draining soil, avoid overwatering, and improve soil aeration. Remove affected plants to prevent spread.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Nam-Nam thrives in the wet zone due to high rainfall and humidity. However, care must be taken to prevent fungal diseases.
 
 **Challenges/Adaptations:**
@@ -84,7 +84,7 @@ Store fresh fruits in a cool, dry place for up to a week. For longer storage, dr
 **Challenges/Adaptations:**
 - Use mulching to retain soil moisture and reduce water evaporation.
 
-### Mid country (Difficulty: 5/10)
+### Mid country (Difficulty: 3/10)
 **Explanation:** The mid-country climate is generally suitable for Nam-Nam, offering a balance of rainfall and temperature.
 
 **Challenges/Adaptations:**
@@ -102,3 +102,4 @@ Store fresh fruits in a cool, dry place for up to a week. For longer storage, dr
 - https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2833
 - Samling, B. A., Assim, Z., Tong, W. Y., Leong, C. R., Ab Rashid, S., Kamal, N. N. S. N. M., ... & Tan, W. N. (2021). Cynometra cauliflora L.: An indigenous tropical fruit tree in Malaysia bearing essential oils and their biological activities. Arabian Journal of Chemistry, 14(9), 103302.
 - https://tropical.theferns.info/viewtropical.php?id=Cynometra+cauliflora
+- https://tropicalfruitfarm.com.my/fruits/k-o,n/nam-nam/

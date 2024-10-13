@@ -1,25 +1,25 @@
 # Papaya
 ![Papaya.jpeg](../../assets/images/Papaya.jpeg "By H. Zell - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9438074")
+
+## General Information
 **Generic name:** Papaya, papaw, paw paw
-**Sri Lankan name:** Papol (Sinhala), Pappāḷi (Tamil)
-**Scientific name:** Carica papaya
-**Plant family:** Caricaceae
+**Sri Lankan name:** Papol (Sinhala) | Pappāḷi (Tamil)
+**Scientific name:** _Carica papaya_
+**Plant family:** _Caricaceae_
 **Edible parts:** Fruit
-**Nutrition value:** High in vitamins A and C, folate, pantothenic acid, and magnesium. It also contains fiber, potassium, and small amounts of other vitamins and minerals.
-## Companion Plants for Papaya
+**Nutrition value:** High in vitamins A and C, folate, pantothenic acid, and magnesium. It also contains fiber, potassium, and small amounts of other vitamins and minerals
 
-- Marigolds: They act as natural guardians against underground nematodes, protecting papaya trees from these harmful pests.
-- Basil: It serves as a pest deterrent, creating a protective barrier around papaya trees by repelling unwanted insects.
-- Nasturtiums: These flowers act as a sacrificial trap crop, luring pests away from papaya trees while adding color to the garden.
-- Comfrey: It enriches the soil with nutrients, supporting papaya trees' growth in a symbiotic relationship.
-- Chives: They offer a pest-repellent fragrance that keeps aphids and other insects at a distance from papaya trees.
-- Legumes: As nitrogen-fixers, legumes enrich the soil with essential nutrients, promoting healthier growth and improved fruit production in papaya trees.
+**Companion plants:**
+- Marigolds
+- Basil
+- Nasturtiums
+- Comfrey
+- Chives
+- Legumes
 
-## Non-Companion Plants for Papaya
-
-- Potatoes: They compete with papaya for nutrients and attract similar pests, including green peach aphids that can spread diseases like the Papaya ringspot virus.
-- Fennel: It's allelopathic, releasing chemicals into the soil that can inhibit papaya's growth, and competes aggressively for root space and nutrients.
-
+**Non-companion plants:**
+- Potatoes
+- Fennel
 
 ## Description:
 Papaya is a tropical fruit known for its sweet, juicy flesh and vibrant color. The fruit has a soft, butter-like consistency when ripe, with a central cavity filled with black, edible seeds. In Sri Lanka, papaya is widely cultivated in home gardens and commercial plantations, particularly in the low country wet and dry zones.
@@ -34,38 +34,32 @@ Several papaya varieties are cultivated in Sri Lanka, each with its own characte
 
 3. **Red Lady:** A high-quality imported hybrid that produces 60-80 fruits per tree annually. The fruits weigh 1.5-2.0 kg and have red flesh with a sugar content (Brix) of 12. It's resistant to ringspot virus disease, making it a popular choice for commercial cultivation.
 
+## Planting requirements
+**Planting season:** Year-round in Sri Lanka, with best results when planted at the onset of rainy seasons.
+
+### Planting conditions:
+| Propagation | Propagation from seeds |
+|----|----|
+| Planting method | Plant the seeds in a pot for germination and when the seedlings are 1 foot tall, plant them on the ground. Papaya can survive long periods of neglect and will send deep roots in, so removing it will be quite difficult once the plant takes root |
+| Soil | Requires well drained soil that is rich in organic matter. Prefer a soil pH of 5.5 to 6.5 |
+| Water | Requires regular watering in the growing season. Keep the soil moist |
+| Light | Requires full sunshine |
+
+### Growing conditions:
+| Temperatures | Thrives in Sri Lanka's tropical climate with temperatures between 25°C and 35°C |
+|----|----|
+| Soil | Add compost or manure into the soil |
+| Water | Regular watering is crucial, especially during dry spells. In wet zones, ensure proper drainage to prevent waterlogging |
+| Pruning | Papaya trees benefit from regular pruning to enhance growth and fruit production |
+| Weed control | Removes weeds around the papaya tree by adding mulch or hand weeding |
+ 
+## Harvesting:
+Ripe papaya turns either yellow or an amber to orange hue depending on the type. Pick them when they are ripe. In Sri Lanka, papayas can be harvested year-round, with peak seasons typically occurring 6-9 months after planting.
+
 Papayas can be consumed in various ways:
 1. Fresh: Eaten raw as a dessert or in fruit salads
 2. Green papaya: Used in salads or cooked as a vegetable in curries
 3. Juice: Blended into refreshing drinks or smoothies
-
-
-In Sri Lanka, papaya is not only valued for its taste but also for its nutritional benefits and versatility in local cuisine. It's a common sight in markets and is often served as a breakfast fruit or used in various dishes throughout the day. The availability of different varieties allows growers to choose types that best suit their local climate conditions and intended use, whether for home consumption or commercial production.
-
-![Papaya plant](/api/attachments.redirect?id=b9d69e4e-a501-4655-8a9b-12fedde0702c)
-
-*Image - Tim McCormack, WIkimedia Commons*
-
-## Planting requirements
-**Planting season:** Year-round in Sri Lanka, with best results when planted at the onset of rainy seasons (Yala and Maha). Papaya can survive long periods of neglect and will send deep roots in, so removing it will be quite difficult once the plant takes root. 
-
-### Planting conditions:
-| **Propagation** | Plant the seeds in a pot for germination and when the seedlings are 1 foot tall, plant them on the ground |
-|----|----|
-| Planting method | Requires well drained soil that is rich in organic matter. Prefer a soil pH of 5.5 to 6.5 |
-| Soil | Requires regular watering in the growing season. Keep the soil moist |
-| Water | Requires full sunshine |
-
-### Growing conditions:
-
-| **Temperatures** | Thrives in Sri Lanka's tropical climate with temperatures between 25°C and 35°C |
-|----|----|
-| Soil | Add compost or manure into the soil |
-| Water | Regular watering is crucial, especially during dry spells. In wet zones, ensure proper drainage to prevent waterlogging |
-| Pruning | Propagation from seeds |
-
-## Harvesting:
-Ripe papaya turns either yellow or an amber to orange hue depending on the type. Pick them when they are ripe. In Sri Lanka, papayas can be harvested year-round, with peak seasons typically occurring 6-9 months after planting.
 
 ## Curing:
 Papayas do not require curing after harvesting.
@@ -87,18 +81,57 @@ Store ripe papayas at room temperature for up to 5 days, or in the refrigerator 
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** Fruit flies, mealybugs, spider mites, and whiteflies
 
-**Symptoms:** Leaf discoloration, wilting, and spots on fruits.
+**Pest types:**
+- Mealy bug
+- Scale insects
+- Mites
 
-**Control method:** Use neem oil or pyrethrum-based organic insecticides. Implement fruit bagging techniques to protect against fruit flies. Maintain good air circulation to prevent pest buildup.
+**Symptoms:**
+- **Mealy bug:** White fluffy layer covering leaves, stems, and fruits. Yellow sap-sucking areas on fruits. Black mold growth on leaves and fruits.
+- **Scale insects:** Round brown scale-like insect colonies on fruits. Green and yellow discoloration on affected areas.
+- **Mites:** Leaves bent downwards, shriveled and yellow. Mites visible on underside of infected leaves and along stems.
+
+**Control methods:**
+- **Mealy bug:** Clean with brush in early stages. Apply high-pressure water jets. Cut and burn damaged parts. Spray mineral oil solution.
+- **Scale insects:** Apply recommended insecticides in high infestation conditions.
+- **Mites:** Maintain good sanitation. Increase soil water retention. Provide proper irrigation. Plant Lantana Camara as hedge. Spray recommended sulfur mixture.
 
 ### Disease Control
-**Disease type:** Papaya ringspot virus, anthracnose, and phytophthora root rot
 
-**Symptoms:** Yellowing and mottling of leaves, stunted growth, and deformed fruits for papaya ringspot virus. Brown or black spots on fruits and leaves for anthracnose. Wilting and root decay for phytophthora root rot.
+**Disease types:**
+- Ringspot virus
+- Anthracnosis
+- Phytophthora disease
+- Leaf spot disease
+- Root rot and stem rot
+- Papaya phytoplasma disease
 
-**Management:** Use disease-resistant varieties, practice crop rotation, maintain proper drainage, and apply copper-based fungicides when necessary. For viral diseases, control insect vectors and remove infected plants promptly.
+**Symptoms:**
+- **Ringspot virus:** Yellow spots on young leaves, leaf discoloration and curling, reduced leaf width, wet spots on stems and leaves, ring spots on fruits.
+- **Anthracnosis:** Small circular brown spots on ripening fruits, turning black with white fungus and pink spores.
+- **Phytophthora disease:** Wet soft rot on fruits, spreading quickly.
+- **Leaf spot disease:** Circular spots on leaves, grayish brown or light brown. Black spots on underside of leaves. Sunken circular black spots on fruits.
+- **Root rot and stem rot:** Yellowing and falling of older leaves, withering of remaining leaves, root rot, wet rot on bark at stem base.
+- **Papaya phytoplasma disease:** Stunted growth, deformed flowers and fruits, leaf fall, shortened petioles, yellow leaves, death of tree tip.
+
+**Management:**
+- **Ringspot virus:** Regular crop inspection, burn diseased trees, harvest and end crop if 20% infected.
+- **Anthracnosis:** Careful fruit handling, apply fungicides like Mancozeb or Daconil.
+- **Phytophthora disease:** Careful fruit handling, apply fungicides like Mancozeb or Daconil.
+- **Leaf spot disease:** Remove diseased leaves, spray fungicides like Maneb, Daconil, or Mancozeb.
+- **Root rot and stem rot:** Soil sterilization, seed treatment, proper drainage, apply fungicides like Thiram or Homai.
+- **Papaya phytoplasma disease:** Remove and destroy diseased trees, control weeds, manage disease vectors.
+
+### Nutrient Deficiencies
+**Type:**
+- Boron deficiency (Papaya knot disease)
+
+**Symptoms:**
+- Yellow leaves on small trees, dwarfed leaves at tree apex, knot-like protrusions on fruits, thickened tumor surface, reduced sugar in pulp, milking from surface.
+
+**Management:**
+- Proper soil moisture management, add 10 grams of borax powder to moist soil, cultivate resistant varieties like Ratna.
 
 ## Post-Harvest Handling
 - Harvest fruits when 15-25% yellow for best quality and shelf life.
@@ -106,7 +139,7 @@ Store ripe papayas at room temperature for up to 5 days, or in the refrigerator 
 - Store at 12°C to extend shelf life up to 20-25 days.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 4/10)
+### Low country wet zone (Difficulty: 5/10)
 **Explanation:** While papaya can face challenges in the wet zone due to high humidity and rainfall, which increase the risk of fungal diseases, its adaptability and the popularity of consumption in this region make it a moderately easy crop to grow. With proper disease management and drainage, successful cultivation is achievable.
 
 **Challenges/Adaptations:**

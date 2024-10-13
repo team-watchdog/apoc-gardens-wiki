@@ -3,40 +3,45 @@
 ## General Information
 **Generic name:** Wood apple, Elephant apple
 **Sri Lankan name:** Divul (Sinhala) | Vilampalam (Tamil)
-**Scientific name:** Limonia acidissima (Syn: Feronia limonia)
-**Plant family:** Rutaceae
+**Scientific name:** _Limonia acidissima_ (Syn: _Feronia limonia_)
+**Plant family:** _Rutaceae_
 **Edible parts:** Brownish pulp inside the fruit
-**Nutrition value:** Rich in vitamins and minerals, antioxidant properties
-**Companion plants:** Coconut (Cocos nucifera), which provides partial shade and helps maintain soil moisture
-**Non-companion plants:** Cinnamon (Cinnamomum verum), as it may compete for nutrients in the soil
+**Nutrition value:** A Rich source of carbohydrates, proteins, and minerals, particularly calcium, phosphorus, and iron, as well as vitamins including carotene, riboflavin, and vitamin C
+
+**Companion plants:** 
+- Coconut
+
+**Non-companion plants:** 
+- Cinnamon
 
 ## Description:
-Wood apple is a fruit indigenous to Sri Lanka. Wood apple trees grow up to around 15 - 20 metres and live for around 50 – 70 years, and are extremely well adapted to Sri Lankan environments. Woodapple trees are commonly found in home gardens, especially in the dry and intermediate zones. Wood apple pulp is a rich source of carbohydrates, proteins, and minerals, particularly calcium, phosphorus, and iron, as well as vitamins including carotene, riboflavin, and vitamin C. The fruit has a unique sour-sweet taste and aromatic pulp, which is consumed fresh with sugar, made into jellies, jams, chutneys, and sherbets, or blended with milk and sugar syrup to create beverages and ice cream.
-
+Wood apple is a fruit indigenous to Sri Lanka. Wood apple trees grow up to around 15 - 20 metres and live for around 50 – 70 years, and are extremely well adapted to Sri Lankan environments. Woodapple trees are commonly found in home gardens, especially in the dry and intermediate zones. The fruit has a unique sour-sweet taste and aromatic pulp, which is consumed fresh with sugar, made into jellies, jams, chutneys, and sherbets, or blended with milk and sugar syrup to create beverages and ice cream.
 
 Two main forms exist: one with large, sweet-tasting fruits and another with small, acid fruits. In Sri Lanka, improved varieties include:
 1. ANK WOOD APPLE 01 (ACC53): Average fruit weight of 463g, dark white outer covering, pulp thickness of 4.06 mm.
 2. ANK WOOD APPLE (ACC63): Average fruit weight of 565g, dull white outer covering, thinner pulp (3.25 mm).
 
 
-
 ## Planting requirements
-**Planting season:** Best planted at the onset of the monsoon season, typically May-June or October-November. Usually grown from seed, the seedling plants appear in 5- 10 days. In four to six weeks it is transferred to pots consisting of compost, sand and top soil. Vegetative propagation methods like budding and grafting are also successful.
+**Planting season:** Best planted at the onset of the monsoon season, typically May-June or October-November.
 
 ### Planting conditions:
-| **Propagation** | Wood apple seeds are planted in the beds.  |
+| Propagation | Seeds, Grafting |
 |----|----|
-| Planting method | Requires a soil pH of 5.8 to 6.5. Can thrive in a wide range of soil. A light sandy loamy soil that drains well is ideal. |
-| Soil | Well-draining soil with added organic matter. In Sri Lanka, red-yellow podzolic soils or reddish-brown earths are suitable. |
-| Water | Daily irrigation should be carried out during the early stages. Young plants require more irrigation than the older plants. |
+| Planting method | Usually grown from seed, the seedling plants appear in 5- 10 days. In four to six weeks it is transferred to pots consisting of compost, sand and top soil. Vegetative propagation methods like budding and grafting are also successful |
+| Soil | Requires a soil pH of 5.8 to 6.5. Can thrive in a wide range of soil. A light sandy loamy soil that drains well is ideal |
+| Water | Daily irrigation should be carried out during the early stages. Young plants require more irrigation than the older plants |
+| Light | Full sunlight for optimal growth. Partial sunlight can slow down growth |
 
 ### Growing conditions:
 
-| **Temperatures** | It can grow in climates that vary in temperature from 48°C and -6°C in the winter |
+| Temperatures | It can grow in climates that vary in temperature from 48°C and -6°C |
 |----|----|
-| Soil | Can mix manure when preparing the soil and remove weeds from the land |
-| Water | In Sri Lanka's dry zone, regular watering is crucial, especially during prolonged dry spells. In wet zones, ensure proper drainage to prevent waterlogging. |
-| Propagation | Propagated mainly by seeds or vegetative propagation. There are several methods of vegetative propagation such as grafting and budding. |
+| Soil | Well-draining soil with added organic matter. In Sri Lanka, red-yellow podzolic soils or reddish-brown earths are suitable. Apply organic compost or balanced fertilizers during the growing season to promote healthy growth |
+| Water | In Sri Lanka's dry zone, regular watering is crucial, especially during prolonged dry spells. In wet zones, ensure proper drainage to prevent waterlogging |
+| Pruning | Prune as needed to remove dead branches and maintain shape, which also improves air circulation and fruit production |
+| Weed control | Remove weeds that can compete for nutrients |
+
 
 ## Harvesting:
 Mature green fruit can be harvested typically from July to September in Sri Lanka
@@ -49,10 +54,26 @@ Store wood apples in a cool, dry place for up to two weeks. In Sri Lanka's humid
 
 ## Protecting your plants
 ### Pest control
+**Pest type:**
+- Deudorix isocrates
+- Mealybugs
 
-**Pest type:** Wood apple being a hardy crop, there is no serious insect or pest diseases. However, watch out for scale insects, mealybugs, and Deudorix isocrates that may appear occasionally
+**Symptoms:**
+- **Deudorix isocrates:** Larvae bore holes in leaves and young pods, feeding on parts inside the pods. Damaged fruits fall off before ripening.
+- **Mealybugs:** Suck juice from near the stem of the fruit, causing fruit to drop. Fruits turn black due to fungi growing on sugar-containing secretions.
 
-**Control method:** Use neem oil or traditional Sri Lankan pest control methods like spraying with a mixture of tobacco and soap water. For Deudorix isocrates, inspect and destroy fallen fruit to control the pest's life cycle.
+**Control method:**
+- **Deudorix isocrates:** For Deudorix isocrates, inspect and destroy fallen fruit to control the pest's life cycle
+
+- **Mealybugs:** 
+    - Collect and destroy infected fruits
+    - Prune plants by removing old and unwanted branches
+    - Practice crop sanitation
+    - Use recommended insecticides for heavy infestations if necessary
+
+- **In general:**
+    - Use neem oil
+    - Apply traditional Sri Lankan pest control methods like spraying with a mixture of tobacco and soap water
 
 ### Disease Control
 **Disease type:** Fruit rot is a common issue in Sri Lanka's humid climate
@@ -84,7 +105,7 @@ Store wood apples in a cool, dry place for up to two weeks. In Sri Lanka's humid
 - Monitor for pests and diseases, especially during humid conditions
 - Ensure proper sunlight exposure in areas with more cloud cover
 
-### Up country (Difficulty: 5/10)
+### Up country (Difficulty: 7/10)
 **Explanation:** Woodapple trees may require additional care in the upcountry due to cooler temperatures and lower humidity. The higher altitude can make it more challenging to maintain optimal growing conditions.
 
 **Challenges/Adaptations:**

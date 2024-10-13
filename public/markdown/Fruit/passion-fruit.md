@@ -5,101 +5,132 @@
 **Generic name:** Passion Fruit
 **Sri Lankan name:** Wel dodam (Sinhala) | Acai Palam (Tamil) 
 **Scientific name:** 
-- Yellow passion fruit: Passiflora edulis f. flavicarpa
-- Purple passion fruit: Passiflora edulis f. edulis
-**Plant family:** Passifloraceae
+- Yellow passion fruit: _Passiflora edulis f. flavicarpa_
+- Purple passion fruit: _Passiflora edulis f. edulis_
+
+**Plant family:** _Passifloraceae_
 **Edible parts:** Pulp and seeds
 **Nutrition value:** High in vitamins A and C, fiber, and antioxidants. It also contains minerals like potassium, magnesium, and iron.
 **Companion Plants:**
-- Marigold: Attracts pollinators and can help repel nematodes that may harm passion fruit roots.
-- Basil: Attracts pollinators and can help repel some pests, benefiting nearby passion fruit plants.
-- Lemongrass: Acts as a natural pest repellent, protecting nearby passion fruit vines.
-- Pineapple: Shares similar soil and climate preferences with passion fruit and doesn't compete for vertical space.
-- Lime: Citrus trees can complement passion fruit in mixed orchards, sharing similar care requirements without direct competition.
-- Banana: Can provide partial shade and wind protection for young passion fruit vines.
-- Papaya: Grows well alongside passion fruit and can provide some wind protection without excessive shading.
+- Marigold
+- Basil
+- Lemongrass
+- Pineapple
+- Lime
+- Banana
+- Papaya
 
 **Non-Companion Plants:**
-
-- Corn: Competes heavily for nutrients and can overshadow passion fruit vines.
-- Cowpea: May attract pests that could also affect passion fruit plants.
-- Sorghum: Competes for resources and can potentially overshadow passion fruit vines.
-- Sweet potatoes: Compete for space and nutrients with passion fruit's shallow root system.
-- Okra: May share similar pests with passion fruit, potentially increasing pest problems.
-- Cassava: Its deep roots can compete with passion fruit for soil nutrients and water.
-- Taro: Prefers wetter conditions that could lead to root rot in passion fruit plants.
-- Yam: Large tubers can disrupt the soil structure needed for healthy passion fruit roots.
-- Breadfruit: Large trees that provide too much shade for sun-loving passion fruit vines.
-- Jackfruit: Creates excessive shade and root competition for passion fruit.
-- Mango: While it can provide support, it may create too much shade and root competition as it matures.
-- Coconut: Tall palms may provide too much shade and compete for nutrients in the long term.
-- Guava: Can compete for nutrients and may share pest issues with passion fruit.
-
+- Corn
+- Cowpea
+- Sorghum
+- Sweet Potatoes
+- Okra
+- Cassava
+- Taro
+- Yam
+- Breadfruit
+- Jackfruit
+- Mango
+- Coconut
+- Guava
 
 ## Description:
 Passion fruit is a climbing vine with large, three-lobed leaves, tendrils for climbing, and beautiful flowers. There are two main varieties of passion fruit. The fruit is either yellow or purple depending on the variety, round or oval in shape, with a smooth, thick, pithy rind, filled with sweet, aromatic pulp, juice, and seeds.
 
-In Sri Lanka, the purple variety (Passiflora edulis f. edulis) is more common, though the yellow variety (Passiflora edulis f. flavicarpa) is also grown. The fruits are round or oval, with a hard, waxy rind enclosing an aromatic pulp filled with small, edible seeds.
+In Sri Lanka, the purple variety (_Passiflora edulis f. edulis_) is more common, though the yellow variety (_Passiflora edulis f. flavicarpa_) is also grown. The fruits are round or oval, with a hard, waxy rind enclosing an aromatic pulp filled with small, edible seeds.
 
 Several varieties are recommended for cultivation in Sri Lanka:
-
 1. **Horana Gold**: Suitable for wet, intermediate, and dry regions. It produces high yields with an average fruit weight of about 135 grams. The pulp and rind are yellowish-orange, and fruits are round or oblong in shape.
 
 2. **Bandarawela Dham**: Recommended for mid-upland and upland wet zones. It has a reddish-purple rind and fruits weighing between 100-120 grams. This variety is moderately resistant to viruses and root rot diseases.
 
 3. **Rahangala hybrid**: A hybrid of yellow and purple varieties, producing pinkish-purple fruits with high juice quality. It is recommended for upland areas.
 
-The economic life of a passion fruit plantation is typically about 5 years, with maximum yield obtained after 3 years. Regarding yield, the first harvest can usually be obtained about 10 months after planting. For example, the Bandarawela Dham variety can yield approximately 16 kg per vine in the first year and 24 kg in the second year.
-
 ## Planting requirements
 **Planting season:** 
-Year-round in most parts of Sri Lanka, but best planted at the onset of the rainy season (May-June or October-November)
+Year-round in most parts of Sri Lanka, but best planted at the onset of the rainy season, May-June or October-November
 
 ### Planting conditions:
-| **Propagation** | Extract seeds from the fruit and rub them between a sheet of sandpaper. Soak overnight for 12 hours. For germination, bury your seed in a container filled with a small amount of soil or seed-raising mix about an inch deep. When your seedling is roughly 4 inches high, re-pot your plant in a larger pot, around 6-8 inches in diameter. In Sri Lanka, stem cuttings are also commonly used for propagation. |
+| Propagation | Seeds and Stem cuttings |
 |----|----|
-| Planting method | Plant seeds directly into the ground after soaking overnight. For stem cuttings, plant directly in well-prepared soil.
-| Soil | Requires well-drained fertile soils/compost-rich, sandy loam. A soil pH of 5.5 to 6.5 is optimal
-| Water | Requires lot of water but cannot handle waterlogged soil. So make sure the soil is well drained
-| Light | Needs full sunshine
+| Planting method | Extract seeds from the fruit and rub them between a sheet of sandpaper. Soak overnight for 12 hours. For germination, bury your seed in a container filled with a small amount of soil or seed-raising mix about an inch deep. When your seedling is roughly 4 inches high, re-pot your plant in a larger pot, around 6-8 inches in diameter. In Sri Lanka, stem cuttings are also commonly used for propagation |
+| Soil | Requires well-drained fertile soils/compost-rich, sandy loam. A soil pH of 5.5 to 6.5 is optimal |
+| Water | Requires lot of water but cannot handle waterlogged soil. So make sure the soil is well drained |
+| Light | Needs full sunshine |
 
 ### Growing conditions:
 
-| **Temperatures** | Thrives in Sri Lanka's tropical climate with temperatures between 20-30°C |
+| Temperatures | Thrives in Sri Lanka's tropical climate with temperatures between 20-30°C |
 |----|----|
-| Soil | Can handle lots of compost and lots of mulch
-| Water | Need to provide regular watering especially during dry periods
-| Pruning | Prune in late winter or early spring to encourage new growth. In Sri Lanka, light pruning can be done year-round to maintain shape and productivity.
-| Weed control | Mulching helps control weeds. Hand-pull or use organic herbicides for persistent weeds.
+| Soil | Can handle lots of compost and lots of mulch |
+| Water | Need to provide regular watering especially during dry periods |
+| Pruning | Prune to encourage new growth. Light pruning can be done year-round to maintain shape and productivity |
+| Weed control | Mulching helps control weeds. Hand-pull or use organic herbicides for persistent weeds |
 
 ## Harvesting:
 In Sri Lanka, passion fruit can be harvested year-round, with peak seasons typically occurring twice a year. Fruits are ready when they turn from green to purple or yellow (depending on variety) and fall to the ground.
+
+The first harvest can usually be obtained about 10 months after planting. For example, the Bandarawela Dham variety can yield approximately 16 kg per vine in the first year and 24 kg in the second year.
 
 ## Curing:
 Passion fruit does not require curing. It can be eaten fresh or used in juices and desserts.
 
 ## Storage
-Store passion fruit at room temperature for up to a week, or refrigerate for up to two weeks. In Sri Lanka's humid climate, refrigeration is recommended for longer storage. Local markets often sell freshly harvested fruits for immediate consumption.
+Store passion fruit at room temperature for up to a week, or refrigerate for up to two weeks. In Sri Lanka's humid climate, refrigeration is recommended for longer storage.
 
 ## Protecting your plants
 ### Pest control
-**Pest type:** 
-Snails, Slugs, passion butterfly, nematodes, fruit flies, mealy bugs, scale insects, red spider mites
+**Pest types:**
+- Red Scale
+- Mealybugs
+- Passionvine Mite
+- Root-Knot Nematodes
+- Thrips
+- Aphids
+- Scales
 
-**Symptoms:** Holes in leaves, fruit damage, wilting, premature fruit drop
+**Symptoms:**
+- Red Scale: Yellowing leaves, stunted growth
+- Mealybugs: White cottony masses on leaves and stems, sooty mold
+- Passionvine Mite: Yellowing leaves, brown blemishes on fruit
+- Root-Knot Nematodes: Thickened roots with knots, stunted plant growth
+- Aphids: Malformation in foliage
+- Thrips: Stunting of young seedlings, defaced leaves and fruits
+- Scales: Encrusted leaves, branches, and fruits
 
-**Control method:** Remove diseased plant/fruit, cover the mature fruit with paper or a mesh, use organic pesticides for insects and neem oil for fungal diseases. Implement integrated pest management techniques, including the use of pheromone traps for fruit flies.
+**Control methods:**
+- Cultural Practices: Use resistant varieties, maintain good drainage, practice crop rotation
+- Chemical Control: Insecticides for severe infestations of mealybugs and fruit flies
+- Biological Control: Introduce natural predators like ladybugs for aphids and mealybugs
+- Physical Removal: Hand-picking of pests like caterpillars and regular monitoring
+- Avoid high levels of nitrogen (for aphids)
+- Release natural aphid predators like Chrysoperla zastrowii sillemi
+- Spray white oil or horticultural oil for severe scale infestations
+- Conserve or release populations of Aphytis spp. for scale control
 
 ### Disease Control
-**Disease type:** Passion fruit woodiness virus, collar rot, brown spot
+**Disease types:**
+- Anthracnose (Colletotrichum gloeosporioides)
+- Fusarium Wilt (Fusarium spp.)
+- Brown Spot (Alternaria passiflorae)
+- Phytophthora Blight (Phytophthora spp.)
+- Passionfruit Woodiness Virus
 
-**Symptoms:** Wilting, yellowing leaves, fruit rot, woody and deformed fruits
+**Symptoms:**
+- Anthracnose: Dark brown spots on leaves, wilting, and fruit rot
+- Fusarium Wilt: Yellowing of leaves followed by wilting and death of the plant
+- Brown Spot: Reddish-brown lesions on leaves and fruits, leading to defoliation
+- Phytophthora Blight: Water-soaked lesions on stems and roots; can lead to plant collapse
+- Passionfruit Woodiness Virus: Hardening of fruits
 
-**Management:** Avoid overhead watering, provide good air circulation, use fungicides as a last resort. Use disease-resistant varieties and practice crop rotation.
+**Management:**
+- Cultural Practices: Use disease-free seedlings, improve air circulation by pruning, avoid overhead watering
+- Chemical Control: Fungicides such as copper compounds for fungal diseases
+- Sanitation: Remove infected plant debris and avoid planting in previously infected areas
 
 ## Difficulty Rating
-
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Passion fruit thrives in this zone due to high rainfall and humidity, but disease management is crucial.
 - **Challenges/Adaptations:**
   - Regular monitoring for pests and diseases
@@ -127,9 +158,12 @@ Snails, Slugs, passion butterfly, nematodes, fruit flies, mealy bugs, scale inse
   - Using greenhouses or poly-tunnels for temperature control
   - Providing consistent watering to prevent drought stress
 
-
 ## Sources
 - https://doa.gov.lk/fruit-crops-passion-fruit-s/
 - https://www.tropicalpermaculture.com/passionfruit-permaculture.html
 - https://www.epicgardening.com/passion-fruit/
 - https://wikifarmer.com/passion-fruit-soil-climate-requirements-land-preparation-and-planting/
+- https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/
+- ipm-strategies-for-passion-fruit/passion-fruit-insect-and-mite-pests
+- https://www.researchgate.net/publication/306017612_INSECT_PESTS_OF_PASSION_FRUIT_Passiflora_edulis_Hosts_Damage_Natural_Enemies_and_Control
+

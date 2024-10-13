@@ -1,19 +1,14 @@
-# Rose Apple/Java Apple/Jambu
+# Jambu
 ![Rose-Apple_Java-Apple_Jambu.jpeg](../../assets/images/Rose-Apple_Java-Apple_Jambu.jpeg "Image - Hafiz Issadeen, Flickr")
 
 ## General Information**
 **Generic name:** Java Apple, Rose Apple, Wax Apple, Wax Jambu
-**Sri Lankan name:** Jambu (Sinhala)
+**Sri Lankan name:** Jambu (Sinhala) | Navaṟpaḻam, Sampu Pallam (Tamil)
+
 **Scientific name:** _Syzygium spp._
-**Plant family:** Myrtaceae
+**Plant family:** _Myrtaceae_
 **Edible parts:** Fruit
-**Nutrition value:** 
-In 100g of rose apple;
-- Energy: 25 kcal
-- Protein: 0.6 g
-- Fat: 0.3 g
-- Carbohydrate: 5.7g
-- Vitamin C: 22.3mg
+**Nutrition value:** low-calorie fruits rich in Vitamin C and Vitamin A, also contains Calcium and Potassium
 
 **Companion plants:**
 Not applicable
@@ -34,34 +29,34 @@ In Sri Lanka, Jambu species grow well under tropical or near-tropical climates. 
 ### Planting conditions:
 | Propagation | Direct seeding, budding, grafting |
 |----|----|
-| Planting method | Direct seeding, budding, grafting |
-| Soil | Well-draining, loamy soil is required.|
-| Water | Must be watered regularly to maintain soil moisture, especially in dry conditions. |
-| Light | Full or partial sunlight |
-| Fertiliser / Mulch | Apply a balanced fertilizer once a year after the fruiting season. |
+| Planting method | For seedlings or grafted trees, dig a hole larger than the root ball, place the plant gently in the hole, and backfill with soil. Space trees 15-20 feet (4.5-6 meters) apart for optimal growth |
+| Soil | Well-draining, loamy soil is required |
+| Water | Water thoroughly directly after planting to ensure moisture reaches the roots. Water newly planted trees deeply and regularly to maintain soil moisture without waterlogging |
+| Light | Choose a location with 6-8 hours of full sunlight daily and avoid shaded areas |
+| Fertiliser / Mulch | Apply a balanced fertilizer once a year after the fruiting season |
 
 ### Growing conditions:
 | Temperatures | Thrives in tropical climates and temperatures |
 |----|----|
-| Soil | Well-draining soil is required. |
-| Water | Must be watered regularly to maintain soil moisture, especially in dry conditions. |
-| Pruning | Prune annually after fruiting season to encourage new growth. |
-| Weed control | Keep the area around the tree weed-free to prevent competition for nutrients and water. |
+| Soil | Well-draining soil is required |
+| Water | Must be watered regularly to maintain soil moisture, especially in dry conditions |
+| Pruning | Prune annually after fruiting season to encourage new growth |
+| Weed control | Keep the area around the tree weed-free to prevent competition for nutrients and water |
 
 ## Harvesting:
 Trees planted through direct seeding will bear fruit in about 3 years. Budded or grafted trees may provide a harvest in one to one and a half years. Fruits are ready to pick when they turn their final color (red, purple, etc.) and yield slightly to gentle pressure.
 
 ## Curing:
-Rose apple does not require a curing stage.
+Jambu does not require a curing stage.
 
 ## Storage:
-Store fruits in the refrigerator for up to 2 weeks. Avoid storing ethylene-producing fruits like apples or bananas.
+Store fruits in the refrigerator for up to 2 weeks. Avoid storing alongside ethylene-producing fruits like apples or bananas.
 
 ## Protecting your plants
 ### Pest control
 **Pest type:** 
 Jambu plants are not disease or pest-prone, however, occasional infestations are seen;
-- Fruit fly: in rata jambu
+- Fruit fly in rata jambu
 - Ants
 - Psylid in pini jambu
 
@@ -74,39 +69,45 @@ Jambu plants are not disease or pest-prone, however, occasional infestations are
 - Use fly traps for fruit fly removal.
 - Organic insecticides are effective at controlling pests. 
 
-## Disease Control
+### Disease Control
 **Disease type:** 
 - Fruit Rot
 
 **Symptoms:** 
-- **Fruit Rot:**
-  - At early stages, water-soaked, small light purple spots appear on the fruit and spread irregularly across its surface.
-  - At later stages, Diseased fruit shrinks and develops dry rot.
+- At early stages, water-soaked, small light purple spots appear on the fruit and spread irregularly across its surface.
+- At later stages, Diseased fruit shrinks and develops dry rot.
   
 **Management:** 
-- **Fruit Rot:**
-  - Use appropriate levels of water
-  - Removing infected fruits and destroying
-  - Controlling fruit-feeding insects
+- Use appropriate levels of water
+- Removing infected fruits and destroying
+- Controlling fruit-feeding insects
 
 ## Difficulty Rating
 
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 2/10)
 **Explanation:** Jambu trees thrive in the wet zone due to high rainfall and suitable temperatures.
 **Challenges/Adaptations:**
 - Monitor for fungal diseases due to high humidity.
 
-### Low country dry zone (Difficulty: 7/10)
+### Low country dry zone (Difficulty: 5/10)
 **Explanation:** Jambu trees can grow in the dry zone but require more watering and protection from strong winds.
 **Challenges/Adaptations:**
 -Implement drip irrigation and mulching to conserve soil moisture.
 
-### Mid country (Difficulty: 6/10)
+### Mid country (Difficulty: 4/10)
 **Explanation:** Jambu trees grow well in the mid-country with moderate temperatures.
 **Challenges/Adaptations:**
 - Maintain proper irrigation for plant growth
   
-### Up country (Difficulty: 8/10)
+### Up country (Difficulty: 6/10)
 **Explanation:** Jambu trees can grow in the up-country but may require protection from strong winds.
 **Challenges/Adaptations:**
 - Use of windbreaks and frost protection measures are essential.
+
+
+## References for this entry
+### Content Sources:
+- https://www.asiafarming.com/how-to-grow-java-apple-in-home-gardens-ultimate-guide-for-beginners
+- https://agriculture.gov.vc/agriculture/images/stories/PDF_Documents/Wax-Apple.pdf
+- https://www.growables.org/information/TropicalFruit/waxjambu.htm
+- https://tastylandscape.com/2014/08/24/wax-jambu/

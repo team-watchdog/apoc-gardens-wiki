@@ -3,19 +3,11 @@
 
 ## General Information
 **Generic name:** Star fruit, Carambola
-**Sri Lankan name:** Kamaranga
+**Sri Lankan name:** Kamaranga (Sinhala) | naṭcattira paḻam (Tamil)
 **Scientific name:** _Averrhoa carambola_
 **Plant family:** _Oxalidaceae_
 **Edible parts:** Fruit
-**Nutrition value:** Star fruit is low in calories and has a lot of vitamins and other nutrients, including the following:
-- Fiber
-- Protein
-- Vitamin C
-- Vitamin B5
-- Folate
-- Copper
-- Potassium
-- Magnesium
+**Nutrition value:** Low in calories and rich in vitamins, including vitamin C and B, as well as minerals like copper, potassium, and magnesium. Also rich in fibre and protein
 
 **Companion plants:**
 Not applicable
@@ -30,19 +22,20 @@ _Averrhoa carambola_, also known as star fruit, is a small tree or shrub that gr
 **Planting season:** Year-round
 
 ### Planting conditions:
-| Propagation | Star fruit trees can be grown from seedlings, cuttings, or grafts. Grafted trees from a superior mother plant are recommended for better quality and higher yields. |
+| Propagation | Seedlings, cuttings, or grafts. Grafted trees from a superior mother plant are recommended for better quality and higher yields |
 |----|----|
-| Planting method | Seedling should be transplanted in the main land |
-| Soil | Grows in a variety of soil but it is important to have well-drained soil that removes access moisture. Better to have a moderately acidic pH range of 5-6 |
-| Water | Star fruit trees are sensitive to drought and need regular watering, especially when young, to support growth. Once they start bearing fruit (1-2 years after planting), they should be irrigated consistently from flowering to harvest. |
+| Planting method | Select healthy seedlings about ¼ inch thick. Plant at original depth, backfilling carefully. For grafting, use veneer or chip budding during active growth. Choose mature twigs with leaves for graftwood, or remove leaves days prior to stimulate buds |
+| Soil | Grows in a variety of soil but it is important to have well-drained soil that removes access moisture. Recommended to have a moderately acidic pH range of 5-6 |
+| Water | Star fruit trees are sensitive to drought and need regular watering, especially when young, to support growth. Once they start bearing fruit (1-2 years after planting), they should be irrigated consistently from flowering to harvest |
 | Light | Requires full sunshine |
 
 ### Growing conditions:
-
 | Temperatures | The temperature must be 20° C to 35° C for fruit production |
 |----|----|
-| Soil | Better to mix organic matter with soil |
-| Water | A soaker hose around the tree can be used to do a slow, deep watering, but base your placement on a ring that's at about the midpoint of the tree's canopy all the way around. |
+| Soil | Dig 60 cm cubic pits. Fill 2/3 with topsoil-compost mix. After 2 weeks, fill the remainder with the same mixture and plant. Provide support for proper establishment |
+| Water | A soaker hose around the tree can be used to do a slow, deep watering, but base your placement on a ring that's at about the midpoint of the tree's canopy all the way around |
+| Pruning | Focus on removing weak or crowded branches, along with any dead or diseased wood, to create an open canopy structure that enhances airflow and light exposure |
+| Weed control | Regularly remove weeds by hand |
 
 ## Harvesting:
 Harvest when the grooves in the sides of the fruit are completely yellow, and only the very upper tips of the raised sections are still green.
@@ -106,7 +99,7 @@ Store ripe fruits in the refrigerator for up to 2 weeks. Unripe fruits can be st
 - Use raised beds or mounds to improve drainage in heavy clay soils common in this zone.
 
 ### Low country dry zone (Difficulty: 5/10)
-**Explanation:** Similar to the wet zone, water availability may be more challenging. The dry season can last up to eight months in this zone.
+**Explanation:** Water availability may be more challenging. The dry season can last up to eight months in this zone.
 
 **Challenges/Adaptations:**
 - Star fruit is not that drought resistant.
@@ -125,9 +118,15 @@ Store ripe fruits in the refrigerator for up to 2 weeks. Unripe fruits can be st
 - Consider using windbreaks to protect trees from strong winds common in this zone.
 
 ### Up country (Difficulty: 7/10)
-**Explanation:** Similar to the mid country, but water availability and temperatures may be more challenging. This zone experiences both hot and cold seasons with significant temperature fluctuations.
+**Explanation:** This zone experiences both hot and cold seasons with significant temperature fluctuations.
 
 **Challenges/Adaptations:**
 - Temperature fluctuations may affect fruit production; protection from frost may be necessary during the cold season.
 - Water availability may be limited, requiring additional irrigation.
 - Regular monitoring for pests and diseases is necessary due to varying weather conditions.
+
+## Sources:
+- https://www.epicgardening.com/star-fruit-tree/
+- https://edis.ifas.ufl.edu/publication/MG269
+- https://www.greendreamsfl.com/single-post/growing-starfruit-trees-how-to-grow-carambola
+- https://doa.gov.lk/fruit-crops-star-fruit-s/
