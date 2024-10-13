@@ -1,7 +1,6 @@
 # Beetroot
 ![Beetroot.jpeg](../../assets/images/Beetroot.jpeg "Image - Evan Amos, Wikimedia Commons")
 
-    
 ## General Information
 **Generic name:** Beetroot
 **Sri Lankan name:** Beetroot (Sinhala) | Beetroot (Tamil)

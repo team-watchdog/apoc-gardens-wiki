@@ -70,7 +70,7 @@
 		@apply list-decimal pl-4;
 	}
 	li {
-		@apply text-secondary-900 text-base;
+		@apply text-secondary-900 text-base ;
 	}
 
 	iframe {
@@ -247,27 +247,22 @@
 		@apply text-primary-700 font-extrabold mr-2;
 	}
 
-	#protecting-plant-section > p{
-		@apply mb-0 text-lg;
+	#protecting-plant-section > p {
+		@apply mb-0 text-base;
 	}
 
-	// The list of protecting plants
+	/** The list of protecting plants **/
 	#protecting-plant-section li p{
 		@apply mt-2 mb-2;
 	}
 
-	// The disease / pest names
-	#protecting-plant-section li > strong {
-		@apply text-gray-950 font-normal mr-1;
-	}
-
-	#protecting-plant-section li > p strong {
+	/** The disease / pest names **/
+	#protecting-plant-section ul strong {
 		@apply text-gray-950 font-normal mr-1;
 	}
 }
 
 /** First Principles **/
-
 @layer components {
 	#first-principles {
 		@apply container mx-auto p-4;

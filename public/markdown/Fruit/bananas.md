@@ -6,8 +6,8 @@
 **Sri Lankan name:** Kehel (Sinhala), Vāḻaipalam (Tamil)
 **Scientific name:** Genus _Musa_ - numerous varieties
 **Plant family:** _Musaceae_
-**Edible parts:** Fruit and the flower. The central pith of the false stem and the underground rhizome are also sometimes eaten.
-**Nutrition value:** Rich in potassium, vitamin C, vitamin B6, and dietary fiber. They also contain small amounts of other vitamins and minerals.
+**Edible parts:** Fruit and the flower
+**Nutrition value:** Rich in potassium, vitamin C, vitamin B6, and dietary fiber. They also contain small amounts of other vitamins and minerals
 
 **Companion plants:**
 - Sweet potatoes
@@ -19,9 +19,9 @@
 Not applicable
 
 ## Description:
-Bananas can be classed into diploid, triploid, and tetraploid kinds with various amounts of the A or B parents. They grow 2-9 m high. They are large non-woody herbs with broad long leaves. Most kinds have several suckers. Bananas grow a soft firm false stem from an underground corm. The fruiting stalk eventually emerges from the top of this false stem and normally curves over pointing towards the ground.
+Bananas can be classed into diploid, triploid, and tetraploid kinds with various amounts of the A or B parents. They grow 6.5 - 30 feet (2-9 m) high. They are large non-woody herbs with broad long leaves. Most kinds have several suckers. Bananas grow a soft firm false stem from an underground corm. The fruiting stalk eventually emerges from the top of this false stem and normally curves over pointing towards the ground.
 
-#### Recommended Varieties for Sri Lanka
+**Recommended Varieties for Sri Lanka:**
 - Nadee River (Embul-AAB): High-quality sour banana, light green stem, large cans (about 15 kg).
 - Kandula (Dual Purpose-AABB): Quadruple hybrid, can be used as fruit and vegetable, dark purple to black stem, drought and wind resistant.
 - Pulathisi (Cooking banana-ABBB): Quadruple hybrid, drought and wind resistant, suitable for vegetables and products.
@@ -35,10 +35,7 @@ Bananas can be classed into diploid, triploid, and tetraploid kinds with various
 Other varieties grown in Sri Lanka include Ambon (AAA), Anamalu (AAA), Mondan (ABB), Kitala (ABB), Atamuru (ABB), and Bing Banana (AAA).
 
 ## Planting requirements
-- Ideal for warm and humid climates of Sri Lanka
-- Can be grown successfully from sea level to 1500 meters altitude
-  
-**Planting season:** February - March, October - November
+**Planting season:** February to March and October to November
 
 ### Planting conditions:
 | Propagation | Young plant suckers |
@@ -67,80 +64,88 @@ Bananas are cured after harvesting by hanging them in a dark, humid place for ab
 Store bananas at room temperature away from direct sunlight. They can also be frozen or dried for later use.
 
 ## Protecting your plants
-### Pest control
+### Pest Control
 **Pest type:**
-- Weevils
-- Thrips
-- Nematodes
-- Scarring beetles
-- Sap-sucking insects
+- Banana Weevil (Cosmopolites sordidus)
+- Stem Weevil (Odoiporus longicollis)
+- Banana Aphid (Pentalonia nigronervosa)
+- Banana Rust Thrips (Chaetanaphothrips signipennis)
+- Nematodes (e.g., Radopholus similis)
 
-**Symptoms:** 
-- Wilting leaves
-- Yellowing leaves
-- Holes in leaves and fruits
+**Symptoms:**
+- **Banana Weevil:** Wilting and yellowing of leaves; holes in the pseudostem with jelly-like sap oozing out
+- **Stem Weevil:** Damage to the pseudostem, causing weakening and potential collapse
+- **Banana Aphid:** Yellowing of leaves and stunted growth due to sap-sucking
+- **Banana Rust Thrips:** Staining and splitting of the banana peel, leading to rotting flesh
+- **Nematodes:** Corm rot, yellowing leaves, and reduced growth
 
-**Control method:** 
-- Use insecticides
-- Remove the affected plants
-- Remove weeds
-- Spray soapy water
-- Release ladybird beetles and lacewings in the field which are very active aphid feeders
+**Control method:**
+- **Banana Weevil:** Use of chemical insecticides; biological control options like Piaesius javanus (limited effectiveness)
+- **Stem Weevil:** Insecticides specifically targeting weevils; remove infested plants
+- **Banana Aphid:** Insecticidal sprays; maintain plant health to reduce susceptibility
+- **Banana Rust Thrips:** Apply insecticidal dust or sprays; use polyethylene bagging for young fruit
+- **Nematodes:** Apply nematicides; implement soil management practices such as fallowing and solarization
 
 ### Disease Control
 **Disease type:**
-- Panama disease (_Fusarium ocdysporum_)
-- Anthracnose (_colletortichum  spp_)
-- Black Sigatoka leaf spot disease (_Mycosphorella fijiensis_)
-- Kodana leaf spot disease (_Codana musqe_)
+- Panama disease (Fusarium oxysporum f.sp. cubense)
+- Anthracnose (Colletotrichum spp.)
+- Black Sigatoka leaf spot disease (Mycosphaerella fijiensis)
+- Kodana leaf spot disease (Cordana musae)
+- Banana Bunchy Top Virus (BBTV)
+- Moko Disease (Ralstonia solanacearum)
+- Banana Bract Mosaic Virus
 
-**Symptoms:** 
-- **Panama disease:**
-  - All varieties except sour varieties are susceptible to Panama disease.
-  - Brown discoloration in pseudostem and corm, wilting, yellowing leaves
-  - Wilting occurs due to impaired water absorption, causing the leaves to yellow, fall from the petiole, and eventually lead to plant death.
-  - Symptoms often appear on bushes near developing banana canes, while smaller plants may not show symptoms.
-  
-- **Anthracnose:**
-  - Among the banana varieties grown in Sri Lanka, the gray banana is the most susceptible to this disease.
-  - In other cultivated banana varieties, black circular spots may form during fruit ripening, appearing as clusters of black spots, a condition that occurs post-harvest.
-    
-- **Black Sigatoka:**
-  - Dark brown spots run parallel to the lateral veins, appearing on the upper leaves (typically 2nd to 4th sheets).
-  - This disease is more economically damaging than Kahasigatoka leaf disease, potentially reducing yields by 35-50%. All cultivated banana varieties are susceptible.
-  - A minimum of 5 healthy, productive leaves is crucial for yield. This disease can significantly affect yield, causing premature fruit ripening and uneven ripening.
+**Symptoms:**
+- **Panama disease:** Brown discoloration in pseudostem and corm, wilting, yellowing leaves; internal vascular discoloration
+- **Anthracnose:** Black circular spots on fruit during ripening, appearing as clusters of black spots post-harvest
+- **Black Sigatoka:** Dark brown spots parallel to lateral veins on upper leaves; can reduce yields by 35-50%
+- **Kodana leaf spot:** Oval spots on leaf blade with brown-gray center, concentric ring pattern, and yellow halo
+- **Banana Bunchy Top Virus:** Stunted growth, yellow mottling on leaves, and malformed bunches
+- **Moko Disease:** Yellowing and wilting of young leaves; internal vascular discoloration leading to plant death
+- **Banana Bract Mosaic Virus:** Greenish-yellow streaks on leaves that turn necrotic; mottling on pseudostems
 
-- **Kodana leaf spot:**
-  - Oval spots form on the leaf blade and spread toward both leaf margins.
-  - These spots have a brown-gray center with a concentric ring-like pattern and are surrounded by a bright yellow halo.
-
-Black spots on leaves, yellowing of leaves, stunted growth
 **Management:**
-- **Panama disease:**
-  - Fungicides are ineffective for disease control, so prevention is key.
-  - Water regularly and avoid disposing of diseased plant parts into waterways.
-  - Practice crop rotation with resistant varieties like sour.
-  - Obtain planting material from healthy mother plants.
-  - Reduce soil acidity, as acidic conditions increase pathogen density, by applying dolomite or fly ash.
-  - Tissue-cultured plants can be used as healthy planting material but may still be affected if planted in infected fields.
+- **Panama disease:** 
+  - Practice prevention: water regularly, avoid disposing diseased parts in waterways
+  - Crop rotation with resistant varieties
+  - Use healthy planting material
+  - Reduce soil acidity with dolomite or fly ash
+  - Quarantine measures; field flooding
+- **Anthracnose:** 
+  - Maintain field hygiene
+  - Apply fungicides containing mancozeb or chlorothalonil for susceptible varieties
+  - Cover banana bunches
+- **Black Sigatoka:** 
+  - Remove infected plants
+  - Regular fungicide applications
+  - Use resistant cultivars when available
+- **Kodana leaf spot:** Cut off and burn infected leaves
+- **Banana Bunchy Top Virus:** 
+  - Remove infected plants
+  - Control aphid populations
+- **Moko Disease:** 
+  - Implement quarantine measures
+  - Destroy infected plants
+- **Banana Bract Mosaic Virus:** 
+  - Use disease-free planting materials
+  - Control vectors through insecticides
 
-- **Anthracnose:**
-  - Proper field hygiene should be maintained by removing weeds and keeping the plantation clean.
-  - For gray plantains, apply a fungicide containing mancozeb or chlorothalonil at 2-week intervals after bud break.
-  - It is also recommended that the banana bunch be covered.
-    
-- **Black Sigatoka:** If symptoms are present, the plants should be removed.
-  
-- **Kodana leaf spot:** Infected leaves should be cut off and burned.
+General practices:
+- Obtain planting material from healthy mother plants or use tissue-cultured plants
+- Maintain proper field hygiene and remove weeds
+- Practice crop rotation when possible
+- Use resistant varieties when available
+- Implement quarantine measures for new plantings
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Bananas grow well in the warm, humid conditions of the low country wet zone.
 **Challenges/Adaptations:**
 - Requires regular watering to prevent wilting
 - Susceptible to Black Sigatoka disease
 
-### Low country dry zone (Difficulty: 7/10)
+### Low country dry zone (Difficulty: 6/10)
 **Explanation:** Bananas can be grown in the low country dry zone with adequate irrigation.
 **Challenges/Adaptations:**
 - Requires more watering than other plants due to high transpiration rate
@@ -159,12 +164,15 @@ Black spots on leaves, yellowing of leaves, stunted growth
 **Challenges/Adaptations:**
 - Requires protection from frost
 - Needs regular watering to prevent wilting due to high-altitude temperatures
-- - Best varieties to grow: Embul (Sour), Seeni (Sugar Banana), Kandula, Anamalu, Ambon, Rath Banana (Red Banana), Nethrampalam, Suwandel, Puwalu, Bing Banana
+- Best varieties to grow: Embul (Sour), Seeni (Sugar Banana), Kandula, Anamalu, Ambon, Rath Banana (Red Banana), Nethrampalam, Suwandel, Puwalu, Bing Banana
 
 ## References for this entry
 ### Content Sources:
-https://doa.gov.lk/fruit-crops-banana-s/
-https://www.epicgardening.com/plant-grow-and-care-for-banana-plants/
-https://growingspaces.com/growing-bananas/#:~:text=The%20following%20plants%20are%20great,grow%20up%20the%20banana%20plant.
+- https://doa.gov.lk/fruit-crops-banana-s/
+- https://www.epicgardening.com/plant-grow-and-care-for-banana-plants/
+- https://growingspaces.com/growing-bananas/#:~:text=The%20following%20plants%20are%20great,grow%20up%20the%20banana%20plant.
+- https://agritrop.cirad.fr/544321/1/544321.pdf
+- https://plantvillage.psu.edu/topics/banana/infos
+- https://doa.gov.lk/fruit-crops-banana-s/
 
 ### Image Sources: (In order of appearance)

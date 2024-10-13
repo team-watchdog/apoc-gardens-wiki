@@ -3,13 +3,11 @@
 
 ## General Information
 **Generic name:** Avocado, Alligator Pear, Butter Fruit
-**Sri Lankan name:** aligaṭapēra (Sinhala)
+**Sri Lankan name:** aligaṭapēra (Sinhala) | Veṇṇeyp paḻam (Tamil)
 **Scientific name:** _Persea americana_
 **Plant family:** _Lauraceae_
 **Edible parts:** Fruit
-**Nutrition value:** Vitamin C, E, K, and B6 as well as riboflavin, niacin, folate, pantothenic acid, magnesium, and potassium.
-**Other uses:**
-Avocado oil is used in cosmetics and soap making. Avocado leaves are used as a tea for medicinal purposes.
+**Nutrition value:** Vitamin C, E, K, and B6 as well as riboflavin, niacin, folate, pantothenic acid, magnesium, and potassium
 
 **Companion plants:**
 - Peanut
@@ -24,10 +22,9 @@ Avocado oil is used in cosmetics and soap making. Avocado leaves are used as a t
 **Non-companion plants:** Plants with deep roots may interfere with Avocado root growth
 
 ## Description:
-The avocado is a medium-sized, evergreen tree in the laurel family (Lauraceae). Its fruit is botanically a large berry containing a single large seed. Sri Lanka has developed several local varieties adapted to specific regions. 
+The avocado is a medium-sized, evergreen tree in the laurel family (Lauraceae). Its fruit is botanically a large berry containing a single large seed. Avocado oil is used in cosmetics and soap making. Avocado leaves are used as a tea for medicinal purposes. Grows best in the wet zones in Sri Lanka up to 1500 meters above sea level. Requires annual rainfall of 1200-1300mm.  Sri Lanka has developed several local varieties adapted to specific regions. 
 
-#### Recommended Varieties:
-
+**Recommended Varieties:**
 - Pollock: A West Indian variety that performs well in Sri Lanka's wet zones. It produces large, pear-shaped fruits with smooth, thin skin. The fruit remains green when ripe, weighs about 600 grams, and contains 3-8% fat.
 - Grotferis: A hybrid of the Mexico and West Indian groups. Produces large fruits weighing about 600 grams. The fruit is oval-shaped and turns purple when ripe. Contains 5-10% fat.
 - Peradeniya purple hybrid: A locally developed variety. Produces round, medium-sized fruits that turn purple when ripe. Average fruit weight is 300-350 grams.
@@ -56,9 +53,7 @@ For better fruit production, plant both types together to ensure cross-pollinati
 | Light | Full or partial sunlight |
 
 ### Growing conditions:
-- Grows best in the wet zones in Sri Lanka up to 1500 meters above sea level. Requires annual rainfall of 1200-1300mm. 
-
-| Temperatures | Under 30 degrees Celsius |
+| Temperatures | Under 30°C |
 |----|----|
 | Soil | Keep the soil well drained |
 | Water | Requires a moderate and regular supply of water, but it doesn't tolerate waterlogged soil. When the top layer of soil seems dry, water with small amounts of water and do not overwater the plant. Wilting leaves may be a sign of both too much and too little water |
@@ -130,14 +125,14 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
   - Improve field sanitation by destroying fallen, diseased fruits.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 6/10)
+### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Avocado trees grow best in the wet zones in Sri Lanka with an annual rainfall of 1200-1300mm. However, they require well-draining soil to prevent waterlogging.
 
 **Challenges/Adaptations:**
 - Requires well-draining deep loamy soil with a pH value of about 5.7
 - Regular pruning and pest/disease management
 
-### Low country dry zone (Difficulty: 8/10)
+### Low country dry zone (Difficulty: 6/10)
 **Explanation:** Avocado trees can tolerate some drought but require regular watering for optimal growth in the dry zones.
 
 **Challenges/Adaptations:**
@@ -165,6 +160,7 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
 - https://www.epicgardening.com/avocado-trees/
 - [Medical News Today](https://www.medicalnewstoday.com/articles/321543#eight-benefits-for-the-skin)
 - [Eating well](https://www.eatingwell.com/article/7825925/how-to-store-avocados/#:~:text=It's%20best%20to%20refrigerate%20an,produce%20drawer%20in%20the%20refrigerator.)
+- https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%A9%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%AF%E0%AF%8D%E0%AE%AF%E0%AE%BE
 
 ### Image Sources: (In order of appearance)
 - 

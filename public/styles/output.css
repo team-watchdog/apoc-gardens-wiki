@@ -1057,16 +1057,20 @@ iframe {
 
 #protecting-plant-section > p {
   margin-bottom: 0px;
-  font-size: 1.125rem;
-  line-height: 1.75rem;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
+
+/** The list of protecting plants **/
 
 #protecting-plant-section li p {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
 
-#protecting-plant-section li > strong {
+/** The disease / pest names **/
+
+#protecting-plant-section ul strong {
   margin-right: 0.25rem;
   font-weight: 400;
   --tw-text-opacity: 1;
