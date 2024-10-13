@@ -4,7 +4,7 @@
     
 ## General Information
 **Generic name:** Beetroot
-**Sri Lankan name:** Beetroot (Sinhala)
+**Sri Lankan name:** Beetroot (Sinhala) | Beetroot (Tamil)
 **Scientific name:** _Beta vulgaris_
 **Plant family:** _Amaranthaceae_
 **Edible parts:** Red tubers and Leaves

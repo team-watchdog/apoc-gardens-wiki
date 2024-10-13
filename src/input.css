@@ -81,7 +81,7 @@
 /** HEADERS **/
 @layer components {
 	#header-section {
-		@apply rounded-lg bg-secondary-100 pt-8 sticky top-4 h-full mr-4 overflow-y-scroll;
+		@apply rounded-lg bg-secondary-100 pt-8 sticky top-4 h-[calc(100vh-2rem)] mr-4 overflow-y-auto;
 		@apply flex-auto lg:basis-1/6;
 	}
 
