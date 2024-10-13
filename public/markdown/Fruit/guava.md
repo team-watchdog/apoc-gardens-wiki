@@ -3,10 +3,10 @@
     
 ## General Information
 **Generic name:** Guava
-**Sri Lankan name:** Pera (Sinhala), Koyyā (Tamil)
+**Sri Lankan name:** Pera (Sinhala) | Koyyā (Tamil)
 **Scientific name:** _Psidium guajava_
 **Plant family:** _Myrtaceae_
-**Edible parts:** Young leaves and the Fruit
+**Edible parts:** Fruit
 **Nutrition value:** High in dietary fiber, vitamin C, potassium, and folate.
 **Companion plants:**
 - Citrus trees
@@ -23,24 +23,24 @@
 A small, shallow-rooted, evergreen tree or shrub, with smooth mottled bark, growing 8-10 m high. The fruit is rounded and 4 to 5 cm long. They are green but turn yellow when ripe. The outer covering is firm and encloses a pink or nearly white sweet-smelling edible pulp. This contains many seeds. In better selected varieties both the skin and the seeds are fully edible. Fruit varies from very acidic to very sweet. They grow wild and are also cultivated.
 
 ## Planting requirements
-- Grows in humid and dry tropical climates
-  
 **Planting season:** Year-round, but preferably at the onset of rainy seasons
 
 ### Planting conditions:
 | Propagation | Mostly grown from seeds or stem cuttings |
 |----|----|
-| Planting method | When planting a young tree, dig a hole that's at least twice the width of the root ball, wider if possible. |
-| Soil | Prefers well-drained loamy soils with good organic matter. |
-| Water | Requires frequent watering for the young plant until established. |
+| Planting method | When planting a young tree, dig a hole that's at least twice the width of the root ball, wider if possible |
+| Soil | Prefers well-drained loamy soils with good organic matter |
+| Water | Requires frequent watering for the young plant until established |
 | Light | Requires 6 hours of full sunshine |
 
 ### Growing conditions:
 
 | Temperatures | Requires temperatures near 30°C give best production |
 |----|----|
-| Soil | Add compost if desired. Mulch to a depth of 3"-4" around the tree, making sure to maintain at least a 4"-6" clear space around the trunk itself and keep the soil moist but not waterlogged. |
-| Water | Requires moderate watering during dry spells and less during rainy seasons. |
+| Soil | Add compost if desired. Mulch to a depth of 3"-4" around the tree, making sure to maintain at least a 4"-6" clear space around the trunk itself and keep the soil moist but not waterlogged |
+| Water | Requires moderate watering during dry spells and less during rainy seasons |
+| Pruning | Pruning guava trees helps maintain their shape, encourages new growth, and improves fruit production |
+| Weed control | Weed control is crucial for reducing competition for nutrients and water |
 
 ## Harvesting:
 Guava fruit ripens in its 2nd-4th year. Can pick the fruit when it's full-sized and has become slightly soft and aromatic. But it can be harvested prior to full ripeness as well and will continue to ripen off the tree.
@@ -88,10 +88,10 @@ Guavas can be stored at room temperature for up to 5 days or refrigerated for up
 **Management:**
 - **Tree dieback:** Remove and burn diseased trees, improve drainage, and apply carbendazim to moist soil.
 - **Scab disease:** Use recommended fertilizers, prune trees properly, and apply fungicides like Mancozeb or Daconil, followed by insecticides like Imidacloprid.
-- **Anthracnose:** Proper tree pruning to allow sunlight, apply fungicides like Daconil and Mancozeb, careful fruit harvesting and packing.
+- **Anthracnose:** Proper tree pruning to allow sunlight, apply fungicides like Daconil and Mancozeb, careful fruit harvesting and storage.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Guava grows well in the low country wet zone due to adequate rainfall, but requires management to prevent fungal diseases.
 
 **Challenges/Adaptations:**
@@ -106,7 +106,7 @@ Guavas can be stored at room temperature for up to 5 days or refrigerated for up
 - Use mulching to conserve soil moisture.
 - Apply balanced fertilizers regularly.
 
-### Mid country (Difficulty: 4/10)
+### Mid country (Difficulty: 2/10)
 **Explanation:** Guava grows exceptionally well in the mid country of Sri Lanka due to favorable climate conditions.
 
 **Challenges/Adaptations:**
@@ -121,3 +121,9 @@ Guavas can be stored at room temperature for up to 5 days or refrigerated for up
 - Choose cold-tolerant varieties suitable for up country conditions.
 - Maintain good air circulation to prevent disease buildup.
 - Apply balanced fertilizers regularly, but avoid overfertilizing as it can cause excessive vegetative growth at the expense of fruit production.
+
+## References for this entry
+### Content Sources:
+https://www.rehobothorganicfarms.com/post/guava-trees-after-3-months-of-pruning
+
+### Image Sources: (In order of appearance)

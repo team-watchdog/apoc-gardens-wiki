@@ -3,7 +3,7 @@
     
 ## General Information
 **Generic name:** Jackfruit
-**Sri Lankan name:** Kos (Sinhala), Palāppaḻam (Tamil)
+**Sri Lankan name:** Kos (Sinhala) | Palāppaḻam (Tamil)
 **Scientific name:** _Artocarpus heterophyllus_
 **Plant family:** _Moraceae_
 **Edible parts:** The arils (the sweet, raw fruit), seeds (boiled or roasted), young fruits (used in curries)
@@ -19,22 +19,20 @@ Not applicable
 The jackfruit tree, also known by the common name jack tree, is a tropical fruit tree in the Moraceae family that is a relative of breadfruit, mulberry, and fig tree. Jackfruit leaves are dark green and glossy, and the trees are monoecious, meaning they have both male flowers and female flowers on the same tree. Jackfruit can be used to control soil erosion due to its extensive root system.
 
 ## Planting requirements
-- Grows in hot humid climates
-  
-**Planting season:** Year-round in most parts of Sri Lanka, but preferably before the monsoon season (May-June or October-November)
+**Planting season:** Year-round in most parts of Sri Lanka, but preferably May-June or October-November
 
 ### Planting conditions:
 | Propagation | Propagated by seed, grafting, cuttings |
 |----|----|
-| Planting method    | First choose a healthy nursery tree and select a site with full sunshine. Dig a hole 3 to 4 times the diameter and 3 times as deep as the container the jackfruit tree has come in. Remove the tree from the container and place it in the hole so that the top of the soil media in the container is level with or slightly above the surrounding soil level |
-| Soil | Requires well-drained sandy or loamy soils with a high PH. Moderately drought tolerant. |
+| Planting method    | First choose a healthy nursery tree and select a site with full sunshine. Dig a hole 3 to 4 times the diameter and 3 times as deep as the container the jackfruit tree has come in. Remove the tree from the container and place it in the hole so that the top of the soil in the container is level with or slightly above the surrounding soil level |
+| Soil | Requires well-drained sandy or loamy soils with a high PH level |
 | Water | Need consistent moist soil |
 | Light | Requires full sunshine (6 hours) |
 
 ### Growing conditions:
 | Temperatures | Needs a temperature of 24–28°C |
 |----|----|
-| Soil | Trees grow best in well-drained soils. |
+| Soil | Trees grow best in well-drained soils |
 | Water | Regular watering is needed for young plants. Needs regular watering when the conditions are dry |
 | Pruning | Prune the tree if space is limited, removing dead or diseased branches and maintaining a balanced canopy |
 | Weed control | Keep the area around the tree free of weeds to prevent competition for nutrients |
@@ -48,12 +46,8 @@ Ripe jackfruits can be cured by storing them at room temperature until the skin 
 ## Storage
 In tropical climates, ripe jackfruits can be stored at room temperature for 3-4 days. For longer storage, cut the fruit into sections and refrigerate for up to a week. Unripe jackfruits can be stored at room temperature for up to a week or refrigerated for up to 3 months.
 
-Certainly! I'll convert the pest and disease information from the reference file into the requested format.
-
 ## Protecting your plants
-
 ### Pest control
-
 **Pest type:**
 - Shoot and fruit borer
 - Mealy bug
@@ -117,7 +111,7 @@ Certainly! I'll convert the pest and disease information from the reference file
 
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 2/10)
 **Explanation:** Jackfruit trees thrive in the wet zone due to abundant rainfall and suitable temperatures.
 **Challenges/Adaptations:**
 - **Pests:** Aphids, and mealybugs are common. Regular monitoring is needed.
@@ -129,7 +123,7 @@ Certainly! I'll convert the pest and disease information from the reference file
 - **Drought:** Trees may drop leaves and fruits during severe droughts. Regular watering is crucial.
 - **Mulching:** Apply thick mulch to conserve soil moisture and reduce water stress.
 
-### Mid country (Difficulty: 6/10)
+### Mid country (Difficulty: 4/10)
 **Explanation:** Jackfruit trees grow well in the mid-country with regular watering and pest management.
 **Challenges/Adaptations:**
 - **Pests:** Similar to wet zone, but cooler temperatures may slow down pest reproduction.

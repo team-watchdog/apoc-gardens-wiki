@@ -3,8 +3,8 @@
 
 
 ## General Information
-**Generic name:** Durio zibethinus
-**Sri Lankan name:** Duriyan (Sinhala & Tamil)
+**Generic name:** Durian
+**Sri Lankan name:** Duriyan (Sinhala) | Duriyan (Tamil)
 **Scientific name:** _Durio zibethinus_
 **Plant family:** _Malvaceae_
 **Edible parts:** Fruit
@@ -22,24 +22,22 @@ The durian is the edible fruit of several tree species belonging to the genus Du
 Varieties in Sri Lanka include Kasun, Ambatenna, Horana Gold, Horana Jumbo, and Gannoruwa Sweet.
 
 ## Planting requirements
-**Planting season:** October to December (during the North-East monsoon)
+**Planting season:** October to December
 
 ### Planting conditions:
 | Propagation | Direct seeding or grafting |
 |----|----|
-| Planting method | Durian can be planted through direct seeding and grafting. Direct seeding is not recommended for commercial use due to the length of time it takes for trees to grow and variations in fruit quality. |
+| Planting method | Durian can be planted through direct seeding and grafting. Direct seeding is not recommended for commercial use due to the length of time it takes for trees to grow and variations in fruit quality. Following planting, young durian trees should be provided with temporary shade and complete wind protection for the first year, as in a shade cloth nursery structure or equivalent. The structure of the young trees and their leaves is such that strong winds can twist the leaves right off, a setback from which they are unlikely to ever fully recover. |
 | Soil | Rich, deep, well-drained sandy clay or clay loam (deep alluvial or loamy soil), high in organic matter, pH range of 6 - 7 |
-| Water | Regular watering is essential, especially during dry periods. Irrigation may be necessary in areas with less than 1500mm annual rainfall.                                           |
+| Water | Regular watering is essential, especially during dry periods. Irrigation may be necessary in areas with less than 1500mm annual rainfall                                           |
 | Light| Full sun to partial shade, with protection from strong winds |
 
 ### Growing conditions:
- Following planting, young durian trees should be provided with temporary shade and complete wind protection for the first year, as in a shade cloth nursery structure or equivalent. The structure of the young trees and their leaves is such that strong winds can twist the leaves right off, a setback from which they are unlikely to ever fully recover.
-
-| Temperatures | Required hot temperatures, but may be grown in slightly cooler temperatures as well |
+| Temperatures | Require hot temperatures, but may be grown in slightly cooler temperatures as well |
 |----|----|
-| Soil | Well-drained, fertile soil rich in organic matter. |
-| Water |Regular watering is essential, especially during dry periods. Irrigation may be necessary in areas with less than 1500mm annual rainfall. |
-| Pruning | Proper pruning of the durian tree is important to obtain a tree form that encourages early flowering and good yields. |
+| Soil | Well-drained, fertile soil rich in organic matter |
+| Water |Regular watering is essential, especially during dry periods. Irrigation may be necessary in areas with less than 1500mm annual rainfall |
+| Pruning | Proper pruning of the durian tree is important to obtain a tree form that encourages early flowering and good yields |
 | Weed control | Regular weeding around the base of the tree |
 
 ## Harvesting:
@@ -60,29 +58,29 @@ Once opened, the fruit should be consumed right away; however, the flesh can be 
 - Green ants
 - Meat ants
 
-**Symptoms:** Holes in leaves or fruits, wilting leaves, fruit drop
+**Symptoms:** 
+- Holes in leaves or fruits, wilting leaves, fruit drop
 
-**Control method:** Use of natural insecticides like neem oil.
+**Control method:** 
+- Use of natural insecticides like neem oil.
 
 ### Disease Control
 **Disease type:** 
 - _Phytophthora palmivora_
 
 **Symptoms:** 
-- **_Phytophthora palmivora_:**
- - causes dark, reddish-brown, gummy spots on the bark.
- - Cankers (sores) can form on branches, causing them to die back. If they appear on the trunk or roots, the entire tree could be at risk.
- - Trees often lose leaves and show poor growth before dying.
- - Young plants can die if their roots or stems get infected.
+- Causes dark, reddish-brown, gummy spots on the bark.
+- Cankers (sores) can form on branches, causing them to die back. If they appear on the trunk or roots, the entire tree could be at risk.
+- Trees often lose leaves and show poor growth before dying.
+- Young plants can die if their roots or stems get infected.
 
 **Management:** 
-- **_Phytophthora palmivora_:**
- - Steps can be taken to eliminate a moist microclimate at the base of the tree which might support the growth of P. palmivora
- - Remove any branches starting to grow below about 1 meter in height.
- - Using disease-resistant varieties.
+- Steps can be taken to eliminate a moist microclimate at the base of the tree which might support the growth of P. palmivora
+- Remove any branches starting to grow below about 1 meter in height.
+- Using disease-resistant varieties.
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 5/10)
+### Low country wet zone (Difficulty: 3/10)
 **Explanation:** The wet zone provides ideal conditions for durian cultivation with high rainfall and suitable temperatures.
 **Challenges/Adaptations:**
 - Manage excess moisture to prevent fungal diseases.
@@ -92,12 +90,12 @@ Once opened, the fruit should be consumed right away; however, the flesh can be 
 **Challenges/Adaptations:**
 - Implement efficient irrigation systems and provide shade during extreme heat.
 
-### Mid country (Difficulty: **6/10**)
+### Mid country (Difficulty: 6/10)
 **Explanation:** The midcountry offers moderate conditions but may require additional care during dry spells.
 **Challenges/Adaptations:**
 - Supplement rainfall with irrigation during dry periods.
 
-### Up country (Difficulty: **7/10**)
+### Up country (Difficulty: 7/10)
 **Explanation:** The cooler temperatures and potential frost in the up country can be challenging for durian trees.
 **Challenges/Adaptations:**
 - Choose cold-tolerant varieties and provide protection from strong winds.

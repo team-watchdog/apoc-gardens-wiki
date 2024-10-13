@@ -1061,6 +1061,11 @@ iframe {
   line-height: 1.5rem;
 }
 
+#protecting-plant-section {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
 /** The list of protecting plants **/
 
 #protecting-plant-section li p {
