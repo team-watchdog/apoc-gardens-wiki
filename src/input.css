@@ -70,7 +70,7 @@
 		@apply list-decimal pl-4;
 	}
 	li {
-		@apply text-secondary-900 text-base ;
+		@apply text-secondary-900 text-base;
 	}
 
 	iframe {
@@ -251,8 +251,12 @@
 		@apply mb-0 text-base;
 	}
 
+	#protecting-plant-section {
+		@apply text-base;
+	}
+
 	/** The list of protecting plants **/
-	#protecting-plant-section li p{
+	#protecting-plant-section li p {
 		@apply mt-2 mb-2;
 	}
 
@@ -281,5 +285,4 @@
 	#first-principles p {
 		@apply text-pretty text-lg mb-2 antialiased leading-relaxed;
 	}
-
 }
