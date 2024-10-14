@@ -1122,23 +1122,9 @@ iframe {
   padding: 1rem;
 }
 
-#first-principles #header-section {
-  position: sticky;
-  top: 1rem;
-  margin-right: 1rem;
-  height: 100%;
-  border-radius: 0.5rem;
-  --tw-bg-opacity: 1;
-  background-color: rgb(247 247 242 / var(--tw-bg-opacity));
-  padding-top: 2rem;
-  flex: 1 1 auto;
-}
-
-@media (min-width: 1024px) {
-  #first-principles #header-section {
-    flex-basis: 20%;
-  }
-}
+/* #first-principles #header-section {
+		@apply flex-auto lg:basis-1/5;
+	} */
 
 #first-principles main {
   width: 100%;
