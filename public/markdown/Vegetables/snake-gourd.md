@@ -3,11 +3,11 @@
 
 ## General Information
 **Generic name:** Snake Gourd, Serpent Gourd
-**Sri Lankan name:** Pathola (Sinhala), Podivilangi (Tamil)
+**Sri Lankan name:** Pathola (Sinhala) | Podivilangi (Tamil)
 **Scientific name:** _Trichosanthes cucumerina L_
 **Plant family:** _Cucurbitaceae_
-**Edible parts:** Fruit is eaten as a vegetable. Leaves and shoots are also edible, and the pulp of mature fruits is sometimes eaten as a tomato substitute.
-**Nutrition value:** 
+**Edible parts:** Fruit is eaten as a vegetable. Leaves and shoots are also edible, and the pulp of mature fruits is sometimes eaten as a tomato substitute
+**Nutrition value:** Low in calories and rich in essential nutrients
 
 **Companion plants:**
 - Radishes
@@ -15,6 +15,7 @@
 - Broccoli
 - Dill
 - French marigolds
+
 **Non-companion plants:**
 Not applicable
 
@@ -24,22 +25,23 @@ The snake gourd, a member of the pumpkin family, is a climbing plant that uses t
 Snake gourds thrive at elevations up to 500 meters and are commonly found in regions such as Mathale, Kandy, Hambantota, Kurunegala, and Ratnapura.
 
 ## Planting requirements
-**Planting season:** In the dry zone snake gourd is cultivated in the Yala season, while in the wet zone, the crop is cultivated throughout the year.
+**Planting season:** Best planting seasons are in the months of July and in January
 
 ### Planting conditions:
-| Propagation | Direct planting of seeds in the field. |
+| Propagation | Direct planting of seeds in the field |
 |----|----|
-| Planting method | Plough the land 20-30 cm depth. Prepare 30 x 30 x 30 cm holes with 1.5 m x 1.5 m recommended spacing. Add organic matter and fill the holes. Plant 2 seeds in one hole, with 2-3 cm depth. Seed germination starts within 5 – 8 days. |
-| Soil | Soil with high organic matter and good drainage is needed. pH should be 5.5 -7.5. |
-| Water | Daily irrigate needed until seeds germinate |
+| Planting method | Plough the land 20-30 cm depth. Prepare 30 x 30 x 30 cm holes with 1.5 m x 1.5 m recommended spacing. Add organic matter and fill the holes. Plant 2 seeds in one hole, with 2-3 cm depth. Seed germination starts within 5 – 8 days |
+| Soil | Soil with high organic matter and good drainage is needed. pH should be 5.5-7.5 |
+| Water | Daily irrigation is needed until seeds germinate |
 | Light | Minimum 6-8 hours of sunlight |
 
 ### Growing conditions:
-| **Temperatures** | High temperature is preferred. Warm-season crop and its ideal temperature range is between 80°F and 95°F (27°C to 35°C) |
+| Temperatures | High temperature is preferred. Warm-season crop and its ideal temperature range is between 80°F and 95°F (27°C to 35°C) |
 |----|----|
-| Soil | It is recommended to train each vine along a 2m height trellis. Remove side branches.|
-| Water | Water regularly, and avoid letting the soil become dry or waterlogged, killing the plants. |
-| Mulching | Add mulch to the plants' base to retain soil moisture |
+| Soil | It is recommended to train each vine along a 2m height trellis. Remove side branches. Add mulch to the plants' base to retain soil moisture |
+| Water | Water regularly, and avoid letting the soil become dry or waterlogged, killing the plants |
+| Pruning | Prune lateral branches to increase fruit set and production |
+| Weed control | Control weeds at the early stages of the crop |
 
 ## Harvesting:
 Harvest the crop 60-75 days after planting with a 4-day interval.
@@ -97,7 +99,7 @@ Snake gourd should be stored at 12-13°C with 85-90% humidity to extend its shel
 - Use recommended fungicides at the initial stages of disease development
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 6/10)
+### Low country wet zone (Difficulty: 4/10)
 **Explanation:** Snake gourd is relatively easy to grow in the low country wet zone, but proper irrigation and pest management are crucial.
 
 **Challenges/Adaptations:**
@@ -118,10 +120,16 @@ Snake gourd should be stored at 12-13°C with 85-90% humidity to extend its shel
 - Temperature fluctuations can affect fruit set. Provide protection during cold nights if necessary.
 - Monitor plants for signs of disease, as high humidity can encourage fungal growth.
 
-### Up country (Difficulty: 8/10)
+### Up country (Difficulty: 9/10)
 **Explanation:** In the upcountry, snake gourd is more challenging to grow due to cooler temperatures and potential frost.
 
 **Challenges/Adaptations:**
 - Cooler temperatures can slow plant growth. Provide additional warmth with row covers or plastic mulch if possible.
 - Protect plants from potential frost using row covers or other protective measures.
 - Ensure consistent moisture throughout the growing season.
+
+
+## Sources
+- https://agritech.tnau.ac.in/horticulture/horti_vegetables_snake%20gourd.html
+- http://celkau.in/Crops/Vegetables/Snakegourd/snakegourd.aspx
+- https://www.gardeningknowhow.com/edible/vegetables/gourd/snake-gourd-plant-growing.htm

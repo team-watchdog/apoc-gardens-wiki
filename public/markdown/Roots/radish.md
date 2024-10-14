@@ -40,9 +40,9 @@ Two types of radish are commonly grown in Sri Lanka, Beeralu Rabu, and Japanese 
 ### Growing conditions:
 | Temperatures | Grows well even in dry zone conditions, but prefers cooler temperatures between 4°C - 24°C (40°F - 70°F)  |
 |----|----|
-| Soil | Well-drained soils are suitable, poorly drained soils can cause growth problems. A pH range of 6.0 – 7.5 is appropriate for cultivation. |
+| Soil | Well-drained soils are suitable, poorly drained soils can cause growth problems. A pH range of 6.0 – 7.5 is appropriate for cultivation |
 | Water | Irrigate daily for the first 4-5 days and then every 3-4 days, depending on rainfall |
-| Pruning | No pruning required. |
+| Pruning | No pruning required |
 | Weed control | One-hand weeding is enough after 2 weeks of planting |
 
 ## Harvesting:

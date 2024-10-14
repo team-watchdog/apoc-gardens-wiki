@@ -2,85 +2,167 @@
 ![Knol-Khol.jpeg](../../assets/images/Knol-Khol.jpeg "Image - Wikimedia Commons")
 
 ## General Information
-**Generic name:** Kohlrabi, German Turnip
-**Sri Lankan name:** Nokol (Sinhala)
-**Scientific name:** Brassica oleracea var. gongylodes
-**Plant family:** Brassicaceae
-**Edible parts:** Almost all parts, but the stem and leaf are preferred
+**Generic name:** Knol Khol, Kohlrabi, German Turnip
+**Sri Lankan name:** Nokol (Sinhala) | Nōkōl (Tamil)
+**Scientific name:** _Brassica oleracea var. gongylodes_
+**Plant family:** _Brassicaceae_
+**Edible parts:** Bulbs, Leaves and Stem
 **Nutrition value:** High in vitamin C, potassium, magnesium, phosphorous, calcium, iron, and folate
-**Other uses:** Knol-khol is a low-calorie, low-glycemic index food; high in antioxidants, including carotenoids, and therefore considered healthy eating.
-**Companion Plants:***
-- Marigolds: Attract natural insect predators and help keep unwanted insects out of your growing space.
-- Cabbage: Can be intercropped with kohlrabi, suggesting they are compatible companions.
-- Curry Chili: Another intercropping option mentioned, indicating it's a suitable companion for kohlrabi.
-- Onions: May help repel pests that affect Brassicaceae family members.
-- Herbs (e.g., dill, cilantro): Attract beneficial insects that can help control pests like aphids.
-- Legumes (e.g., beans, peas): Can fix nitrogen in the soil, benefiting kohlrabi's growth.
+
+**Companion Plants:**
+- Marigolds
+- Cabbage
+- Curry Chili
+- Onions
+- Herbs (e.g., dill, cilantro)
+- Legumes (e.g., beans, peas)
 
 **Non-Companion Plants:**
-- Other Brassicaceae family members (e.g., broccoli, cauliflower): Should not be planted in rotation with kohlrabi to prevent disease buildup, especially clubroot.
-- Strawberries: May compete for nutrients and are susceptible to some of the same pests.
-- Tomatoes: Require different soil conditions and may compete for nutrients.
-- Eggplants: Belong to the nightshade family and have different growing requirements.
-- Sunflowers: Their height can overshadow kohlrabi and potentially stunt its growth.
+- Other Brassicaceae family members (e.g., broccoli, cauliflower)
+- Strawberries
+- Tomatoes
+- Eggplants
+- Sunflowers
 
 ## Description:
 Kohlrabi has been created by artificial selection for lateral meristem growth (a swollen, nearly spherical shape); its origin in nature is the same as that of cabbage, broccoli, cauliflower, kale, collard greens, and Brussels sprouts: they are all bred from, and are the same species as, the wild cabbage plant (Brassica oleracea).
 
 The taste and texture of kohlrabi are similar to those of a broccoli stem or cabbage heart, but milder and sweeter, with a higher ratio of flesh to skin. They can be eaten in a variety of ways - raw in salads, roasted, added to soups and stews, pureed, boiled, or mashed with potatoes. 
 
-### Planting conditions:
+## Planting requirements
+**Planting season:** Begin seedling preparation in nurseries by mid-August, followed by transplanting to the field in September
 
-| **Propagation** | Direct seed or create transplants indoors |
+### Planting conditions:
+| Propagation | Direct seed or create transplants indoors |
 |-----------------|-------------------------------------------|
-| Planting method | Prepare beds and plant seeds from mid-August until September, at one inch spacing, and one-fourth to one-half inch deep. Maintain a 30 cm distance between each column. Planting after October in the mid and low country could lead to reduced yields due to high temperatures. |
+| Planting method | Prepare beds and plant seeds at one inch spacing, and one-fourth to one-half inch deep. Maintain a 30 cm distance between each column. Planting after October in the mid and low country could lead to reduced yields due to high temperatures |
 | Soil            | Soil should have plenty of organic matter and mulch to trap moisture. Recommended pH level is 5.5 |
-| Water           | In the absence of rain apply one to one and a half inches of water per week. |
+| Water           | In the absence of rain apply one to one and a half inches of water per week |
 | Light           | 6 hours of sunlight per day |
 
 ### Growing conditions:
-
-| **Temperatures** | Optimal temperature range: 15-25°C |
+| Temperatures | Optimal temperature range: 15-25°C |
 |------------------|-------------------------------------|
 | Soil | If humidity is low, help to keep the soil moist by spreading a thin layer of mulch around the base of the plant. Weed diligently but take care to not disturb the roots |
-| Water | Water 1 inch per square foot per week, unless the soil seems to be drying out sooner. |
-| Pruning | Prune plants if they become too leggy or if you want to encourage bushier growth. |
-| Weed control | Hand-pull weeds regularly, and consider using organic herbicides like vinegar if the infestation is large. |
+| Water | Water 1 inch per square foot per week, unless the soil seems to be drying out sooner |
+| Pruning | Prune plants if they become too leggy or if you want to encourage bushier growth |
+| Weed control | Hand-pull weeds regularly, and consider using organic herbicides like vinegar if the weed infestation is large |
 
 ## Harvesting:
 Expect to harvest crop within 50-60 days of planting.
 
 ## Curing:
-Cure kohlrabi by storing them in a cool, humid place for about two weeks after harvesting. This helps to toughen the skin and improve storage life.
+Cure Knol-Khol by storing them in a cool, humid place for about two weeks after harvesting. This helps to toughen the skin and improve storage life.
 
 ## Storage
-Store cured kohlrabi in the refrigerator for up to 3 months.
+Store cured Knol-Khol in the refrigerator for up to 3 months.
 
 ## Protecting your plants
-
 ### Pest control
-**Pest type:** Plants are susceptible to the same pests and diseases that other Brassicaceae family members are afflicted by. This includes cutworms, cabbage worms, flea beetles, aphids, damping off, root rot, and snails and slugs.
+**Pest types:**
+- Looper Caterpillar (Chrysodeixis chalcites)
+- Diamondback Moth (Plutella xylostella)
+- Black Worm (Agrotis ipsilon)
+- Root Knot Nematode (Meloidogyne spp.)
+- Thrips (Frankliniella spp.)
 
-**Symptoms:** Holes in leaves, wilting plants, sticky honeydew on leaves
+**Symptoms:**
+- Looper Caterpillar: Large holes in leaves, pale green caterpillars with white lines
+- Diamondback Moth: Leaf distortion, coarse stippling, irregular holes on leaf undersides
+- Black Worm: Wilting and yellowing, visible larvae feeding on roots and stems
+- Root Knot Nematode: Galls on roots up to 3.3 cm in diameter, reduced plant vigor and yellowing
+- Thrips: Silvery leaves, black fecal spots on leaves
 
-**Control method:** Ensure that soil is not waterlogged, and rotate the plants with non-Brassicaceae plants. Keeping beds neat and tidy will help prevent these problems. You can also sow plants, such as marigolds, to attract natural insect predators and keep unwanted insects out of your growing space. Use neem oil or pyrethrum-based organic pesticides for severe infestations. Introduce beneficial insects like ladybugs to control aphids.
+**Control methods:**
+- Looper Caterpillar:
+  - Encourage natural predators
+  - Hand-pick caterpillars
+  - Use Bacillus thuringiensis (Bt)
+- Diamondback Moth:
+  - Rotate crops
+  - Apply appropriate insecticides if necessary
+- Black Worm:
+  - Ensure good soil drainage
+  - Avoid planting in areas with infestation history
+  - Use nematodes or biological agents
+- Root Knot Nematode:
+  - Plant resistant cultivars
+  - Use soil solarization techniques
+- Thrips:
+  - Utilize reflective mulches early in growing season
+  - Apply targeted insecticides for severe infestations
 
 ### Disease Control
-**Disease type:** Clubroot, Blackleg, Powdery mildew, Downy mildew
+**Disease types:**
+- Clubroot
+- Blackleg
+- Powdery mildew
+- Downy mildew
+- Damping off
+- Root rot
 
-**Symptoms:** 
-- Clubroot: Swelling or malformation on the main lateral roots, appearing like clubs or spindles
-- Powdery mildew: Small white patches on upper and lower leaf surfaces, which may show purple blotching; later, a powdery layer coats the leaves
-- Downy mildew: Irregular yellow patches on leaves that later turn brown; white fluffy growth on the undersides of leaves in favorable conditions
+**Symptoms:**
+- Clubroot: Swelling or malformation on main lateral roots
+- Powdery mildew: Small white patches on leaves, purple blotching, powdery layer on leaves
+- Downy mildew: Irregular yellow patches on leaves turning brown, white fluffy growth on leaf undersides
 
-**Management:** 
+**Management:**
 - Rotate crops with non-Brassicaceae plants
-- Maintain good soil drainage and avoid overhead watering
+- Maintain good soil drainage
+- Avoid overhead watering
 - Use disease-resistant varieties when available
-- Apply lime to increase soil pH if clubroot is a persistent problem
-- For clubroot: Keep soil pH slightly basic (7.1-7.2) by adding agricultural lime (2-4 t/ha)
-- For powdery mildew: Remove crop debris after harvest, control weeds, apply surface sprays, dusts, or vapors
-- For downy mildew: Cover nursery to protect from rain, allow sunlight in the morning, apply fungicide containing tebuconazole (5 ml for 10 liters of water) once if necessary
+- Apply lime to increase soil pH for clubroot (keep pH 7.1-7.2)
+- Remove crop debris after harvest
+- Control weeds
+- Apply surface sprays, dusts, or vapors for powdery mildew
+- Cover nursery to protect from rain
+- Allow sunlight in the morning
+- Apply fungicide containing tebuconazole if necessary for downy mildew
+
+## Difficulty Rating
+### Low country wet zone (Difficulty: 7/10)
+**Explanation:** The high humidity and potential for excessive rainfall in this zone can create challenges for Knol Khol cultivation.
+
+**Challenges/Adaptations:** 
+- High risk of fungal diseases due to humidity.
+- Potential for waterlogged soil, which can lead to root rot.
+- The optimal temperature range (15-25°C) may be exceeded in this zone.
+- Ensure excellent drainage in planting beds.
+- Use raised beds to improve soil drainage.
+- Implement strict disease monitoring and management practices.
+- Consider using shade cloth during the hottest parts of the day to maintain optimal temperature range.
+
+### Low country dry zone (Difficulty: 8/10)
+**Explanation:** The hot, dry conditions of this zone are generally not ideal for Knol Khol, which prefers cooler temperatures and consistent moisture.
+
+**Challenges/Adaptations:**
+- Maintaining adequate soil moisture can be difficult.
+- High temperatures may stress the plants and reduce yields.
+- The short growing window (planting recommended from mid-August to September) limits cultivation opportunities.
+- Implement efficient irrigation systems to maintain consistent soil moisture.
+- Use mulch extensively to retain soil moisture and cool the soil.
+- Consider growing during the cooler months only.
+- Provide partial shade to protect plants from extreme heat.
+
+### Mid country (Difficulty: 5/10)
+**Explanation:** The mid country offers more favorable conditions for Knol Khol cultivation, with temperatures closer to the optimal range.
+
+**Challenges/Adaptations:**
+- Still needs careful water management, especially during dry spells.
+- Pest and disease pressure may be significant due to favorable conditions for various crops.
+- Monitor and adjust watering based on rainfall patterns.
+- Implement companion planting with recommended plants like marigolds and onions to help with pest control.
+- Rotate crops to prevent soil-borne diseases.
+
+### Up country (Difficulty: 4/10)
+**Explanation:** The cooler temperatures of the up country align well with Knol Khol's preferred growing conditions.
+
+**Challenges/Adaptations:**
+- Risk of frost in some areas, which can damage young plants.
+- Slower growth due to cooler temperatures may extend the time to harvest.
+- Use row covers or polytunnels to protect young plants from potential frost.
+- Take advantage of the longer growing season in cooler areas to succession plant for extended harvests.
+- Monitor for pests and diseases, which may be less prevalent but still present in cooler climates.
 
 ## Sources:
 - https://doa.gov.lk/hordi-crop-knol-khol/

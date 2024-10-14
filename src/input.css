@@ -85,8 +85,12 @@
 		@apply flex-auto lg:basis-1/6;
 	}
 
+	#header-section #important-links {
+		@apply mb-2 flex flex-col;
+	}
+
 	#header-section h2 {
-		@apply mb-2 ml-4;
+		@apply mb-2 ;
 	}
 
 	#header-section button {
@@ -244,7 +248,7 @@
 
 	/** PROTECTING YOUR PLANTS **/
 	#protecting-plant-section strong {
-		@apply text-primary-700 font-extrabold mr-2;
+		@apply text-primary-700 font-extrabold mr-1;
 	}
 
 	#protecting-plant-section > p {
@@ -266,18 +270,50 @@
 	}
 }
 
+/** Sources **/
+@layer components {
+	#sources {
+		@apply container mx-auto p-4;
+	}
+
+	#sources main {
+		@apply container mx-auto p-4;
+		@apply md:basis-4/5 py-8 px-6 rounded-lg;
+	}
+
+	#sources p {
+		@apply text-pretty mb-2 antialiased leading-relaxed;
+	}
+}
+
 /** First Principles **/
 @layer components {
 	#first-principles {
 		@apply container mx-auto p-4;
 	}
-	
+
 	#first-principles main {
 		@apply container mx-auto p-4;
 		@apply md:basis-4/5 py-8 px-6 rounded-lg;
 	}
 
 	#first-principles p {
-		@apply text-pretty text-lg mb-2 antialiased leading-relaxed;
+		@apply text-pretty mb-2 antialiased leading-relaxed;
+	}
+}
+
+/** Introduction **/
+@layer components {
+	#introduction {
+		@apply container mx-auto p-4;
+	}
+
+	#introduction main {
+		@apply container mx-auto p-4;
+		@apply md:basis-4/5 py-8 px-6 rounded-lg;
+	}
+
+	#introduction p {
+		@apply text-pretty mb-2 antialiased leading-relaxed;
 	}
 }

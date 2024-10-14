@@ -78,7 +78,14 @@ class MarkdownToHtmlNav {
       <nav id="header-section">
         <h2>Content</h2>
         <div>
-		<a class="home-link" href="${this.createAbsolutePath("index.html")}">🌱 First Principles</a>
+		<div id="important-links">
+		<a class="home-link" href="${this.createAbsolutePath("index.html")}">🏠 Introduction</a>
+
+		<a class="home-link" href="${this.createAbsolutePath("first-principles.html")}">🌱 First Principles</a>
+
+		<a class="home-link" href="${this.createAbsolutePath("sources.html")}">🔎 Sources</a>
+		</div>
+		<hr>
 		<br>
           ${navItems.map((item) => this.renderNavItem(item)).join("")}
         </div>

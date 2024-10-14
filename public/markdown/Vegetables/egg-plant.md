@@ -3,18 +3,11 @@
 
 ## General Information
 **Generic name:** Egg-plant, Aubergine, Brinjal
-**Sri Lankan name:** Wambatu (Sinhala), Kattarikkāy (Tamil)
+**Sri Lankan name:** Wambatu (Sinhala) | Kattarikkāy (Tamil)
 **Scientific name:** _Solanum melongena_
 **Plant family:** _Solanaceae_
-**Edible parts:** Pericarp
-**Nutrition value:**
-- Calories: 25 per 100g
-- Protein: 1g
-- Fat: 0.2g
-- Carbohydrate: 6g
-- Dietary fiber: 3g
-- Vitamin C: 2.2mg
-- Potassium: 229mg
+**Edible parts:** Fruit
+**Nutrition value:** High in vitamin C and potassium. Eggplant contains 25 calories per 100g, is rich in dietary fiber
 
 **Companion plants:**
 Best Companion plants include peas and beans as these vegetables add nitrogen to the surrounding soil.
@@ -30,30 +23,29 @@ Best Companion plants include peas and beans as these vegetables add nitrogen to
 - Geranium
 
 ## Description:
-Eggplants have a luxuriant purple colour with flowers of the same colour and have large leaves. Can be grown in regions at 1300m above sea level. Several special varieties like **Amanda, Anjali, HORDI Lenairi, Thinnaweli purple, and padagoda** are suitable for Sri Lankan conditions.
+Eggplants have a luxuriant purple colour with flowers of the same colour and have large leaves. Can be grown in regions at 1300m above sea level. Several special varieties like Amanda, Anjali, HORDI Lenairi, Thinnaweli purple, and padagoda are suitable for Sri Lankan conditions.
 
 ## Planting requirements
-**Planting season:** <update>Year-round in Sri Lanka, with peak planting during the Yala season (March to August) and Maha season (September to March).</update>
+**Planting season:** Eggplant can be grown throughout the year. Most favourable seasons are from March to August and September to March
 
 ### Planting conditions:
-| Propagation | Sow the seed indoors about ten weeks before you plant out. Soak the seeds overnight and then plant the seeds in a pot filled with potting soil. |
+| Propagation | Sow the seed indoors about ten weeks before you plant out. Soak the seeds overnight and then plant the seeds in a pot filled with potting soil |
 |----|----|
-| Planting method | Transplant seedlings into prepared beds after 3-4 weeks when they have 4-5 true leaves. |
-| Soil | Requires deep rich soil with plenty of moisture, but it does not thrive in wet weather. pH should be around 6.0-6.8.|
-| Water | Water lightly to retain moisture. If it receives inadequate water, it will develop small, bitter fruits. |
+| Planting method | Transplant seedlings into prepared beds after 3-4 weeks when they have 4-5 true leaves |
+| Soil | Requires deep rich soil with plenty of moisture, but it does not thrive in wet weather. pH level should be around 6.0-6.8 |
+| Water | Water lightly to retain moisture. If it receives inadequate water, it will develop small, bitter fruits |
 | Light | Moderate sunshine |
 
 ### Growing conditions:
-
-| Temperatures | Grow in daytime temperature between 26 and 32°C (80–90°F) and night time temperatures around 21°C (70°F).|
+| Temperatures | Grow in daytime temperature between 26 and 32°C (80–90°F) and night time temperatures around 21°C (70°F) |
 |----|----|
-| Soil | Dig plenty of manure or compost into your soil. Eggplants like a pH of about 6.0 |
-| Water | Keep them well watered but don’t overwater. Need at least an inch of water per week, and up to two inches during hot season. |
-| Pruning | Pinch off growing tips when plants are 12-15 inches tall to encourage branching and more fruit production. |
-| Weed control | Keep the area around plants weed-free to prevent competition for nutrients and moisture. |
+| Soil | Apply plenty of manure or compost into your soil. Eggplants like a pH level of about 6.0 |
+| Water | Keep them well watered but don’t overwater. Need at least an inch of water per week, and up to two inches during hot season |
+| Pruning | Pinch off growing tips when plants are 12-15 inches tall to encourage branching and more fruit production |
+| Weed control | Keep the area around plants weed-free to prevent competition for nutrients and moisture |
 
 ## Harvesting:
-Cut them off without pulling them as soon as they have a bloom before they are fully grown. The plants will then continue to fruit.
+Harvest eggplants by cutting them off cleanly without pulling them as soon as they have a bloom before they are fully grown. The plants will then continue to fruit.
 
 ## Curing:
 Eggplant does not require a curing stage.
@@ -67,10 +59,10 @@ Eggplants do not like cool temperatures, so it is recommended to harvest and use
 - Flea Beetle
   
 **Symptoms:**
-- **Flea Beetle:** These pests may attack when the plants are young. The leaves are quickly eaten away if they are not checked.
+- These pests may attack when the plants are young. The leaves are quickly eaten away if they are not checked.
   
 **Control method:**
-- **Flea Beetle:** Use derris dust to remove the Flea Beetles.
+-  Use derris dust to remove the Flea Beetles.
 
 ### Disease Control
 
@@ -158,7 +150,7 @@ Eggplants do not like cool temperatures, so it is recommended to harvest and use
   - Control leaf hoppers (disease vectors) with recommended insecticides
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 6/10)
+### Low country wet zone (Difficulty: 7/10)
 **Explanation:** Eggplants can be challenging to grow in the wet zone due to high humidity and risk of fungal diseases.
 **Challenges/Adaptations:**
 - Keep plants dry, especially around the base.

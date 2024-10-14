@@ -1,4 +1,4 @@
-# Ceylon Olive / Veralu
+# Ceylon Olive
 ![Ceylon Olive](../../assets/images/Ceylon-Olive_Veralu.jpg "By Gregorvitch - Own work A photograph taken by a Canon Poweshot SX130 IS Digital Camera, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16228511")
 
 ## General Information

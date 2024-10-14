@@ -1,46 +1,50 @@
 # Kohila
-![Kohila.jpg](../../assets/images/Kohila.jpg "By Eric in SF - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8351041")
+![Kohila.jpg](../../assets/images/Kohila.jpg "Michael Wolf, Penig, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons")
 ## General Information
 **Generic name:** Lasia
-**Sri Lankan name:** Kohila
-**Scientific name:** Lasia Spinosa
-**Plant family:** Araceae
-**Edible parts:** Leaves, rhizomes (rootstalk)
+**Sri Lankan name:** Kohila (Sinhala) | Kokilai (Tamil)
+**Scientific name:** _Lasia Spinosa_
+**Plant family:** _Araceae_
+**Edible parts:** Young leaves, rhizomes (rootstalk)
 **Nutrition value:** Dietary fiber, vitamin A and C
+
 **Companion plants:**
 - Banana
 - Coconut
 
+**Non-Companion Plants:**
+Not applicable
+
 ## Description:
+In Sri Lanka, kohila is commonly found growing wild in marshy areas, along stream banks, and in home gardens, particularly in the wet and intermediate zones of the country.
 
-In Sri Lanka, kohila is commonly found growing wild in marshy areas, along stream banks, and in home gardens, particularly in the wet and intermediate zones of the country. In some ayurvedic practices, it's often used to treat diarrhea, inflammation, hemorrhoids, intestinal diseases, stomach pain. 
+Young Leaves: The tender leaves, known as kohila dalu, are flavorful and can be used in various dishes such as curries or stir-fries. They are rich in dietary fiber, vitamins, and minerals, making them beneficial for digestion and overall health.
 
-Kohila leaves and rootstalk are used as a vegetable in local Sri Lankan cuisine. The local variety is a slow-growing one with relatively small rhizomes.The roots and the young leaves can be curried. 
+Rhizomes (Tubers): The tubers of the Kohila plant are also edible and are commonly prepared in local cuisine. They are known for their high fiber content, which aids in digestive health145. The tubers have medicinal properties as well, being used in traditional remedies for various ailments.
 
 Note: this plant must not be eaten raw: all parts of the plant contain lethal hydrocyanic acid. This acid must be neutralized by cooking in some form before consumption.
 
 ## Planting requirements
-**Planting season:** Can be grown throughout the year.
+**Planting season:** Can be grown throughout the year
 
 ### Planting conditions:
-| **Propagation** | Apex cuttings of 20-25 cm (8-10 inches) are most commonly used for planting. Lateral shoots from mature kohila stems can also be used. For increased shoot production, shallow bury stems in shaded, muddy beds. This method quickly provides numerous shoots ready for planting. |
+| Propagation | Apex cuttings of 20-25 cm (8-10 inches) are most commonly used for planting. Lateral shoots from mature kohila stems can also be used. For increased shoot production, shallow bury stems in shaded, muddy beds. This method quickly provides numerous shoots ready for planting |
 |----|----|
-| Planting method | Kohila is commonly planted in low-lying areas of home gardens or in dedicated paddy fields. Prepare the planting area by ploughing the soil to a depth of 20-25 cm (8-10 inches), removing weeds and draining excess water. Create beds approximately 5 feet wide, ensuring proper irrigation when needed. Plant rows of stalks at regular intervals in the soil.  |
-| Soil | Kohila thrives in frequently waterlogged soils, making it ideal for wetlands. The crop benefits from shade, as full sun exposure results in smaller leaves. In Sri Lanka, kohila flourishes in the clay-loam soils typical of the wet zone. |
-| Water | While kohila requires consistent moisture, prolonged water exposure can impair growth. Implement proper irrigation practices to maintain optimal moisture levels. In Sri Lanka's wet zone, natural rainfall is often sufficient, but supplemental irrigation may be necessary during dry periods.|
-| Light | Kohila grows best in areas with ample shade. It's easier to cultivate under the canopy of larger trees such as coconut or banana.|
+| Planting method | Kohila is commonly planted in low-lying areas of home gardens or in dedicated paddy fields. Prepare the planting area by ploughing the soil to a depth of 20-25 cm (8-10 inches), removing weeds and draining excess water. Create beds approximately 5 feet wide, ensuring proper irrigation when needed. Plant rows of stalks at regular intervals in the soil |
+| Soil | Kohila thrives in frequently waterlogged soils, making it ideal for wetlands. The crop benefits from shade, as full sun exposure results in smaller leaves. In Sri Lanka, kohila flourishes in the clay-loam soils typical of the wet zone |
+| Water | In Sri Lanka's wet zone, natural rainfall is often sufficient, but supplemental irrigation may be necessary during dry periods |
+| Light | Kohila grows best in areas with ample shade. It's easier to cultivate under the canopy of larger trees such as coconut or banana |
 
 ### Growing conditions:
-
-| Temperatures | Kohila grows optimally in temperatures between 20-30°C (68-86°F), which is ideal for most parts of Sri Lanka, especially in the low and mid-country regions. |
+| Temperatures | Kohila grows optimally in temperatures between 20-30°C (68-86°F), which is ideal for most parts of Sri Lanka, especially in the low and mid-country regions |
 |----|----|
-| Soil | W After planting shoots or buds, apply a mulch layer (such as straw) to cover the ground. Reapply mulch at various growth stages to maintain weed suppression. Paddy straw is commonly used as mulch. |
-| Water | While kohila requires consistent moisture, avoid prolonged water exposure as it can impair growth. Implement proper irrigation practices as needed. In Sri Lanka's wet zone, natural rainfall often provides sufficient moisture, but drainage should be carefully managed during heavy monsoon rains.|
+| Soil | After planting shoots or buds, apply a mulch layer (such as straw) to cover the ground. Reapply mulch at various growth stages to maintain weed suppression. Paddy straw is commonly used as mulch |
+| Water | While kohila requires consistent moisture, avoid prolonged water exposure as it can impair growth. Implement proper irrigation practices as needed. In Sri Lanka's wet zone, natural rainfall often provides sufficient moisture, but drainage should be carefully managed during heavy monsoon rains |
 | Pruning | Prune plants annually after harvesting to encourage new growth |
-| Weed control | Weed control is a primary challenge in kohila cultivation. Weeds can be suppressed with regular mulch; manual weeding is common in Sri Lankan home gardens.|
+| Weed control | Weed control is a primary challenge in kohila cultivation. Weeds can be suppressed with regular mulch; manual weeding is common in Sri Lankan home gardens |
 
 ## Harvesting:
-Leaves can be harvested about 8-12 months after planting. About 2,000 – 2,500kgs of rhizomes can be taken as harvest from 50 square meter area and about 150 bundles of leaves at a time. Once the plants are thriving, kohila can be harvested continuously.
+Leaves can be harvested about 8-12 months after planting. Once the plants are thriving, kohila can be harvested continuously.
 
 ## Curing:
 After harvesting, cure kohila by washing the leaves and rhizomes thoroughly and allowing them to dry in the shade for a few days before storage. 
@@ -49,11 +53,13 @@ After harvesting, cure kohila by washing the leaves and rhizomes thoroughly and 
 Store dried kohila leaves in an airtight container in a cool, dry place. Rhizomes can be stored in a humid, cool place for up to 6 months. In Sri Lankan households, fresh kohila is often kept in a cool, shaded area and used within a few days.
 
 ## Protecting your plants
+### Pest control
+We could not find robust information about pests specific to this plant. This may be because of the high toxicity of the plant itself.
+
 ### Disease control
 **Disease:** Tuber rotting causes Fusarium oxysporum (Fungus) or Ralstonia solanacearum (bacteria) 
 **Symptoms:** Yellowing leaves, wilting, and root rot for fungus; rotten tubers with brown insides, and oozing in water for bacteria
 **Control method:** For fungus, remove water and add 40 grams of lime per square foot. If roots are infected by bacteria, remove the infected roots and add lime after removing water. In Sri Lanka, traditional remedies like wood ash are sometimes used instead of lime.
-
 
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 3/10)

@@ -1,15 +1,15 @@
-# Capsicum/Banana Pepper
+# Capsicum
 ![Capsicum_Banana Pepper.jpeg](../../assets/images/Capsicum_Banana-Pepper.jpeg "Image - Narek75, Wikimedia Commons")
 
 ## General Information
-**Generic name:** Capsicum
-**Sri Lankan name:** Maalu Miris (Sinhala)
+**Generic name:** Capsicum, Banana Pepper
+**Sri Lankan name:** Maalu Miris (Sinhala), Manjal Milagai (Tamil)
 **Scientific name:** _Capsicum annuum_
 **Plant family:** _Solanaceae_
 **Edible parts:** Fruit
-**Nutrition value:** Banana peppers are excellent sources of Vitamin C, Vitamin A, Vitamin B6, Vitamin K, Potassium, Calcium and Folate. 
+**Nutrition value:** Capsicums are excellent sources of Vitamin C, Vitamin A, Vitamin B6, Vitamin K, Potassium, Calcium and Folate
 
-## Companion plants:
+**Companion plants:**
 - Asparagus 
 - Basil
 - Carrots
@@ -22,7 +22,7 @@
 - Swiss chard
 - Tomatoes
 
-**Non-companion plants:**
+**Non-companion plants:** 
 - Beans
 - Brassicas
 - Fennel
@@ -31,15 +31,14 @@
 Capsicum is a medium-sized member of the chili pepper family that has a mild, tangy taste. They typically change color from green to yellow, red, or orange as they ripen. Their culinary uses include pickling and stuffing.
 
 ## Planting requirements
-**Planting season:** 
-Recommended seasons are April to May and November to December. However, it can be cultivated throughout the year under supplementary irrigation and also under rain shelters or greenhouses.
+**Planting season:** Recommended seasons are April to May and November to December. However, it can be cultivated throughout the year under supplementary irrigation and also under rain shelters or greenhouses
 
 ### Planting conditions:
-| **Propagation** | Direct seeding or transplanting                                                           |
+| Propagation | Direct seeding or transplanting. Nurseries should be established in well-drained areas and areas where Solanaceae crops such as tomatoes, brinjals, and chillies are not grown in previous seasons. Avoid sowing too many seeds in the nursery (3m x 1m size bed-40g seeds are recommended) |
 |----|----|
-| Planting method | Seeds germinate in 8-10 days. Seedlings are ready to plant in 21 days |
-| Soil | Grows well in well drained, deep and fertile loam soils. Sandy soils also good when required amount of organic matter added. pH value between 5.5 -6.8 is preferred. |
-| Water | Irrigation to be practiced in 4-5 day intervals at early stages and 1 week interval at latter stages of the crop. This depends on the rainfall. Irrigation is required before and after fertilizer application, and during flowering and fruit development stages. Water regularly, especially during fruiting. |
+| Planting method | Prepare beds measuring 3m x 90 cm and 15 cm in height. Apply compost or cow dung at a rate of 3-4 kg per square meter. Sow seeds in rows 10-15 cm apart, placing them less than 1 cm deep. Apply a suitable mulch and provide irrigation. Seed germination occurs in 8-10 days, and seedlings are ready for planting in 21 days |
+| Soil | Plough the field to a depth of 15-20 cm and perform two harrowings. Prepare raised beds for better drainage. Spacing varies according to variety. For HYW and LYW, maintain 15 x 30 cm between plants and rows. For CA-8 and Gannoruwa Prarthana, use 40 x 40 cm spacing between plants and rows |
+| Water | Irrigation to be practiced in 4-5 day intervals at early stages and 1 week interval at latter stages of the crop. This depends on the rainfall |
 | Light | Requires plenty of sunlight like other peppers |
 
 ### Growing conditions:
@@ -47,7 +46,9 @@ Recommended seasons are April to May and November to December. However, it can b
 | Temperatures | Above 15 degrees and below 35 degrees celsius. |
 |----|----|
 | Soil | Grows well in well drained, deep and fertile loam soils. Sandy soils also good when required amount of organic matter added. pH value between 5.5-6.8 is preferred |
-| Water | Irrigation to be practiced in 4-5 day intervals at early stages and 1 week interval at latter stages of the crop. This depends on the rainfall. Irrigation is required before and after fertilizer application, and during flowering and fruit development stages. |
+| Water | Irrigation is required before and after fertilizer application, as well as during flowering and fruit development stages. Irrigation is required before and after fertilizer application, and during flowering and fruit development stages. |
+| Pruning | Pruning helps to remove excess foliage, allowing for better air circulation around the plants |
+| Weed control | Perform weeding at 2, 4, and 8 weeks after planting. Apply fertilizer after weeding. Add soil to the plants following weeding and fertilizer application |
 
 ## Harvesting:
 First harvesting can be done 75 days after nursery sowing and at 5-7 day intervals. Practice harvesting in dry weather conditions.
@@ -93,8 +94,6 @@ Insecticides: Apply targeted insecticides that are effective against caterpillar
 Sticky Traps: Use yellow sticky traps to monitor and reduce whitefly populations.
 Natural Predators: Encourage beneficial insects like ladybugs and lacewings that prey on whiteflies.
 Insecticidal Soap or Oils: Apply these treatments to manage whitefly populations effectively without harming beneficial insects.
-
-Nurseries should be established in well-drained areas and areas where Solanaceae crops such as tomatoes, brinjals, and chillies are not grown in previous seasons. Avoid sowing too many seeds in the nursery (3m x 1m size bed-40g seeds are recommended). The diseased parts/plants should be removed and destroyed.
 
 ### Disease Control
 **Disease type:** 
@@ -156,6 +155,8 @@ Nurseries should be established in well-drained areas and areas where Solanaceae
   - Maintain the recommended plant spacing
   - Promptly remove and destroy diseased shoots when symptoms appear.
 
+The diseased parts/plants should be removed and destroyed.
+
 ## Difficulty Rating
 ### Low country wet zone (Difficulty: 6/10)
 **Explanation:** Capsicum require consistent moisture but are prone to fungal diseases in overly wet conditions.
@@ -164,7 +165,7 @@ Nurseries should be established in well-drained areas and areas where Solanaceae
 - Fungal diseases can be a challenge. Ensure good air circulation and avoid overwatering.
 
 ### Low country dry zone (Difficulty: 4/10)
-**Explanation:** The dry zone's hot, sunny climate is well-suited to banana peppers.
+**Explanation:** The dry zone's hot, sunny climate is well-suited to capsicum.
 
 **Challenges/Adaptations:**
 - Drought stress can be an issue. Ensure consistent watering.
@@ -176,7 +177,7 @@ Nurseries should be established in well-drained areas and areas where Solanaceae
 - Temperature fluctuations can affect fruit set. Provide shade during peak heat hours if necessary.
   
 ### Up country (Difficulty: 8/10)
-**Explanation:** The upcountry's cooler temperatures and higher rainfall make growing banana peppers more challenging.
+**Explanation:** The upcountry's cooler temperatures and higher rainfall make growing capsicum more challenging.
 
 **Challenges/Adaptations:**
 - Cooler temperatures can slow growth. Provide additional warmth with row covers or black plastic mulch.

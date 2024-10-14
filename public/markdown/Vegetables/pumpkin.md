@@ -1,43 +1,47 @@
 # Pumpkin
-![Pumpkin.jpg](../../assets/images/Pumpkin.jpg "By Ringer - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59794869")
+![Pumpkin.jpg](../../assets/images/Pumpkin.jpg "By Sarbjit Bahga - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75977115")
 
 ## General Information
 **Generic name:** Pumpkin, Winter Squash
-**Sri Lankan name:** Wattakka (Sinhala) Sorakka (Tamil)
-**Scientific name:** Cucurbita Maxima
-**Plant family:** Cucurbitaceae
+**Sri Lankan name:** Wattakka (Sinhala) | Sorakka (Tamil)
+**Scientific name:** _Cucurbita Maxima_
+**Plant family:** _Cucurbitaceae_
 **Edible parts:** Most parts of the pumpkin are edible, including the fleshy shell, the seeds, and the leaves
+**Nutrition value:** Pumpkins are rich in vitamins and a good source of Iron, Copper, Manganese, Potassium
+
 **Companion plants:**
-- Sweet corn: Provides shade and stops the squash vine borer beetle
-- Green Beans: Fix nitrogen and add nutrients that improve the soil, benefiting the plants that are growing beside them.
-- Radishes: Protect all squash family members from the squash borer
-- Marigold: help deter beetles
+- Sweet corn
+- Green beans
+- Radishes
+- Marigold
 
 **Non-companion plants**
-- Potatoes: Deplete the soil nutrients starving squash plants nearby
-- Sweet potatoes: Competes with squash plants for space
-- Fennel: Most plants dislike fennel, which has an inhibiting effect on them.
+- Potatoes
+- Sweet potatoes
+- Fennel
 
 ## Description:
-A large trailing plant with yellow, bell-shaped flowers. Most varieties will take up a lot of room. Better to grow them at the edge of a garden patch as they need lots of space to spread. There are several varieties of pumpkin. Amongst the different varieties, Butternut produces small to medium pear-shaped fruit with deep orange flesh while Buttercup are small to medium round pumpkins with dark green skin. There are a number of large pumpkins, some round and flattish, and others that will produce the "Cinderella coach" type giant round fruit which is not such good eating.
+Pumpkin is a large trailing plant with yellow, bell-shaped flowers. Most varieties will take up a lot of room. Better to grow them at the edge of a garden patch as they need lots of space to spread. There are several varieties of pumpkin. Amongst the different varieties, Butternut produces small to medium pear-shaped fruit with deep orange flesh while Buttercup are small to medium round pumpkins with dark green skin. There are a number of large pumpkins, some round and flattish, and others that will produce the "Cinderella coach" type giant round fruit which is not such good eating.
 
 ## Planting requirements
-**Planting season:** Can be grown in dry and intermediate zones. Pumpkin is grown as a Yala Crop, while squash can be grown in either Maha or Yala.
+**Planting season:** Typically planted in March to August or September to December
 
 ### Planting conditions:
 | Propagation | Seeds |
 |----|----|
-| Planting method | Prepare the land to a depth of about 20-30 cm and harrow for fine tilth. Make planting holes 30 x 30 x 30 cm and then add organic matter per planting hole, mix with soil, and heap to about 10 cm above ground level. |
-| Soil | Soil should be rich in humus with a pH range of 5.5 – 7.5. Ideally a moist, loamy soil. Pumpkins are heavy feeders and hence add aged manure or compost mixed with water to the side of the plant. |
-| Water | Water deeply, in the morning and on very hot afternoons, especially during fruit set. Avoid watering foliage and fruit unless it's a sunny day. Dampness invites rot and disease. Planting in raised beds promote drainage ensuring that the root has ideal moisture levels. |
-| Light | Full sunlight (at least six hours of light per day) to produce and mature their fruits). |
+| Planting method | Prepare the land to a depth of about 20-30 cm and harrow for fine tilth. Make planting holes 30 x 30 x 30 cm and then add organic matter per planting hole, mix with soil, and heap to about 10 cm above ground level |
+| Soil | Soil should be rich in humus with a pH range of 5.5 – 7.5. Ideally a moist, loamy soil. Pumpkins are heavy feeders and hence add aged manure or compost mixed with water to the side of the plant |
+| Water | Water deeply, in the morning and on very hot afternoons, especially during fruit set. Avoid watering foliage and fruit unless it's a sunny day. Dampness invites rot and disease. Planting in raised beds promote drainage ensuring that the root has ideal moisture levels |
+| Light | Full sunlight (at least six hours of light per day) |
+
 
 ### Growing conditions:
-
 | Temperatures | Needs a temperature between 65° and 95°F (18° to 35°C) |
 |----|----|
-| Soil | Add mulch around your pumpkins to retain moisture, suppress weeds, and discourage pests.|
-| Water | Irrigate daily until germination is complete and every 7 days thereafter. Give your plants at least 1 to 2 inches of water per week, especially when they're blooming and setting fruit. Drip irrigation or ground-level soaking rather than from overhead. |
+| Soil | Add mulch around your pumpkins to retain moisture, suppress weeds, and discourage pests. Grow pumpkins in well-draining, humus-rich loamy soils. Maintain soil pH between 5.5-7.5 for optimal nutrient uptake and plant health |
+| Water | Irrigate daily until germination is complete and every 7 days thereafter. Give your plants at least 1 to 2 inches of water per week, especially when they're blooming and setting fruit. Drip irrigation or ground-level soaking rather than from overhead |
+| Pruning | Prune your vines with a sharp, sterile knife, cutting just above a developed leaf node |
+| Weed control | Keep the area weed-free, as heavy weed competition can weaken vines and cause immature fruit to rot or fail to develop |
 
 ## Harvesting:
 Harvest when the fruit develops a powdery film. Each variety has different developing periods.
@@ -68,7 +72,6 @@ Pumpkins can be stored for 6-8 months and butternut can be kept for about 1 mont
 - Use resistant varieties when available
 
 ### Disease Control
-
 **Disease type:**
 - Powdery mildew (_Podosphaera xanthii_)
 - Downy mildew (_Pseudoperonospora cubensis_)
@@ -104,14 +107,14 @@ Pumpkins can be stored for 6-8 months and butternut can be kept for about 1 mont
 - Implement proper sanitation practices in the field
 
 ## Difficulty Rating
-### Low country wet zone (Difficulty: 3/10)
+### Low country wet zone (Difficulty: 2/10)
 **Explanation:** The low country wet zone provides excellent conditions for pumpkin growth. Abundant rainfall meets water requirements, and temperatures are suitable.
 **Challenges/Adaptations:**
 - Monitor drainage to prevent waterlogging
 - Implement disease control measures due to high humidity
 
 ### Low country dry zone (Difficulty: 5/10)
-**Explanation:** Pumpkins can be grown as a Yala crop in this zone. Temperature and sunlight conditions are favorable, but water management is crucial.
+**Explanation:** Pumpkins can be grown from May to August in this zone. Temperature and sunlight conditions are favorable, but water management is crucial.
 **Challenges/Adaptations:**
 - Implement efficient irrigation systems
 - Use mulch to retain soil moisture
@@ -122,9 +125,13 @@ Pumpkins can be stored for 6-8 months and butternut can be kept for about 1 mont
 - Ensure adequate sunlight exposure in areas with more cloud cover
 - Adapt planting schedules based on local rainfall patterns
 
-### Up country (Difficulty: 6/10)
+### Up country (Difficulty: 7/10)
 **Explanation:** While pumpkins can be grown here, cooler temperatures in some areas increase difficulty.
 **Challenges/Adaptations:**
 - Choose cold-tolerant pumpkin varieties
 - Use row covers or greenhouses to extend the growing season
 - Carefully manage water to prevent fungal diseases in cooler, damper conditions
+
+## Sources:
+- https://www.thespruce.com/pumpkin-vine-management-7693221
+- https://localfoodconnect.org.au/community-gardening/pumpkins

@@ -58,11 +58,10 @@ function convertMarkdownToHtml(sourcePath, destPath) {
         }
     });
 }
-function convertIndexHtml(markdownPath, htmlPath) {
+function addNavigationToHtml(markdownPath, htmlPath, fileLocation) {
     const serverPrefix = process.env.SERVER_PREFIX || "";
-    console.log("server prefix: " + serverPrefix);
-    const indexFilePath = path.join(htmlPath, "index.html");
-    const tempFilePath = path.join(htmlPath, "index.temp.html");
+    const indexFilePath = path.join(htmlPath, `${fileLocation}.html`);
+    const tempFilePath = path.join(htmlPath, `${fileLocation}.temp.html`);
     const navGenerator = new markdownToHtmlNav_1.default(markdownPath, htmlPath, serverPrefix);
     const navHtml = navGenerator.generateNav();
     const navRegex = /<nav id="header-section">.*<\/nav>/s;
@@ -91,7 +90,6 @@ function convertIndexHtml(markdownPath, htmlPath) {
         writeStream.end();
         // After successful write, replace the original file
         fs.renameSync(tempFilePath, indexFilePath);
-        console.log("Navigation bar replaced successfully.");
     });
     readStream.on("error", (err) => {
         console.error("Error reading the file:", err);
@@ -103,7 +101,12 @@ function convertIndexHtml(markdownPath, htmlPath) {
 function main() {
     const MARKDOWN_DIR = path.join(__dirname, "../public/markdown");
     const HTML_DIR = path.join(__dirname, "../public");
-    convertIndexHtml(MARKDOWN_DIR, HTML_DIR);
+    // convertIndexHtml(MARKDOWN_DIR, HTML_DIR);
+    // convertSourcesHtml(MARKDOWN_DIR, HTML_DIR);
     convertMarkdownToHtml(MARKDOWN_DIR, HTML_DIR);
+    // Add navigation to other HTML files
+    addNavigationToHtml(MARKDOWN_DIR, HTML_DIR, "first-principles");
+    addNavigationToHtml(MARKDOWN_DIR, HTML_DIR, "sources");
+    addNavigationToHtml(MARKDOWN_DIR, HTML_DIR, "index");
 }
 main();

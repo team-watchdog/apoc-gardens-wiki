@@ -766,9 +766,14 @@ iframe {
   }
 }
 
+#header-section #important-links {
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
 #header-section h2 {
   margin-bottom: 0.5rem;
-  margin-left: 1rem;
 }
 
 #header-section button {
@@ -1049,7 +1054,7 @@ iframe {
 /** PROTECTING YOUR PLANTS **/
 
 #protecting-plant-section strong {
-  margin-right: 0.5rem;
+  margin-right: 0.25rem;
   font-weight: 800;
   --tw-text-opacity: 1;
   color: rgb(43 106 77 / var(--tw-text-opacity));
@@ -1080,6 +1085,105 @@ iframe {
   font-weight: 400;
   --tw-text-opacity: 1;
   color: rgb(3 7 18 / var(--tw-text-opacity));
+}
+
+#sources {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  #sources {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  #sources {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #sources {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  #sources {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  #sources {
+    max-width: 1536px;
+  }
+}
+
+#sources {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+}
+
+#sources main {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  #sources main {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  #sources main {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #sources main {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  #sources main {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  #sources main {
+    max-width: 1536px;
+  }
+}
+
+#sources main {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  #sources main {
+    flex-basis: 80%;
+  }
+}
+
+#sources p {
+  margin-bottom: 0.5rem;
+  text-wrap: pretty;
+  line-height: 1.625;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #first-principles {
@@ -1121,10 +1225,6 @@ iframe {
   margin-right: auto;
   padding: 1rem;
 }
-
-/* #first-principles #header-section {
-		@apply flex-auto lg:basis-1/5;
-	} */
 
 #first-principles main {
   width: 100%;
@@ -1180,8 +1280,105 @@ iframe {
 #first-principles p {
   margin-bottom: 0.5rem;
   text-wrap: pretty;
-  font-size: 1.125rem;
-  line-height: 1.75rem;
+  line-height: 1.625;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#introduction {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  #introduction {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  #introduction {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #introduction {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  #introduction {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  #introduction {
+    max-width: 1536px;
+  }
+}
+
+#introduction {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+}
+
+#introduction main {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  #introduction main {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  #introduction main {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #introduction main {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  #introduction main {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  #introduction main {
+    max-width: 1536px;
+  }
+}
+
+#introduction main {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  #introduction main {
+    flex-basis: 80%;
+  }
+}
+
+#introduction p {
+  margin-bottom: 0.5rem;
+  text-wrap: pretty;
   line-height: 1.625;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1274,4 +1471,8 @@ iframe {
 
 /** GENERAL INFORMATION **/
 
+/** Sources **/
+
 /** First Principles **/
+
+/** Introduction **/
