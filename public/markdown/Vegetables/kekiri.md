@@ -142,7 +142,7 @@ For optimal quality and flavor, whole Kakiri should be consumed immediately afte
 - Consider using polytunnels or row covers to extend the growing season
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://doa.gov.lk/hordi-crop-kekiri/
 - http://www.instituteofayurveda.org/plants/plants_detail.php?i=362
 - https://plants.ces.ncsu.edu/plants/cucumis-melo/

@@ -102,8 +102,8 @@ Beli fruit can be stored from 10-15 days at normal temperature, whereas fruit ha
 - Provide frost protection for young plants and during flowering.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://doa.gov.lk/fruit-crops-beli-s/
 
 ### Image Sources: (In order of appearance)
-- ![Beli tree](https://upload.wikimedia.org/wikipedia/commons/a/a7/Aegle_marmelos_flower.jpg)
+

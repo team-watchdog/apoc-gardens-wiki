@@ -102,7 +102,8 @@ We could not find robust information about pests specific to this plant. This ma
 - Pay extra attention to soil preparation, as naturally waterlogged areas may be less common
 - Implement careful water management to maintain consistent moisture without waterlogging
 
-## Sources
+## References for this entry
+### Sources:
 - https://doa.gov.lk/hordi-crop-kohila/
 - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87418-1/general-information
 - Hossain, R., Quispe, C., Herrera-Bravo, J., Islam, M. S., Sarkar, C., Islam, M. T., ... & Cho, W. C. (2021). Lasia spinosa chemical composition and therapeutic potential: A literature‐based review. Oxidative Medicine and Cellular Longevity, 2021(1), 1602437.

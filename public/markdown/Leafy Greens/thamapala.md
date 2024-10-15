@@ -97,11 +97,11 @@ Store in a damp cloth or plastic bag in the refrigerator for up to several days.
 - Use row covers during cooler periods.
 
 ## References for this entry
-### Content:
-https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.4653
-https://www.researchgate.net/publication/284280436_Nutritive_quality_of_Thampala_Amaranthus_spp_as_a_forage_crop_in_Sri_Lanka
-https://link.springer.com/article/10.1007/s44279-024-00057-8
-https://www.ecofriendlyhomestead.com/sustainable-garden/learn/how-to-grow-amaranth-a-key-plant-for-climate-change-food-security
-https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amaranthus-viridis
+### Sources:
+- https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.4653
+- https://www.researchgate.net/publication/284280436_Nutritive_quality_of_Thampala_Amaranthus_spp_as_a_forage_crop_in_Sri_Lanka
+- https://link.springer.com/article/10.1007/s44279-024-00057-8
+- https://www.ecofriendlyhomestead.com/sustainable-garden/learn/how-to-grow-amaranth-a-key-plant-for-climate-change-food-security
+- https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amaranthus-viridis
 
 ### Image Sources: (In order of appearance)

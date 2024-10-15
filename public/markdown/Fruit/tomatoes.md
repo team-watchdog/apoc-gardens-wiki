@@ -171,7 +171,8 @@ In Sri Lanka's hot climate, store ripe tomatoes in a cool, shaded area. Use with
 • Utilize companion plants like sunflowers to provide windbreaks and attract pollinators
 • Implement intercropping with carrots to improve soil structure and utilize space efficiently
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/hordi-crop-tomato/
 - https://doa.gov.lk/hordi-variety1-tomato/
 - https://www.gardeningknowhow.com/edible/vegetables/tomato/tropic-tomato-care.htm

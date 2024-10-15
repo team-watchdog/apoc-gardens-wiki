@@ -122,7 +122,8 @@ Store cured turmeric rhizomes in a cool, dry place. They can be stored for up to
 - Ensure proper drainage to prevent waterlogging; use organic mulch to retain soil moisture.
 - Use cold-tolerant varieties and provide protection during cold periods.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://dea.gov.lk/turmeric/
 - https://gardeningsolutions.ifas.ufl.edu/plants/edibles/vegetables/turmeric/
 - http://www.phytotheca.com/phytotheca/turmeric/

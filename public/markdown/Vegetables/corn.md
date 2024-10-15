@@ -134,11 +134,11 @@ In general;
 - Consider growing varieties suited to cooler climates
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://iimr.icar.gov.in/?page_id=146
-https://www.researchgate.net/publication/292501356_Management_of_insect_-pests_of_maize_in_tropics
-https://blog.plantwise.org/2022/05/24/4-pests-and-diseases-of-maize/
-https://pdf.usaid.gov/pdf_docs/pnaax152.pdf
+- https://www.researchgate.net/publication/292501356_Management_of_insect_-pests_of_maize_in_tropics
+- https://blog.plantwise.org/2022/05/24/4-pests-and-diseases-of-maize/
+- https://pdf.usaid.gov/pdf_docs/pnaax152.pdf
 
 
 ### Image Sources: (In order of appearance)

@@ -111,7 +111,7 @@ General practices:
 - Grow in a protected location with a warmer microclimate or use row covers during cold periods. Consider using heat-trapping techniques like mulching or plastic covers.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://edis.ifas.ufl.edu/publication/HS309
 - https://en.wikipedia.org/wiki/Chrysophyllum_cainito
 - https://foodprint.org/real-food/star-apple/

@@ -146,7 +146,7 @@ Store cured leeks in the refrigerator for up to 3 months or freeze them for late
 
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://doa.gov.lk/sinhala-hordi-crop-leeks/
 - https://plantvillage.psu.edu/topics/leek/infos
 - Shelke, P. A., Rafiq, S. M., Bhavesh, C., Rafiq, S. I., Swapnil, P., & Mushtaq, R. (2020). Leek (Allium ampeloprasum L.). Antioxidants in Vegetables and Nuts-Properties and Health Benefits, 309-331.

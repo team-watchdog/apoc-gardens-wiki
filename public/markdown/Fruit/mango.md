@@ -169,7 +169,8 @@ Caution: Be careful of the mango sap when harvesting, as it can cause burns, all
 - Consider using dwarf varieties or intensive pruning to manage tree size in cooler climates.
 - Choose early-ripening varieties that are better suited to cooler climates.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/fruit-crops-mango-e/
 - https://www.tropicalpermaculture.com/growing-mangoes.html
 - https://couchtohomestead.com/mango-tree-companion-plants/

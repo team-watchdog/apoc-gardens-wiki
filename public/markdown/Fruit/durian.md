@@ -99,3 +99,6 @@ Once opened, the fruit should be consumed right away; however, the flesh can be 
 **Explanation:** The cooler temperatures and potential frost in the up country can be challenging for durian trees.
 **Challenges/Adaptations:**
 - Choose cold-tolerant varieties and provide protection from strong winds.
+
+## References for this entry
+### Sources:

@@ -164,7 +164,8 @@ Store cured Knol-Khol in the refrigerator for up to 3 months.
 - Take advantage of the longer growing season in cooler areas to succession plant for extended harvests.
 - Monitor for pests and diseases, which may be less prevalent but still present in cooler climates.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/hordi-crop-knol-khol/
 - https://plants.usda.gov/home/plantProfile?symbol=BROLG2
 - https://fdc.nal.usda.gov/fdc-app.html#/food-details/168424/nutrients

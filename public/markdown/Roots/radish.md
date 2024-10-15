@@ -115,3 +115,6 @@ Remove the tops of radishes and store them in plastic bags in the refrigerator. 
 **Challenges/Adaptations:**
 - Protect plants by using row covers or mulch.
 - Provide additional warmth with black plastic mulch.
+
+## References for this entry
+### Sources:

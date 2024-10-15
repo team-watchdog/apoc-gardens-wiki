@@ -128,7 +128,8 @@ Store pomegranates in a cool, dry place for up to two weeks in Sri Lanka's clima
 - Choose cold-hardy varieties suitable for higher elevations in Sri Lanka
 - Implement terracing techniques to maximize sunlight exposure and improve drainage
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa-gov-lk.translate.goog/fruit-crops-pomegranate-s/
 - https://nhb.gov.in/report_files/pomegranate/POMEGRANATE.htm
 - https://hortiadvisor.com/how-to-plant-grow-and-care-for-pomegranate-trees/

@@ -127,7 +127,8 @@ In Sri Lanka's warm climate, store limes in the refrigerator for up to 2 weeks. 
 - Choose more cold-tolerant lime varieties if available
 - Provide extra protection during colder months
 
-## Sources
+## References for this entry
+### Sources:
 - https://agritech.tnau.ac.in/horticulture/horti_fruits_acidlime.html
 - https://permacultureplants.com/plants/lime/
 - https://plantvillage.psu.edu/topics/lime-sour/infos

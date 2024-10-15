@@ -184,16 +184,16 @@ The diseased parts/plants should be removed and destroyed.
 
 ## References for this entry
 ### Sources:
-https://doa.gov.lk/hordi-crop-capsicum/
-https://www.gardenia.net/plant/capsicum-annuum
-https://www.thespruce.com/pepper-companion-plants-7486883
-https://plantura.garden/uk/vegetables/peppers/pepper-companion-planting
-https://insteading.com/blog/companion-planting-for-peppers/
-https://www.housedigest.com/1345559/companion-plants-pepper/
-https://plantvillage.psu.edu/topics/chilli-pepper/infos
-https://plantvillage.psu.edu/topics/pepper-bell/infos
-https://ipm.ucanr.edu/PMG/GARDEN/PLANTS/INVERT/leafbeetle.html
-https://worldofplants.ai/en/flea-beetles-on-pepper-plants/
+- https://doa.gov.lk/hordi-crop-capsicum/
+- https://www.thespruce.com/pepper-companion-plants-7486883
+- https://www.gardenia.net/plant/capsicum-annuum
+- https://plantura.garden/uk/vegetables/peppers/pepper-companion-planting
+- https://insteading.com/blog/companion-planting-for-peppers/
+- https://www.housedigest.com/1345559/companion-plants-pepper/
+- https://plantvillage.psu.edu/topics/chilli-pepper/infos
+- https://plantvillage.psu.edu/topics/pepper-bell/infos
+- https://ipm.ucanr.edu/PMG/GARDEN/PLANTS/INVERT/leafbeetle.html
+- https://worldofplants.ai/en/flea-beetles-on-pepper-plants/
 
 ### Image Sources: (In order of appearance)
 - 

@@ -176,6 +176,6 @@ Eggplants do not like cool temperatures, so it is recommended to harvest and use
 - Ensure adequate sunlight.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 
 ### Image Sources: (In order of appearance)

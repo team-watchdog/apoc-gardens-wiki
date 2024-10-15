@@ -68,6 +68,7 @@ class WikiConverter {
                 curing: "",
                 storage: "",
                 protectingYourPlants: "",
+                sources: [],
             },
         };
         this.MARKDOWN_DIR = path_1.default.join(__dirname, "../public/markdown");
@@ -143,6 +144,9 @@ class WikiConverter {
         // Create the nav html
         const markdownToHtmlNav = new markdownToHtmlNav_1.default(this.MARKDOWN_DIR, this.HTML_DIR, this.serverPrefix);
         this.navHtml = markdownToHtmlNav.generateNav();
+        // Extract sources
+        const referenceSection = this.extractSection(this.unformattedWikiContent, "References for this entry", "##");
+        wikiContent.content.sources = this.extractSources(referenceSection || "");
         return this.fitToHtmlTemplate(wikiContent);
     }
     /** ========= PRIVATE METHODS  ========= */
@@ -309,6 +313,40 @@ class WikiConverter {
         }
         return difficultyRating;
     }
+    extractSources(markdown) {
+        const sectionStart = markdown.indexOf("### Sources");
+        if (sectionStart === -1) {
+            return [];
+        }
+        const contentStart = markdown.indexOf("\n", sectionStart) + 1;
+        const nextSectionRegex = new RegExp("^### ", "m");
+        const nextSectionMatch = markdown
+            .slice(contentStart)
+            .match(nextSectionRegex);
+        const sectionEnd = nextSectionMatch
+            ? contentStart + (nextSectionMatch?.index ?? markdown.length)
+            : markdown.length;
+        const sectionContent = markdown.substring(contentStart, sectionEnd).trim();
+        const sources = sectionContent.split("\n").map((line) => line.trim());
+        return sources;
+    }
+    formatSourcesSection(sources) {
+        // Check if empty or undefined strings are present
+        sources = sources.filter((source) => source.trim() !== "");
+        if (sources.length === 0) {
+            return "";
+        }
+        const sourceSection = markdownHtmlConverter_1.default.convert(sources.join("\n"));
+        return `
+			<section id="sources-section">
+				<h1>Sources</h1>
+				<p>In addition to our General List of Sources (link), we used these specific references: </p>
+				<div class="container">
+				${sourceSection}
+				</div>
+			</section>
+		`;
+    }
     /**
      * This method will convert the json wiki content to a html template
      * @param markDown
@@ -317,26 +355,26 @@ class WikiConverter {
     fitToHtmlTemplate(wikiContent) {
         return `
         <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>${wikiContent.title}</title>
-		<link href="${this.serverPrefix}/styles/output.css" rel="stylesheet" />
+		<html lang="en">
+		<head>
+			<meta charset="UTF-8" />
+			<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			<title>${wikiContent.title}</title>
+			<link href="${this.serverPrefix}/styles/output.css" rel="stylesheet" />
 
-		<!-- Font Awesome -->
-		<link
-			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
-			rel="stylesheet" />
+			<!-- Font Awesome -->
+			<link
+				href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+				rel="stylesheet" />
 
-		<!-- Google Fonts -->
-		<link rel="preconnect" href="https://fonts.googleapis.com" />
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link
-			href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
-			rel="stylesheet" />
-	</head>
-	<body>
+			<!-- Google Fonts -->
+			<link rel="preconnect" href="https://fonts.googleapis.com" />
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+			<link
+				href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+				rel="stylesheet" />
+		</head>
+		<body>
 		<!-- HEADER SECTION -->
 		${this.navHtml}
 
@@ -390,7 +428,10 @@ class WikiConverter {
                 ${wikiContent.content.protectingYourPlants}
 			</section>
 			<br />
-			
+
+			<!-- SOURCES SECTION -->
+			${this.formatSourcesSection(wikiContent.content.sources)}
+
 			<!-- FOOTER SECTION -->
 			<footer>
 				<div class="footer-content">

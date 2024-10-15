@@ -155,5 +155,5 @@ Potatoes should be stored in a cool, dry place with temperatures between 45-50°
 
 ## References for this entry
 
-### Content Sources:
-### Image Sources: (In order of appearance)
+## References for this entry
+### Sources:

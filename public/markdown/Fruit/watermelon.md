@@ -165,7 +165,8 @@ Store watermelons in a cool, dry place away from direct sunlight. They can be st
 - Consider using greenhouses or polytunnels for temperature control
 - Limit cultivation to the warmest months of the year
   
-## Sources: 
+## References for this entry
+### Sources:
 - https://doa-gov-lk.translate.goog/fruit-crops-watermelon-s/
 - https://www.tropicalpermaculture.com/growing-watermelons.html
 - https://www.theseedcollection.com.au/growguide/watermelon-seeds

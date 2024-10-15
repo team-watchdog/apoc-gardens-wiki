@@ -112,7 +112,7 @@ After harvesting, wash the leaves thoroughly and dry them in a shaded area. Stor
 - Adjust watering practices to suit cooler, potentially wetter conditions
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://hort.extension.wisc.edu/articles/malabar-spinach-basella-alba/
 - https://foodprint.org/real-food/malabar-spinach/
 - https://www.growveg.com/plants/us-and-canada/how-to-grow-malabar-spinach/

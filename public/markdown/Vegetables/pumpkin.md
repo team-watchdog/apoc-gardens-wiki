@@ -132,6 +132,7 @@ Pumpkins can be stored for 6-8 months and butternut can be kept for about 1 mont
 - Use row covers or greenhouses to extend the growing season
 - Carefully manage water to prevent fungal diseases in cooler, damper conditions
 
-## Sources:
+## References for this entry
+### Sources:
 - https://www.thespruce.com/pumpkin-vine-management-7693221
 - https://localfoodconnect.org.au/community-gardening/pumpkins

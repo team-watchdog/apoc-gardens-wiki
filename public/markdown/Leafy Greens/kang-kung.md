@@ -116,7 +116,7 @@ Store in refrigerator crisper drawer for up to one week. In Sri Lanka, it's ofte
 - Plant during the warmest months of the year
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://worldcrops.org/crops/water-spinach
 - https://fdc.nal.usda.gov/fdc-app.html#/food-details/169301/nutrients
 - https://ausveg.com.au/biosecurity-agrichemical/crop-protection/asian-vegetables/

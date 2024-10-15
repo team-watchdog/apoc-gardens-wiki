@@ -125,7 +125,8 @@ Store ripe fruits in the refrigerator for up to 2 weeks. Unripe fruits can be st
 - Water availability may be limited, requiring additional irrigation.
 - Regular monitoring for pests and diseases is necessary due to varying weather conditions.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://www.epicgardening.com/star-fruit-tree/
 - https://edis.ifas.ufl.edu/publication/MG269
 - https://www.greendreamsfl.com/single-post/growing-starfruit-trees-how-to-grow-carambola

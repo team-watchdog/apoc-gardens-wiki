@@ -123,7 +123,7 @@ Guavas can be stored at room temperature for up to 5 days or refrigerated for up
 - Apply balanced fertilizers regularly, but avoid overfertilizing as it can cause excessive vegetative growth at the expense of fruit production.
 
 ## References for this entry
-### Content Sources:
-https://www.rehobothorganicfarms.com/post/guava-trees-after-3-months-of-pruning
+### Sources:
+- https://www.rehobothorganicfarms.com/post/guava-trees-after-3-months-of-pruning
 
 ### Image Sources: (In order of appearance)

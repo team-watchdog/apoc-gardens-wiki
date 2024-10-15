@@ -140,7 +140,7 @@ Refrigerate for up to 2 weeks in a plastic bag in the crisper drawer.
 - Provide additional warmth by using black plastic mulch or row covers. Ensure consistent water supply, especially during flowering and fruiting stages.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - [Sri Lankan Department of Agriculture](https://doa.gov.lk/hordi-crop-bitter-gourd/)
 - [https://nhb.gov.in/pdf/vegetable/bittergourd/bit007.pdf](https://nhb.gov.in/pdf/vegetable/bittergourd/bit007.pdf)
 - https://growables.com/informationVeg/documents/BitterGourdCulturalAVRDC.pdf

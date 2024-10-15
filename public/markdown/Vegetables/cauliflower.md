@@ -125,7 +125,7 @@ Refrigerate washed and dried cauliflower in an airtight freezer bag.
 - Ensure proper soil preparation and fertilization
 
 ## References for this entry
-### Content:
+### Sources:
 https://doa.gov.lk/hordi-crop-cauliflower/
 https://www.epicgardening.com/growing-cauliflower/
 https://www.harti.gov.lk/images/download/reasearch_report/new1/179.pdf

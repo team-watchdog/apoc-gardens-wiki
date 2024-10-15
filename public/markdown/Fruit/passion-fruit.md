@@ -158,7 +158,8 @@ Store passion fruit at room temperature for up to a week, or refrigerate for up 
   - Using greenhouses or poly-tunnels for temperature control
   - Providing consistent watering to prevent drought stress
 
-## Sources
+## References for this entry
+### Sources:
 - https://doa.gov.lk/fruit-crops-passion-fruit-s/
 - https://www.tropicalpermaculture.com/passionfruit-permaculture.html
 - https://www.epicgardening.com/passion-fruit/

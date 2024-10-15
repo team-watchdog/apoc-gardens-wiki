@@ -129,7 +129,8 @@ Snake gourd should be stored at 12-13°C with 85-90% humidity to extend its shel
 - Ensure consistent moisture throughout the growing season.
 
 
-## Sources
+## References for this entry
+### Sources:
 - https://agritech.tnau.ac.in/horticulture/horti_vegetables_snake%20gourd.html
 - http://celkau.in/Crops/Vegetables/Snakegourd/snakegourd.aspx
 - https://www.gardeningknowhow.com/edible/vegetables/gourd/snake-gourd-plant-growing.htm

@@ -145,3 +145,7 @@ Optionally, sweet potatoes can be frozen after the curing process by peeling, cu
 - May require protection from frost in some areas
 - Careful management of soil moisture to prevent waterlogging in higher rainfall areas
 - Selection of varieties better suited to cooler climates may be necessary
+
+
+## References for this entry
+### Sources:

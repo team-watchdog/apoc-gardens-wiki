@@ -148,7 +148,8 @@ Store ripe pineapples in the refrigerator for up to five days. Unripe pineapples
 - Choose sheltered locations and consider using plastic mulch to increase soil temperature.
 - Focus on growing pineapples for local consumption, as the cooler climate may produce less sweet but more aromatic fruits.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/fruit-crops-pineapple-e/
 - https://www.tropicalpermaculture.com/growing-pineapples.html
 - https://edis.ifas.ufl.edu/publication/MG055

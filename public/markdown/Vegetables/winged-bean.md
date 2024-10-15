@@ -135,7 +135,8 @@ Store pods in the refrigerator for up to two weeks. Tubers can be stored in a co
 - Use row covers or polytunnels to protect plants from cold and extend the growing season.
 - Consider focusing on tuber production, which may be more successful in cooler climates.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/hordi-crop-winged-bean/
 - https://doa.gov.lk/hordi-variety3-winged-bean/
 - https://www.epicgardening.com/winged-bean/

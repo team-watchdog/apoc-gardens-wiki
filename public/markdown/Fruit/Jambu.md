@@ -106,7 +106,7 @@ Jambu plants are not disease or pest-prone, however, occasional infestations are
 
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://www.asiafarming.com/how-to-grow-java-apple-in-home-gardens-ultimate-guide-for-beginners
 - https://agriculture.gov.vc/agriculture/images/stories/PDF_Documents/Wax-Apple.pdf
 - https://www.growables.org/information/TropicalFruit/waxjambu.htm

@@ -151,7 +151,7 @@ Add vegetable oil and mix the dried green grams and store in an airtight contain
   - Monitor for mold and ensure proper drying of pods to avoid quality loss.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 https://www.accessagriculture.org/harvesting-and-storage-green-gram
 https://www.greenlife.co.ke/powdery-mildew-of-green-grams s
 ### Image Sources: (In order of appearance)

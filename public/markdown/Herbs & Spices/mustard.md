@@ -128,7 +128,8 @@ Store dried mustard seeds in an airtight container in a cool, dark place. They c
 - Implement raised beds to improve soil temperature and drainage.
 - Monitor closely for disease due to higher humidity, and ensure good air circulation.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/field-crops-mustard/
 - https://plantpropagation.com/mustard/
 - https://www.growveg.com/guides/how-to-grow-mustard

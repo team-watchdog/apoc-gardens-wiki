@@ -111,3 +111,6 @@ Coriander bacterial blight is difficult to control once established and symptoms
 **Challenges/Adaptations:**
 - Use row covers or grow in greenhouses during colder months
 - Choose cold-tolerant varieties
+
+## References for this entry
+### Sources:

@@ -106,7 +106,8 @@ Store mangosteens in the refrigerator for up to two weeks. Do not store at tempe
   - Be prepared for slower growth and potentially lower yields.
   - Consider greenhouse cultivation for better temperature control.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://www.gardeningknowhow.com/edible/fruits/mangosteen/growing-mangosteens.htm
 - https://www.doa.gov.lk/FCRDI/index.php/en/crop/34-mangosteen
 - https://doa.gov.lk/fruit-crops-mangosteen-s/

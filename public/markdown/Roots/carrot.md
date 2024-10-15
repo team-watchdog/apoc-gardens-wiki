@@ -162,8 +162,8 @@ Store carrots in the refrigerator crisper drawer for up to 4 months. Alternative
 - Steep terrain: Implement terracing and soil conservation practices
 
 ## References for this entry
-### Content Sources:
-https://doa.gov.lk/hordi-crop-carrot/
-https://herbidacious.calamus.graphics/2015/05/25/how-to-grow-carrots-for-beginners/
-https://www.epicgardening.com/growing-carrots/
+### Sources:
+- https://doa.gov.lk/hordi-crop-carrot/
+- https://herbidacious.calamus.graphics/2015/05/25/how-to-grow-carrots-for-beginners/
+- https://www.epicgardening.com/growing-carrots/
 

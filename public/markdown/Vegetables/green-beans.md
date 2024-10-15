@@ -163,6 +163,6 @@ Store green beans in a plastic bag in the refrigerator crisper drawer for up to 
   - Consider using row covers to extend the growing season and protect from unexpected cold snaps.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://plantvillage.psu.edu/topics/bean/infos
 ### Image Sources: (In order of appearance)

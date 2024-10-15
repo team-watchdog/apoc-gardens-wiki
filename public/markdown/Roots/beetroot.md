@@ -144,7 +144,7 @@ Store beetroots in the refrigerator for up to three months or in the freezer for
 - Ensure soil is well-drained to prevent root rot.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - [https://www.epicgardening.com/growing-beets/](https://www.epicgardening.com/growing-beets/)
 - [https://itsavegworldafterall.com/how-to-freeze-beets/](https://itsavegworldafterall.com/how-to-freeze-beets/)
 - [https://extension.umn.edu/yard-and-garden-insects/leafminers](https://extension.umn.edu/yard-and-garden-insects/leafminers)

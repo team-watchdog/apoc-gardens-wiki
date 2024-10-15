@@ -112,7 +112,8 @@ Store wood apples in a cool, dry place for up to two weeks. In Sri Lanka's humid
 - Provide protection from strong winds, ensure consistent moisture through irrigation, and maintain optimal soil temperature
 - Consider planting on south-facing slopes to maximize sunlight exposure
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa-gov-lk.translate.goog/fruit-crops-wood-apple-s/
 - http://eagri.org/eagri50/HORT181/lec21.pdf
 - https://tropical.theferns.info/viewtropical.php?id=Limonia+acidissima

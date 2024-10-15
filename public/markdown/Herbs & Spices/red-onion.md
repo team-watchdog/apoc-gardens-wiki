@@ -122,3 +122,7 @@ Store cured onions in a cool, dry place with good air circulation. In Sri Lanka'
 **Challenges/Adaptations:**
 - Use plastic tunnels or greenhouses for protection
 - Choose cold-tolerant varieties
+
+
+## References for this entry
+### Sources:

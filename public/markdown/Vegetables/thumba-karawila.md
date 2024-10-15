@@ -110,7 +110,8 @@ After harvesting, store the spiny gourds in a cool place away from direct sunlig
 - **Pests and diseases:** Regular monitoring and control measures
 
 
-## Sources
+## References for this entry
+### Sources:
 - http://www.b4fn.org/resources/species-database/detail/momordica-dioica/
 - https://agriculture-24.com/profitable-cultivation-of-spiny-gourd-growing-season-manuring-fertilizers-disease-and-pest-management-a-comprehensive-guide/
 - https://doa.gov.lk/hordi-crop-thumba-karawila/

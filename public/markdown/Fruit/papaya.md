@@ -176,7 +176,8 @@ Store ripe papayas at room temperature for up to 5 days, or in the refrigerator 
 - Focus on varieties that are more tolerant of cooler temperatures.
 - Explore value-added products like papaya jam or dried papaya to maximize returns.
 
-##  Sources:
+## References for this entry
+### Sources:
 - https://doa-gov-lk.translate.goog/fruit-crops-papaw-s/
 - https://www.hort.purdue.edu/newcrop/CropFactSheets/factsheets/papaya.html
 - https://edis.ifas.ufl.edu/publication/MG054

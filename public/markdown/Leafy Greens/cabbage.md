@@ -152,7 +152,7 @@ Store cabbages in a cool, dry place or in the refrigerator for up to 2 weeks. Fo
 - Time planting to avoid the wettest months to reduce disease pressure.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 https://doa.gov.lk/hordi-crop-cabbage/
 https://www.epicgardening.com/growing-cabbage/
 https://www.epicgardening.com/cabbage-companion-plants/

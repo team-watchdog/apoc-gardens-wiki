@@ -146,7 +146,7 @@ Maintain field hygiene and remove weeds regularly.
 - Choose varieties suited to local conditions
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://www.gardenia.net/guide/best-worst-companions-for-lettuce
 - https://www.gardeningknowhow.com/edible/vegetables/lettuce/companion-plants-for-lettuce.htm
 - http://farmer.gov.lk/index.php?option=com_content&view=article&id=123&Itemid=76

@@ -131,7 +131,8 @@ Store dried lavender in an airtight container away from light and heat for up to
 **Challenges/Adaptations:**
 - Consider greenhouse cultivation for year-round production
 
-## Sources:
+## References for this entry
+### Sources:
 - https://www.epicgardening.com/grow-lavender-from-seed/
 - https://ipm.ucanr.edu/home-and-landscape/lavender/index.html?src=307-pageViewHLS
 - https://southerngracelavenderfarm.com/common-pests-and-diseases

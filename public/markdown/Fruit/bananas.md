@@ -167,7 +167,7 @@ General practices:
 - Best varieties to grow: Embul (Sour), Seeni (Sugar Banana), Kandula, Anamalu, Ambon, Rath Banana (Red Banana), Nethrampalam, Suwandel, Puwalu, Bing Banana
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://doa.gov.lk/fruit-crops-banana-s/
 - https://www.epicgardening.com/plant-grow-and-care-for-banana-plants/
 - https://growingspaces.com/growing-bananas/#:~:text=The%20following%20plants%20are%20great,grow%20up%20the%20banana%20plant.

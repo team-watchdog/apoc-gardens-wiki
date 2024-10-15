@@ -117,3 +117,6 @@ White powdery patches on leaves, flowers, immature fruits, and buds. Infected pa
 **Challenges/Adaptations:**
 - Installing greenhouses or other controlled environments to manage temperature and humidity.
 - Regular irrigation to compensate for lower rainfall.
+
+## References for this entry
+### Sources:

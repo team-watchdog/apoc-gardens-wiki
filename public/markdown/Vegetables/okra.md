@@ -133,7 +133,8 @@ Store okra in the refrigerator for up to a week. For longer storage, blanch and 
 - Avoid planting in areas with temperatures below 15°C. Consider providing row covers or other protection during cold periods.
 - Provide adequate sunlight and heat to ensure successful growth. Okra plants require at least 6 hours of sunlight per day, so choose a sunny location for planting.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://fdc.nal.usda.gov/fdc-app.html#/food-details/169260/nutrients
 - https://doa.gov.lk/hordi-crop-okra/
 - https://www.thespruce.com/growing-okra-in-the-backyard-vegetable-garden-1403473

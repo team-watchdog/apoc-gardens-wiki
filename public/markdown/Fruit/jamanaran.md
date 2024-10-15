@@ -145,7 +145,7 @@ Manage occasional frost in some areas. Use recommended varieties like Madhu and 
 Use cold-hardy varieties like Rahangala Varana. Provide protection against cold, especially during flowering. Implement windbreaks to protect trees from cold winds. Consider using raised beds to improve soil temperature. 
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - Han, Y., Sun, Z., & Chen, W. (2019). Antimicrobial susceptibility and antibacterial mechanism of limonene against Listeria monocytogenes. Molecules, 25(1), 33.
 - Viuda‐Martos, M., Ruiz‐Navajas, Y., Fernandez‐Lopez, J., & Perez‐Álvarez, J. (2008). Antibacterial activity of lemon (Citrus lemon L.), mandarin (Citrus reticulata L.), grapefruit (Citrus paradisi L.) and orange (Citrus sinensis L.) essential oils. Journal of food safety, 28(4), 567-576.
 - Kalita, H., Avasthe, R. K., Kishore, K., Rameash, K., & Gopi, R. (2015). Biorational management of insect pests in Mandarin, Citrus reticulata. Indian Journal of Plant Protection, 43(4), 514-517.

@@ -97,7 +97,8 @@ Store fresh fruits in a cool, dry place for up to a week. For longer storage, dr
 - Plant in sheltered locations to protect from cold winds and frost.
 - Consider using polytunnels or greenhouses for cultivation in very high elevations.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa-gov-lk.translate.goog/fruit-crops-namnam-s/
 - https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2833
 - Samling, B. A., Assim, Z., Tong, W. Y., Leong, C. R., Ab Rashid, S., Kamal, N. N. S. N. M., ... & Tan, W. N. (2021). Cynometra cauliflora L.: An indigenous tropical fruit tree in Malaysia bearing essential oils and their biological activities. Arabian Journal of Chemistry, 14(9), 103302.

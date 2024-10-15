@@ -138,9 +138,9 @@ The fruit can be stored for about 40 days at 5°C and 90% relative humidity (RH)
 - Be prepared for reduced yield and possible crop failure in harsh winters.
 
 ## References for this entry
-### Content Sources:
-https://www.tractorjunction.com/agriculture-news/dragon-fruit-cultivation-including-varieties/
-https://www.gardenia.net/plant/hylocereus-undatus
-https://www.thespruce.com/growing-dragonfruit-plants-5086867
+### Sources:
+- https://www.tractorjunction.com/agriculture-news/dragon-fruit-cultivation-including-varieties/
+- https://www.gardenia.net/plant/hylocereus-undatus
+- https://www.thespruce.com/growing-dragonfruit-plants-5086867
 
 ### Image Sources: (In order of appearance)

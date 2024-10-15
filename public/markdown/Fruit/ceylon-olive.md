@@ -114,7 +114,7 @@ Note: Mature plants are generally not very susceptible to diseases.
 
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - https://en.wikipedia.org/wiki/Elaeocarpus_serratus
 
 ### Image Sources: (In order of appearance)

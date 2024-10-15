@@ -133,3 +133,7 @@ For all diseases:
 - Longer growing season due to cooler temperatures
 - Extra attention to drainage in areas with higher rainfall
 - May need to select varieties better suited to cooler climates
+
+
+## References for this entry
+### Sources:

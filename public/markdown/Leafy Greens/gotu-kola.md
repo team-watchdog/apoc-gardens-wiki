@@ -158,3 +158,7 @@ Fresh leaves can be stored in the refrigerator for up to one week.
 - May require protection from frost in some areas during colder months
 - Longer growing season due to cooler temperatures
 - Ensure adequate sunlight exposure in shadier areas
+
+
+## References for this entry
+### Sources:

@@ -162,7 +162,8 @@ In Sri Lanka's humid climate, yard long beans are best consumed fresh. If storag
 - Frost protection is crucial. Use row covers or other protective measures during cold periods.
 - Focus on bush varieties which may be easier to protect from cold and wind.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/hordi-crop-yard-long-bean/
 - https://doa.gov.lk/hordi-variety-mae/
 - https://www.thespruce.com/companion-plants-for-beans-2540036

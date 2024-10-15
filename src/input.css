@@ -70,7 +70,7 @@
 		@apply list-decimal pl-4;
 	}
 	li {
-		@apply text-secondary-900 text-base;
+		@apply text-secondary-900 text-base break-all;
 	}
 
 	iframe {

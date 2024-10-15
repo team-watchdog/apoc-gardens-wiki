@@ -136,6 +136,6 @@ In tropical climates, ripe jackfruits can be stored at room temperature for 3-4 
 - **Growth rate:** Slower growth and fruit development due to cooler temperatures. Choose cold-hardy varieties.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 
 ### Image Sources: (In order of appearance)

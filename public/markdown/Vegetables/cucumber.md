@@ -137,4 +137,4 @@ Store harvested cucumbers in the refrigerator crisper drawer for up to 3-5 days.
 - Choose short-season cucumber varieties adapted to cooler climates
 
 ## References for this entry
-### Content Sources:
+### Sources:

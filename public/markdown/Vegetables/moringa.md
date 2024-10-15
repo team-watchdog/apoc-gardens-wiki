@@ -156,7 +156,8 @@ Moringa trees can be planted in gardens to provide support for climbing crops su
 - Be prepared to provide extra care during cooler periods to encourage growth.
 
 
-## Content Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/hordi-crop-moringa/
 - https://agritech.tnau.ac.in/horticulture/horti_vegetables_annualmoringa.html
 - https://infonet-biovision.org/medicinal-plants/moringa

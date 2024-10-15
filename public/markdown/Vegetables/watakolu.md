@@ -151,7 +151,8 @@ In General:
 - Provide additional support for vines to protect against strong winds
 - Adjust planting times to coincide with warmer months
 
-## Sources:
+## References for this entry
+### Sources:
 - https://doa.gov.lk/hordi-crop-luffa/
 - https://www.epicgardening.com/growing-luffa/
 - https://plants.usda.gov/home/plantProfile?symbol=LUAC2

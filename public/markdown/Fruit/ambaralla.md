@@ -109,7 +109,7 @@ Ripe fruit cannot be stored over long periods of time but can be preserved as ja
 -  Provide protection from strong winds and ensure adequate sunlight.
 
 ## References for this entry
-### Content Sources:
+### Sources:
 - [Wikipedia](https://en.wikipedia.org/wiki/Spondias_dulcis)
 - Food Plant Solutions Rotary Action Group
 - [tipstreeplanting.com](https://tipstreeplanting.com/ambarella-tree-care/)

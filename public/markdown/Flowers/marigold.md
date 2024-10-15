@@ -150,7 +150,8 @@ Once dried, store marigold flowers in a glass container or airtight bag to keep 
 - Choose varieties that are more tolerant to cooler temperatures, such as French marigolds.
 - Consider greenhouse cultivation or use of polytunnels to extend the growing season.
 
-## Sources:
+## References for this entry
+### Sources:
 - https://www.almanac.com/plant/marigolds
 - https://www.thespruce.com/how-to-grow-marigolds-1402909
 - https://kisanvedika.bighaat.com/cultivating-marigold-flowers-a-complete-guide-for-a-successful-bloom/
