@@ -10,24 +10,24 @@
 **Nutrition value:** Winged beans are high in protein (around 20% by weight) and fiber. They are also a good source of vitamins A, C, and several B vitamins
 
 **Companion plants:**
-- Corn
-- Cucumber
-- Eggplant
-- Radish
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
+- [Radish](https://lanka.wiki/roots/radish.html)
 - Marigold
 - Nasturtium
 - Summer savory
 - Rosemary
-- Potato
+- [Potato](https://lanka.wiki/roots/potato.html)
 - Chilies
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Eggplants
 - Squash
-- Lettuce
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 
 **Non-companion plants:**
-- Onion family plants (chives, leeks, garlic, and onions)
-- Sunflowers
+- Onion family plants (chives, [leeks](https://lanka.wiki/leafy%20greens/leeks.html), garlic, and onions)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
 
 ## Description:
 Winged beans (Psophocarpus tetragonolobus) are tropical legumes known for their unique four-angled seed pods. These climbing plants, which can reach up to 4 meters in height, thrive in warm, humid climates. Popular in home gardens, winged beans are valued for their versatility, as nearly all parts of the plant are edible. The pods are angular with frilled edges and can be smooth or waxy in texture. They contain a few round to oval seeds that can be ivory, green, or brown. There are two main types of winged bean; short podded ones which are used for tubers and have poor seeds, and long podded ones which have good seeds but poor tubers.

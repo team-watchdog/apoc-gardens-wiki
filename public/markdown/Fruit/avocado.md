@@ -14,10 +14,10 @@
 - Chilli
 - Sesame
 - Maize
-- Papaya
-- Pineapple
-- Passionfruit
-- Banana
+- [Papaya](https://lanka.wiki/fruit/papaya.html)
+- [Pineapple](https://lanka.wiki/fruit/pineapple.html)
+- [Passion fruit](https://lanka.wiki/fruit/passion-fruit.html)
+- [Banana](https://lanka.wiki/fruit/bananas.html)
 
 **Non-companion plants:** Plants with deep roots may interfere with Avocado root growth
 

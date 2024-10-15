@@ -12,18 +12,18 @@
 **Companion plants:**
 - Asparagus 
 - Basil
-- Carrots
-- Cucumbers
-- Eggplant
+- [Carrots](https://lanka.wiki/roots/carrot.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 - Oregano
 - Parsley
 - Rosemary
 - Squash
 - Swiss chard
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 
 **Non-companion plants:** 
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Brassicas
 - Fennel
 

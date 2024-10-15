@@ -10,26 +10,26 @@
 **Nutrition value:** High in vitamin C, folate, potassium, and citric acid. 
 
 **Companion plants:**
-- Lemongrass
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
 - Thai Basil
 - Mint
-- Marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Nasturtiums
 - Chives
-- Garlic
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 
 **Non-companion plants:**
-- Corn (Heavy feeders)
-- Sunflowers (Heavy feeders)
-- Pumpkins (Heavy feeders)
+- [Corn](https://lanka.wiki/vegetables/corn.html) (Heavy feeders)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html) (Heavy feeders)
+- [Pumpkins](https://lanka.wiki/vegetables/pumpkin.html) (Heavy feeders)
 - eucalyptus (Allelopathic plants)
 - Willows (Water-hungry plants)
 - Ferns (Water-hungry plants)
 - Roses (Pest attractors)
 - Pears (Pest attractors)
-- Potatoes
-- Tomatoes
-- Cucumbers
+- [Potato](https://lanka.wiki/roots/potato.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
 
 ## Description:
 Lime trees are well-suited to Sri Lanka's tropical climate. They thrive in the warm, humid conditions found in many parts of the country, and can add a touch of acidity to cooking or be turned into juice. Their juice is also sometimes used as a handy antimicrobial agent. Lime trees in Sri Lanka typically grow to a height of 3-5 meters and can be found in home gardens, agricultural plots, and even in some urban areas. 

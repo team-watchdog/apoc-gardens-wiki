@@ -11,20 +11,19 @@
 
 **Companion plants:**
 - Nasturtiums
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Celery
-- Lettuce
-- Corn
-- Cabbages
-- Sunflowers
-- Coriander
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
+- [Coriander](https://lanka.wiki/herbs%20&%20spices/coriander.html)
 - Fennel
 - Dill
-- Sunflowers
   
 **Non-companion plants:**
-- Potato
-- Tomatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 
 ## Description:
 Cucumbers grow as vines and are an easy crop to grow. Cucumbers are part of the cucurbit family related to other vegetables such as pumpkins and squash. There are several varieties of cucumber. Traditional cucumbers such as Lebanese cucumber produce long, dark-green fruit that is picked from when it is 10cm long. Burpless is a long green cucumber with a thin skin sold as low acid. Apple cucumbers are round with creamy-white skin. Pickling cucumbers are called gherkins and are picked small (5-10cm in length). Cucumbers are 90 percent water, which is why they feel cool and are low in fat and calories.

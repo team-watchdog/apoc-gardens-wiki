@@ -10,9 +10,9 @@
 **Nutrition value:** Bitter Gourd is rich in a number of important antioxidants. Half a cup of fresh bitter gourd accounts for about 43% of your recommended daily intake of vitamin C
 
 **Companion plants:**
-- Green beans
+- [Green beans](https://lanka.wiki/vegetables/green-beans.html)
 - Peas
-- Pumpkins
+- [Pumpkins](https://lanka.wiki/vegetables/pumpkin.html)
 - Other summer squashes
 
 **Non-companion plants:** 

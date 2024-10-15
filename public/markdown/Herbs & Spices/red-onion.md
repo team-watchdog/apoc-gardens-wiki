@@ -17,8 +17,8 @@
 - Asparagus
 - Legumes
 - Sage
-- Garlic
-- Leeks
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
+- [Leeks](https://lanka.wiki/leafy%20greens/leeks.html)
 - Chives
 - Shallots
 - Turnips

@@ -1,5 +1,5 @@
 # Mangosteen
-![Mangoosteen.jpg](../../assets/images/mangosteen.jpg "Image - Ivar Leidus, Wikimedia Commons")
+![Mangoosteen.jpg](../../assets/images/Mangosteen.jpg "Image - Ivar Leidus, Wikimedia Commons")
 
 ## General Information
 **Generic name:** Mangosteen, Gamboge
@@ -11,11 +11,11 @@
 
 **Companion plants:**
 - Peanut
-- Banana
-- Durian
-- Dragonfruit
-- Guava
-- Rambutan
+- [Banana](https://lanka.wiki/fruit/bananas.html)
+- [Durian](https://lanka.wiki/fruit/durian.html)
+- [Dragonfruit](https://lanka.wiki/fruit/dragon-fruit.html)
+- [Guava](https://lanka.wiki/fruit/guava.html)
+- [Rambutan](https://lanka.wiki/fruit/rambutan.html)
 - Coconut
 
 **Non-companion plants:**

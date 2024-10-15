@@ -10,9 +10,9 @@
 **Nutrition value:** Leaves contain about 3.88% protein, 1.1% fat and 9.38% carbohydrates. They are very rich in vitamins A, C, and vitamin B1.
 
 **Companion plants:**
-- Corn
-- Onions
-- Potatoes
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
+- [Potato](https://lanka.wiki/roots/potato.html)
 
 **Non-companion plants:**
 not applicable

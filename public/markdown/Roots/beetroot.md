@@ -12,15 +12,15 @@
 **Companion plants:**
 - Broccoli
 - Bush beans
-- Cabbage
-- Lettuce
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 - Kohlrabi
-- Onions
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 - Brassicas
-- Passion fruit.
+- [Passion fruit](https://lanka.wiki/fruit/passion-fruit.html)
   
 **Non-companion plants:**
-- Avoid runner or pole beans.
+- Avoid runner or pole beans
 
 ## Description:
 Beetroot is a dark green leafed plant up to 20 cm tall and grows throughout the year. It is also temperate climate plant and hence mainly grows in the highlands between 1150 and 2600 m altitude in the tropics. It has an oval shape with dark green or reddish in colour. It gives a thickened root in the first year followed by flowers in the second year. The flowers are small and green. The leaves vary in shape and colour. It has a round or elongated fattened root. The root is red in colour though there are also white varieties. There are many different varieties of beets, showcasing deep red, yellow, white, or striped roots of different shapes.

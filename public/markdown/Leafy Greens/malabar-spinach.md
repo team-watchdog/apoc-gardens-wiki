@@ -8,7 +8,7 @@
 **Edible parts:** Leaves
 **Nutrition value:** High in iron, calcium, vitamin A, and vitamin C. It also contains proteins and dietary fiber.
 
-**Companion plants:** Malabar spinach tends to be an agressive vine that takes over plants close to it. Some sources note that they work well with beets, brassicas, eggplant, leeks, lettuce, peas, and radishes, but this plant will have to be carefully pruned; ours has taken over an entire section of the office front yard. 
+**Companion plants:** Malabar spinach tends to be an agressive vine that takes over plants close to it. Some sources note that they work well with beets, brassicas, eggplant, [Leeks](https://lanka.wiki/leafy%20greens/leeks.html), lettuce, peas, and [Radishes](https://lanka.wiki/roots/radish.html), but this plant will have to be carefully pruned; ours has taken over an entire section of the office front yard. 
 
 **Non-companion plants:** Not Applicable
 

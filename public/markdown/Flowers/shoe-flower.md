@@ -12,7 +12,7 @@
 - Mulberry
 - Cinnamon
 - Camellia
-- Lemongrass
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
 
 **Non-companion plants**
 Not applicable

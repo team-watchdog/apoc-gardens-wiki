@@ -11,18 +11,18 @@
 
 **Companion plants:**
 - Rosemary
-- Lavender
+- [Lavender](https://lanka.wiki/flowers/lavender.html)
 - Sage
 - Thyme
-- Marigold
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Nasturtium
 - Borage
 
 **Non-companion plants:**
 - Fennel
-- Potatoes
-- Cucumbers
-- Brassicas (e.g., cabbage, broccoli)
+- [Potato](https://lanka.wiki/roots/potato.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- Brassicas (e.g., [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html), broccoli)
 
 ## Description:
 Pomegranates are brownish-yellow to purplish-red berries 2‒5 in (5‒12 cm) in diameter with a smooth, leathery skin. Pomegranate leaves are glossy, dark green, oblong to oval, and 1‒1.25 in. (2.5‒3 cm) long. Leaves are arranged opposed and pairs alternately crossing at right angles and clustered on short branchlets.

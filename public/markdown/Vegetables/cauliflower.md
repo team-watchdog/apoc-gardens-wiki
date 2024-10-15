@@ -14,7 +14,7 @@
 - Brussels sprouts
 - Chard
 - Spinach
-- Radish
+- [Radish](https://lanka.wiki/roots/radish.html)
 **Non-companion plants:**
 - Pepper
 - Squash

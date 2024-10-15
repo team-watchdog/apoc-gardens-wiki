@@ -16,13 +16,13 @@
 
 **Companion plants:**
 - Cowpea
-- Okra
+- [Okra](https://lanka.wiki/vegetables/okra.html)
 - Tomato
 - Maize
-- Sunflower
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)Sunflower
 
 **Non-companion plants:** 
-- Eggplant
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 - Sweet maize
 
 ## Description:

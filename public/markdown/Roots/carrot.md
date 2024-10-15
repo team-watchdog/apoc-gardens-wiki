@@ -9,18 +9,18 @@
 **Edible parts:** Both the roots and the leaves are edible. The young leaves are used in soups. The roots can be eaten raw or cooked.
 **Nutrition value:** High in vitamins A and K, potassium, and antioxidants.
 **Companion plants:**
-- Onions
-- Leeks
-- Lettuce
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
+- [Leeks](https://lanka.wiki/leafy%20greens/leeks.html)
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 - Sage
 - Peas
-- Radishes
-- Tomatoes
-- Beans
+- [Radishes](https://lanka.wiki/roots/radish.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 
 **Non-companion plants:**
-- Brassicas (cabbage, kale, broccoli, cauliflower, brussel sprouts etc)
-- Beetroot
+- Brassicas ([Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html), kale, broccoli, [cauliflower](https://lanka.wiki/vegetables/cauliflower.html), brussel sprouts etc)
+- [Beetroot](https://lanka.wiki/roots/beetroot.html)
 - Dill
 - Fennel
 

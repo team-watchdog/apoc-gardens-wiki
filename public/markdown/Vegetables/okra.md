@@ -10,20 +10,20 @@
 **Nutrition value:** Okra is nutritious with folate, vitamins, minerals especially calcium and iodine present in immature pods
 
 **Companion plants:**
-- Marigold (Tagetes)
-- Coriander (Cilantro)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
+- [Coriander](https://lanka.wiki/herbs%20&%20spices/coriander.html) (Cilantro)
 - Mint
 - Chili peppers
-- Cabbage
-- Cauliflower
-- Sunflowers
-- Moringa (Drumstick tree)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
+- [Cauliflower](https://lanka.wiki/vegetables/cauliflower.html)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
+- [Moringa](https://lanka.wiki/vegetables/moringa.html) (Drumstick tree)
 
 **Non-companion plants:**
-- Eggplant
-- Tomatoes
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Peppers
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 
 ## Description
 Okra (Abelmoschus esculentus), known as "Bandakka" in Sinhala, is a nutritious vegetable widely cultivated in Sri Lanka. The plant has heart-shaped leaves and produces beautiful yellow flowers with crimson centers. The fruit is a tapering capsule containing numerous oval dark-colored seeds. Okra plants can grow up to 6 feet tall and have hairy stems. 
@@ -138,4 +138,4 @@ Store okra in the refrigerator for up to a week. For longer storage, blanch and 
 - https://fdc.nal.usda.gov/fdc-app.html#/food-details/169260/nutrients
 - https://doa.gov.lk/hordi-crop-okra/
 - https://www.thespruce.com/growing-okra-in-the-backyard-vegetable-garden-1403473
-
+- https://plantvillage.psu.edu/topics/coriander-cilantro/infos

@@ -9,13 +9,13 @@
 **Edible parts:** Not Applicable
 
 **Companion Plants:** Marigolds are an excellent general-purpose plant that can help many other plants.
-- Tomatoes
-- Cucumbers
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
 - Squash
-- Carrots
-- Radishes
-- Lettuce
-- Potatoes
+- [Carrots](https://lanka.wiki/roots/carrot.html)
+- [Radishes](https://lanka.wiki/roots/radish.html)
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
+- [Potato](https://lanka.wiki/roots/potato.html)
 - Broccoli
 - Basil
 - Sage
@@ -29,8 +29,8 @@
 - Petunias
 
 **Non-Companion Plants:**
-- Beans
-- Cabbage
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
 
 ## Description:
 Marigolds are cheerful, brilliantly coloured annuals that are long-standing favourite summer flowers for borders and pots. Colours are mainly yellow and orange with some reds and creamy white. All marigolds are excellent for attracting pollinating insects and are enormously useful as companion plants. In Sri Lanka, they are commonly used in religious ceremonies and as natural pest repellents in home gardens. French marigolds (Tagetes patula) and African marigolds (Tagetes erecta) are both well-suited to Sri Lankan conditions. French marigolds are more compact and better suited for small gardens or containers.

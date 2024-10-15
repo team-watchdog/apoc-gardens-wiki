@@ -9,17 +9,17 @@
 **Edible parts:** white and green parts
 **Nutrition value:** Contains dietary fiber
 ## Companion Plants
-- Carrots
+- [Carrots](https://lanka.wiki/roots/carrot.html)
 - Celery
-- Onions
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 - Spinach
-- Cabbage
-- Lettuce
-- Tomatoes
-- Marigolds
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 
 ## Non-Companion Plants
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Peas
 
 ## Description:

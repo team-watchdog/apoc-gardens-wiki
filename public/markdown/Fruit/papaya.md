@@ -10,7 +10,7 @@
 **Nutrition value:** High in vitamins A and C, folate, pantothenic acid, and magnesium. It also contains fiber, potassium, and small amounts of other vitamins and minerals
 
 **Companion plants:**
-- Marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Basil
 - Nasturtiums
 - Comfrey
@@ -18,7 +18,7 @@
 - Legumes
 
 **Non-companion plants:**
-- Potatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
 - Fennel
 
 ## Description:

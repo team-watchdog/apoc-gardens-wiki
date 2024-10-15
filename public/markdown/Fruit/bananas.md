@@ -10,8 +10,8 @@
 **Nutrition value:** Rich in potassium, vitamin C, vitamin B6, and dietary fiber. They also contain small amounts of other vitamins and minerals
 
 **Companion plants:**
-- Sweet potatoes
-- Lemongrass
+- [Sweet potato](https://lanka.wiki/roots/sweet-potato.html)
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
 - Comfrey
 - Taro
 

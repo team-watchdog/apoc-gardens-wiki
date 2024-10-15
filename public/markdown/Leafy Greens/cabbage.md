@@ -9,21 +9,21 @@
 **Nutrition value:** Rich in vitamin A, vitamin C, Iron and Zinc. A 100g serving contains approximately 15 calories.
 
 **Companion plants:**
-- Lettuce
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 - Beets
-- Spinash
-- Garlic
-- Onions
-- Marigold
+- [Spinash](https://lanka.wiki/leafy%20greens/malabar-spinach.html)
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Nasturtium
 - Celery
 - Aromatic herbs (sage, dill, Basil, thyme)
 
 **Non-companion plants:**
-- Corn
-- Pumpkin
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Pumpkin](https://lanka.wiki/vegetables/pumpkin.html)
 - Squash
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 
 ## Description:
 Cabbage belong to the Brassicaceae (formerly Cruciferae), which is one of the most important families, for it includes the genus Brassica, the cabbage tribe. This contains a great variety of plants, most of which are very good to eat. They come in different colours. The Green Coronet is the varity released in Sri Lanka.

@@ -10,27 +10,27 @@
 **Nutrition value:** High in vitamins A, C, and manganese. One cup of pineapple provides 131% Daily value of vitamin C
 
 **Companion plants:**
-- Marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Basil
 - Nasturtiums
 - Mint
-- Garlic
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 - Oregano
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Groundnuts
-- Bananas
+- [Banana](https://lanka.wiki/fruit/bananas.html)
 - Coconut
-- Papaya
+- [Papaya](https://lanka.wiki/fruit/papaya.html)
 - Clover
 - Chives
-- Lemongrass
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
 
 **Non-companion plants:**
 - Cassava
-- Sweet Potato
+- [Sweet potato](https://lanka.wiki/roots/sweet-potato.html)
 - Walnut Trees
 - Eucalyptus
-- Brassicas (e.g., broccoli, cabbage, kale)
+- Brassicas (e.g., broccoli, [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html), kale)
 - Large Trees and Large Shrubs
 - Mexican petunia (Invasive Species)
 

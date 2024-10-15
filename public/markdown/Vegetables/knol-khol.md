@@ -10,19 +10,19 @@
 **Nutrition value:** High in vitamin C, potassium, magnesium, phosphorous, calcium, iron, and folate
 
 **Companion Plants:**
-- Marigolds
-- Cabbage
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
 - Curry Chili
-- Onions
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 - Herbs (e.g., dill, cilantro)
-- Legumes (e.g., beans, peas)
+- Legumes (e.g., [beans](https://lanka.wiki/vegetables/green-beans.html), peas)
 
 **Non-Companion Plants:**
 - Other Brassicaceae family members (e.g., broccoli, cauliflower)
 - Strawberries
-- Tomatoes
-- Eggplants
-- Sunflowers
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
 
 ## Description:
 Kohlrabi has been created by artificial selection for lateral meristem growth (a swollen, nearly spherical shape); its origin in nature is the same as that of cabbage, broccoli, cauliflower, kale, collard greens, and Brussels sprouts: they are all bred from, and are the same species as, the wild cabbage plant (Brassica oleracea).

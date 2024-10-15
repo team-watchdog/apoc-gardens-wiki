@@ -10,17 +10,16 @@
 **Nutrition value:** Rich in vitamin C. And 100g contains 53 calories on average
 
 **Companion plants:**
-- Marigold
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Flowers
 - Basil
 - Mint
 - Curry leaves
-- Lemongrass
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
 - Legumes
 
 **Non-companion plants:**
-
-- Avoid planting near potatoes, carrots and other deep-rooted plants tubers or root vegetables
+- Avoid planting near potatoes, [Carrots](https://lanka.wiki/roots/carrot.html) and other deep-rooted plants tubers or root vegetables
 - Space the mandarin orange plants so that they don't compete with each other
 - Avoid planting herbs with shallow roots close to the base of the mandarin orange
 

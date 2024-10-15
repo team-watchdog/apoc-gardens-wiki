@@ -50,7 +50,7 @@ Trees planted through direct seeding will bear fruit in about 3 years. Budded or
 Jambu does not require a curing stage.
 
 ## Storage:
-Store fruits in the refrigerator for up to 2 weeks. Avoid storing alongside ethylene-producing fruits like apples or bananas.
+Store fruits in the refrigerator for up to 2 weeks. Avoid storing alongside ethylene-producing fruits like apples or [bananas](https://lanka.wiki/fruit/bananas.html).
 
 ## Protecting your plants
 ### Pest control

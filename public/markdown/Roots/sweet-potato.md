@@ -12,20 +12,20 @@
 - Rich in fiber and on average contains 112 calories per sweet potato
 
 **Companion plants:**
-- Onions
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 - Chives
 - Spinach
-- Lettuce
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 - Beets
-- Radishes
-- Marigolds
-- Corn
-- Banana trees
+- [Radishes](https://lanka.wiki/roots/radish.html)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Banana](https://lanka.wiki/fruit/bananas.html) trees
 
 **Non-companion plants:** 
 - Squash
-- Sunflowers
-- Tomatoes
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Bush Beans
 
 ## Description:

@@ -10,23 +10,23 @@
 **Nutrition value:** It contains calcium, iron, magnesium, phosphorus, and potassium, and is also rich in vitamin C
 
 **Companion plants:** 
-- Corn
-- Cucumber
-- Eggplant
-- Radish
-- Marigold
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
+- [Radish](https://lanka.wiki/roots/radish.html)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Nasturtium
 - Summer savory
 - Rosemary
-- Potato
+- [Potato](https://lanka.wiki/roots/potato.html)
 - Chilies
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Squash
-- Lettuce
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 
 **Non-companion plants:**
-- Onion family plants (chives, leeks, garlic, and onions)
-- Sunflowers
+- Onion family plants (chives, [leeks](https://lanka.wiki/leafy%20greens/leeks.html), garlic, and onions)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
 
 ## Description:
 A variety of the cowpea, the yard long bean is grown primarily for its strikingly long 35 to 75 centimetres (1.15 to 2.46 ft) immature green pods and has uses very similar to those of the green bean. This plant is in a different genus from the common bean. The different colors of seeds usually distinguish the many varieties. It is a vigorous climbing annual vine. The plant is subtropical/tropical and most widely grown in the warmer parts of South Asia, Southeast Asia, and southern China. In Sri Lanka, yard long beans are commonly cultivated in home gardens and commercial farms across various climatic zones.

@@ -9,24 +9,24 @@
 **Edible parts:** Fruit
 **Nutrition value:** High in water content, rich in vitamins A and C, contains lycopene, an antioxidant beneficial for heart health and prostate cancer prevention
 **Companion Plants:**
-- Marigolds (Kadupul)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Nasturtiums
-- Radishes
-- Garlic
+- [Radishes](https://lanka.wiki/roots/radish.html)
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 - Mint
 - Borage
-- Cosmos
-- Sunflowers
+- [Cosmos](https://lanka.wiki/flowers/cosmos-flower.html)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
 - Bush Beans
 - Cowpeas (Karawila)
-- Corn
-- Lemongrass
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
 
 **Non-Companion Plants:**
-- Cucumber
-- Pumpkin
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Pumpkin](https://lanka.wiki/vegetables/pumpkin.html)
 - Squash
-- Potatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
 - Fennel
 
 ## Description:

@@ -10,17 +10,17 @@
 **Nutrition value:** Dragon fruit contains vitamin C, Calcium, Iron, and magnesium. On average 1 cup of serving contains 103 calories
 
 **Companion plants:**
-- Corn
+- [Corn](https://lanka.wiki/vegetables/corn.html)
 - Beans
-- Marigolds
-- Cucumbers
-- Basil
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 
 **Non-companion plants**
-- Potatoes
-- Tomatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Peppers
-- Carrots
+- [Carrots](https://lanka.wiki/roots/carrot.html)
 
 ## Description:
 Pitaya usually refers to the fruit of the genus Stenocereus, while pitahaya or dragon fruit refers to fruit of the genus Selenicereus (formerly Hylocereus), both in the family Cactaceae. The common name in English – dragon fruit – derives from the leather-like skin and scaly spikes on the fruit exterior. Depending on the variety, pitaya fruits may have sweet- or sour-tasting flesh that can be red, white, or yellow. 

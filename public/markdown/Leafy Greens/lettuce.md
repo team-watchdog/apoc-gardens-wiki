@@ -16,28 +16,28 @@
 - Calendula
 - Chamomile
 - Chives
-- Garlic
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 - Cilantro
-- Carrots
+- [Carrots](https://lanka.wiki/roots/carrot.html)
 - Dill
-- Marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Nasturtiums
-- Onions
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 - Shallots
 - Parsnips
 - Peas
-- Radishes
+- [Radishes](https://lanka.wiki/roots/radish.html)
 - Strawberries
 - Turnips
 - Asparagus
-- Corn
-- Cucumbers
-- Eggplant
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 - Spinach
-- Sunflowers
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
 
 **Non-companion plants:**
-- Cabbage family crops (broccoli, cauliflower, cabbage, brussels sprouts, kale, kohlrabi)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html) family crops (broccoli, [cauliflower](https://lanka.wiki/vegetables/cauliflower.html), cabbage, brussels sprouts, kale, kohlrabi)
 - Fennel
 - Celery
 - Parsley

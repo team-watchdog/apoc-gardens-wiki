@@ -9,15 +9,16 @@
 **Nutrition value:** Rich in antioxidants, low in calories, and a significant source of vitamin A
 
 **Companion plants:**
-- Corn
+- [Corn](https://lanka.wiki/vegetables/corn.html)
 - Sorghum
 - Legumes
-- Marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 
 **Non-companion plants:**
-- Other Cucurbitaceae family plants (e.g., cucumbers, squash, pumpkins, melons)
-- Tomatoes
-- Eggplants
+- Other Cucurbitaceae family plants (e.g., [cucumbers](https://lanka.wiki/vegetables/cucumber.html), squash, [pumpkins](https://lanka.wiki/vegetables/pumpkin.html), melons)
+
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 
 ## Description:
 Watakolu is a _cucurbitaceous_ vine that is commercially grown for its unripe fruits as a vegetable. Watakolu is related to cucumbers, squash, pumpkins, and melons. Its fruit slightly resembles a cucumber or zucchini with ridges, and can be steamed, stewed or curried. Raw watakolu tastes somewhere between cucumber and zucchini. Many fruits grow on a single vine. Mature fruits are used as natural cleaning sponges.

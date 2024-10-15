@@ -15,14 +15,14 @@
 - Mint
 - Celery
 - Chamomile
-- Corn
-- Garlic
-- Onion
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 
 **Non-companion plants:**
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Strawberry
-- Eggplant
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 - Tomato
 
 ## Description:

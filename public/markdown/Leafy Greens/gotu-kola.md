@@ -10,7 +10,7 @@
 **Nutrition value:** Contains vitamins B and C, proteins, and is high in antioxidants.
 
 **Companion plants:**
-- Lettuce
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 - Spinach
 - Chives
 - Nasturtium

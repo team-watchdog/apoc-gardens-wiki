@@ -10,20 +10,20 @@
 **Nutrition value:** High in iron, manganese, and potassium. Rich in antioxidants.
 
 **Companion plants:**
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Cilantro
-- Eggplant
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 - Fruit Trees
-- Ginger
-- Lemongrass
-- Onions
+- [Ginger](https://lanka.wiki/herbs%20&%20spices/ginger.html)
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 - Peas
 - Peppers
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Taller trees
 
 **Non-companion plants:**
-- Corn
+- [Corn](https://lanka.wiki/vegetables/corn.html)
 
 ## Description:
 Turmeric was initially cultivated as a dye due to its vivid yellow color. Currently, it is widely used as a key ingredient in Sri Lankan cuisine, Ayurvedic medicine, and traditional ceremonies.

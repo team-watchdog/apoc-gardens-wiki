@@ -15,20 +15,20 @@
 - Thyme
 - Mint
 - Lemon verbena
-- Gotukola
-- Marigolds
-- Ginger
-- Turmeric
+- [Gotukola](https://lanka.wiki/leafy%20greens/gotu-kola.html)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
+- [Ginger](https://lanka.wiki/herbs%20&%20spices/ginger.html)
+- [Turmeric](https://lanka.wiki/herbs%20&%20spices/turmeric.html)
 - Citrus trees
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Peppers
 
 **Non-companion plants**
 - Sage
 - Fennel
-- Cabbage Family (Brassicas)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html) Family (Brassicas)
 - Mint
-- Carrots
+- [Carrots](https://lanka.wiki/roots/carrot.html)
 
 ## Description:
 Lemongrass is a fragrant, lemony herb native to tropical climates. In Sri Lanka and other Asian cuisines, its stem is widely used in fish and meat dishes, while its leaves make a refreshing tea. It can be used fresh or dried and powdered. Beyond culinary uses, lemongrass serves as an attractive ornamental plant, growing up to 6 feet in height and width. Its natural pest-repellent properties make it a valuable addition to any garden.

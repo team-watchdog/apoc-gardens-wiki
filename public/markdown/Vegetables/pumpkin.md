@@ -10,14 +10,14 @@
 **Nutrition value:** Pumpkins are rich in vitamins and a good source of Iron, Copper, Manganese, Potassium
 
 **Companion plants:**
-- Sweet corn
-- Green beans
-- Radishes
-- Marigold
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Green beans](https://lanka.wiki/vegetables/green-beans.html)
+- [Radishes](https://lanka.wiki/roots/radish.html)
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 
 **Non-companion plants**
-- Potatoes
-- Sweet potatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
+- [Sweet potato](https://lanka.wiki/roots/sweet-potato.html)
 - Fennel
 
 ## Description:

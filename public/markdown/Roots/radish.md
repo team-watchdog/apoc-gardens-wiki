@@ -10,15 +10,15 @@
 **Nutrition value:** High in vitamins C, B6, Folate, Riboflavin, Niacin, Thiamine. Also rich in minerals Calcium, Potassium, Iron, and Manganese.
 
 **Companion plants:**
-- Other Brassicas (broccoli, turnips, cauliflower, cabbage, etc.)
+- Other Brassicas (broccoli, turnips, [cauliflower](https://lanka.wiki/vegetables/cauliflower.html), cabbage, etc.)
 - Dill
 - Parsnips
 - Pole Beans
 - Mint
 - Oregano
 - Borage
-- Eggplant
-- Tomatoes
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 
 **Non-companion plants:** 
 Not applicable

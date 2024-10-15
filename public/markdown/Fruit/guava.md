@@ -11,13 +11,13 @@
 **Companion plants:**
 - Citrus trees
 - Chives
-- Marigold
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Comfrey
 - Borage
 **Non-companion plants**
-- Cucumber
-- Eggplant
-- Potato
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
+- [Potato](https://lanka.wiki/roots/potato.html)
 
 ## Description:
 A small, shallow-rooted, evergreen tree or shrub, with smooth mottled bark, growing 8-10 m high. The fruit is rounded and 4 to 5 cm long. They are green but turn yellow when ripe. The outer covering is firm and encloses a pink or nearly white sweet-smelling edible pulp. This contains many seeds. In better selected varieties both the skin and the seeds are fully edible. Fruit varies from very acidic to very sweet. They grow wild and are also cultivated.

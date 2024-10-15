@@ -12,21 +12,21 @@
 
 **Companion Plants:**
 - Basil
-- Marigolds
-- Carrots
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
+- [Carrots](https://lanka.wiki/roots/carrot.html)
 - Chives
-- Garlic
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 - Parsley
 - Nasturtiums
 - Sweet Alyssum
 - Cilantro
-- Sunflowers
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
 
 **Non-Companion Plants:**
 - Potatoes
-- Cabbage and other brassicas
-- Corn
-- Eggplant
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html) and other brassicas
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 - Peppers
 
 ## Description:

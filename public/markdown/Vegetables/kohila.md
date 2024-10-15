@@ -9,7 +9,7 @@
 **Nutrition value:** Dietary fiber, vitamin A and C
 
 **Companion plants:**
-- Banana
+- [Banana](https://lanka.wiki/fruit/bananas.html)
 - Coconut
 
 **Non-Companion Plants:**

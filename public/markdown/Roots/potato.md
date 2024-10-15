@@ -10,21 +10,21 @@
 **Nutritional value:** Potatoes are a source of vitamin C, iron, riboflavin, potassium, and carbohydrates.
 
 **Companion plants:**
-- Marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Petunias
-- Coriander
+- [Coriander](https://lanka.wiki/herbs%20&%20spices/coriander.html)
 - Basil
-- Corn
-- Beans
-- Garlic
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 
 **Non-companion plants:**
 - Asparagus
 - Squash
 - Fennel
-- Sunflowers
-- Tomatoes
-- Cucumbers
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
 
 ## Description:
 Potatoes are generous plants and they easily grow and produce abundant harvests. They come in a variety of types, colors, and shapes. Though there are thousands of varieties of potatoes, only a few dozen are commercially available.

@@ -8,16 +8,16 @@
 **Plant family:** _Oleaceae_
 **Edible parts:** Not Applicable
 **Companion plants:**
-- Bananas trees
+- [Banana](https://lanka.wiki/fruit/bananas.html) trees
 - Citrus trees
 - Bamboo 
 - Rosemary 
-- Onions
-- Garlic
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 
 **Non-companion plants:** 
-- Tomatoes
-- Eggplants
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
 - Peppers
 - Mint
 

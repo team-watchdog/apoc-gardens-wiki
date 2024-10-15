@@ -13,14 +13,14 @@
 - Kaffir lime
 - Chili peppers
 - Cilantro
-- Lemongrass
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
 - Spinach
 - Turmeric
 
 **Non-companion plants:**
 - Walnut
-- Eggplant
-- Tomatoes
+- [Eggplant](https://lanka.wiki/vegetables/egg-plant.html)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 
 ## Description:
 Ginger is a perennial herb that is generally grown for its swollen underground stems, or rhizomes, which have a thickness of between 1.5 and 2.5cm. The plant grows to around 30-100cm in height, and in optimal conditions can grow to form clumps of around 1.5m x 1.5m. Ginger belongs to the same plant family as turmeric, cardamom, and galangal.

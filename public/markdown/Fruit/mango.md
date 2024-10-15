@@ -8,11 +8,11 @@
 **Edible parts:** Fruit
 **Nutrition value:** Nutrient-dense fruit high in Vitamin C, essential vitamins, minerals, and antioxidants.
 **Companion plants:** Mango trees are typically planted in isolation, but can be supplemented by:
-- Legumes ( beans, peas)
-- Bananas
+- Legumes ( [Beans](https://lanka.wiki/vegetables/green-beans.html), peas)
+- [Banana](https://lanka.wiki/fruit/bananas.html)
 - Cocoa
-- Ginger
-- Turmeric
+- [Ginger](https://lanka.wiki/herbs%20&%20spices/ginger.html)
+- [Turmeric](https://lanka.wiki/herbs%20&%20spices/turmeric.html)
 - Nasturtium
 - Comfrey
 

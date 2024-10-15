@@ -10,26 +10,26 @@
 **Nutrition value:** Green gram is rich in protein, fiber, vitamins (especially B complex vitamins), and minerals such as iron, magnesium, and potassium. It's low in fat and provides a good source of complex carbohydrates
 
 **Companion plants:** 
-- Carrots
-- Cabbage
+- [Carrots](https://lanka.wiki/roots/carrot.html)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
 - Brussel sprouts
 - Celery
 - Kale
 - Strawberries
 - Swiss chard
-- Tomatoes
-- Lettuce
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
 - Peas
-- Cauliflower
+- [Cauliflower](https://lanka.wiki/vegetables/cauliflower.html)
 - Parsley
 - Spinach
 - Savory
 
 **Non-companion plants:** 
 - Cowpeas
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Leguminous crops
-- Onions
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 
 ## Description:
 Green Gram is an upright hairy bean plant which can reach up to 1 m tall. The leaves have 3 leaflets and are dark green. The leaves are on long leaf stalks. There are oval stipules at the base of the leaf. It has small flowers that are pale yellow in colour and occur in bunches of 10–20 on the ends of long hairy stalks. The pods are black and straight. The pods contain 10– 20 seeds which are usually green or golden yellow. The colour of the beans can vary from green to black. They have a flat white hilum. There are approximately 2,000 varieties.

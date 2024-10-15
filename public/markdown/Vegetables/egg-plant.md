@@ -12,10 +12,10 @@
 **Companion plants:**
 Best Companion plants include peas and beans as these vegetables add nitrogen to the surrounding soil.
 - Peas
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Bush beans
 - Pepper
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Spinach
 
 **Non-companion plants**

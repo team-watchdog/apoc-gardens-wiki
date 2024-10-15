@@ -16,9 +16,9 @@
 - Yarrow
 - Strawberries
 - Bell Peppers
-- Jasmine
-- Garlic
-- Onions
+- [Jasmine](https://lanka.wiki/flowers/jasmine.html)
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
 
 **Non-companion plants**
 - Mint

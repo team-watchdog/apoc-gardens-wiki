@@ -10,9 +10,9 @@
 **Nutrition value:** Not applicable
 
 **Companion plants:**
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Legumes
-- Cucumbers
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
 - Squash
   
 **Non-companion plants**

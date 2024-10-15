@@ -9,14 +9,14 @@
 **Nutrition value:** Rich in vitamins A and C, potassium, calcium, iron, and phosphorus
 
 **Companion plants:**
-- Pineapple
+- [Pineapple](https://lanka.wiki/fruit/pineapple.html)
 - Citrus Trees
-- Papaya
-- Banana Plants
+- [Papaya](https://lanka.wiki/fruit/papaya.html)
+- [Banana](https://lanka.wiki/fruit/bananas.html) Plants
 - Taro
 
 **Non-companion plants**
-- Tomatoes (Nightshades)
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html) (Nightshades)
 - Peppers (Nightshades)
 - Ferns (High-Moisture Plants)
 - Herbs (Sun-Loving Plants)

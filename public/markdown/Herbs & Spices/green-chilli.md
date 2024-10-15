@@ -9,16 +9,16 @@
 **Edible parts:** Fruit
 **Nutrition value:** Rich in vitamins C and B6 and contains about 40 calories in 100g.
 **Companion plants:**
-- Onions
-- Leeks
-- Garlic
+- [Onions](https://lanka.wiki/herbs%20&%20spices/red-onion.html)
+- [Leeks](https://lanka.wiki/leafy%20greens/leeks.html)
+- [Garlic](https://lanka.wiki/herbs%20&%20spices/garlic.html)
 - Chives
 - Scallions
 - Shallots
 
 **Non-companion plants:**
-- Mustard
-- Cabbage
+- [Mustard](https://lanka.wiki/herbs%20&%20spices/mustard.html)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
 - Fennel
 
 ## Description:

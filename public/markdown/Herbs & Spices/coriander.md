@@ -13,8 +13,8 @@
 - Dill
 - Chervil
 - Anise
-- Cabbages
-- Carrots
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
+- [Carrots](https://lanka.wiki/roots/carrot.html)
   
 **Non-companion plants:**
 - Fennel

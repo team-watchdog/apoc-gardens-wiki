@@ -12,28 +12,28 @@
 **Edible parts:** Pulp and seeds
 **Nutrition value:** High in vitamins A and C, fiber, and antioxidants. It also contains minerals like potassium, magnesium, and iron.
 **Companion Plants:**
-- Marigold
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Basil
-- Lemongrass
-- Pineapple
-- Lime
+- [Lemongrass](https://lanka.wiki/herbs%20&%20spices/lemongrass.html)
+- [Pineapple](https://lanka.wiki/fruit/pineapple.html)
+- [Lime](https://lanka.wiki/fruit/lime.html)
 - Banana
-- Papaya
+- [Papaya](https://lanka.wiki/fruit/papaya.html)
 
 **Non-Companion Plants:**
-- Corn
+- [Corn](https://lanka.wiki/vegetables/corn.html)
 - Cowpea
 - Sorghum
-- Sweet Potatoes
-- Okra
+- [Sweet potato](https://lanka.wiki/roots/sweet-potato.html)
+- [Okra](https://lanka.wiki/vegetables/okra.html)
 - Cassava
 - Taro
 - Yam
 - Breadfruit
-- Jackfruit
-- Mango
+- [Jackfruit](https://lanka.wiki/fruit/jackfruit.html)
+- [Mango](https://lanka.wiki/fruit/mango.html)
 - Coconut
-- Guava
+- [Guava](https://lanka.wiki/fruit/guava.html)
 
 ## Description:
 Passion fruit is a climbing vine with large, three-lobed leaves, tendrils for climbing, and beautiful flowers. There are two main varieties of passion fruit. The fruit is either yellow or purple depending on the variety, round or oval in shape, with a smooth, thick, pithy rind, filled with sweet, aromatic pulp, juice, and seeds.

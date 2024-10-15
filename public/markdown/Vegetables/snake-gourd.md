@@ -10,11 +10,11 @@
 **Nutrition value:** Low in calories and rich in essential nutrients
 
 **Companion plants:**
-- Radishes
+- [Radishes](https://lanka.wiki/roots/radish.html)
 - Catnip
 - Broccoli
 - Dill
-- French marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 
 **Non-companion plants:**
 Not applicable
@@ -50,7 +50,7 @@ Harvest the crop 60-75 days after planting with a 4-day interval.
 Snake Gourd does not require a curing stage.
 
 ## Storage
-Snake gourd should be stored at 12-13°C with 85-90% humidity to extend its shelf life up to 2-3 weeks. Avoid temperatures below 10°C to prevent chilling damage. Keep the fruits away from ethylene-producing fruits like bananas and apples, and remove any damaged or deformed fruits.
+Snake gourd should be stored at 12-13°C with 85-90% humidity to extend its shelf life up to 2-3 weeks. Avoid temperatures below 10°C to prevent chilling damage. Keep the fruits away from ethylene-producing fruits like [Banana](https://lanka.wiki/fruit/bananas.html) and apples, and remove any damaged or deformed fruits.
 
 ## Protecting your plants
 ### Pest control

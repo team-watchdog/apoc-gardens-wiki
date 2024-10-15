@@ -11,20 +11,20 @@
 
 **Companion plants:** 
 - Nasturtiums
-- Marigolds
-- Beans
-- Corn
-- Radishes
-- Sunflowers
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Radishes](https://lanka.wiki/roots/radish.html)
+- [Sunflowers](https://lanka.wiki/flowers/sunflowers.html)
 - Oregano
 - Borage
 
 **Non-companion plants:** 
-- Cucumbers
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
 - Other Melons
-- Potatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
 - Fennel
-- Pumpkins
+- [Pumpkins](https://lanka.wiki/vegetables/pumpkin.html)
 - Squash
 - Honeysuckle
 

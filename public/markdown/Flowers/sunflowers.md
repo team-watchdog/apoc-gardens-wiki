@@ -10,22 +10,22 @@
 **Nutrition value:** Sunflower seeds are packed with protein, healthy fats, and antioxidants. They are also a great source of: Vitamin E, Vitamin B1, Vitamin B6, Iron, Copper, Selenium, Manganese, Zinc, Potassium
 
 **Companion plants:**
-- Cucumbers
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
 - Basil
-- Lettuce
-- Corn
-- Beans
+- [Lettuce](https://lanka.wiki/leafy%20greens/lettuce.html)
+- [Corn](https://lanka.wiki/vegetables/corn.html)
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Squash
 - Nasturtiums
-- Marigolds
+- [Marigolds](https://lanka.wiki/flowers/marigold.html)
 - Zinnias
-- Lavender
+- [Lavender](https://lanka.wiki/flowers/lavender.html)
 
 **Non-companion plants**
-- Potatoes
-- Cabbage family
+- [Potato](https://lanka.wiki/roots/potato.html)
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html) family
 - Strawberries
-- Spinash
+- [Spinash](https://lanka.wiki/leafy%20greens/malabar-spinach.html)
 
 ## Description:
 The sunflower (_Helianthus annuus_) is a vibrant and cheerful flower known for its striking golden-yellow petals and large, sunny center. It is primarily cultivated worldwide for oil extraction. Sunflowers can be grown from seeds and are available in various colors and sizes, typically reaching heights of about 6 feet, although some varieties can grow anywhere from 2 to 15 feet tall. Their impressive stature and bright appearance make them a popular choice for gardens, adding warmth and joy to any landscape.

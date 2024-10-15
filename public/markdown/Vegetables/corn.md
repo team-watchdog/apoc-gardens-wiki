@@ -10,11 +10,11 @@
 **Nutrition value:** sweet corn contains protein, fat, carbohydrates, fiber, sugars, and vitamin C
 
 **Companion plants:**
-- Potatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
 - Peas
-- Beans
-- Cucumbers
-- Pumpkins
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
+- [Pumpkins](https://lanka.wiki/vegetables/pumpkin.html)
 - Squash
   
 **Non-companion plants:**

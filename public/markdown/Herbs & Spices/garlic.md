@@ -11,18 +11,18 @@
 
 **Companion plants:**
 - Beets
-- Carrots
-- Cucumbers
+- [Carrots](https://lanka.wiki/roots/carrot.html)
+- [Cucumbers](https://lanka.wiki/vegetables/cucumber.html)
 - Dill
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
 - Parsnips
   
 **Non-companion plants**
 - Asparagus
-- Beans
+- [Beans](https://lanka.wiki/vegetables/green-beans.html)
 - Brassicas
 - Peas
-- Potatoes
+- [Potato](https://lanka.wiki/roots/potato.html)
 
 ## Description:
 Garlic is one of the most popular herbs in all forms of cooking, and there are dozens of varieties available. Garlic falls into two broad categories: hardneck (also known as "stiffneck") and softneck. This differentiation is based on whether or not the particular variety of garlic creates a flower stalk.

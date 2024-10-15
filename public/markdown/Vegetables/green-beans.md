@@ -12,22 +12,22 @@
 **Companion plants:**
 - Broccoli
 - Brussels sprouts
-- Cabbage
-- Carrots
-- Cauliflower
+- [Cabbage](https://lanka.wiki/leafy%20greens/cabbage.html)
+- [Carrots](https://lanka.wiki/roots/carrot.html)
+- [Cauliflower](https://lanka.wiki/vegetables/cauliflower.html)
 - Celery
 - kale
 - Peas
 - Squash
 - Strawberries
 - Swiss chard
-- Tomatoes
+- [Tomatoes](https://lanka.wiki/fruit/tomatoes.html)
   
 **Non-companion plants:**
 - Beets
-- Onion family
+- [Onion](https://lanka.wiki/herbs%20&%20spices/red-onion.html) family
 - Peppers
-- Okra
+- [Okra](https://lanka.wiki/vegetables/okra.html)
 
 ## Description:
 Green beans, also called "string beans" or "snap beans," are tender annuals. Though most green beans are indeed green, they also come in purple, red, yellow, and streaked varieties. Their growing style is classified as "bush" or "pole." Bush beans grow compactly while Pole beans grow as climbing vines. In Sri Lanka, both types are cultivated, with pole beans being particularly popular in home gardens.
