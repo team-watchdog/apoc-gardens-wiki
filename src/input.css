@@ -35,7 +35,7 @@
 	}
 
 	p {
-		@apply text-base text-secondary-900 font-body break-words;
+		@apply text-base text-secondary-900 font-body break-normal;
 	}
 
 	a {
@@ -70,7 +70,7 @@
 		@apply list-decimal pl-4;
 	}
 	li {
-		@apply text-secondary-900 text-base break-all;
+		@apply text-secondary-900 text-base;
 	}
 
 	iframe {
@@ -105,10 +105,6 @@
 
 	#header-section ul {
 		@apply bg-secondary-100 rounded-lg px-4 list-none capitalize;
-	}
-
-	#header-section ul li {
-		@apply break-words;
 	}
 
 	.crop-category {

@@ -672,7 +672,8 @@ h6 {
 }
 
 p {
-  overflow-wrap: break-word;
+  overflow-wrap: normal;
+  word-break: normal;
   font-family: Lato, sans-serif;
   font-size: 1rem;
   line-height: 1.5rem;
@@ -731,7 +732,6 @@ ol {
 }
 
 li {
-  word-break: break-all;
   font-size: 1rem;
   line-height: 1.5rem;
   --tw-text-opacity: 1;
@@ -843,10 +843,6 @@ iframe {
   padding-left: 1rem;
   padding-right: 1rem;
   text-transform: capitalize;
-}
-
-#header-section ul li {
-  overflow-wrap: break-word;
 }
 
 .crop-category {
