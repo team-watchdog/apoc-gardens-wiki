@@ -1497,6 +1497,10 @@ footer img {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#acknowledgement {
+  /* @apply container mx-auto p-4 bg-white rounded-xl; */
+}
+
 #apoc-banner {
   width: 100%;
   overflow: hidden;

@@ -357,6 +357,10 @@
 		@apply text-pretty antialiased leading-relaxed;
 	}
 
+	#acknowledgement {
+		/* @apply container mx-auto p-4 bg-white rounded-xl; */
+	}
+
 	#apoc-banner {
 		@apply rounded-xl overflow-hidden w-full;
 	}
