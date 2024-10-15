@@ -360,6 +360,23 @@ class WikiConverter {
 			<meta charset="UTF-8" />
 			<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 			<title>${wikiContent.title}</title>
+
+			<!-- Favicon Lanka Wiki -->
+			<link
+				rel="apple-touch-icon"
+				sizes="180x180"
+				href="${this.serverPrefix}/assets/icons/apple-touch-icon.png" />
+			<link
+				rel="icon"
+				type="image/png"
+				sizes="32x32"
+				href="${this.serverPrefix}/assets/icons/favicon-32x32.png" />
+			<link
+				rel="icon"
+				type="image/png"
+				sizes="16x16"
+				href="${this.serverPrefix}/assets/icons/favicon-16x16.png" />
+			<link rel="manifest" href="${this.serverPrefix}/site.webmanifest" />
 			<link href="${this.serverPrefix}/styles/output.css" rel="stylesheet" />
 
 			<!-- Font Awesome -->
