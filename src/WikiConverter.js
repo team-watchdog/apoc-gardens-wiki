@@ -435,7 +435,7 @@ class WikiConverter {
 			<!-- FOOTER SECTION -->
 			<footer>
 				<div class="footer-content">
-					<p>Powered by</p>
+					<p>Project by</p>
 					<a href="https://watchdog.team/" target="_blank" id="footer-logo">
 						<img src="/assets/icons/watchdog-logo.png" alt="Watchdog Logo" />
 					</a>

@@ -339,6 +339,36 @@
 	}
 
 	#introduction p {
-		@apply text-pretty mb-2 antialiased leading-relaxed;
+		@apply text-pretty mb-2 break-normal antialiased leading-relaxed;
+	}
+
+	.list{
+		@apply grid grid-cols-1 gap-2;
+	}
+
+	.list p {
+		@apply text-pretty mb-2 break-normal antialiased leading-relaxed;
+	}
+
+	#introduction li {
+		@apply text-pretty break-words antialiased leading-relaxed;
+	}
+
+	#apoc-banner {
+		@apply rounded-xl overflow-hidden w-full;
+	}
+
+	#difficulty-rating-image {
+		@apply rounded-lg h-auto;
+		@apply sm:w-full md:w-4/5 lg:w-3/4 xl:w-1/3;
+	}
+
+	#companion-image {
+		@apply rounded-lg h-auto md:clear-right;
+		@apply sm:w-full md:w-4/5 lg:w-3/4 xl:w-1/3;
+	}
+
+	#collab-logo {
+		@apply w-full aspect-[8/1] object-cover rounded-lg;
 	}
 }
