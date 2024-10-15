@@ -68,7 +68,7 @@ jobs:
         uses: actions/configure-pages@v5
         
       - name: Add CNAME file
-        run: echo "apoc-gardens.lanka.wiki" > ./public/CNAME
+        run: echo "lanka.wiki" > ./public/CNAME
 
       - name: Upload artifact to GitHub Pages
         uses: actions/upload-pages-artifact@v3
