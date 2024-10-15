@@ -672,6 +672,7 @@ h6 {
 }
 
 p {
+  overflow-wrap: break-word;
   font-family: Lato, sans-serif;
   font-size: 1rem;
   line-height: 1.5rem;
@@ -971,8 +972,8 @@ iframe {
 }
 
 .difficulty-item-container .overview {
-  cursor: pointer;
   padding: 1rem;
+  /* @apply collapsible; */
 }
 
 .difficulty-tag {
@@ -1071,12 +1072,16 @@ iframe {
   color: rgb(87 57 37 / var(--tw-text-opacity));
 }
 
+#non-companion-plants a {
+  --tw-text-opacity: 1;
+  color: rgb(127 85 57 / var(--tw-text-opacity));
+}
+
 .collapsible {
   cursor: pointer;
 }
 
 .content {
-  display: none;
   border-radius: 0.5rem;
   --tw-bg-opacity: 1;
   background-color: rgb(247 247 242 / var(--tw-bg-opacity));
@@ -1084,6 +1089,7 @@ iframe {
   transition-property: none;
   transition-duration: 200ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  /* @apply hidden; */
 }
 
 /** PROTECTING YOUR PLANTS **/

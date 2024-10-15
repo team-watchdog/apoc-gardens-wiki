@@ -35,7 +35,7 @@
 	}
 
 	p {
-		@apply text-base text-secondary-900 font-body;
+		@apply text-base text-secondary-900 font-body break-words;
 	}
 
 	a {
@@ -184,7 +184,8 @@
 	}
 
 	.difficulty-item-container .overview {
-		@apply collapsible p-4;
+		@apply p-4;
+		/* @apply collapsible; */
 	}
 
 	.difficulty-tag {
@@ -238,12 +239,16 @@
 	#non-companion-plants ul {
 		@apply text-secondary-800;
 	}
+	#non-companion-plants a {
+		@apply text-secondary-700;
+	}
 
 	.collapsible {
 		@apply cursor-pointer;
 	}
 	.content {
-		@apply hidden bg-secondary-100 rounded-lg p-4 transition-none duration-200 ease-in-out;
+		@apply bg-secondary-100 rounded-lg p-4 transition-none duration-200 ease-in-out;
+		/* @apply hidden; */
 	}
 
 	/** PROTECTING YOUR PLANTS **/

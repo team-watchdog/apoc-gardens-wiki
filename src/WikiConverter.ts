@@ -611,7 +611,7 @@ class WikiConverter {
 													.map(
 														(rating) => `
                             <div class="difficulty-item-container">
-                                <div class="overview collapsible">
+                                <div class="overview">
                                     <p class="font-bold">${rating.zone}</p>
                                     <p class="difficulty-tag">Difficulty:</p>
                                     <p class="stars">${this.createStarRating(
