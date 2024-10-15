@@ -1087,6 +1087,38 @@ iframe {
   color: rgb(3 7 18 / var(--tw-text-opacity));
 }
 
+footer {
+  position: sticky;
+  bottom: 0px;
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  --tw-bg-opacity: 1;
+  background-color: rgb(247 247 242 / var(--tw-bg-opacity));
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  text-align: center;
+  --tw-text-opacity: 1;
+  color: rgb(87 57 37 / var(--tw-text-opacity));
+}
+
+.footer-content {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+}
+
+footer p {
+  display: inline-block;
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+footer img {
+  margin-bottom: -0.25rem;
+  height: 1rem;
+}
+
 #sources {
   width: 100%;
 }
@@ -1470,6 +1502,8 @@ iframe {
 /** MAIN **/
 
 /** GENERAL INFORMATION **/
+
+/** FOOTER **/
 
 /** Sources **/
 

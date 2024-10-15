@@ -90,7 +90,7 @@
 	}
 
 	#header-section h2 {
-		@apply mb-2 ;
+		@apply mb-2;
 	}
 
 	#header-section button {
@@ -267,6 +267,26 @@
 	/** The disease / pest names **/
 	#protecting-plant-section ul strong {
 		@apply text-gray-950 font-normal mr-1;
+	}
+}
+
+/** FOOTER **/
+@layer components {
+	footer {
+		@apply bg-secondary-100 text-secondary-800 text-center py-1
+		sticky bottom-0 w-full flex justify-end;
+	}
+
+	.footer-content {
+		@apply flex items-baseline gap-1;
+	}
+
+	footer p {
+		@apply text-xs inline-block;
+	}
+
+	footer img {
+		@apply h-4 -mb-1;
 	}
 }
 

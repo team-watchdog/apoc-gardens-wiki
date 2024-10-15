@@ -390,6 +390,16 @@ class WikiConverter {
                 ${wikiContent.content.protectingYourPlants}
 			</section>
 			<br />
+			
+			<!-- FOOTER SECTION -->
+			<footer>
+				<div class="footer-content">
+					<p>Powered by</p>
+					<a href="https://watchdog.team/" target="_blank" id="footer-logo">
+						<img src="/assets/icons/watchdog-logo.png" alt="Watchdog Logo" />
+					</a>
+				</div>
+			</footer>
 		</article>
 
 		<!-- This is the general information section -->
