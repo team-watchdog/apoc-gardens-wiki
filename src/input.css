@@ -338,16 +338,23 @@
 		@apply text-pretty mb-2 break-normal antialiased leading-relaxed;
 	}
 
-	.list{
+	.list {
 		@apply grid grid-cols-1 gap-2;
 	}
 
 	.list p {
 		@apply text-pretty mb-2 break-normal antialiased leading-relaxed;
 	}
+	.usage-device-info {
+		@apply flex gap-2 items-center bg-secondary-100 px-4;
+	}
+
+	.usage-device-info i {
+		@apply text-primary-700 text-lg w-5 text-center;
+	}
 
 	#introduction li {
-		@apply text-pretty break-words antialiased leading-relaxed;
+		@apply text-pretty antialiased leading-relaxed;
 	}
 
 	#apoc-banner {
