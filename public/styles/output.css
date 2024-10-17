@@ -1255,6 +1255,10 @@ footer img {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#sources a {
+  word-break: break-all;
+}
+
 #first-principles {
   width: 100%;
 }

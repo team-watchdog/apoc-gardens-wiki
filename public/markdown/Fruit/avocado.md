@@ -160,6 +160,6 @@ Store ripe avocados in the refrigerator for up to three days. Unripe avocados ca
 - https://www.epicgardening.com/avocado-trees/
 - [Medical News Today](https://www.medicalnewstoday.com/articles/321543#eight-benefits-for-the-skin)
 - [Eating well](https://www.eatingwell.com/article/7825925/how-to-store-avocados/#:~:text=It's%20best%20to%20refrigerate%20an,produce%20drawer%20in%20the%20refrigerator.)
-- https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%A9%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%AF%E0%AF%8D%E0%AE%AF%E0%AE%BE
+- [Tamil Wikipedia](https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%A9%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%AF%E0%AF%8D%E0%AE%AF%E0%AE%BE)
 
 

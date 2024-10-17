@@ -305,6 +305,9 @@
 	#sources p {
 		@apply text-pretty mb-2 antialiased leading-relaxed;
 	}
+	#sources a {
+		@apply break-all;
+	}
 }
 
 /** First Principles **/
