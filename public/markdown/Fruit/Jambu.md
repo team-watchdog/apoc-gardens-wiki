@@ -1,4 +1,5 @@
 # Jambu
+
 ![Rose-Apple_Java-Apple_Jambu.jpeg](../../assets/images/Rose-Apple_Java-Apple_Jambu.jpeg "Image - Hafiz Issadeen, Flickr")
 
 ## General Information**
