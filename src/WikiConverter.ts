@@ -490,7 +490,7 @@ class WikiConverter {
 		return `
 			<section id="sources-section">
 				<h1>Sources</h1>
-				<p>In addition to our General List of Sources (link), we used these specific references: </p>
+				<p>In addition to our General List of Sources ([link](/sources.html)), we used these specific references: </p>
 				<div class="container">
 				${sourceSection}
 				</div>
