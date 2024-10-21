@@ -22,7 +22,7 @@
 - Pole beans
 
 ## Description:
-Corn is a tender, warm-season annual crop that produces ears of yellow, white, or bi-colored kernels. A long, frost-free growing season (60 to 100 frost-free days) is necessary to grow and harvest corn. It is a member of the grass family (_Poaceae_) and relies on wind to pollinate its flowers. This is the reason that corn is planted in blocks of short rows instead of long, single rows. There are several varieties of sweet corn. Corn plants can grow up to 6 feet tall and have long, narrow leaves. In Sri Lanka, corn is grown in various regions and is an important crop for both human consumption and animal feed.
+Corn is a tender, warm-season annual crop that produces ears of yellow, white, or bi-colored kernels. It is a member of the grass family (_Poaceae_) and relies on wind to pollinate its flowers. This is the reason that corn is planted in blocks of short rows instead of long, single rows. There are several varieties of sweet corn. Corn plants can grow up to 6 feet tall and have long, narrow leaves. In Sri Lanka, corn is grown in various regions and is an important crop for both human consumption and animal feed.
 
 ## Planting requirements
 **Planting season:**  October to January and April to August
@@ -36,7 +36,7 @@ Corn is a tender, warm-season annual crop that produces ears of yellow, white, o
 | Light| Plant in full sun (at least 6 to 8 hours of direct sunlight), consider providing some shade during peak heat hours for better pollination |
 
 ### Growing conditions:
-| Temperatures | Plant after the soil temperature reaches 15°C, daytime temperatures should ideally be between 20-30°C (68-86°F) |
+| Temperatures | Daytime temperatures should ideally be between 20-30°C (68-86°F) |
 |----|----|
 | Soil | As the roots are deep and widespread, the plant requires plenty of humus. A couple of inches (5 cm) of well-rotted manure dug well in a spit deep is ideal, consider using organic fertilizers for better growth |
 | Water | Corn plants are large and fast-growing vegetables and need regular feeding and watering. Increase watering as the crop grows, and apply liquid fertilizer every 2-3 weeks during the growing season |
