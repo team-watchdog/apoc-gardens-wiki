@@ -22,6 +22,8 @@
 ## Description:
 Cosmos are sun-loving plants with a long flowering season. These flowers come in different colours of pale pastels and whites through bright pink, crimson, orange, and other colours. They are ideal for flower beds filling the yard with open-faced blooms that can go on for months and months. There are several varieties of cosmos of which the most popular are _Cosmos bipinnatus_ (Garden Cosmos), _Cosmos sulphureus_ (Yellow Garden Cosmos) and _Cosmos atrosanguineus_ (Chocolate Cosmos).
 
+Cosmos is a hardy plant that grows even in poor soil conditions and attracts birds, bees and other pollinators. As such, it’s a great way to support your garden.
+
 ## Planting requirements
 **Planting season:** Year round
 
@@ -35,7 +37,7 @@ Cosmos are sun-loving plants with a long flowering season. These flowers come in
 | Fertiliser | Do not fertilize cosmos. Nutrient-rich soil produces plants that are weak-stemmed |
 
 ### Growing conditions:
-| Temperatures | Thrives in climate with temperatures between 20°C to 24°C. At temperatures above 27°C and below 16°C germination is reduced |
+| Temperatures | Thrives in climate with temperatures between 20°C to 24°C. At temperatures above 27°C and below 16°C germination is reduced, but will happen nonetheless if taken care of while germinating |
 |----|----|
 | Soil | Add to add mulch to the garden for moisture retention |
 | Water | Water regularly, but do not overwater |
@@ -103,8 +105,8 @@ Dry blooms in a well-ventilated area, away from sunlight, or use a food dryer. N
 - Ensure proper drainage to prevent waterlogging.
 - Use raised beds or add sand to improve drainage in heavy clay soils.
 
-### Low country dry zone (Difficulty: 5/10)
-**Explanation:** Cosmos require a soil temperature between 60 to 70°F (16 to 21°C) for germination. They can tolerate dry soil but prefer moist soil.
+### Low country dry zone (Difficulty: 4/10)
+**Explanation:** They can tolerate dry soil but prefer moist soil.
 **Challenges/Adaptations:**
 - Provide adequate watering during dry periods.
 - Use mulch to retain soil moisture and reduce water evaporation.
