@@ -33,6 +33,8 @@
 ## Description:
 Lavender is a flowering, drought-tolerant perennial shrub in the mint family, easily identified by its sweet floral scent. It is believed to be native to the Mediterranean, the Middle East, and India, with a history dating as far back as 2,500 years. While not native to Sri Lanka, it has been introduced and can be cultivated in certain regions of the country, primarily grown for its ornamental value and essential oil production.
 
+Lavender cultivation in tropical climates is valuable as it enhances biodiversity by attracting pollinators, aids in pest control, and can be grown on marginal lands without competing with food crops. Additionally, lavender supports local herbal medicine practices and promotes sustainable agriculture, making it a beneficial crop.
+
 ## Planting requirements
 **Planting season:** Late October to early December
 
