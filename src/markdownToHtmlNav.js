@@ -84,6 +84,12 @@ class MarkdownToHtmlNav {
 		<a class="home-link" href="${this.createAbsolutePath("first-principles.html")}">🌱 First Principles</a>
 
 		<a class="home-link" href="${this.createAbsolutePath("sources.html")}">🔎 Sources</a>
+
+		<a class="home-link" id="lanka-wiki-downloader" href="https://github.com/team-watchdog/apoc-gardens-wiki/releases/download/pdf/lanka-wiki-booklet.pdf">
+		📁 Download Booklet
+		</a>
+
+
 		</div>
 		<hr>
 		<br>
