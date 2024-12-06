@@ -8,6 +8,7 @@
 5. [Adding a New Crop](#adding-a-new-crop)
 6. [Submission Process](#submission-process)
 7. [Quality Guidelines](#quality-guidelines)
+8. [Self Hosting](#self-hosting)
 
 ## <a id="project-overview"></a>Project Overview
 This project aims to create a comprehensive database of crop and plant documentation for Sri Lankan climatic conditions, providing detailed information about various agricultural and horticultural species.
@@ -226,7 +227,7 @@ cd public/markdown
 - Be precise in botanical and agricultural descriptions
 - Consider multiple climate zones
 
-## Self Hosting
+## <a id="self-hosting"></a>Self Hosting
 In the case of self-hosting, the source code mentions scripts that can convert all the markdown files into the wiki format and store them as static HTML files. These static HTML files can be hosted in any hosting service, e.g. Github Pages (currently hosted in), Netlify, Google Cloud, etc.
 
 ### Running Scripts
