@@ -194,7 +194,7 @@ cd public/markdown
 2. **Stage Your Changes**
    ```bash
    # Add your new files
-   git add .
+   git add.
 
    # Commit with a clear message
    git commit -m "Add documentation for [Crop Name] in [Category]"
@@ -225,6 +225,33 @@ cd public/markdown
 - Include images with proper attribution
 - Be precise in botanical and agricultural descriptions
 - Consider multiple climate zones
+
+## Self Hosting
+In the case of self-hosting, the source code mentions scripts that can convert all the markdown files into the wiki format and store them as static HTML files. These static HTML files can be hosted in any hosting service, e.g. Github Pages (currently hosted in), Netlify, Google Cloud, etc.
+
+### Running Scripts
+If you change anything in the typescript code or tailwind file, run the following script to compile the code down to JavaScript and proper CSS.
+```bash
+npm run build
+```
+
+After running the compiler you run the script by running the following command
+```bash
+npm run start
+```
+This will create all the updated static pages that can be seen in the public folder. 
+
+### Hosting Locally
+To host the website locally to check if the changes are in place first install the npm package serve,
+```bash
+npm install --global serve
+```
+Then run the following command,
+```bash
+npm run serve
+```
+
+**Host the website by only uploading the public folder.**
 
 ## Contact
 For questions or clarifications, please [open an issue](https://github.com/team-watchdog/apoc-gardens-wiki/issues) in the repository. 
